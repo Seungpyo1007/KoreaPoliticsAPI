@@ -1,0 +1,14 @@
+.DS_Store
+dist/
+
+# Photos and documents stay out of git, even by accident.
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.heic
+*.pdf
+*.hwp
+*.hwpx
+*.zip
