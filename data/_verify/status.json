@@ -20,7 +20,7 @@
     "red": 0
   },
   "office": {
-    "green": 0,
+    "green": 254,
     "yellow": 0,
     "red": 0
   },
@@ -30,7 +30,7 @@
     "red": 0
   },
   "pledge": {
-    "green": 0,
+    "green": 254,
     "yellow": 0,
     "red": 0
   },
