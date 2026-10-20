@@ -12,3 +12,6 @@ dist/
 *.hwp
 *.hwpx
 *.zip
+
+# API keys for local fetch scripts
+.env

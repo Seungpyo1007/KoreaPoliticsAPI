@@ -9,6 +9,7 @@
     "type": { "$ref": "common.json#/$defs/office_type" },
     "name": { "$ref": "common.json#/$defs/text" },
     "sido": { "$ref": "common.json#/$defs/text" },
+    "seats": { "type": "integer", "minimum": 2 },
     "source_urls": { "$ref": "common.json#/$defs/source_urls" },
     "verified": { "$ref": "common.json#/$defs/verified" },
     "checked_at": { "$ref": "common.json#/$defs/checked_at" },
