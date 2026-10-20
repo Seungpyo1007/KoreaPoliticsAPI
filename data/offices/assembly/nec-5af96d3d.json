@@ -1,0 +1,12 @@
+{
+  "id": "nec-5af96d3d",
+  "type": "assembly",
+  "name": "의성군청송군영덕군울진군",
+  "sido": "경상북도",
+  "source_urls": [
+    "https://www.data.go.kr/data/15000897/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-19",
+  "note": "제22대 국회의원선거(20240410) 선거구"
+}

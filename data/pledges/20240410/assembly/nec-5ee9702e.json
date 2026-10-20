@@ -1,0 +1,68 @@
+{
+  "election_id": "20240410",
+  "office": "assembly/nec-5ee9702e",
+  "candidate": {
+    "name": "권영세",
+    "party_id": "gungminui-him",
+    "person_id": null,
+    "nec_huboid": "100152964"
+  },
+  "pledges": [
+    {
+      "id": "22-seoul-yongsan-01",
+      "title": "경부선, 경의중앙선 지하화 본격 추진",
+      "page": null
+    },
+    {
+      "id": "22-seoul-yongsan-02",
+      "title": "용산 GTX 시대 본격 개막",
+      "page": null
+    },
+    {
+      "id": "22-seoul-yongsan-03",
+      "title": "미래 교통 허브 용산",
+      "page": null
+    },
+    {
+      "id": "22-seoul-yongsan-04",
+      "title": "용산국제업무지구 일정 확정",
+      "page": null
+    },
+    {
+      "id": "22-seoul-yongsan-05",
+      "title": "공공 주도 부지 개발, 성공 확률 UP",
+      "page": null
+    },
+    {
+      "id": "22-seoul-yongsan-06",
+      "title": "새로운 대한민국의 랜드마크",
+      "page": null
+    },
+    {
+      "id": "22-seoul-yongsan-07",
+      "title": "첨단 기업 입주, 초일류 산업도시로",
+      "page": null
+    },
+    {
+      "id": "22-seoul-yongsan-08",
+      "title": "재개발 재건축, 확! 풀겠습니다",
+      "page": null
+    },
+    {
+      "id": "22-seoul-yongsan-09",
+      "title": "대한민국 센트럴파크 용산공원, 하루라도 빨리",
+      "page": null
+    },
+    {
+      "id": "22-seoul-yongsan-10",
+      "title": "품격 높은 문화관광 도시, 삶의 질 업그레이드",
+      "page": null
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20240410/PDF/PBINFO_PUB/1103/003_100152964_20240402_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-09-27",
+  "note": "제22대 국회의원선거 서울 용산구 당선인 권영세 (국민의힘). 책자형 선거공보 PDF 5–6쪽 「권영세 약속」 1–3 아래 굵은 소제목 10개(약속 1: 3개, 약속 2: 4개, 약속 3: 3개). 약속 1–3의 큰 제목은 구호라서 소제목을 공약 단위로 삼았다. PDF 7–8쪽의 동별 공약과 9–10쪽의 지난 성과는 넣지 않았다. 끝의 !와 장식 기호(↑)만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 분류(category)는 앱에 정해진 분류 체계가 없어 비워 두었다. 이행 여부는 판정하지 않았다(notJudged)."
+}

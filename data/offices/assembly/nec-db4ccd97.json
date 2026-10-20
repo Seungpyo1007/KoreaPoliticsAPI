@@ -1,0 +1,12 @@
+{
+  "id": "nec-db4ccd97",
+  "type": "assembly",
+  "name": "동해시태백시삼척시정선군",
+  "sido": "강원특별자치도",
+  "source_urls": [
+    "https://www.data.go.kr/data/15000897/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-19",
+  "note": "제22대 국회의원선거(20240410) 선거구"
+}
