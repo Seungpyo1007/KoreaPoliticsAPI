@@ -1,0 +1,12 @@
+{
+  "id": "nec-41ea4bd2",
+  "type": "assembly",
+  "name": "광산구을",
+  "sido": "광주광역시",
+  "source_urls": [
+    "https://www.data.go.kr/data/15000897/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-19",
+  "note": "제22대 국회의원선거(20240410) 선거구"
+}
