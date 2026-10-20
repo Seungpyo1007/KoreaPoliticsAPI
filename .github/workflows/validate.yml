@@ -1,0 +1,39 @@
+name: validate
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop, "release/**", "hotfix/**"]
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: 2.9.7
+
+      - name: Format and lint
+        run: deno fmt --check && deno lint
+
+      - name: Test
+        run: deno task test
+
+      # PRs check only the records they touch. Pushes check everything.
+      - name: Validate changed records
+        if: github.event_name == 'pull_request'
+        run: deno task validate --changed origin/${{ github.base_ref }}
+
+      - name: Validate all records
+        if: github.event_name == 'push'
+        run: deno task validate
