@@ -1,0 +1,56 @@
+{
+  "T1": [
+    "go.kr",
+    "korea.kr",
+    "theminjoo.kr",
+    "peoplepowerparty.kr",
+    "rebuildingkoreaparty.kr",
+    "jinboparty.com",
+    "reformparty.kr",
+    "basicincomeparty.kr",
+    "samindang.kr",
+    "justice21.org",
+    "saeminjoo.com",
+    "orp.or.kr",
+    "laborparty.kr",
+    "kgreens.org",
+    "makeourfuture.kr"
+  ],
+  "T2": [
+    "yna.co.kr",
+    "newsis.com",
+    "news1.kr",
+    "seoul.co.kr",
+    "chosun.com",
+    "joongang.co.kr",
+    "donga.com",
+    "hani.co.kr",
+    "khan.co.kr",
+    "hankookilbo.com",
+    "kmib.co.kr",
+    "munhwa.com",
+    "segye.com",
+    "kbs.co.kr",
+    "imbc.com",
+    "sbs.co.kr",
+    "ytn.co.kr",
+    "v.daum.net",
+    "n.news.naver.com",
+    "wikipedia.org"
+  ],
+  "T3": [
+    "blog.naver.com",
+    "tistory.com",
+    "brunch.co.kr"
+  ],
+  "banned": [
+    "namu.wiki",
+    "namu.moe",
+    "dcinside.com",
+    "fmkorea.com",
+    "theqoo.net",
+    "ruliweb.com",
+    "clien.net",
+    "mlbpark.donga.com"
+  ]
+}
