@@ -1,0 +1,13 @@
+{
+  "id": "proportional-22",
+  "type": "assembly",
+  "name": "비례대표",
+  "seats": 46,
+  "source_urls": [
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%A7%81%EC%84%A0%EA%B1%B0%EB%B2%95/%EC%A0%9C21%EC%A1%B0",
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21",
+  "note": "제22대 국회의원선거(20240410) 비례대표. 공직선거법 제21조 의원정수 지역구 254명, 비례대표 46명"
+}
