@@ -1,0 +1,41 @@
+name: links
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: 2.9.7
+
+      - name: Check source links
+        run: deno task links > dead.md
+
+      # One open issue holds the current list. It is closed once every link answers again.
+      - name: Update the issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TITLE: 죽은 출처 링크
+        run: |
+          open=$(gh issue list --state open --search "in:title $TITLE" --json number --jq '.[0].number // empty')
+          if [ -s dead.md ]; then
+            { echo "주간 링크 확인에서 응답이 없거나 오류가 난 주소임. 다 고치면 다음 확인 때 자동으로 닫힘."; echo; cat dead.md; } > body.md
+            if [ -n "$open" ]; then
+              gh issue edit "$open" --body-file body.md
+            else
+              gh issue create --title "$TITLE" --body-file body.md --label data --assignee Seungpyo1007
+            fi
+          elif [ -n "$open" ]; then
+            gh issue close "$open" --comment "이번 확인에서 실패한 주소 없음"
+          fi
