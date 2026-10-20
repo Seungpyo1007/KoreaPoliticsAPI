@@ -1,0 +1,22 @@
+{
+  "id": "gaehyeok-sindang",
+  "name": "개혁신당",
+  "predecessor": null,
+  "colors": [
+    {
+      "hex": "#FF7210",
+      "from": null,
+      "source_urls": [
+        "https://reformparty.kr/sub/logo"
+      ],
+      "checked_at": "2026-10-07",
+      "note": "오렌지 (Primary) #FF7210"
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000900/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "선관위 개표결과에 나오는 선거: 20240410"
+}

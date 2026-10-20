@@ -1,0 +1,22 @@
+{
+  "id": "gibon-sodeukdang",
+  "name": "기본소득당",
+  "predecessor": null,
+  "colors": [
+    {
+      "hex": "#00D2C3",
+      "from": null,
+      "source_urls": [
+        "https://basicincomeparty.kr/bikr/content/logo"
+      ],
+      "checked_at": "2026-10-07",
+      "note": "대표 색상 Basic Mint #00D2C3"
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000900/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "선관위 개표결과에 나오는 선거: 20200415"
+}
