@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 권리 침해·개인정보
+    url: https://github.com/Seungpyo1007/KoreaPoliticsAPI/blob/develop/README.md
+    about: 권리 침해나 개인정보 문제는 README에 적힌 메일로
