@@ -1,0 +1,22 @@
+{
+  "id": "miraedang",
+  "name": "미래당",
+  "predecessor": null,
+  "colors": [
+    {
+      "hex": "#1C1F87",
+      "from": null,
+      "source_urls": [
+        "https://www.makeourfuture.kr/about"
+      ],
+      "checked_at": "2026-10-07",
+      "note": "상징색 코발트 블루 #1C1F87 (2019-04 로고부터)"
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000900/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "선관위 개표결과에 나오는 선거: 20200415"
+}

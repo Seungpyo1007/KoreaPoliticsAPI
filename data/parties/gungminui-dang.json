@@ -1,0 +1,12 @@
+{
+  "id": "gungminui-dang",
+  "name": "국민의당",
+  "predecessor": null,
+  "colors": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000900/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "2016년 국민의당. 코드 출처 못 찾음. 선관위 개표결과에 나오는 선거: 20160413"
+}

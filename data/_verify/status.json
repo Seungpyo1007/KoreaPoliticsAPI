@@ -1,0 +1,42 @@
+{
+  "person": {
+    "green": 0,
+    "yellow": 0,
+    "red": 0
+  },
+  "photo": {
+    "green": 0,
+    "yellow": 0,
+    "red": 0
+  },
+  "party": {
+    "green": 53,
+    "yellow": 1,
+    "red": 0
+  },
+  "ruling_periods": {
+    "green": 0,
+    "yellow": 1,
+    "red": 0
+  },
+  "office": {
+    "green": 254,
+    "yellow": 0,
+    "red": 0
+  },
+  "term": {
+    "green": 0,
+    "yellow": 0,
+    "red": 0
+  },
+  "pledge": {
+    "green": 254,
+    "yellow": 0,
+    "red": 0
+  },
+  "tip": {
+    "green": 0,
+    "yellow": 0,
+    "red": 0
+  }
+}

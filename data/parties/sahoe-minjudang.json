@@ -1,0 +1,22 @@
+{
+  "id": "sahoe-minjudang",
+  "name": "사회민주당",
+  "predecessor": null,
+  "colors": [
+    {
+      "hex": "#F58400",
+      "from": null,
+      "source_urls": [
+        "https://www.samindang.kr/introduction/character"
+      ],
+      "checked_at": "2026-10-07",
+      "note": "주제색 제주감귤 #F58400"
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectAPIServicePage.do/OWSSC6001134T516707"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "22대 국회의원 현황에 나옴"
+}

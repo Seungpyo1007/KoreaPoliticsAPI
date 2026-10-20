@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/person.json",
+  "type": "object",
+  "required": ["id", "name", "birth_year", "external_ids", "career", "education", "source_urls", "verified", "checked_at"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z]+(-[a-z]+)+-[0-9]{4}(-[0-9]+)?$" },
+    "name": { "$ref": "common.json#/$defs/text" },
+    "birth_year": { "oneOf": [{ "type": "integer", "minimum": 1900, "maximum": 2100 }, { "type": "null" }] },
+    "external_ids": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "assembly_mona_cd": { "type": "string", "minLength": 1 },
+        "nec_huboids": { "type": "array", "items": { "type": "string", "pattern": "^[0-9]+$" }, "uniqueItems": true },
+        "wikidata_qid": { "type": "string", "pattern": "^Q[0-9]+$" }
+      }
+    },
+    "career": { "type": "array", "items": { "$ref": "#/$defs/entry" } },
+    "education": { "type": "array", "items": { "$ref": "#/$defs/entry" } },
+    "source_urls": { "$ref": "common.json#/$defs/source_urls" },
+    "verified": { "$ref": "common.json#/$defs/verified" },
+    "checked_at": { "$ref": "common.json#/$defs/checked_at" },
+    "note": { "$ref": "common.json#/$defs/note" },
+    "withdrawn": { "$ref": "common.json#/$defs/withdrawn" },
+    "withdrawn_reason": { "$ref": "common.json#/$defs/withdrawn_reason" }
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": ["text", "from", "to", "source_urls"],
+      "additionalProperties": false,
+      "properties": {
+        "text": { "$ref": "common.json#/$defs/text" },
+        "from": { "oneOf": [{ "$ref": "common.json#/$defs/date" }, { "type": "null" }] },
+        "to": { "oneOf": [{ "$ref": "common.json#/$defs/date" }, { "type": "null" }] },
+        "source_urls": { "$ref": "common.json#/$defs/source_urls" }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "deobureo-minjudang",
+  "name": "더불어민주당",
+  "predecessor": null,
+  "colors": [
+    {
+      "hex": "#003B95",
+      "from": null,
+      "source_urls": [
+        "https://theminjoo.kr/main/sub/introduce/logo.php"
+      ],
+      "checked_at": "2026-10-07",
+      "note": "2024-01 PI 깃발의 파랑. 로고 페이지 이미지는 CMYK C100 M83 Y0 K0만 적혀 있고, 같은 페이지에서 받는 PI 매뉴얼(logo.zip) 파랑 면의 RGB 채움값(0 0.233 0.586)을 hex로 옮김. 당이 hex를 글자로 공표한 적은 없음"
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000900/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "선관위 개표결과에 나오는 선거: 20160413, 20200415, 20240410"
+}

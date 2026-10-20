@@ -1,0 +1,38 @@
+name: release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: 2.9.7
+
+      # A tag must point at a commit already on main.
+      - name: Check the tag is on main
+        run: |
+          git fetch origin main
+          git merge-base --is-ancestor "$GITHUB_SHA" origin/main
+
+      - name: Validate
+        run: deno task validate
+
+      - name: Dump
+        run: deno task dump "$GITHUB_REF_NAME"
+
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" dist/*.json \
+            --title "$GITHUB_REF_NAME" \
+            --notes "Data snapshot $GITHUB_REF_NAME. File checksums are in manifest.json."

@@ -1,0 +1,12 @@
+{
+  "id": "nec-e994db31",
+  "type": "assembly",
+  "name": "포항시남구울릉군",
+  "sido": "경상북도",
+  "source_urls": [
+    "https://www.data.go.kr/data/15000897/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-19",
+  "note": "제22대 국회의원선거(20240410) 선거구"
+}

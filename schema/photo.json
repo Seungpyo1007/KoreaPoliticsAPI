@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/photo.json",
+  "type": "object",
+  "required": ["person_id", "source_url", "license", "attribution", "source_urls", "checked_at"],
+  "additionalProperties": false,
+  "properties": {
+    "person_id": { "$ref": "person.json#/properties/id" },
+    "source_url": { "$ref": "common.json#/$defs/url" },
+    "license": { "enum": ["unconfirmed", "kogl-1", "permitted"] },
+    "attribution": { "$ref": "common.json#/$defs/text" },
+    "decision": { "type": "string" },
+    "source_urls": { "$ref": "common.json#/$defs/source_urls" },
+    "verified": { "$ref": "common.json#/$defs/verified" },
+    "checked_at": { "$ref": "common.json#/$defs/checked_at" },
+    "note": { "$ref": "common.json#/$defs/note" },
+    "withdrawn": { "$ref": "common.json#/$defs/withdrawn" },
+    "withdrawn_reason": { "$ref": "common.json#/$defs/withdrawn_reason" }
+  }
+}
