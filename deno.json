@@ -2,6 +2,7 @@
   "tasks": {
     "validate": "deno run --allow-read --allow-run=git scripts/validate.ts",
     "status": "deno run --allow-read --allow-write=data/_verify --allow-run=git scripts/validate.ts --write-status",
+    "links": "deno run --allow-read=data --allow-net scripts/links.ts",
     "test": "deno test --allow-read scripts/",
     "ci": "deno fmt --check && deno lint && deno task test && deno task validate"
   },
