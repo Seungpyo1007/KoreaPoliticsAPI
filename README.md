@@ -47,7 +47,7 @@ scripts/     검증기
 
 ## 쓰는 법
 
-지금은 `data/`를 그대로 읽으면 됨. 날짜 태그(`vYYYY.MM.DD`) 릴리스에 타입별 묶음 파일을 붙이는 건 준비 중임.
+날짜 태그(`vYYYY.MM.DD`) 릴리스마다 타입별 JSON 배열과 `manifest.json`(파일별 sha256)을 붙임. Releases에서 받으면 됨. 개발 중인 최신 상태는 `develop`의 `data/`에 있음.
 
 ## 라이선스
 
