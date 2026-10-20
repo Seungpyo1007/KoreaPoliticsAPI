@@ -1,0 +1,78 @@
+{
+  "election_id": "20240410",
+  "office": "assembly/nec-44094724",
+  "candidate": {
+    "name": "송석준",
+    "party_id": "gungminui-him",
+    "person_id": null,
+    "nec_huboid": "100152824"
+  },
+  "pledges": [
+    {
+      "id": "22-gyeonggi-icheon-01",
+      "title": "의료격차 해소 및 안전 대폭 강화",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-02",
+      "title": "결혼·출산·양육 전폭 지원",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-03",
+      "title": "교육환경 혁신과 업그레이드",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-04",
+      "title": "2기 신도시급 도로망과 고속철도 조기완공",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-05",
+      "title": "수도권과 지방의 상생발전 규제개혁",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-06",
+      "title": "맞춤형 복지 및 각종 사회적 지원",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-07",
+      "title": "소상공인·자영업자 적극 지원",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-08",
+      "title": "참전용사와 유공자 예우강화, 부대장병과 가족 생활개선",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-09",
+      "title": "이천시를 반도체, R&D, 신산업의 메카로 도약",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-10",
+      "title": "문화·체육시설 확충과 관광산업 체계적 육성",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-11",
+      "title": "농축산·과수·인삼·화훼·채소농가 지원강화",
+      "page": null
+    },
+    {
+      "id": "22-gyeonggi-icheon-12",
+      "title": "주택·공원 등 생활형SOC 확충과 정비로 명품도시화",
+      "page": null
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20240410/PDF/PBINFO_PUB/4134/003_100152824_20240402_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-09-28",
+  "note": "제22대 국회의원선거 경기 이천시 당선인 송석준 (국민의힘). 책자형 선거공보 PDF 7–8쪽(인쇄 8–9쪽) 「이천발전을 위한 송석준의 약속!」 1–12. 각 번호 아래 ● 세부 항목은 넣지 않았다. PDF 5–6쪽은 지난 8년 실적이라, PDF 9–10쪽 「송석준의 읍·면·동 약속!」은 동네별 공약이라 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 분류(category)는 앱에 정해진 분류 체계가 없어 비워 두었다. 이행 여부는 판정하지 않았다(notJudged)."
+}
