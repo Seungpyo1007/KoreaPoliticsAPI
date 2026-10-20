@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/tip.json",
+  "type": "object",
+  "required": ["id", "kind", "title", "text", "source_urls", "verified", "checked_at"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "$ref": "common.json#/$defs/id" },
+    "kind": { "enum": ["term", "loading"] },
+    "title": { "$ref": "common.json#/$defs/text" },
+    "text": { "$ref": "common.json#/$defs/text" },
+    "source_urls": { "$ref": "common.json#/$defs/source_urls" },
+    "verified": { "$ref": "common.json#/$defs/verified" },
+    "checked_at": { "$ref": "common.json#/$defs/checked_at" },
+    "note": { "$ref": "common.json#/$defs/note" },
+    "withdrawn": { "$ref": "common.json#/$defs/withdrawn" },
+    "withdrawn_reason": { "$ref": "common.json#/$defs/withdrawn_reason" }
+  }
+}

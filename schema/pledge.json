@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/pledge.json",
+  "type": "object",
+  "required": ["election_id", "office", "candidate", "pledges", "source_urls", "verified", "checked_at"],
+  "additionalProperties": false,
+  "properties": {
+    "election_id": { "$ref": "common.json#/$defs/election_id" },
+    "office": { "$ref": "common.json#/$defs/office_ref" },
+    "candidate": {
+      "type": "object",
+      "required": ["name", "party_id", "person_id"],
+      "additionalProperties": false,
+      "properties": {
+        "name": { "$ref": "common.json#/$defs/text" },
+        "party_id": { "oneOf": [{ "$ref": "common.json#/$defs/id" }, { "type": "null" }] },
+        "person_id": { "oneOf": [{ "$ref": "person.json#/properties/id" }, { "type": "null" }] },
+        "nec_huboid": { "type": "string", "pattern": "^[0-9]+$" }
+      }
+    },
+    "pledges": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "page"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "$ref": "common.json#/$defs/id" },
+          "title": { "$ref": "common.json#/$defs/text" },
+          "page": { "oneOf": [{ "type": "integer", "minimum": 1 }, { "type": "null" }] }
+        }
+      }
+    },
+    "source_urls": { "$ref": "common.json#/$defs/source_urls" },
+    "verified": { "$ref": "common.json#/$defs/verified" },
+    "checked_at": { "$ref": "common.json#/$defs/checked_at" },
+    "note": { "$ref": "common.json#/$defs/note" },
+    "withdrawn": { "$ref": "common.json#/$defs/withdrawn" },
+    "withdrawn_reason": { "$ref": "common.json#/$defs/withdrawn_reason" }
+  }
+}

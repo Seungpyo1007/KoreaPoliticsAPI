@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/term.json",
+  "type": "object",
+  "required": ["office", "person_id", "party_id", "starts_on", "ends_on", "how", "election_id", "source_urls", "verified", "checked_at"],
+  "additionalProperties": false,
+  "properties": {
+    "office": { "$ref": "common.json#/$defs/office_ref" },
+    "person_id": { "$ref": "person.json#/properties/id" },
+    "party_id": { "oneOf": [{ "$ref": "common.json#/$defs/id" }, { "type": "null" }] },
+    "starts_on": { "$ref": "common.json#/$defs/date" },
+    "ends_on": { "oneOf": [{ "$ref": "common.json#/$defs/date" }, { "type": "null" }] },
+    "how": { "enum": ["elected", "by-election", "appointed", "acting"] },
+    "election_id": { "oneOf": [{ "$ref": "common.json#/$defs/election_id" }, { "type": "null" }] },
+    "source_urls": { "$ref": "common.json#/$defs/source_urls" },
+    "verified": { "$ref": "common.json#/$defs/verified" },
+    "checked_at": { "$ref": "common.json#/$defs/checked_at" },
+    "note": { "$ref": "common.json#/$defs/note" },
+    "withdrawn": { "$ref": "common.json#/$defs/withdrawn" },
+    "withdrawn_reason": { "$ref": "common.json#/$defs/withdrawn_reason" }
+  }
+}

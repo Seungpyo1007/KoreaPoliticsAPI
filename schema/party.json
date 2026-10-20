@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/party.json",
+  "type": "object",
+  "required": ["id", "name", "predecessor", "colors", "source_urls", "verified", "checked_at"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "$ref": "common.json#/$defs/id" },
+    "name": { "$ref": "common.json#/$defs/text" },
+    "predecessor": { "oneOf": [{ "$ref": "common.json#/$defs/id" }, { "type": "null" }] },
+    "colors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["hex", "from", "source_urls", "checked_at"],
+        "additionalProperties": false,
+        "properties": {
+          "hex": { "type": "string", "pattern": "^#[0-9A-F]{6}$" },
+          "from": { "oneOf": [{ "$ref": "common.json#/$defs/date" }, { "type": "null" }] },
+          "source_urls": { "$ref": "common.json#/$defs/source_urls" },
+          "checked_at": { "$ref": "common.json#/$defs/checked_at" },
+          "note": { "$ref": "common.json#/$defs/note" }
+        }
+      }
+    },
+    "source_urls": { "$ref": "common.json#/$defs/source_urls" },
+    "verified": { "$ref": "common.json#/$defs/verified" },
+    "checked_at": { "$ref": "common.json#/$defs/checked_at" },
+    "note": { "$ref": "common.json#/$defs/note" },
+    "withdrawn": { "$ref": "common.json#/$defs/withdrawn" },
+    "withdrawn_reason": { "$ref": "common.json#/$defs/withdrawn_reason" }
+  }
+}
