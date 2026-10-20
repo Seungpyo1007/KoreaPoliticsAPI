@@ -1,0 +1,22 @@
+{
+  "id": "jeonguidang",
+  "name": "정의당",
+  "predecessor": null,
+  "colors": [
+    {
+      "hex": "#FFED00",
+      "from": null,
+      "source_urls": [
+        "https://www.justice21.org/newhome/about/info021.html"
+      ],
+      "checked_at": "2026-10-07",
+      "note": "주색상 너랑노랑 #FFED00"
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000900/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "선관위 개표결과에 나오는 선거: 20160413, 20200415"
+}

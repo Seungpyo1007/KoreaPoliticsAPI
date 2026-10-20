@@ -1,0 +1,22 @@
+{
+  "id": "joguk-hyeoksindang",
+  "name": "조국혁신당",
+  "predecessor": null,
+  "colors": [
+    {
+      "hex": "#0073CF",
+      "from": null,
+      "source_urls": [
+        "https://rebuildingkoreaparty.kr/about/symbol"
+      ],
+      "checked_at": "2026-10-07",
+      "note": "트루블루 #0073CF"
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectAPIServicePage.do/OWSSC6001134T516707"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "22대 국회의원 현황에 나옴"
+}

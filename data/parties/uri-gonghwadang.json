@@ -1,0 +1,22 @@
+{
+  "id": "uri-gonghwadang",
+  "name": "우리공화당",
+  "predecessor": null,
+  "colors": [
+    {
+      "hex": "#009944",
+      "from": null,
+      "source_urls": [
+        "http://orp.or.kr/main/sub_menu/sub_01_ci_guide2.php"
+      ],
+      "checked_at": "2026-10-07",
+      "note": "CI 가이드의 초록 C100 M0 Y100 K0을 인쇄 프로파일(Japan Color 2001 Coated) 기준으로 hex로 옮김"
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000900/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "선관위 개표결과에 나오는 선거: 20200415, 20240410"
+}

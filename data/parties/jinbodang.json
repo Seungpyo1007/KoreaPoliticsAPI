@@ -1,0 +1,22 @@
+{
+  "id": "jinbodang",
+  "name": "진보당",
+  "predecessor": null,
+  "colors": [
+    {
+      "hex": "#D6001C",
+      "from": null,
+      "source_urls": [
+        "https://jinboparty.com/pages/?p=9"
+      ],
+      "checked_at": "2026-10-07",
+      "note": "색상 규정 표의 값(PANTONE 2035C). 같은 페이지 본문에는 #E60020도 나옴"
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000900/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "선관위 개표결과에 나오는 선거: 20240410"
+}

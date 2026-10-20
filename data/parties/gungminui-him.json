@@ -1,0 +1,22 @@
+{
+  "id": "gungminui-him",
+  "name": "국민의힘",
+  "predecessor": null,
+  "colors": [
+    {
+      "hex": "#E61E2B",
+      "from": null,
+      "source_urls": [
+        "https://www.peoplepowerparty.kr/about/logo"
+      ],
+      "checked_at": "2026-10-07",
+      "note": "주조색 PANTONE 1795 C #E61E2B"
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000900/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-07",
+  "note": "선관위 개표결과에 나오는 선거: 20240410"
+}

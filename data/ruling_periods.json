@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-07",
+  "periods": [
+    {
+      "starts_on": "2013-02-25",
+      "ends_on": "2017-02-13",
+      "party_id": "saenuridang",
+      "president": "박근혜",
+      "source_urls": [
+        "https://www.pa.go.kr/online_contents/inauguration/president18.jsp"
+      ],
+      "note": "2016-12-09 탄핵소추 의결로 직무정지. 직무정지 중에도 대통령이므로 여당 유지"
+    },
+    {
+      "starts_on": "2017-02-13",
+      "ends_on": "2017-03-10",
+      "party_id": "jayu-hangukdang",
+      "president": "박근혜",
+      "source_urls": [
+        "https://www.seoul.co.kr/news/politics/2017/02/13/20170213800004"
+      ],
+      "note": "2017-02-13 새누리당이 자유한국당으로 당명 변경 (선관위 신고 02-14). 직무정지 중"
+    },
+    {
+      "starts_on": "2017-03-10",
+      "ends_on": "2017-05-10",
+      "party_id": null,
+      "president": "황교안 (대통령 권한대행)",
+      "acting": true,
+      "source_urls": [
+        "https://www.seoul.co.kr/news/politics/2017/03/10/20170310800093"
+      ],
+      "note": "2017-03-10 헌법재판소 파면 결정으로 궐위. 대통령이 없어 여당 없음. 당시 보도도 「여당 없는 야 5당 체제」로 봄"
+    },
+    {
+      "starts_on": "2017-05-10",
+      "ends_on": "2022-05-10",
+      "party_id": "deobureo-minjudang",
+      "president": "문재인",
+      "source_urls": [
+        "https://www.seoul.co.kr/news/politics/2017/05/10/20170510800007"
+      ],
+      "note": "2017-05-10 08:09 선관위 당선 결정으로 임기 시작, 2022-05-09 24시 임기 만료"
+    },
+    {
+      "starts_on": "2022-05-10",
+      "ends_on": "2025-04-04",
+      "party_id": "gungminui-him",
+      "president": "윤석열",
+      "source_urls": [
+        "https://www.pa.go.kr/online_contents/inauguration/president20.jsp"
+      ],
+      "note": "2024-12-14 탄핵소추 의결로 직무정지. 직무정지 중에도 대통령이므로 여당 유지"
+    },
+    {
+      "starts_on": "2025-04-04",
+      "ends_on": "2025-06-04",
+      "party_id": null,
+      "president": "한덕수, 이주호 (대통령 권한대행)",
+      "acting": true,
+      "source_urls": [
+        "https://v.daum.net/v/20250404170046206"
+      ],
+      "note": "2025-04-04 헌법재판소 파면 결정으로 궐위. 대통령이 없어 여당 없음. 한덕수가 05-01 사퇴, 이주호가 05-02부터 대행"
+    },
+    {
+      "starts_on": "2025-06-04",
+      "ends_on": null,
+      "party_id": "deobureo-minjudang",
+      "president": "이재명",
+      "source_urls": [
+        "https://www.korea.kr/news/policyNewsView.do?newsId=148943945"
+      ],
+      "note": "2025-06-04 06:21 선관위 당선 결정으로 임기 시작"
+    }
+  ]
+}
