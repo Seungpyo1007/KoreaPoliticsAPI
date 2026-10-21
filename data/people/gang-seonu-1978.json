@@ -1,0 +1,18 @@
+{
+  "id": "gang-seonu-1978",
+  "name": "강선우",
+  "birth_year": 1978,
+  "external_ids": {
+    "assembly_mona_cd": "MNZ4401T",
+    "nec_huboids": [
+      "100152702"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

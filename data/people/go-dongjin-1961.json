@@ -1,0 +1,18 @@
+{
+  "id": "go-dongjin-1961",
+  "name": "고동진",
+  "birth_year": 1961,
+  "external_ids": {
+    "assembly_mona_cd": "HS39431V",
+    "nec_huboids": [
+      "100153038"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

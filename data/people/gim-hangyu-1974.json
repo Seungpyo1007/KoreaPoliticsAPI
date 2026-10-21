@@ -1,0 +1,18 @@
+{
+  "id": "gim-hangyu-1974",
+  "name": "김한규",
+  "birth_year": 1974,
+  "external_ids": {
+    "assembly_mona_cd": "NUB4941Z",
+    "nec_huboids": [
+      "100152882"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

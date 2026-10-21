@@ -1,0 +1,18 @@
+{
+  "id": "i-yeonhui-1966",
+  "name": "이연희",
+  "birth_year": 1966,
+  "external_ids": {
+    "assembly_mona_cd": "EBH1101V",
+    "nec_huboids": [
+      "100152498"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

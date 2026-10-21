@@ -1,0 +1,18 @@
+{
+  "id": "jang-gyeongtae-1983",
+  "name": "장경태",
+  "birth_year": 1983,
+  "external_ids": {
+    "assembly_mona_cd": "RPN2293B",
+    "nec_huboids": [
+      "100152721"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

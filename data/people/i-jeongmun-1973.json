@@ -1,0 +1,18 @@
+{
+  "id": "i-jeongmun-1973",
+  "name": "이정문",
+  "birth_year": 1973,
+  "external_ids": {
+    "assembly_mona_cd": "O0I2045I",
+    "nec_huboids": [
+      "100152586"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

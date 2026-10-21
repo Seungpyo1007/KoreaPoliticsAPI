@@ -1,0 +1,18 @@
+{
+  "id": "jo-jiyeon-1987",
+  "name": "조지연",
+  "birth_year": 1987,
+  "external_ids": {
+    "assembly_mona_cd": "3NI5978A",
+    "nec_huboids": [
+      "100151712"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

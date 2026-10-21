@@ -1,0 +1,18 @@
+{
+  "id": "i-hungi-1965",
+  "name": "이훈기",
+  "birth_year": 1965,
+  "external_ids": {
+    "assembly_mona_cd": "2S73768V",
+    "nec_huboids": [
+      "100152914"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gim-donga-1987",
+  "name": "김동아",
+  "birth_year": 1987,
+  "external_ids": {
+    "assembly_mona_cd": "MIS62075",
+    "nec_huboids": [
+      "100152931"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

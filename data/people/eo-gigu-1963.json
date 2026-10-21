@@ -1,0 +1,18 @@
+{
+  "id": "eo-gigu-1963",
+  "name": "어기구",
+  "birth_year": 1963,
+  "external_ids": {
+    "assembly_mona_cd": "8FB1535Y",
+    "nec_huboids": [
+      "100152484"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

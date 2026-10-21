@@ -1,0 +1,18 @@
+{
+  "id": "sin-donguk-1967",
+  "name": "신동욱",
+  "birth_year": 1967,
+  "external_ids": {
+    "assembly_mona_cd": "OWD1018N",
+    "nec_huboids": [
+      "100152991"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

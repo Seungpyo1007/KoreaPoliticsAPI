@@ -1,0 +1,18 @@
+{
+  "id": "gim-jeongjae-1966",
+  "name": "김정재",
+  "birth_year": 1966,
+  "external_ids": {
+    "assembly_mona_cd": "E1J8836Y",
+    "nec_huboids": [
+      "100152560"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gim-miae-1969",
+  "name": "김미애",
+  "birth_year": 1969,
+  "external_ids": {
+    "assembly_mona_cd": "3BC6890E",
+    "nec_huboids": [
+      "100152781"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

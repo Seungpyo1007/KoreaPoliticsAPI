@@ -1,0 +1,18 @@
+{
+  "id": "gang-seonyeong-1966",
+  "name": "강선영",
+  "birth_year": 1966,
+  "external_ids": {
+    "assembly_mona_cd": "NQO7187X",
+    "nec_huboids": [
+      "100153283"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "i-junseok-1985",
+  "name": "이준석",
+  "birth_year": 1985,
+  "external_ids": {
+    "assembly_mona_cd": "QWL7778X",
+    "nec_huboids": [
+      "100152972"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

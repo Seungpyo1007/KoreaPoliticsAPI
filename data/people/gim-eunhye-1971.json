@@ -1,0 +1,18 @@
+{
+  "id": "gim-eunhye-1971",
+  "name": "김은혜",
+  "birth_year": 1971,
+  "external_ids": {
+    "assembly_mona_cd": "L5P27909",
+    "nec_huboids": [
+      "100152313"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

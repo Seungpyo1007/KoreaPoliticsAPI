@@ -1,0 +1,18 @@
+{
+  "id": "cha-jiho-1980",
+  "name": "차지호",
+  "birth_year": 1980,
+  "external_ids": {
+    "assembly_mona_cd": "RC885085",
+    "nec_huboids": [
+      "100152999"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

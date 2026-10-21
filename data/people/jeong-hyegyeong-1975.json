@@ -1,0 +1,18 @@
+{
+  "id": "jeong-hyegyeong-1975",
+  "name": "정혜경",
+  "birth_year": 1975,
+  "external_ids": {
+    "assembly_mona_cd": "BNV6535N",
+    "nec_huboids": [
+      "100153245"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

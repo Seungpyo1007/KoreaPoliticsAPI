@@ -1,0 +1,18 @@
+{
+  "id": "gim-namjun-1979",
+  "name": "김남준",
+  "birth_year": 1979,
+  "external_ids": {
+    "assembly_mona_cd": "SKP6181Y",
+    "nec_huboids": [
+      "100162872"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

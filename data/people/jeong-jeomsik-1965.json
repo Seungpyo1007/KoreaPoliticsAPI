@@ -1,0 +1,18 @@
+{
+  "id": "jeong-jeomsik-1965",
+  "name": "정점식",
+  "birth_year": 1965,
+  "external_ids": {
+    "assembly_mona_cd": "LJK4960Z",
+    "nec_huboids": [
+      "100153121"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

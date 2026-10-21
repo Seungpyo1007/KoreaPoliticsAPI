@@ -1,0 +1,18 @@
+{
+  "id": "jin-jongo-1979",
+  "name": "진종오",
+  "birth_year": 1979,
+  "external_ids": {
+    "assembly_mona_cd": "QDU1100U",
+    "nec_huboids": [
+      "100153282"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

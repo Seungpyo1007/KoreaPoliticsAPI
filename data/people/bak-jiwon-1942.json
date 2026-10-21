@@ -1,0 +1,18 @@
+{
+  "id": "bak-jiwon-1942",
+  "name": "박지원",
+  "birth_year": 1942,
+  "external_ids": {
+    "assembly_mona_cd": "8BF5855P",
+    "nec_huboids": [
+      "100151208"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

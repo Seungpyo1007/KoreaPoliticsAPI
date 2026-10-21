@@ -1,0 +1,18 @@
+{
+  "id": "bak-suhyeon-1964",
+  "name": "박수현",
+  "birth_year": 1964,
+  "external_ids": {
+    "assembly_mona_cd": "5TQ6306B",
+    "nec_huboids": [
+      "100152004"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

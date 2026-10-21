@@ -1,0 +1,18 @@
+{
+  "id": "gim-geon-1966",
+  "name": "김건",
+  "birth_year": 1966,
+  "external_ids": {
+    "assembly_mona_cd": "TQP7167T",
+    "nec_huboids": [
+      "100153284"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

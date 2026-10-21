@@ -1,0 +1,18 @@
+{
+  "id": "i-yongu-1974",
+  "name": "이용우",
+  "birth_year": 1974,
+  "external_ids": {
+    "assembly_mona_cd": "6K79158C",
+    "nec_huboids": [
+      "100152981"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

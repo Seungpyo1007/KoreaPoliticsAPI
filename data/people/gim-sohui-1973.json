@@ -1,0 +1,18 @@
+{
+  "id": "gim-sohui-1973",
+  "name": "김소희",
+  "birth_year": 1973,
+  "external_ids": {
+    "assembly_mona_cd": "1SR94244",
+    "nec_huboids": [
+      "100153286"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "i-wontaek-1970",
+  "name": "이원택",
+  "birth_year": 1970,
+  "external_ids": {
+    "assembly_mona_cd": "DAV7257X",
+    "nec_huboids": [
+      "100152198"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

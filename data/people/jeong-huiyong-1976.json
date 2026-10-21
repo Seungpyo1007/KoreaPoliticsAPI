@@ -1,0 +1,18 @@
+{
+  "id": "jeong-huiyong-1976",
+  "name": "정희용",
+  "birth_year": 1976,
+  "external_ids": {
+    "assembly_mona_cd": "PFG2137X",
+    "nec_huboids": [
+      "100152971"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}
