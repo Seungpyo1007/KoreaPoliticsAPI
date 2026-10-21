@@ -34,7 +34,9 @@ export function romanize(hangul: string): string {
 }
 
 // The family name is passed separately because 선우진 could be 선우 진 or 선 우진.
-export function personId(family: string, given: string, birthYear: number, n = 1): string {
-  const id = `${romanize(family)}-${romanize(given)}-${birthYear}`;
+// Without a known birth year the id has no year part.
+export function personId(family: string, given: string, birthYear: number | null, n = 1): string {
+  const name = `${romanize(family)}-${romanize(given)}`;
+  const id = birthYear === null ? name : `${name}-${birthYear}`;
   return n > 1 ? `${id}-${n}` : id;
 }
