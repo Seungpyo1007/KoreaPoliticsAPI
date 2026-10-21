@@ -1,12 +1,12 @@
 {
   "office": "assembly/gyeongnam-changwonsimasanhappogu-20",
   "person_id": "i-juyeong-1951",
-  "party_id": null,
+  "party_id": "saenuridang",
   "party_name": "새누리당",
   "starts_on": "2016-05-30",
   "ends_on": "2020-05-30",
   "how": "elected",
-  "election_id": null,
+  "election_id": "20160413",
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
   ],

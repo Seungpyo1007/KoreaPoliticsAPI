@@ -1,12 +1,12 @@
 {
   "office": "assembly/gwangju-donggunamgueul-20",
   "person_id": "bak-juseon-1949",
-  "party_id": null,
+  "party_id": "gungminui-dang",
   "party_name": "국민의당",
   "starts_on": "2016-05-30",
   "ends_on": "2020-05-30",
   "how": "elected",
-  "election_id": null,
+  "election_id": "20160413",
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
   ],

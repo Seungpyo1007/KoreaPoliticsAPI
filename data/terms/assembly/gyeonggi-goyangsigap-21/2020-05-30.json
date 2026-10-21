@@ -1,12 +1,12 @@
 {
   "office": "assembly/gyeonggi-goyangsigap-21",
   "person_id": "sim-sangjeong-1959",
-  "party_id": null,
+  "party_id": "jeonguidang",
   "party_name": "정의당",
   "starts_on": "2020-05-30",
   "ends_on": "2024-05-30",
   "how": "elected",
-  "election_id": null,
+  "election_id": "20200415",
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
   ],
