@@ -10,7 +10,7 @@
     "party_id": { "oneOf": [{ "$ref": "common.json#/$defs/id" }, { "type": "null" }] },
     "starts_on": { "$ref": "common.json#/$defs/date" },
     "ends_on": { "oneOf": [{ "$ref": "common.json#/$defs/date" }, { "type": "null" }] },
-    "how": { "enum": ["elected", "by-election", "appointed", "acting"] },
+    "how": { "enum": ["elected", "by-election", "succession", "appointed", "acting"] },
     "election_id": { "oneOf": [{ "$ref": "common.json#/$defs/election_id" }, { "type": "null" }] },
     "source_urls": { "$ref": "common.json#/$defs/source_urls" },
     "verified": { "$ref": "common.json#/$defs/verified" },
