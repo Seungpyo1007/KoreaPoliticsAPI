@@ -20,12 +20,12 @@
     "red": 0
   },
   "office": {
-    "green": 4342,
+    "green": 4386,
     "yellow": 0,
     "red": 0
   },
   "term": {
-    "green": 6057,
+    "green": 6192,
     "yellow": 0,
     "red": 0
   },
@@ -36,6 +36,11 @@
   },
   "tip": {
     "green": 0,
+    "yellow": 0,
+    "red": 0
+  },
+  "assembly": {
+    "green": 22,
     "yellow": 0,
     "red": 0
   }

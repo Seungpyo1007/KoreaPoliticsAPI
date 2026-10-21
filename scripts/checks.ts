@@ -11,7 +11,8 @@ export type Kind =
   | "office"
   | "term"
   | "pledge"
-  | "tip";
+  | "tip"
+  | "assembly";
 
 // deno-lint-ignore no-explicit-any
 export type Json = any;
@@ -46,6 +47,7 @@ export function classify(path: string): { kind: Kind; parts: string[] } | null {
       photos: "photo",
       parties: "party",
       tips: "tip",
+      assemblies: "assembly",
     };
     const kind = kinds[rest[0]];
     return kind ? { kind, parts: [base(rest[1])] } : null;
@@ -82,6 +84,7 @@ export function checkPath(rec: Rec, parts: string[]): string[] {
     case "person":
     case "party":
     case "tip":
+    case "assembly":
       want.push(["id", d.id, parts[0]]);
       break;
     case "photo":
@@ -114,7 +117,7 @@ export function checkPath(rec: Rec, parts: string[]): string[] {
     .map(([field, got, path]) => `${field} is ${JSON.stringify(got)} but the path says ${path}`);
 }
 
-const DATE_KEYS = new Set(["starts_on", "ends_on", "from", "to", "checked_at"]);
+const DATE_KEYS = new Set(["starts_on", "ends_on", "from", "to", "date", "checked_at"]);
 
 export function isRealDate(s: string): boolean {
   const d = new Date(`${s}T00:00:00Z`);

@@ -1,0 +1,73 @@
+{
+  "id": "18",
+  "number": 18,
+  "name": "제18대 국회",
+  "starts_on": "2008-05-30",
+  "ends_on": "2012-05-30",
+  "seats": 299,
+  "elections": [
+    {
+      "kind": null,
+      "date": "2008-04-09",
+      "seats": 299,
+      "election_id": "20080409"
+    }
+  ],
+  "results": [
+    {
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 299,
+      "proportional_seats": 54
+    },
+    {
+      "party_name": "한나라당",
+      "vote_share": 37.48,
+      "seats": 153,
+      "proportional_seats": 22
+    },
+    {
+      "party_name": "통합민주당",
+      "vote_share": 25.17,
+      "seats": 81,
+      "proportional_seats": 15
+    },
+    {
+      "party_name": "무소속",
+      "vote_share": null,
+      "seats": 25,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "자유선진당",
+      "vote_share": 6.9,
+      "seats": 18,
+      "proportional_seats": 4
+    },
+    {
+      "party_name": "친박연대",
+      "vote_share": 13.18,
+      "seats": 14,
+      "proportional_seats": 8
+    },
+    {
+      "party_name": "민주노동당",
+      "vote_share": 5.68,
+      "seats": 5,
+      "proportional_seats": 3
+    },
+    {
+      "party_name": "창조한국당",
+      "vote_share": 3.8,
+      "seats": 3,
+      "proportional_seats": 2
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O7FHUO000928X018370"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "results는 국회 자료의 정당별 선거결과 그대로임. 의석수가 지역구만 센 것인지 전국구·비례를 더한 것인지 대마다 다름"
+}

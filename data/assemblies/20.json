@@ -1,0 +1,61 @@
+{
+  "id": "20",
+  "number": 20,
+  "name": "제20대 국회",
+  "starts_on": "2016-05-30",
+  "ends_on": "2020-05-30",
+  "seats": 300,
+  "elections": [
+    {
+      "kind": null,
+      "date": "2016-04-13",
+      "seats": 300,
+      "election_id": "20160413"
+    }
+  ],
+  "results": [
+    {
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 300,
+      "proportional_seats": 47
+    },
+    {
+      "party_name": "더불어민주당",
+      "vote_share": 25.5,
+      "seats": 110,
+      "proportional_seats": 13
+    },
+    {
+      "party_name": "새누리당",
+      "vote_share": 33.5,
+      "seats": 105,
+      "proportional_seats": 17
+    },
+    {
+      "party_name": "국민의당",
+      "vote_share": 26.7,
+      "seats": 25,
+      "proportional_seats": 13
+    },
+    {
+      "party_name": "무소속",
+      "vote_share": null,
+      "seats": 11,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "정의당",
+      "vote_share": 7.2,
+      "seats": 2,
+      "proportional_seats": 4
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O7FHUO000928X018370"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "results는 국회 자료의 정당별 선거결과 그대로임. 의석수가 지역구만 센 것인지 전국구·비례를 더한 것인지 대마다 다름"
+}

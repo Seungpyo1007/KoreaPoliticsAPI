@@ -17,6 +17,7 @@ const NAMES: Record<Kind, string> = {
   term: "terms",
   pledge: "pledges",
   tip: "tips",
+  assembly: "assemblies",
 };
 
 const tag = Deno.args[0];

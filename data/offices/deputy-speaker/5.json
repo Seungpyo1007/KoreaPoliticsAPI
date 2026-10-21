@@ -1,0 +1,12 @@
+{
+  "id": "5",
+  "type": "deputy-speaker",
+  "name": "제5대 국회부의장",
+  "seats": 3,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O6P4Y5001146KI12348"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "민의원과 참의원에 의장단이 따로 있었음. seats는 국회 자료에서 같은 날 함께 재임한 최대 인원"
+}

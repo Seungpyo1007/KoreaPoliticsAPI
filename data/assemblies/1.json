@@ -1,0 +1,78 @@
+{
+  "id": "1",
+  "number": 1,
+  "name": "제헌 국회",
+  "starts_on": "1948-05-31",
+  "ends_on": "1950-05-31",
+  "seats": 200,
+  "elections": [
+    {
+      "kind": null,
+      "date": "1948-05-10",
+      "seats": 200
+    }
+  ],
+  "results": [
+    {
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 200,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "무소속",
+      "vote_share": 40.3,
+      "seats": 85,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "대한독립촉성국민회",
+      "vote_share": 26.1,
+      "seats": 55,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "한국민주당",
+      "vote_share": 13.5,
+      "seats": 29,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "대동청년단",
+      "vote_share": 9.6,
+      "seats": 12,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "기타",
+      "vote_share": 5.9,
+      "seats": 10,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "조선민족청년단",
+      "vote_share": 2.2,
+      "seats": 6,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "대한독립촉성농민총연맹",
+      "vote_share": 0.8,
+      "seats": 2,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "대한노동총연맹",
+      "vote_share": 1.6,
+      "seats": 1,
+      "proportional_seats": null
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O7FHUO000928X018370"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제헌헌법(1948.7.17. 공포)에서 규정한 국회의원 임기는 4년이었으나, 제헌국회의 의원의 임기는 동 헌법 부칙(제102조)에 의해 국회 개회일로부터 2년으로 규정됨. results는 국회 자료의 정당별 선거결과 그대로임. 의석수가 지역구만 센 것인지 전국구·비례를 더한 것인지 대마다 다름"
+}

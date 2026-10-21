@@ -33,6 +33,7 @@ const KINDS: Kind[] = [
   "term",
   "pledge",
   "tip",
+  "assembly",
 ];
 
 async function git(...args: string[]): Promise<string[]> {

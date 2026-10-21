@@ -1,0 +1,14 @@
+{
+  "office": "speaker/19",
+  "person_id": "gang-changhui-1946",
+  "party_id": null,
+  "starts_on": "2012-07-02",
+  "ends_on": "2014-05-30",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O6P4Y5001146KI12348"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

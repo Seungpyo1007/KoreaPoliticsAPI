@@ -23,6 +23,7 @@ Deno.test("classify maps folders to kinds", () => {
     "nec-0bd970c0",
     "2024-05-30",
   ]);
+  assertEquals(classify("data/assemblies/22.json")?.kind, "assembly");
   assertEquals(classify("data/people/a/b.json"), null);
 });
 

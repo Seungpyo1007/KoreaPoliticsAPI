@@ -1,0 +1,14 @@
+{
+  "office": "speaker/7",
+  "person_id": "choe-huisong-1894",
+  "party_id": null,
+  "starts_on": "1968-02-22",
+  "ends_on": "1968-02-23",
+  "how": "acting",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O6P4Y5001146KI12348"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

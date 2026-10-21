@@ -1,0 +1,65 @@
+{
+  "id": "10",
+  "number": 10,
+  "name": "제10대 국회",
+  "starts_on": "1979-03-12",
+  "ends_on": "1980-10-28",
+  "seats": 231,
+  "elections": [
+    {
+      "kind": "민선",
+      "date": "1978-12-12",
+      "seats": 154
+    },
+    {
+      "kind": "통일주체국민회의",
+      "date": "1978-12-21",
+      "seats": 77
+    }
+  ],
+  "results": [
+    {
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 231,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "통일주체국민회의",
+      "vote_share": null,
+      "seats": 77,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민주공화당",
+      "vote_share": 31.7,
+      "seats": 68,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "신민당",
+      "vote_share": 32.8,
+      "seats": 61,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "무소속",
+      "vote_share": 28.1,
+      "seats": 22,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민주통일당",
+      "vote_share": 7.4,
+      "seats": 3,
+      "proportional_seats": null
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O7FHUO000928X018370"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "당시 임기는 민선 의원은 6년·통일주체국민회의 선출 의원은 3년으로 규정되어 있었으나, 제8차개정헌법(1980.10.27) 부칙 제5조제1항*(10·26사태 관련)에 의해 1980년 10월 27일 임기 종료 제8차개정헌법 부칙 제6조제1항**에 의하여 1980.10.27부터 1981. 4.10까지 국가보위입법회의가 국회의 권한을 대행 results는 국회 자료의 정당별 선거결과 그대로임. 의석수가 지역구만 센 것인지 전국구·비례를 더한 것인지 대마다 다름"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "7",
+  "number": 7,
+  "name": "제7대 국회",
+  "starts_on": "1967-07-01",
+  "ends_on": "1971-07-01",
+  "seats": 175,
+  "elections": [
+    {
+      "kind": null,
+      "date": "1967-06-08",
+      "seats": 175
+    }
+  ],
+  "results": [
+    {
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 175,
+      "proportional_seats": 44
+    },
+    {
+      "party_name": "민주공화당",
+      "vote_share": 50.6,
+      "seats": 129,
+      "proportional_seats": 27
+    },
+    {
+      "party_name": "신민당",
+      "vote_share": 32.7,
+      "seats": 45,
+      "proportional_seats": 17
+    },
+    {
+      "party_name": "대중당",
+      "vote_share": 2.3,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "자유당",
+      "vote_share": 3.6,
+      "seats": null,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민주당",
+      "vote_share": 3,
+      "seats": null,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "한국독립당",
+      "vote_share": 2.2,
+      "seats": null,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민중당",
+      "vote_share": 1.7,
+      "seats": null,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "정의당",
+      "vote_share": 1.3,
+      "seats": null,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "통일사회당",
+      "vote_share": 1,
+      "seats": null,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "자민당",
+      "vote_share": 0.8,
+      "seats": null,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "통한당",
+      "vote_share": 0.8,
+      "seats": null,
+      "proportional_seats": null
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O7FHUO000928X018370"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "results는 국회 자료의 정당별 선거결과 그대로임. 의석수가 지역구만 센 것인지 전국구·비례를 더한 것인지 대마다 다름"
+}

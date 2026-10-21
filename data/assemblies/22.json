@@ -1,0 +1,23 @@
+{
+  "id": "22",
+  "number": 22,
+  "name": "제22대 국회",
+  "starts_on": "2024-05-30",
+  "ends_on": null,
+  "seats": 300,
+  "elections": [
+    {
+      "kind": null,
+      "date": "2024-04-10",
+      "seats": 300,
+      "election_id": "20240410"
+    }
+  ],
+  "results": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "임기 종료 예정일은 2028-05-29"
+}
