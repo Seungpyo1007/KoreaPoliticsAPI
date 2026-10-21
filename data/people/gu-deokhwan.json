@@ -1,16 +1,17 @@
 {
   "id": "gu-deokhwan",
   "name": "구덕환",
-  "birth_year": null,
+  "birth_year": 1897,
   "external_ids": {
     "assembly_mona_cd": "SHE5364I"
   },
   "career": [],
   "education": [],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19500530&electionCode=2&cityCode=44&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
   ],
   "verified": false,
   "checked_at": "2026-10-22",
-  "note": "국회 자료의 생년월일은 1997    인데 재직 시기와 맞지 않아 출생연도를 비워 둠"
+  "note": "국회 자료의 생년월일은 1997    로 재직 시기와 맞지 않음. 출생연도는 선관위 당선인 명부 값. id는 이미 공개돼서 바꾸지 않음"
 }
