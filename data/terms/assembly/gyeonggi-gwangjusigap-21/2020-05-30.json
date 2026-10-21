@@ -1,12 +1,12 @@
 {
   "office": "assembly/gyeonggi-gwangjusigap-21",
   "person_id": "so-byeonghun-1954",
-  "party_id": null,
+  "party_id": "deobureo-minjudang",
   "party_name": "더불어민주당",
   "starts_on": "2020-05-30",
   "ends_on": "2024-05-30",
   "how": "elected",
-  "election_id": null,
+  "election_id": "20200415",
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OAJPOY0010182J19421"
   ],
