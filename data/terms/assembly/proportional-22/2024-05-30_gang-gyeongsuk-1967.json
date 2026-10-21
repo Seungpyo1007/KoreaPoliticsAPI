@@ -1,0 +1,15 @@
+{
+  "office": "assembly/proportional-22",
+  "person_id": "gang-gyeongsuk-1967",
+  "party_id": "joguk-hyeoksindang",
+  "starts_on": "2024-05-30",
+  "ends_on": null,
+  "how": "elected",
+  "election_id": "20240410",
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OAJPOY0010182J19421",
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

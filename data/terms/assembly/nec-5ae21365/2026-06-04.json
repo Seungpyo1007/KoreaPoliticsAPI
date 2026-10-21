@@ -1,0 +1,15 @@
+{
+  "office": "assembly/nec-5ae21365",
+  "person_id": "i-jinsuk-1961",
+  "party_id": "gungminui-him",
+  "starts_on": "2026-06-04",
+  "ends_on": null,
+  "how": "by-election",
+  "election_id": "20260603",
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OAJPOY0010182J19421",
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}
