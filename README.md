@@ -47,7 +47,7 @@ scripts/     검증기
 
 ## 쓰는 법
 
-날짜 태그(`vYYYY.MM.DD`) 릴리스마다 타입별 JSON 배열과 `manifest.json`(파일별 sha256)을 붙임. Releases에서 받으면 됨. 개발 중인 최신 상태는 `develop`의 `data/`에 있음.
+날짜 태그(`vYYYY.MM.DD`) 릴리스마다 타입별 JSON 배열과 `manifest.json`(파일별 sha256)을 붙임. manifest의 `schema_version`은 필드 이름을 바꾸거나 뺄 때만 올라감. Releases에서 받으면 됨. 개발 중인 최신 상태는 `develop`의 `data/`에 있음.
 
 ## 라이선스
 
