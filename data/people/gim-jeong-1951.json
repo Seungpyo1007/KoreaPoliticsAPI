@@ -3,12 +3,42 @@
   "name": "김정",
   "birth_year": 1951,
   "external_ids": {
-    "assembly_mona_cd": "CZN3813Q"
+    "assembly_mona_cd": "CZN3813Q",
+    "nec_huboids": [
+      "100005782"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(주)환경포럼 대표이사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "한국열린교육학부모회 수석 공동대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 미술대학 응용미술과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

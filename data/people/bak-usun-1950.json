@@ -3,12 +3,42 @@
   "name": "박우순",
   "birth_year": 1950,
   "external_ids": {
-    "assembly_mona_cd": "Z344466I"
+    "assembly_mona_cd": "Z344466I",
+    "nec_huboids": [
+      "100024916"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "변호사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "민주당 원주시 지역위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 사회사업학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

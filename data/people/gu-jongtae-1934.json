@@ -3,12 +3,42 @@
   "name": "구종태",
   "birth_year": 1934,
   "external_ids": {
-    "assembly_mona_cd": "SAL2139X"
+    "assembly_mona_cd": "SAL2139X",
+    "nec_huboids": [
+      "10042258"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "한국세무사회 회장(현)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "아시아,오세아니아 세무사 협회수석부회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "단국대 대학원 졸업(경영학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

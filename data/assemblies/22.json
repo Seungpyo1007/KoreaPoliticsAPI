@@ -34,25 +34,25 @@
     },
     {
       "party_name": "국민의미래",
-      "vote_share": null,
+      "vote_share": 36.67,
       "seats": null,
       "proportional_seats": 18
     },
     {
       "party_name": "더불어민주연합",
-      "vote_share": null,
+      "vote_share": 26.69,
       "seats": null,
       "proportional_seats": 14
     },
     {
       "party_name": "조국혁신당",
-      "vote_share": null,
+      "vote_share": 24.25,
       "seats": null,
       "proportional_seats": 12
     },
     {
       "party_name": "개혁신당",
-      "vote_share": null,
+      "vote_share": 3.61,
       "seats": 1,
       "proportional_seats": 2
     },
@@ -64,16 +64,17 @@
     },
     {
       "party_name": "새로운미래",
-      "vote_share": null,
+      "vote_share": 1.7,
       "seats": 1,
       "proportional_seats": null
     }
   ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
-    "https://www.data.go.kr/data/15000864/openapi.do"
+    "https://www.data.go.kr/data/15000864/openapi.do",
+    "https://www.data.go.kr/data/15000900/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22",
-  "note": "임기 종료 예정일은 2028-05-29 results는 국회 자료에 22대가 없어서 선관위 당선인 정보로 셈. 21대 형식대로 seats는 지역구 당선인 수, 합계 행만 전체 의석. 득표율은 없음"
+  "note": "임기 종료 예정일은 2028-05-29 results는 국회 자료에 22대가 없어서 선관위 당선인 정보로 셈. 21대 형식대로 seats는 지역구 당선인 수, 합계 행만 전체 의석. 득표율은 선관위 개표결과의 시도별 비례대표 득표를 더해 셈(유효투표 28,344,519표, 소수 둘째 자리 아래 버림)"
 }

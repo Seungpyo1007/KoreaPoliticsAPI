@@ -3,7 +3,8 @@
   "type": "speaker",
   "name": "제22대 국회의장",
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O6P4Y5001146KI12348"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O6P4Y5001146KI12348",
+    "https://record.assembly.go.kr/assembly/viewer/minutes/xml.do?id=56790&type=summary"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

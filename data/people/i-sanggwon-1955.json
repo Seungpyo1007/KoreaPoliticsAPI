@@ -3,12 +3,42 @@
   "name": "이상권",
   "birth_year": 1955,
   "external_ids": {
-    "assembly_mona_cd": "ZG482421"
+    "assembly_mona_cd": "ZG482421",
+    "nec_huboids": [
+      "100024941"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(전)인천지방검찰청 부장검사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)한나라당 당원협의회 운영위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "건국대학교 법학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

@@ -3,12 +3,42 @@
   "name": "이영애",
   "birth_year": 1951,
   "external_ids": {
-    "assembly_mona_cd": "PU97362N"
+    "assembly_mona_cd": "PU97362N",
+    "nec_huboids": [
+      "100005697"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "현 한나라당 중앙위 정보과학분과위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "현 한나라당 국책자문위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "성균관대학교 대학원 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

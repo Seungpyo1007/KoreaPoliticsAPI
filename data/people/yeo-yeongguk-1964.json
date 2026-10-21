@@ -3,12 +3,42 @@
   "name": "여영국",
   "birth_year": 1964,
   "external_ids": {
-    "assembly_mona_cd": "B751170H"
+    "assembly_mona_cd": "B751170H",
+    "nec_huboids": [
+      "100134532"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(현)노회찬재단 이사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)경상남도의회 의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "창원대학교 산업비즈니스학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

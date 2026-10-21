@@ -3,12 +3,42 @@
   "name": "윤일규",
   "birth_year": 1950,
   "external_ids": {
-    "assembly_mona_cd": "5DR6334X"
+    "assembly_mona_cd": "5DR6334X",
+    "nec_huboids": [
+      "100131848"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(전)문재인 후보 충남 상임선대위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)문재인대통령 자문의",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전남대학교 대학원 의학과 졸업(의학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

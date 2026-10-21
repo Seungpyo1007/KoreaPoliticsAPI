@@ -3,12 +3,42 @@
   "name": "안희옥",
   "birth_year": 1940,
   "external_ids": {
-    "assembly_mona_cd": "GP07368N"
+    "assembly_mona_cd": "GP07368N",
+    "nec_huboids": [
+      "10042268"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "청와대 여성정책비서관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "정부차관제2조정관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대 법대 4년졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

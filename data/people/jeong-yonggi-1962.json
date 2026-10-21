@@ -3,7 +3,10 @@
   "name": "정용기",
   "birth_year": 1962,
   "external_ids": {
-    "assembly_mona_cd": "ZGA4092Y"
+    "assembly_mona_cd": "ZGA4092Y",
+    "nec_huboids": [
+      "100117892"
+    ]
   },
   "career": [
     {
@@ -34,7 +37,8 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

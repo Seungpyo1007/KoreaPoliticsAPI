@@ -3,12 +3,42 @@
   "name": "노용호",
   "birth_year": 1971,
   "external_ids": {
-    "assembly_mona_cd": "JVB6983V"
+    "assembly_mona_cd": "JVB6983V",
+    "nec_huboids": [
+      "100138096"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(전)자유한국당 기획조정국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)국회 정책연구위원(1급상당)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "가톨릭관동대학교 산업공학과 졸업(학사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

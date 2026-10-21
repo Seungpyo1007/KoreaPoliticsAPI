@@ -3,12 +3,42 @@
   "name": "김제식",
   "birth_year": 1957,
   "external_ids": {
-    "assembly_mona_cd": "5Z47834I"
+    "assembly_mona_cd": "5Z47834I",
+    "nec_huboids": [
+      "100117971"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(전)서울지검 부장검사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)부산지검 동부지청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 법과대학 법학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

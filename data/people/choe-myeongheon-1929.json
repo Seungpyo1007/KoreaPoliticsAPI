@@ -3,7 +3,10 @@
   "name": "최명헌",
   "birth_year": 1929,
   "external_ids": {
-    "assembly_mona_cd": "ARB2312Q"
+    "assembly_mona_cd": "ARB2312Q",
+    "nec_huboids": [
+      "10042254"
+    ]
   },
   "career": [
     {
@@ -58,7 +61,8 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

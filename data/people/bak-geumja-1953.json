@@ -3,12 +3,42 @@
   "name": "박금자",
   "birth_year": 1953,
   "external_ids": {
-    "assembly_mona_cd": "0664957K"
+    "assembly_mona_cd": "0664957K",
+    "nec_huboids": [
+      "10042265"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "한국 성폭력 상담소대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "박금자 산부인과 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대 대학원 졸업(의학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

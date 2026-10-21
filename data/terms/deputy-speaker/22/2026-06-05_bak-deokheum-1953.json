@@ -1,0 +1,15 @@
+{
+  "office": "deputy-speaker/22",
+  "person_id": "bak-deokheum-1953",
+  "party_id": null,
+  "starts_on": "2026-06-05",
+  "ends_on": null,
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://record.assembly.go.kr/assembly/viewer/minutes/xml.do?id=56790&type=summary"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제22대 제436회 제1차 국회본회의 국회의장·부의장 선거"
+}
