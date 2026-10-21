@@ -3,12 +3,42 @@
   "name": "유원일",
   "birth_year": 1957,
   "external_ids": {
-    "assembly_mona_cd": "UCD59119"
+    "assembly_mona_cd": "UCD59119",
+    "nec_huboids": [
+      "100005762"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "전)시흥환경운동연합 대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "경기시민사회포럼 운영위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "조선대학교 공과대학 기계공학과 3년 재학",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

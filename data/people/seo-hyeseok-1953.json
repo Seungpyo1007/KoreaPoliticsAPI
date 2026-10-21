@@ -3,12 +3,34 @@
   "name": "서혜석",
   "birth_year": 1953,
   "external_ids": {
-    "assembly_mona_cd": "D019409S"
+    "assembly_mona_cd": "D019409S",
+    "nec_huboids": [
+      "10054685"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "법무법인 우현 국제변호사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "미산타클라라로스쿨 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

@@ -3,12 +3,42 @@
   "name": "최영희",
   "birth_year": 1951,
   "external_ids": {
-    "assembly_mona_cd": "YTA7297R"
+    "assembly_mona_cd": "YTA7297R",
+    "nec_huboids": [
+      "100138097"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(전)(사)한국여성단체협의회 부회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)(사)대한미용사회중앙회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "미기재",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

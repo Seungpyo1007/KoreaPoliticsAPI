@@ -3,7 +3,10 @@
   "name": "장광근",
   "birth_year": 1954,
   "external_ids": {
-    "assembly_mona_cd": "JUM9212Y"
+    "assembly_mona_cd": "JUM9212Y",
+    "nec_huboids": [
+      "10042212"
+    ]
   },
   "career": [
     {
@@ -34,7 +37,8 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

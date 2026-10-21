@@ -5,6 +5,7 @@
   "external_ids": {
     "assembly_mona_cd": "FIC9046Z",
     "nec_huboids": [
+      "100138062",
       "100163683"
     ]
   },
@@ -37,7 +38,8 @@
     }
   ],
   "source_urls": [
-    "https://www.data.go.kr/data/15000864/openapi.do"
+    "https://www.data.go.kr/data/15000864/openapi.do",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

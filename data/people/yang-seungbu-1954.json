@@ -3,12 +3,42 @@
   "name": "양승부",
   "birth_year": 1954,
   "external_ids": {
-    "assembly_mona_cd": "H6T8617M"
+    "assembly_mona_cd": "H6T8617M",
+    "nec_huboids": [
+      "10042264"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "통합민주당제주도지부장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "제주도 교육청 법률고문",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고대 대학원졸(법학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

@@ -3,12 +3,42 @@
   "name": "윤상일",
   "birth_year": 1955,
   "external_ids": {
-    "assembly_mona_cd": "GW154990"
+    "assembly_mona_cd": "GW154990",
+    "nec_huboids": [
+      "100005752"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "중랑상공회의소 부회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "박근혜캠프 중랑선대위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "성균관대학교 중어중문학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

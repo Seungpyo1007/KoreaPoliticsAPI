@@ -3,7 +3,10 @@
   "name": "오영식",
   "birth_year": 1967,
   "external_ids": {
-    "assembly_mona_cd": "OK55632O"
+    "assembly_mona_cd": "OK55632O",
+    "nec_huboids": [
+      "10042257"
+    ]
   },
   "career": [
     {
@@ -58,7 +61,8 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

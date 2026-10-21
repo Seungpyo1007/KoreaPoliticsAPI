@@ -3,12 +3,42 @@
   "name": "김성동",
   "birth_year": 1954,
   "external_ids": {
-    "assembly_mona_cd": "C4T1051R"
+    "assembly_mona_cd": "C4T1051R",
+    "nec_huboids": [
+      "100005715"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "여의도연구소 정책자문위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "현 한나라당 부대변인",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 정치외교학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

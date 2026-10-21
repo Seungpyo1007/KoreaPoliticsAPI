@@ -3,12 +3,34 @@
   "name": "신명",
   "birth_year": 1946,
   "external_ids": {
-    "assembly_mona_cd": "SJ050998"
+    "assembly_mona_cd": "SJ050998",
+    "nec_huboids": [
+      "10054628"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "前 노동부 고용평등국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "대전여고 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

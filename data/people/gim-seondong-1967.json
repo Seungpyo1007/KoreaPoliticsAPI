@@ -3,7 +3,10 @@
   "name": "김선동",
   "birth_year": 1967,
   "external_ids": {
-    "assembly_mona_cd": "ZC87486D"
+    "assembly_mona_cd": "ZC87486D",
+    "nec_huboids": [
+      "100025119"
+    ]
   },
   "career": [
     {
@@ -34,7 +37,8 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

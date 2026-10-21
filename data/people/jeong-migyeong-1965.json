@@ -3,7 +3,10 @@
   "name": "정미경",
   "birth_year": 1965,
   "external_ids": {
-    "assembly_mona_cd": "OTR59398"
+    "assembly_mona_cd": "OTR59398",
+    "nec_huboids": [
+      "100117922"
+    ]
   },
   "career": [
     {
@@ -34,7 +37,8 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

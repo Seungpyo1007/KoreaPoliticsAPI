@@ -3,12 +3,42 @@
   "name": "황창주",
   "birth_year": 1955,
   "external_ids": {
-    "assembly_mona_cd": "9VN1421O"
+    "assembly_mona_cd": "9VN1421O",
+    "nec_huboids": [
+      "10042260"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "한국농어민신문사회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "민주당 농업대책위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "동국대정보산업 대학원 2년수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

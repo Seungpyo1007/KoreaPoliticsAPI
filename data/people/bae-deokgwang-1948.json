@@ -3,7 +3,10 @@
   "name": "배덕광",
   "birth_year": 1948,
   "external_ids": {
-    "assembly_mona_cd": "9CR4440H"
+    "assembly_mona_cd": "9CR4440H",
+    "nec_huboids": [
+      "100117903"
+    ]
   },
   "career": [
     {
@@ -34,7 +37,8 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

@@ -3,12 +3,42 @@
   "name": "김혜성",
   "birth_year": 1955,
   "external_ids": {
-    "assembly_mona_cd": "WYI5610U"
+    "assembly_mona_cd": "WYI5610U",
+    "nec_huboids": [
+      "100005751"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "친박연대당 중앙사무처 여성국 국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "대통령비서실 제2부속실 국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대학교 대학원 경영학과 졸업(경영학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

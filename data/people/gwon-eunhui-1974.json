@@ -3,7 +3,10 @@
   "name": "권은희",
   "birth_year": 1974,
   "external_ids": {
-    "assembly_mona_cd": "YKW37422"
+    "assembly_mona_cd": "YKW37422",
+    "nec_huboids": [
+      "100118045"
+    ]
   },
   "career": [
     {
@@ -58,7 +61,8 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

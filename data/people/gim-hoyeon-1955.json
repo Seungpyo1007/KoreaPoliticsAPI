@@ -3,12 +3,42 @@
   "name": "김호연",
   "birth_year": 1955,
   "external_ids": {
-    "assembly_mona_cd": "UDB9699P"
+    "assembly_mona_cd": "UDB9699P",
+    "nec_huboids": [
+      "100024907"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "前(주)빙그레 대표이사 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(재)김구재단 이사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서강대학교 대학원 경영학과 졸업(경영학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"
