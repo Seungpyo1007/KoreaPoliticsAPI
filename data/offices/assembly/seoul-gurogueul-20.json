@@ -1,0 +1,11 @@
+{
+  "id": "seoul-gurogueul-20",
+  "type": "assembly",
+  "name": "서울 구로구을",
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제20대 국회"
+}

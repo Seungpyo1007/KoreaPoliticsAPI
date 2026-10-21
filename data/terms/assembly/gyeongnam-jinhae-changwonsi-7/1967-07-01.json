@@ -1,0 +1,15 @@
+{
+  "office": "assembly/gyeongnam-jinhae-changwonsi-7",
+  "person_id": "jo-changdae-1928",
+  "party_id": null,
+  "party_name": "민주공화당",
+  "starts_on": "1967-07-01",
+  "ends_on": "1969-08-23",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

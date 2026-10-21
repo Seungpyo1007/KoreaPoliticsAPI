@@ -1,0 +1,15 @@
+{
+  "office": "assembly/proportional-17",
+  "person_id": "gim-yeongdae-1960",
+  "party_id": null,
+  "party_name": "대통합민주신당",
+  "starts_on": "2007-10-15",
+  "ends_on": "2008-05-30",
+  "how": "succession",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

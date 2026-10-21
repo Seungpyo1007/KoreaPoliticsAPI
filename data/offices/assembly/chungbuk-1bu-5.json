@@ -1,0 +1,12 @@
+{
+  "id": "chungbuk-1bu-5",
+  "type": "assembly",
+  "name": "충북 1부",
+  "seats": 2,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제5대 국회. 참의원. seats는 국회 의원이력에서 같은 날 함께 재직한 최대 인원"
+}

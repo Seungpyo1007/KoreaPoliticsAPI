@@ -1,0 +1,15 @@
+{
+  "office": "assembly/gyeonggi-suwon-4",
+  "person_id": "hong-gilseon-1904",
+  "party_id": null,
+  "party_name": "민주당",
+  "starts_on": "1958-05-31",
+  "ends_on": "1960-07-29",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

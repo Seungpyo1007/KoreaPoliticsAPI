@@ -1,0 +1,15 @@
+{
+  "office": "assembly/jeonguk-12",
+  "person_id": "bak-dongjin-1922",
+  "party_id": null,
+  "party_name": "민주정의당",
+  "starts_on": "1985-04-11",
+  "ends_on": "1988-04-23",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

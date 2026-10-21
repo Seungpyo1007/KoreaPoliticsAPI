@@ -23,4 +23,5 @@ Deno.test("person ids", () => {
   assertEquals(personId("이", "재명", 1964), "i-jaemyeong-1964");
   assertEquals(personId("남궁", "민", 1980), "namgung-min-1980");
   assertEquals(personId("김", "철수", 1970, 2), "gim-cheolsu-1970-2");
+  assertEquals(personId("모", "윤숙", null), "mo-yunsuk");
 });

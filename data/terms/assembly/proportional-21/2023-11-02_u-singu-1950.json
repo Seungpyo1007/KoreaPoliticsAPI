@@ -1,0 +1,15 @@
+{
+  "office": "assembly/proportional-21",
+  "person_id": "u-singu-1950",
+  "party_id": null,
+  "party_name": "국민의힘",
+  "starts_on": "2023-11-02",
+  "ends_on": "2024-05-30",
+  "how": "succession",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

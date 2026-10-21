@@ -1,0 +1,15 @@
+{
+  "office": "assembly/chungbuk-goesan-5",
+  "person_id": "gim-saman-1916",
+  "party_id": null,
+  "party_name": "민주당",
+  "starts_on": "1961-05-13",
+  "ends_on": "1961-05-17",
+  "how": "by-election",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

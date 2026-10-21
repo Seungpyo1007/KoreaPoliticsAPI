@@ -1,0 +1,15 @@
+{
+  "office": "assembly/jeonguk-14",
+  "person_id": "bae-giseon-1950",
+  "party_id": null,
+  "party_name": "민주당",
+  "starts_on": "1995-09-04",
+  "ends_on": "1996-03-05",
+  "how": "succession",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

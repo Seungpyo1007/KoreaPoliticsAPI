@@ -1,0 +1,15 @@
+{
+  "office": "assembly/jeonguk-12",
+  "person_id": "jo-yongjik-1940",
+  "party_id": null,
+  "party_name": "한국국민당",
+  "starts_on": "1986-11-07",
+  "ends_on": "1988-05-30",
+  "how": "succession",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

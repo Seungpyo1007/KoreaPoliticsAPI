@@ -1,0 +1,11 @@
+{
+  "id": "ulsan-donggu-20",
+  "type": "assembly",
+  "name": "울산 동구",
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제20대 국회"
+}

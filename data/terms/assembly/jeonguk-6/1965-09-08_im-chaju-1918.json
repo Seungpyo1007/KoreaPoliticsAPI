@@ -1,0 +1,15 @@
+{
+  "office": "assembly/jeonguk-6",
+  "person_id": "im-chaju-1918",
+  "party_id": null,
+  "party_name": "민중당",
+  "starts_on": "1965-09-08",
+  "ends_on": "1967-05-13",
+  "how": "succession",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}
