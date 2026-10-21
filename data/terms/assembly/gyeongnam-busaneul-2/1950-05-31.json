@@ -1,0 +1,16 @@
+{
+  "office": "assembly/gyeongnam-busaneul-2",
+  "person_id": "jang-geonsang-1883",
+  "party_id": null,
+  "party_name": "무소속",
+  "starts_on": "1950-05-31",
+  "ends_on": "1954-05-31",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19500530&electionCode=2&cityCode=48&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}
