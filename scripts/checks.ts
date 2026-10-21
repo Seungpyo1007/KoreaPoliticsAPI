@@ -12,7 +12,8 @@ export type Kind =
   | "term"
   | "pledge"
   | "tip"
-  | "assembly";
+  | "assembly"
+  | "event";
 
 // deno-lint-ignore no-explicit-any
 export type Json = any;
@@ -48,6 +49,7 @@ export function classify(path: string): { kind: Kind; parts: string[] } | null {
       parties: "party",
       tips: "tip",
       assemblies: "assembly",
+      events: "event",
     };
     const kind = kinds[rest[0]];
     return kind ? { kind, parts: [base(rest[1])] } : null;
@@ -86,6 +88,9 @@ export function checkPath(rec: Rec, parts: string[]): string[] {
     case "tip":
     case "assembly":
       want.push(["id", d.id, parts[0]]);
+      break;
+    case "event":
+      want.push(["id", d.id, parts[0]], ["date", d.date, parts[0].slice(0, 10)]);
       break;
     case "photo":
       want.push(["person_id", d.person_id, parts[0]]);

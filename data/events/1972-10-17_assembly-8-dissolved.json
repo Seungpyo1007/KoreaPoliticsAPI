@@ -1,0 +1,13 @@
+{
+  "id": "1972-10-17_assembly-8-dissolved",
+  "date": "1972-10-17",
+  "kind": "dissolution",
+  "title": "제8대 국회 해산",
+  "assembly": 8,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "국회 자료 비고: 당시 임기는 4년이었으나, 대통령특별선언(1972.10.17., 10월 유신)으로 인해 1년 3개월 17일만에 해산됨."
+}

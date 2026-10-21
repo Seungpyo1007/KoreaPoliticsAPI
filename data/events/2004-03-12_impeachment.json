@@ -1,0 +1,13 @@
+{
+  "id": "2004-03-12_impeachment",
+  "date": "2004-03-12",
+  "kind": "impeachment",
+  "title": "대통령(노무현)탄핵소추안 가결",
+  "assembly": 16,
+  "source_urls": [
+    "https://www.law.go.kr/%ED%97%8C%EC%9E%AC%EA%B2%B0%EC%A0%95%EB%A1%80/%282004%ED%97%8C%EB%82%981%29"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "재적의원 271인 중 193인 찬성. 헌법재판소 2004헌나1 결정문에 적힌 국회 의결 내용"
+}

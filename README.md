@@ -11,6 +11,7 @@
 - 자리: 국회의원 선거구, 시·도지사, 구청장·시장·군수
 - 임기: 누가 어느 자리에 언제부터 언제까지 있었는지. 국회의원과 국회의장단은 제헌 국회부터 들어 있음
 - 대수별 국회: 개원일, 종료일, 의원정수, 선거일, 정당별 득표율과 의석
+- 국회 연표: 헌법 제정·개정, 대통령 탄핵소추 가결, 국회 해산과 임기 단축
 - 선거공보 공약 제목
 - 용어 설명과 팁
 
@@ -25,6 +26,7 @@ data/
   parties/<id>.json
   ruling_periods.json
   assemblies/<number>.json
+  events/<date>_<slug>.json
   offices/<type>/<code>.json
   terms/<type>/<code>/<starts-on>.json
   pledges/<election-id>/<type>/<code>.json
