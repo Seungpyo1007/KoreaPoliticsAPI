@@ -1,12 +1,12 @@
 {
   "office": "assembly/gyeongbuk-gyeongjusi-20",
   "person_id": "gim-seokgi-1954",
-  "party_id": null,
+  "party_id": "saenuridang",
   "party_name": "새누리당",
   "starts_on": "2016-05-30",
   "ends_on": "2020-05-30",
   "how": "elected",
-  "election_id": null,
+  "election_id": "20160413",
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OAJPOY0010182J19421"
   ],

@@ -1,0 +1,13 @@
+{
+  "id": "saenuridang-2020",
+  "name": "새누리당",
+  "predecessor": null,
+  "colors": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000900/openapi.do",
+    "https://www.seoul.co.kr/news/politics/2017/02/13/20170213800004"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "선관위 개표결과에 나오는 선거: 20200415. 2016년의 새누리당은 2017년 자유한국당으로 이름을 바꿨으므로 이름만 같은 다른 정당"
+}

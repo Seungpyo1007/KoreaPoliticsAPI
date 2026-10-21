@@ -22,8 +22,9 @@ const NAMES: Record<Kind, string> = {
 };
 
 const tag = Deno.args[0];
-if (!/^v\d{4}\.\d{2}\.\d{2}$/.test(tag ?? "")) {
-  console.error("usage: deno task dump vYYYY.MM.DD");
+// A second release on the same day adds a counter: v2026.10.22.2.
+if (!/^v\d{4}\.\d{2}\.\d{2}(\.\d+)?$/.test(tag ?? "")) {
+  console.error("usage: deno task dump vYYYY.MM.DD[.N]");
   Deno.exit(2);
 }
 

@@ -1,0 +1,12 @@
+{
+  "id": "gyeongnam-busanbyeong-2",
+  "type": "assembly",
+  "name": "경남 부산병",
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19500530&electionCode=2&cityCode=48&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제2대 국회. 국회 의원이력에는 없는 선거구 이름이라 선관위 당선인 명부(경남 제3선거구(부산시 병구))를 보고 만듦"
+}
