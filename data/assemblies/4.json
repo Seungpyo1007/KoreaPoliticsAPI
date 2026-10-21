@@ -1,0 +1,60 @@
+{
+  "id": "4",
+  "number": 4,
+  "name": "제4대 국회",
+  "starts_on": "1958-05-31",
+  "ends_on": "1960-07-29",
+  "seats": 233,
+  "elections": [
+    {
+      "kind": null,
+      "date": "1958-05-02",
+      "seats": 233
+    }
+  ],
+  "results": [
+    {
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 233,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "자유당",
+      "vote_share": 42.1,
+      "seats": 126,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민주당",
+      "vote_share": 34,
+      "seats": 79,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "무소속",
+      "vote_share": 21.7,
+      "seats": 27,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "통일당",
+      "vote_share": 0.6,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "기타",
+      "vote_share": 1.6,
+      "seats": null,
+      "proportional_seats": null
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O7FHUO000928X018370"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "참의원은 구성되지 아니함. 당초 임기는 4년이었으나, 제3차개정헌법(1960.6.15 국회 본회의 통과 및 공포) 부칙 제4조*에 의해 임기가 단축됨. results는 국회 자료의 정당별 선거결과 그대로임. 의석수가 지역구만 센 것인지 전국구·비례를 더한 것인지 대마다 다름"
+}

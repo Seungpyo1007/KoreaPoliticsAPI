@@ -1,0 +1,14 @@
+{
+  "office": "speaker/3",
+  "person_id": "jeong-munheum-1893",
+  "party_id": null,
+  "starts_on": "1954-12-04",
+  "ends_on": "1954-12-05",
+  "how": "acting",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O6P4Y5001146KI12348"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

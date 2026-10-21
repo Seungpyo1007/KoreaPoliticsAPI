@@ -1,0 +1,66 @@
+{
+  "id": "8",
+  "number": 8,
+  "name": "제8대 국회",
+  "starts_on": "1971-07-01",
+  "ends_on": "1972-10-18",
+  "seats": 204,
+  "elections": [
+    {
+      "kind": null,
+      "date": "1971-05-25",
+      "seats": 204
+    }
+  ],
+  "results": [
+    {
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 204,
+      "proportional_seats": 51
+    },
+    {
+      "party_name": "민주공화당",
+      "vote_share": 47.8,
+      "seats": 113,
+      "proportional_seats": 27
+    },
+    {
+      "party_name": "신민당",
+      "vote_share": 43.5,
+      "seats": 89,
+      "proportional_seats": 24
+    },
+    {
+      "party_name": "국민당",
+      "vote_share": 4,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민중당",
+      "vote_share": 1.4,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "통일사회당",
+      "vote_share": 0.9,
+      "seats": null,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "대중당",
+      "vote_share": 0.5,
+      "seats": null,
+      "proportional_seats": null
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O7FHUO000928X018370"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "당시 임기는 4년이었으나, 대통령특별선언(1972.10.17., 10월 유신)으로 인해 1년 3개월 17일만에 해산됨. results는 국회 자료의 정당별 선거결과 그대로임. 의석수가 지역구만 센 것인지 전국구·비례를 더한 것인지 대마다 다름"
+}

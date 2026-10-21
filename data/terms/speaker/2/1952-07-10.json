@@ -1,0 +1,15 @@
+{
+  "office": "speaker/2",
+  "person_id": "sin-ikhui-1894",
+  "party_id": null,
+  "starts_on": "1952-07-10",
+  "ends_on": "1954-05-31",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O6P4Y5001146KI12348"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "이 대의 의원 임기 기록이 없어서 같은 이름의 유일한 의원으로 연결함"
+}
