@@ -4,7 +4,7 @@
 
 | 브랜치 | 용도 |
 |---|---|
-| `main` | 릴리스. 태그는 `vYYYY.MM.DD` |
+| `main` | 릴리스. 태그는 `vYYYY.MM.DD`, 같은 날 또 내면 `vYYYY.MM.DD.2` |
 | `develop` | 기본 브랜치. PR은 여기로 |
 | `data/*` `feat/*` `fix/*` `chore/*` | develop에서 따서 작업 |
 
