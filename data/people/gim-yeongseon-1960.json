@@ -3,7 +3,11 @@
   "name": "김영선",
   "birth_year": 1960,
   "external_ids": {
-    "assembly_mona_cd": "LBC8144B"
+    "assembly_mona_cd": "LBC8144B",
+    "nec_huboids": [
+      "100148253",
+      "10042210"
+    ]
   },
   "career": [
     {
@@ -82,7 +86,9 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

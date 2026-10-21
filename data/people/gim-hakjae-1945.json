@@ -3,12 +3,34 @@
   "name": "김학재",
   "birth_year": 1945,
   "external_ids": {
-    "assembly_mona_cd": "CRW93712"
+    "assembly_mona_cd": "CRW93712",
+    "nec_huboids": [
+      "100005648"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "전 법무부차관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 법학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

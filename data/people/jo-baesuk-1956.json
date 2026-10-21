@@ -5,7 +5,8 @@
   "external_ids": {
     "assembly_mona_cd": "IWK63872",
     "nec_huboids": [
-      "100153295"
+      "100153295",
+      "10042256"
     ]
   },
   "career": [
@@ -112,7 +113,8 @@
     }
   ],
   "source_urls": [
-    "https://www.data.go.kr/data/15000864/openapi.do"
+    "https://www.data.go.kr/data/15000864/openapi.do",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

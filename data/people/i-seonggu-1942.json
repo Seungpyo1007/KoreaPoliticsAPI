@@ -3,12 +3,34 @@
   "name": "이성구",
   "birth_year": 1942,
   "external_ids": {
-    "assembly_mona_cd": "HQZ6238Q"
+    "assembly_mona_cd": "HQZ6238Q",
+    "nec_huboids": [
+      "10054604"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "전국 시·도의회의장 협의회회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대 경제학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

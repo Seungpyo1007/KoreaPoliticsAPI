@@ -3,12 +3,42 @@
   "name": "김영구",
   "birth_year": 1941,
   "external_ids": {
-    "assembly_mona_cd": "0MY78908"
+    "assembly_mona_cd": "0MY78908",
+    "nec_huboids": [
+      "10042215"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "㈜쌍용주택건설 대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "전주덕진지구당 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "원광대 행정대학원 1년재학",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

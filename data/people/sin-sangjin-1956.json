@@ -3,7 +3,10 @@
   "name": "신상진",
   "birth_year": 1956,
   "external_ids": {
-    "assembly_mona_cd": "71M8132V"
+    "assembly_mona_cd": "71M8132V",
+    "nec_huboids": [
+      "100118081"
+    ]
   },
   "career": [
     {
@@ -58,7 +61,8 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

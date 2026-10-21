@@ -3,12 +3,42 @@
   "name": "박양수",
   "birth_year": 1938,
   "external_ids": {
-    "assembly_mona_cd": "KZ319820"
+    "assembly_mona_cd": "KZ319820",
+    "nec_huboids": [
+      "10042255"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "민주당 총무부국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "새정치국민회의 사무부총장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "중대교육대학원 교육학과 2년수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

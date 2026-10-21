@@ -3,12 +3,42 @@
   "name": "김근태",
   "birth_year": 1990,
   "external_ids": {
-    "assembly_mona_cd": "C835799S"
+    "assembly_mona_cd": "C835799S",
+    "nec_huboids": [
+      "100137848"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(현)신(新) 전국대학생대표자협의회 서울대학교 지부장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)서울대학교 촛불행동 대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 대학원 박사과정 수료(재료공학전공)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

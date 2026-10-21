@@ -3,12 +3,34 @@
   "name": "문희",
   "birth_year": 1936,
   "external_ids": {
-    "assembly_mona_cd": "8QY4415F"
+    "assembly_mona_cd": "8QY4415F",
+    "nec_huboids": [
+      "10054575"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "한국여성 지도자연합 부총재",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "중앙대 대학원 졸업(석사과정)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

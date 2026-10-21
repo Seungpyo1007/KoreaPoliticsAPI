@@ -3,12 +3,42 @@
   "name": "박종완",
   "birth_year": 1939,
   "external_ids": {
-    "assembly_mona_cd": "PKC2242M"
+    "assembly_mona_cd": "PKC2242M",
+    "nec_huboids": [
+      "10042261"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "충북농협운영협의회 의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "농협중앙회이사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "충주농업고 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

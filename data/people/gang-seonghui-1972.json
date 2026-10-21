@@ -3,12 +3,42 @@
   "name": "강성희",
   "birth_year": 1972,
   "external_ids": {
-    "assembly_mona_cd": "6FS10566"
+    "assembly_mona_cd": "6FS10566",
+    "nec_huboids": [
+      "100150927"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(현)진보당 대출금리인하 운동본부장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)진보당 전북도당 민생특위 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한국외국어대학교 언어인지과학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

@@ -3,12 +3,42 @@
   "name": "한충수",
   "birth_year": 1942,
   "external_ids": {
-    "assembly_mona_cd": "LUY92654"
+    "assembly_mona_cd": "LUY92654",
+    "nec_huboids": [
+      "10042263"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "국민회의 사무총장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "민주당지방자치부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "성균관대 행정대학원 1년수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

@@ -6,9 +6,10 @@
   "starts_on": "2015-04-29",
   "ends_on": "2016-05-30",
   "how": "by-election",
-  "election_id": null,
+  "election_id": "20150429",
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

@@ -3,12 +3,42 @@
   "name": "정윤숙",
   "birth_year": 1956,
   "external_ids": {
-    "assembly_mona_cd": "SE71196I"
+    "assembly_mona_cd": "SE71196I",
+    "nec_huboids": [
+      "100102786"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(현)인구보건복지협회충북지회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)(사)충북우수중소기업협의회 감사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "충남대학교 수학과졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000908/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"

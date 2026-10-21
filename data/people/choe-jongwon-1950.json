@@ -3,12 +3,42 @@
   "name": "최종원",
   "birth_year": 1950,
   "external_ids": {
-    "assembly_mona_cd": "SCA7983X"
+    "assembly_mona_cd": "SCA7983X",
+    "nec_huboids": [
+      "100024960"
+    ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "현)21세기 강원발전 기획위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "현)한국예술산업진흥회 이사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경운대학교 매체정보학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22"
