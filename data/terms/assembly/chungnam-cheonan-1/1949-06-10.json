@@ -1,0 +1,15 @@
+{
+  "office": "assembly/chungnam-cheonan-1",
+  "person_id": "gim-yonghwa-1902",
+  "party_id": null,
+  "party_name": "무소속",
+  "starts_on": "1949-06-10",
+  "ends_on": "1949-06-24",
+  "how": "by-election",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

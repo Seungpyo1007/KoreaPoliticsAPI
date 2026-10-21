@@ -1,0 +1,15 @@
+{
+  "office": "assembly/chungnam-boryeongsi-seocheongun-7",
+  "person_id": "gim-okseon",
+  "party_id": null,
+  "party_name": "신민당",
+  "starts_on": "1968-06-05",
+  "ends_on": "1971-07-01",
+  "how": "by-election",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

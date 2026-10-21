@@ -1,0 +1,15 @@
+{
+  "office": "assembly/proportional-17",
+  "person_id": "no-hoechan-1956",
+  "party_id": null,
+  "party_name": "민주노동당",
+  "starts_on": "2004-05-30",
+  "ends_on": "2008-03-08",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

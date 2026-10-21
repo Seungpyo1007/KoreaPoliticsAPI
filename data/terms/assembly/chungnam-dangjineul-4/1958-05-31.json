@@ -1,0 +1,15 @@
+{
+  "office": "assembly/chungnam-dangjineul-4",
+  "person_id": "won-yongseok-1906",
+  "party_id": null,
+  "party_name": "자유당",
+  "starts_on": "1958-05-31",
+  "ends_on": "1960-06-29",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

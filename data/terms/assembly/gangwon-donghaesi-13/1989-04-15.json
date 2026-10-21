@@ -1,0 +1,15 @@
+{
+  "office": "assembly/gangwon-donghaesi-13",
+  "person_id": "hong-huipyo-1938",
+  "party_id": null,
+  "party_name": "민주정의당",
+  "starts_on": "1989-04-15",
+  "ends_on": "1992-05-30",
+  "how": "by-election",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

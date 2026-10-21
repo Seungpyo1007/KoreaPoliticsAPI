@@ -1,0 +1,16 @@
+{
+  "id": "gu-imhoe",
+  "name": "구임회",
+  "birth_year": null,
+  "external_ids": {
+    "assembly_mona_cd": "K6P9965X"
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "국회 자료의 생년월일은 1819-02-17인데 재직 시기와 맞지 않아 출생연도를 비워 둠"
+}

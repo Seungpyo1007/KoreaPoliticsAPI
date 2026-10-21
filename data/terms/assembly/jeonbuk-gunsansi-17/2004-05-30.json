@@ -1,0 +1,15 @@
+{
+  "office": "assembly/jeonbuk-gunsansi-17",
+  "person_id": "gang-bonggyun-1943",
+  "party_id": null,
+  "party_name": "열린우리당",
+  "starts_on": "2004-05-30",
+  "ends_on": "2008-05-30",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

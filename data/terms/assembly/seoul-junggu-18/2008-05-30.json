@@ -1,0 +1,15 @@
+{
+  "office": "assembly/seoul-junggu-18",
+  "person_id": "na-gyeongwon-1963",
+  "party_id": null,
+  "party_name": "한나라당",
+  "starts_on": "2008-05-30",
+  "ends_on": "2011-10-07",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OAJPOY0010182J19421"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

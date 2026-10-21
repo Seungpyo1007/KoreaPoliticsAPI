@@ -1,0 +1,15 @@
+{
+  "office": "assembly/proportional-18",
+  "person_id": "gim-nosik-1945",
+  "party_id": null,
+  "party_name": "친박연대",
+  "starts_on": "2008-05-30",
+  "ends_on": "2009-05-15",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

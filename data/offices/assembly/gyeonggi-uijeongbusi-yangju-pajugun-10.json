@@ -1,0 +1,12 @@
+{
+  "id": "gyeonggi-uijeongbusi-yangju-pajugun-10",
+  "type": "assembly",
+  "name": "경기 의정부시,양주,파주군",
+  "seats": 2,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제10대 국회. seats는 국회 의원이력에서 같은 날 함께 재직한 최대 인원"
+}

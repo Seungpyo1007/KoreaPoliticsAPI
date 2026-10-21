@@ -1,0 +1,15 @@
+{
+  "office": "assembly/gyeongnam-tongyeongeul-2",
+  "person_id": "i-chaeo-1916",
+  "party_id": null,
+  "party_name": "무소속",
+  "starts_on": "1950-05-31",
+  "ends_on": "1954-05-31",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}
