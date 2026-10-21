@@ -1,0 +1,13 @@
+{
+  "id": "1961-05-16_assembly-5-dissolved",
+  "date": "1961-05-16",
+  "kind": "dissolution",
+  "title": "제5대 국회 해산",
+  "assembly": 5,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "국회 자료 비고: 양원제 국회 · 민의원과 참의원 동시 선출 · 당시 민의원의 임기는 4년, 참의원의 임기는 6년이었으나, 5·16 군사정변의 군사혁명위원회포고령 제4호에 의해 국회가 해산되어 9개월 18일만에 임기 종료"
+}

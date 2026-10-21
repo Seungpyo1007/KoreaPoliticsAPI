@@ -43,5 +43,10 @@
     "green": 22,
     "yellow": 0,
     "red": 0
+  },
+  "event": {
+    "green": 19,
+    "yellow": 0,
+    "red": 0
   }
 }

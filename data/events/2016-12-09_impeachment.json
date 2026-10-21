@@ -1,0 +1,13 @@
+{
+  "id": "2016-12-09_impeachment",
+  "date": "2016-12-09",
+  "kind": "impeachment",
+  "title": "대통령(박근혜)탄핵소추안 가결",
+  "assembly": 20,
+  "source_urls": [
+    "https://www.law.go.kr/%ED%97%8C%EC%9E%AC%EA%B2%B0%EC%A0%95%EB%A1%80/%282016%ED%97%8C%EB%82%981%29"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "재적의원 300인 중 234인 찬성. 헌법재판소 2016헌나1 결정문에 적힌 국회 의결 내용"
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/event.json",
+  "type": "object",
+  "required": ["id", "date", "kind", "title", "assembly", "source_urls", "verified", "checked_at"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}_[a-z0-9]+(-[a-z0-9]+)*$" },
+    "date": { "$ref": "common.json#/$defs/date" },
+    "kind": { "enum": ["constitution", "impeachment", "dissolution", "term-cut"] },
+    "title": { "$ref": "common.json#/$defs/text" },
+    "assembly": { "oneOf": [{ "type": "integer", "minimum": 1 }, { "type": "null" }] },
+    "source_urls": { "$ref": "common.json#/$defs/source_urls" },
+    "verified": { "$ref": "common.json#/$defs/verified" },
+    "checked_at": { "$ref": "common.json#/$defs/checked_at" },
+    "note": { "$ref": "common.json#/$defs/note" },
+    "withdrawn": { "$ref": "common.json#/$defs/withdrawn" },
+    "withdrawn_reason": { "$ref": "common.json#/$defs/withdrawn_reason" }
+  }
+}

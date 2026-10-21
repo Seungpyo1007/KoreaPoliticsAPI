@@ -1,0 +1,13 @@
+{
+  "id": "1967-06-30_assembly-6-dissolved",
+  "date": "1967-06-30",
+  "kind": "dissolution",
+  "title": "제6대 국회 해산",
+  "assembly": 6,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "국회 자료 비고: 단원제로 환원, 당시 임기는 4년이었으나, 제5차개정헌법(1962.12.26.개정) 부칙 제2조*에 의해 1967년 6월30일에 해산"
+}

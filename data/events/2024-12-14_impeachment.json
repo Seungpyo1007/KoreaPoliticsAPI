@@ -1,0 +1,13 @@
+{
+  "id": "2024-12-14_impeachment",
+  "date": "2024-12-14",
+  "kind": "impeachment",
+  "title": "대통령(윤석열)탄핵소추안 가결",
+  "assembly": 22,
+  "source_urls": [
+    "https://www.law.go.kr/%ED%97%8C%EC%9E%AC%EA%B2%B0%EC%A0%95%EB%A1%80/%282024%ED%97%8C%EB%82%988%29"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "재적의원 300인 중 204인 찬성. 헌법재판소 2024헌나8 결정문에 적힌 국회 의결 내용"
+}
