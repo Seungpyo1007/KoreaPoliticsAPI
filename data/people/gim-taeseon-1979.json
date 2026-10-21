@@ -1,0 +1,18 @@
+{
+  "id": "gim-taeseon-1979",
+  "name": "김태선",
+  "birth_year": 1979,
+  "external_ids": {
+    "assembly_mona_cd": "6WK3815W",
+    "nec_huboids": [
+      "100151177"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "11",
+  "number": 11,
+  "name": "제11대 국회",
+  "starts_on": "1981-04-11",
+  "ends_on": "1985-04-11",
+  "seats": 276,
+  "elections": [
+    {
+      "kind": null,
+      "date": "1981-03-25",
+      "seats": 276
+    }
+  ],
+  "results": [
+    {
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 276,
+      "proportional_seats": 92
+    },
+    {
+      "party_name": "민주정의당",
+      "vote_share": 35.6,
+      "seats": 151,
+      "proportional_seats": 61
+    },
+    {
+      "party_name": "민주한국당",
+      "vote_share": 21.6,
+      "seats": 81,
+      "proportional_seats": 24
+    },
+    {
+      "party_name": "한국국민당",
+      "vote_share": 13.3,
+      "seats": 25,
+      "proportional_seats": 7
+    },
+    {
+      "party_name": "무소속",
+      "vote_share": 10.7,
+      "seats": 11,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민권당",
+      "vote_share": 6.7,
+      "seats": 2,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "신정사회당",
+      "vote_share": 4.2,
+      "seats": 2,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민주사회당",
+      "vote_share": 3.2,
+      "seats": 2,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민주농민당",
+      "vote_share": 1.4,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "안민당",
+      "vote_share": 0.9,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "기타",
+      "vote_share": 2.4,
+      "seats": null,
+      "proportional_seats": null
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O7FHUO000928X018370"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "results는 국회 자료의 정당별 선거결과 그대로임. 의석수가 지역구만 센 것인지 전국구·비례를 더한 것인지 대마다 다름"
+}

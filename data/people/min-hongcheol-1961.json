@@ -1,0 +1,18 @@
+{
+  "id": "min-hongcheol-1961",
+  "name": "민홍철",
+  "birth_year": 1961,
+  "external_ids": {
+    "assembly_mona_cd": "O6D8329R",
+    "nec_huboids": [
+      "100152622"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

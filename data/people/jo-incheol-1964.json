@@ -1,0 +1,18 @@
+{
+  "id": "jo-incheol-1964",
+  "name": "조인철",
+  "birth_year": 1964,
+  "external_ids": {
+    "assembly_mona_cd": "ZKB18611",
+    "nec_huboids": [
+      "100151282"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

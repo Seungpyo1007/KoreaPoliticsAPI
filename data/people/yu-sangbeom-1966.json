@@ -1,0 +1,18 @@
+{
+  "id": "yu-sangbeom-1966",
+  "name": "유상범",
+  "birth_year": 1966,
+  "external_ids": {
+    "assembly_mona_cd": "MU69217P",
+    "nec_huboids": [
+      "100153005"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

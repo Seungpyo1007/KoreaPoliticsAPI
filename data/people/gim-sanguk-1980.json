@@ -1,0 +1,18 @@
+{
+  "id": "gim-sanguk-1980",
+  "name": "김상욱",
+  "birth_year": 1980,
+  "external_ids": {
+    "assembly_mona_cd": "VDN5593C",
+    "nec_huboids": [
+      "100152036"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

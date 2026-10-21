@@ -5,6 +5,9 @@
 
 import { classify, type Json, type Kind } from "./checks.ts";
 
+// Bump when a field is renamed or removed. Adding a field does not need a bump.
+const SCHEMA_VERSION = 1;
+
 const NAMES: Record<Kind, string> = {
   person: "people",
   photo: "photos",
@@ -14,6 +17,8 @@ const NAMES: Record<Kind, string> = {
   term: "terms",
   pledge: "pledges",
   tip: "tips",
+  assembly: "assemblies",
+  event: "events",
 };
 
 const tag = Deno.args[0];
@@ -59,6 +64,6 @@ for (const [kind, name] of Object.entries(NAMES) as [Kind, string][]) {
     sha256: hex(await crypto.subtle.digest("SHA-256", body)),
   };
 }
-const manifest = { tag, license: "CC-BY-4.0", files };
+const manifest = { tag, schema_version: SCHEMA_VERSION, license: "CC-BY-4.0", files };
 await Deno.writeTextFile("dist/manifest.json", JSON.stringify(manifest, null, 2) + "\n");
 console.log(JSON.stringify(manifest, null, 2));

@@ -1,0 +1,18 @@
+{
+  "id": "gim-juyeong-1961",
+  "name": "김주영",
+  "birth_year": 1961,
+  "external_ids": {
+    "assembly_mona_cd": "D6U6678O",
+    "nec_huboids": [
+      "100152378"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

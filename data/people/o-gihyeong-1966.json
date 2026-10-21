@@ -1,0 +1,18 @@
+{
+  "id": "o-gihyeong-1966",
+  "name": "오기형",
+  "birth_year": 1966,
+  "external_ids": {
+    "assembly_mona_cd": "OIA3741M",
+    "nec_huboids": [
+      "100152438"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

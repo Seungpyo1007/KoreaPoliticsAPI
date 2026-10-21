@@ -1,0 +1,18 @@
+{
+  "id": "i-jaegwan-1965",
+  "name": "이재관",
+  "birth_year": 1965,
+  "external_ids": {
+    "assembly_mona_cd": "RKS3658I",
+    "nec_huboids": [
+      "100152862"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

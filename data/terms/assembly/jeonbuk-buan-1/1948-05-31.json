@@ -1,0 +1,15 @@
+{
+  "office": "assembly/jeonbuk-buan-1",
+  "person_id": "jo-jaemyeon-1900",
+  "party_id": null,
+  "party_name": "대한독립촉성국민회",
+  "starts_on": "1948-05-31",
+  "ends_on": "1950-05-31",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

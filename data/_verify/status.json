@@ -1,16 +1,16 @@
 {
   "person": {
-    "green": 0,
+    "green": 3296,
     "yellow": 0,
     "red": 0
   },
   "photo": {
-    "green": 0,
+    "green": 267,
     "yellow": 0,
     "red": 0
   },
   "party": {
-    "green": 53,
+    "green": 55,
     "yellow": 1,
     "red": 0
   },
@@ -20,12 +20,12 @@
     "red": 0
   },
   "office": {
-    "green": 254,
+    "green": 4386,
     "yellow": 0,
     "red": 0
   },
   "term": {
-    "green": 0,
+    "green": 6192,
     "yellow": 0,
     "red": 0
   },
@@ -36,6 +36,16 @@
   },
   "tip": {
     "green": 0,
+    "yellow": 0,
+    "red": 0
+  },
+  "assembly": {
+    "green": 22,
+    "yellow": 0,
+    "red": 0
+  },
+  "event": {
+    "green": 19,
     "yellow": 0,
     "red": 0
   }

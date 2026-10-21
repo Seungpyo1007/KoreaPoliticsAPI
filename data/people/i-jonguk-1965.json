@@ -1,0 +1,18 @@
+{
+  "id": "i-jonguk-1965",
+  "name": "이종욱",
+  "birth_year": 1965,
+  "external_ids": {
+    "assembly_mona_cd": "NLS46526",
+    "nec_huboids": [
+      "100152902"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

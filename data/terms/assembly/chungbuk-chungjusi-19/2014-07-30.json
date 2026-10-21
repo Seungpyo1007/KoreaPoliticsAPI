@@ -1,0 +1,15 @@
+{
+  "office": "assembly/chungbuk-chungjusi-19",
+  "person_id": "i-jongbae-1957",
+  "party_id": null,
+  "party_name": "새누리당",
+  "starts_on": "2014-07-30",
+  "ends_on": "2016-05-30",
+  "how": "by-election",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OAJPOY0010182J19421"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

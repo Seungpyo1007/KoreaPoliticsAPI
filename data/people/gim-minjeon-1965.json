@@ -1,0 +1,18 @@
+{
+  "id": "gim-minjeon-1965",
+  "name": "김민전",
+  "birth_year": 1965,
+  "external_ids": {
+    "assembly_mona_cd": "TCP9838Y",
+    "nec_huboids": [
+      "100153290"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "gyeonggi-yongin-anseong-6",
+  "type": "assembly",
+  "name": "경기 용인,안성",
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제6대 국회"
+}

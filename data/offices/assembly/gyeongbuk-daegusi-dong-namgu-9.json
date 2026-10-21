@@ -1,0 +1,12 @@
+{
+  "id": "gyeongbuk-daegusi-dong-namgu-9",
+  "type": "assembly",
+  "name": "경북 대구시,동,남구",
+  "seats": 2,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제9대 국회. seats는 국회 의원이력에서 같은 날 함께 재직한 최대 인원"
+}

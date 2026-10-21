@@ -11,7 +11,9 @@ export type Kind =
   | "office"
   | "term"
   | "pledge"
-  | "tip";
+  | "tip"
+  | "assembly"
+  | "event";
 
 // deno-lint-ignore no-explicit-any
 export type Json = any;
@@ -46,6 +48,8 @@ export function classify(path: string): { kind: Kind; parts: string[] } | null {
       photos: "photo",
       parties: "party",
       tips: "tip",
+      assemblies: "assembly",
+      events: "event",
     };
     const kind = kinds[rest[0]];
     return kind ? { kind, parts: [base(rest[1])] } : null;
@@ -82,7 +86,11 @@ export function checkPath(rec: Rec, parts: string[]): string[] {
     case "person":
     case "party":
     case "tip":
+    case "assembly":
       want.push(["id", d.id, parts[0]]);
+      break;
+    case "event":
+      want.push(["id", d.id, parts[0]], ["date", d.date, parts[0].slice(0, 10)]);
       break;
     case "photo":
       want.push(["person_id", d.person_id, parts[0]]);
@@ -90,13 +98,17 @@ export function checkPath(rec: Rec, parts: string[]): string[] {
     case "office":
       want.push(["type", d.type, parts[0]], ["id", d.id, parts[1]]);
       break;
-    case "term":
+    case "term": {
+      // Offices with several seats name each term <starts-on>_<person-id>.
+      const [starts, person] = parts[2].split("_");
       want.push(["office", d.office, `${parts[0]}/${parts[1]}`], [
         "starts_on",
         d.starts_on,
-        parts[2],
+        starts,
       ]);
+      if (person !== undefined) want.push(["person_id", d.person_id, person]);
       break;
+    }
     case "pledge":
       want.push(["election_id", d.election_id, parts[0]], [
         "office",
@@ -110,7 +122,7 @@ export function checkPath(rec: Rec, parts: string[]): string[] {
     .map(([field, got, path]) => `${field} is ${JSON.stringify(got)} but the path says ${path}`);
 }
 
-const DATE_KEYS = new Set(["starts_on", "ends_on", "from", "to", "checked_at"]);
+const DATE_KEYS = new Set(["starts_on", "ends_on", "from", "to", "date", "checked_at"]);
 
 export function isRealDate(s: string): boolean {
   const d = new Date(`${s}T00:00:00Z`);
@@ -276,13 +288,28 @@ export function checkTime(recs: Rec[]): Problem[] {
     if (d.how === "acting") continue;
     byOffice.set(d.office, [...(byOffice.get(d.office) ?? []), r]);
   }
-  for (const terms of byOffice.values()) {
+  const seats = new Map<string, number>(
+    recs.filter((r) => r.kind === "office").map((
+      r,
+    ) => [`${r.data.type}/${r.data.id}`, r.data.seats ?? 1]),
+  );
+  for (const [office, terms] of byOffice) {
+    const limit = seats.get(office) ?? 1;
     terms.sort((a, b) => a.data.starts_on.localeCompare(b.data.starts_on));
-    for (let i = 1; i < terms.length; i++) {
-      const prev = terms[i - 1].data;
-      if (prev.ends_on === null || prev.ends_on > terms[i].data.starts_on) {
-        out.push({ path: terms[i].path, message: `overlaps ${terms[i - 1].path}` });
+    const open: Rec[] = [];
+    for (const t of terms) {
+      // Terms are half-open, so one that ends the day the next starts does not overlap it.
+      for (let i = open.length - 1; i >= 0; i--) {
+        const end = open[i].data.ends_on;
+        if (end !== null && end <= t.data.starts_on) open.splice(i, 1);
       }
+      if (open.length >= limit) {
+        const message = limit === 1
+          ? `overlaps ${open[0].path}`
+          : `more than ${limit} terms at once`;
+        out.push({ path: t.path, message });
+      }
+      open.push(t);
     }
   }
   for (const r of recs.filter((r) => r.kind === "ruling_periods")) {

@@ -1,0 +1,18 @@
+{
+  "id": "gwon-seongdong-1960",
+  "name": "권성동",
+  "birth_year": 1960,
+  "external_ids": {
+    "assembly_mona_cd": "GDG1847Z",
+    "nec_huboids": [
+      "100152879"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

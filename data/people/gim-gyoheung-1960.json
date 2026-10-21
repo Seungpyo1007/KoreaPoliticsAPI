@@ -1,0 +1,18 @@
+{
+  "id": "gim-gyoheung-1960",
+  "name": "김교흥",
+  "birth_year": 1960,
+  "external_ids": {
+    "assembly_mona_cd": "X1K3667J",
+    "nec_huboids": [
+      "100152937"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

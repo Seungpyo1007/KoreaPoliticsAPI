@@ -1,0 +1,15 @@
+{
+  "office": "assembly/gangwon-gangreungsieul-15",
+  "person_id": "choe-ukcheol-1953",
+  "party_id": null,
+  "party_name": "통합민주당",
+  "starts_on": "1996-05-30",
+  "ends_on": "1998-03-25",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

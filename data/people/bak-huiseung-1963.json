@@ -1,0 +1,18 @@
+{
+  "id": "bak-huiseung-1963",
+  "name": "박희승",
+  "birth_year": 1963,
+  "external_ids": {
+    "assembly_mona_cd": "43Q3892U",
+    "nec_huboids": [
+      "100151108"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

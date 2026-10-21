@@ -23,6 +23,8 @@ Deno.test("classify maps folders to kinds", () => {
     "nec-0bd970c0",
     "2024-05-30",
   ]);
+  assertEquals(classify("data/assemblies/22.json")?.kind, "assembly");
+  assertEquals(classify("data/events/2016-12-09_impeachment.json")?.kind, "event");
   assertEquals(classify("data/people/a/b.json"), null);
 });
 
@@ -105,4 +107,29 @@ Deno.test("ruling periods leave no gap", () => {
   ];
   assertEquals(checkTime(rp(ok)), []);
   assertEquals(checkTime(rp([{ ...ok[0], ends_on: "2022-05-09" }, ok[1]])).length, 1);
+});
+
+Deno.test("an office with seats allows that many terms at once", () => {
+  const office: Rec = {
+    path: "o",
+    kind: "office",
+    data: { type: "assembly", id: "proportional-22", seats: 2 },
+  };
+  const term = (person_id: string, starts_on: string): Rec => ({
+    path: person_id,
+    kind: "term",
+    data: {
+      office: "assembly/proportional-22",
+      person_id,
+      starts_on,
+      ends_on: null,
+      how: "elected",
+    },
+  });
+  assertEquals(checkTime([office, term("a", "2024-05-30"), term("b", "2024-05-30")]), []);
+  assertEquals(
+    checkTime([office, term("a", "2024-05-30"), term("b", "2024-05-30"), term("c", "2024-05-30")])
+      .length,
+    1,
+  );
 });

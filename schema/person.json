@@ -5,9 +5,9 @@
   "required": ["id", "name", "birth_year", "external_ids", "career", "education", "source_urls", "verified", "checked_at"],
   "additionalProperties": false,
   "properties": {
-    "id": { "type": "string", "pattern": "^[a-z]+(-[a-z]+)+-[0-9]{4}(-[0-9]+)?$" },
+    "id": { "type": "string", "pattern": "^[a-z]+(-[a-z]+)+(-[0-9]{4})?(-[0-9]+)?$" },
     "name": { "$ref": "common.json#/$defs/text" },
-    "birth_year": { "oneOf": [{ "type": "integer", "minimum": 1900, "maximum": 2100 }, { "type": "null" }] },
+    "birth_year": { "oneOf": [{ "type": "integer", "minimum": 1850, "maximum": 2100 }, { "type": "null" }] },
     "external_ids": {
       "type": "object",
       "additionalProperties": false,

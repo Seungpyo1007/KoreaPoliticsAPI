@@ -1,0 +1,18 @@
+{
+  "id": "yang-bunam-1961",
+  "name": "양부남",
+  "birth_year": 1961,
+  "external_ids": {
+    "assembly_mona_cd": "CK143054",
+    "nec_huboids": [
+      "100151615"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

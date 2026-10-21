@@ -1,0 +1,65 @@
+{
+  "id": "9",
+  "number": 9,
+  "name": "제9대 국회",
+  "starts_on": "1973-03-12",
+  "ends_on": "1979-03-12",
+  "seats": 219,
+  "elections": [
+    {
+      "kind": "민선",
+      "date": "1973-02-27",
+      "seats": 146
+    },
+    {
+      "kind": "통일주체국민회의",
+      "date": "1973-03-12",
+      "seats": 73
+    }
+  ],
+  "results": [
+    {
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 219,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민주공화당",
+      "vote_share": 38.7,
+      "seats": 73,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "통일주체국민회의",
+      "vote_share": null,
+      "seats": 73,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "신민당",
+      "vote_share": 32.5,
+      "seats": 52,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "무소속",
+      "vote_share": 18.6,
+      "seats": 19,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "민주통일당",
+      "vote_share": 10.2,
+      "seats": 2,
+      "proportional_seats": null
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O7FHUO000928X018370"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제7차개정헌법(1972.12.17)에 의하여 국민이 직접선출한 의원은 임기 6년, 통일주체국민회의가 선거하는 의원은 임기 3년 results는 국회 자료의 정당별 선거결과 그대로임. 의석수가 지역구만 센 것인지 전국구·비례를 더한 것인지 대마다 다름"
+}

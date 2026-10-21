@@ -1,0 +1,12 @@
+{
+  "id": "gungminui-mirae",
+  "name": "국민의미래",
+  "predecessor": null,
+  "colors": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21",
+  "note": "선관위 당선인 정보에 나오는 선거: 20240410 비례대표"
+}

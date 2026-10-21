@@ -1,0 +1,141 @@
+{
+  "id": "5",
+  "number": 5,
+  "name": "제5대 국회",
+  "starts_on": "1960-07-29",
+  "ends_on": "1961-05-17",
+  "seats": 291,
+  "elections": [
+    {
+      "kind": "참의원선거",
+      "date": "1960-07-29",
+      "seats": 58
+    },
+    {
+      "kind": "민의원선거",
+      "date": "1960-07-29",
+      "seats": 233
+    }
+  ],
+  "results": [
+    {
+      "chamber": "민의원",
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 233,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "민의원",
+      "party_name": "민주당",
+      "vote_share": 41.7,
+      "seats": 175,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "민의원",
+      "party_name": "무소속",
+      "vote_share": 46.8,
+      "seats": 49,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "민의원",
+      "party_name": "사회대중당",
+      "vote_share": 6,
+      "seats": 4,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "민의원",
+      "party_name": "자유당",
+      "vote_share": 2.8,
+      "seats": 2,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "민의원",
+      "party_name": "기타",
+      "vote_share": 1.7,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "민의원",
+      "party_name": "한국사회당",
+      "vote_share": 0.6,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "민의원",
+      "party_name": "통일당",
+      "vote_share": 0.2,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "민의원",
+      "party_name": "한독당",
+      "vote_share": 0.2,
+      "seats": null,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "참의원",
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 58,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "참의원",
+      "party_name": "민주당",
+      "vote_share": 51.4,
+      "seats": 31,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "참의원",
+      "party_name": "무소속",
+      "vote_share": 38.1,
+      "seats": 20,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "참의원",
+      "party_name": "자유당",
+      "vote_share": 6.1,
+      "seats": 4,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "참의원",
+      "party_name": "혁신동지총연맹",
+      "vote_share": 1.7,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "참의원",
+      "party_name": "사회대중당",
+      "vote_share": 1.4,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "chamber": "참의원",
+      "party_name": "한국사회당",
+      "vote_share": 1.3,
+      "seats": 1,
+      "proportional_seats": null
+    }
+  ],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/O7FHUO000928X018370"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "양원제 국회 · 민의원과 참의원 동시 선출 · 당시 민의원의 임기는 4년, 참의원의 임기는 6년이었으나, 5·16 군사정변의 군사혁명위원회포고령 제4호에 의해 국회가 해산되어 9개월 18일만에 임기 종료 results는 국회 자료의 정당별 선거결과 그대로임. 의석수가 지역구만 센 것인지 전국구·비례를 더한 것인지 대마다 다름"
+}

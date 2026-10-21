@@ -1,0 +1,18 @@
+{
+  "id": "bak-jeong-1962",
+  "name": "박정",
+  "birth_year": 1962,
+  "external_ids": {
+    "assembly_mona_cd": "4019850M",
+    "nec_huboids": [
+      "100152044"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

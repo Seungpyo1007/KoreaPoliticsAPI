@@ -1,0 +1,18 @@
+{
+  "id": "baek-seonhui-1968",
+  "name": "백선희",
+  "birth_year": 1968,
+  "external_ids": {
+    "assembly_mona_cd": "YN160848",
+    "nec_huboids": [
+      "100153441"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000908/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sin-jangsik-1971",
+  "name": "신장식",
+  "birth_year": 1971,
+  "external_ids": {
+    "assembly_mona_cd": "NPD75153",
+    "nec_huboids": [
+      "100153419"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,15 @@
+{
+  "office": "assembly/jeonguk-6",
+  "person_id": "i-taeyong-1909",
+  "party_id": null,
+  "party_name": "민중당",
+  "starts_on": "1967-01-25",
+  "ends_on": "1967-07-01",
+  "how": "succession",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

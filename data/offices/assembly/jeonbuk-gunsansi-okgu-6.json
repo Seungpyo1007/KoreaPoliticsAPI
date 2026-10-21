@@ -1,0 +1,11 @@
+{
+  "id": "jeonbuk-gunsansi-okgu-6",
+  "type": "assembly",
+  "name": "전북 군산시,옥구",
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22",
+  "note": "제6대 국회"
+}

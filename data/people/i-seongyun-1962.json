@@ -1,0 +1,18 @@
+{
+  "id": "i-seongyun-1962",
+  "name": "이성윤",
+  "birth_year": 1962,
+  "external_ids": {
+    "assembly_mona_cd": "N2P9317N",
+    "nec_huboids": [
+      "100152861"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

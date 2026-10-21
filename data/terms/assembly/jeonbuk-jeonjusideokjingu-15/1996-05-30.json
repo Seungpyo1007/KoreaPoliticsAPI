@@ -1,0 +1,15 @@
+{
+  "office": "assembly/jeonbuk-jeonjusideokjingu-15",
+  "person_id": "jeong-dongyeong-1953",
+  "party_id": null,
+  "party_name": "새정치국민회의",
+  "starts_on": "1996-05-30",
+  "ends_on": "2000-05-30",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OAJPOY0010182J19421"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

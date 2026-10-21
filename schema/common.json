@@ -12,10 +12,10 @@
       "uniqueItems": true
     },
     "election_id": { "type": "string", "pattern": "^[0-9]{8}$" },
-    "office_type": { "enum": ["assembly", "metro-head", "local-head"] },
+    "office_type": { "enum": ["assembly", "speaker", "deputy-speaker", "metro-head", "local-head"] },
     "office_ref": {
       "type": "string",
-      "pattern": "^(assembly|metro-head|local-head)/[a-z0-9]+(-[a-z0-9]+)*$"
+      "pattern": "^(assembly|speaker|deputy-speaker|metro-head|local-head)/[a-z0-9]+(-[a-z0-9]+)*$"
     },
     "text": { "type": "string", "minLength": 1 },
     "verified": { "type": "boolean" },

@@ -1,0 +1,15 @@
+{
+  "office": "assembly/gyeonggi-seongnamsibundanggueul-20",
+  "person_id": "gim-byeonguk-1965",
+  "party_id": null,
+  "party_name": "더불어민주당",
+  "starts_on": "2016-05-30",
+  "ends_on": "2020-05-30",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-22"
+}

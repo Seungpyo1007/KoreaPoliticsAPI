@@ -1,0 +1,18 @@
+{
+  "id": "i-hakyeong-1952",
+  "name": "이학영",
+  "birth_year": 1952,
+  "external_ids": {
+    "assembly_mona_cd": "K5F2023J",
+    "nec_huboids": [
+      "100152693"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

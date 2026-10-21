@@ -1,0 +1,18 @@
+{
+  "id": "gim-yeongbae-1967",
+  "name": "김영배",
+  "birth_year": 1967,
+  "external_ids": {
+    "assembly_mona_cd": "B7D7534L",
+    "nec_huboids": [
+      "100152854"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

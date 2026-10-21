@@ -1,0 +1,19 @@
+{
+  "id": "jeong-dongyeong-1953",
+  "name": "정동영",
+  "birth_year": 1953,
+  "external_ids": {
+    "assembly_mona_cd": "ARP89147",
+    "nec_huboids": [
+      "100152124"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21",
+  "note": "국회 자료의 생년월일은 1953-07-27, 선관위 후보 등록 자료는 1953-06-17. 출생연도는 선관위 값을 씀"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bak-jeonghyeon-1964",
+  "name": "박정현",
+  "birth_year": 1964,
+  "external_ids": {
+    "assembly_mona_cd": "HVV5250J",
+    "nec_huboids": [
+      "100152462"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gim-seonghwan-1965",
+  "name": "김성환",
+  "birth_year": 1965,
+  "external_ids": {
+    "assembly_mona_cd": "XSP20229",
+    "nec_huboids": [
+      "100152795"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}
