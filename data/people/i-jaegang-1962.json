@@ -1,0 +1,18 @@
+{
+  "id": "i-jaegang-1962",
+  "name": "이재강",
+  "birth_year": 1962,
+  "external_ids": {
+    "assembly_mona_cd": "3LP22204",
+    "nec_huboids": [
+      "100151397"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

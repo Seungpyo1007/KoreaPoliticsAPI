@@ -1,0 +1,18 @@
+{
+  "id": "baek-seunga-1985",
+  "name": "백승아",
+  "birth_year": 1985,
+  "external_ids": {
+    "assembly_mona_cd": "MDC3257K",
+    "nec_huboids": [
+      "100153235"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gim-namguk-1982",
+  "name": "김남국",
+  "birth_year": 1982,
+  "external_ids": {
+    "assembly_mona_cd": "QHL3248U",
+    "nec_huboids": [
+      "100163874"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "chu-miae-1958",
+  "name": "추미애",
+  "birth_year": 1958,
+  "external_ids": {
+    "assembly_mona_cd": "URV1689Q",
+    "nec_huboids": [
+      "100152997"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

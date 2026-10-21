@@ -1,0 +1,18 @@
+{
+  "id": "gim-yongmin-1976",
+  "name": "김용민",
+  "birth_year": 1976,
+  "external_ids": {
+    "assembly_mona_cd": "OFE45081",
+    "nec_huboids": [
+      "100152983"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

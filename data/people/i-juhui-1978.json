@@ -1,0 +1,18 @@
+{
+  "id": "i-juhui-1978",
+  "name": "이주희",
+  "birth_year": 1978,
+  "external_ids": {
+    "assembly_mona_cd": "RBM5454A",
+    "nec_huboids": [
+      "100153244"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000908/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

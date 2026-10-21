@@ -1,0 +1,18 @@
+{
+  "id": "gim-yeongho-1967",
+  "name": "김영호",
+  "birth_year": 1967,
+  "external_ids": {
+    "assembly_mona_cd": "7BM2933Y",
+    "nec_huboids": [
+      "100152368"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

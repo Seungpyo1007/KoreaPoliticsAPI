@@ -1,0 +1,18 @@
+{
+  "id": "in-yohan-1959",
+  "name": "인요한",
+  "birth_year": 1959,
+  "external_ids": {
+    "assembly_mona_cd": "B7789327",
+    "nec_huboids": [
+      "100153288"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

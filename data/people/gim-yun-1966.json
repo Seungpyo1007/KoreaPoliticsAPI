@@ -1,0 +1,18 @@
+{
+  "id": "gim-yun-1966",
+  "name": "김윤",
+  "birth_year": 1966,
+  "external_ids": {
+    "assembly_mona_cd": "5N65159P",
+    "nec_huboids": [
+      "100153232"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

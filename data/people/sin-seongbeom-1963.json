@@ -1,0 +1,18 @@
+{
+  "id": "sin-seongbeom-1963",
+  "name": "신성범",
+  "birth_year": 1963,
+  "external_ids": {
+    "assembly_mona_cd": "RMC1840P",
+    "nec_huboids": [
+      "100152030"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

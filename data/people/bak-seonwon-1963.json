@@ -1,0 +1,18 @@
+{
+  "id": "bak-seonwon-1963",
+  "name": "박선원",
+  "birth_year": 1963,
+  "external_ids": {
+    "assembly_mona_cd": "VZA76236",
+    "nec_huboids": [
+      "100152899"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mun-jeongbok-1967",
+  "name": "문정복",
+  "birth_year": 1967,
+  "external_ids": {
+    "assembly_mona_cd": "GOC54665",
+    "nec_huboids": [
+      "100152766"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

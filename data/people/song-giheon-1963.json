@@ -1,0 +1,18 @@
+{
+  "id": "song-giheon-1963",
+  "name": "송기헌",
+  "birth_year": 1963,
+  "external_ids": {
+    "assembly_mona_cd": "SQ36001H",
+    "nec_huboids": [
+      "100152537"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

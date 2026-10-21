@@ -1,0 +1,18 @@
+{
+  "id": "hwang-jeonga-1977",
+  "name": "황정아",
+  "birth_year": 1977,
+  "external_ids": {
+    "assembly_mona_cd": "T6A6557F",
+    "nec_huboids": [
+      "100152868"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

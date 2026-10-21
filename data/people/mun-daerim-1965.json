@@ -1,0 +1,18 @@
+{
+  "id": "mun-daerim-1965",
+  "name": "문대림",
+  "birth_year": 1965,
+  "external_ids": {
+    "assembly_mona_cd": "D9I3309M",
+    "nec_huboids": [
+      "100151015"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

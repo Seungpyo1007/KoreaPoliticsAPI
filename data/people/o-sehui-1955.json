@@ -1,0 +1,18 @@
+{
+  "id": "o-sehui-1955",
+  "name": "오세희",
+  "birth_year": 1955,
+  "external_ids": {
+    "assembly_mona_cd": "BRU2690F",
+    "nec_huboids": [
+      "100153249"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "song-jaebong-1969",
+  "name": "송재봉",
+  "birth_year": 1969,
+  "external_ids": {
+    "assembly_mona_cd": "RG972910",
+    "nec_huboids": [
+      "100151059"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

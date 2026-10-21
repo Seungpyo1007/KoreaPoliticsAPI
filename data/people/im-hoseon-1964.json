@@ -1,0 +1,18 @@
+{
+  "id": "im-hoseon-1964",
+  "name": "임호선",
+  "birth_year": 1964,
+  "external_ids": {
+    "assembly_mona_cd": "FH777496",
+    "nec_huboids": [
+      "100152665"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

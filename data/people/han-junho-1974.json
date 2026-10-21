@@ -1,0 +1,18 @@
+{
+  "id": "han-junho-1974",
+  "name": "한준호",
+  "birth_year": 1974,
+  "external_ids": {
+    "assembly_mona_cd": "BCQ55105",
+    "nec_huboids": [
+      "100152221"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

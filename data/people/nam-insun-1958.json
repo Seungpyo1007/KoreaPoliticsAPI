@@ -1,0 +1,18 @@
+{
+  "id": "nam-insun-1958",
+  "name": "남인순",
+  "birth_year": 1958,
+  "external_ids": {
+    "assembly_mona_cd": "04T3751T",
+    "nec_huboids": [
+      "100152240"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

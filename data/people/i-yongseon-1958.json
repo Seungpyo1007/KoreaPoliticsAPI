@@ -1,0 +1,18 @@
+{
+  "id": "i-yongseon-1958",
+  "name": "이용선",
+  "birth_year": 1958,
+  "external_ids": {
+    "assembly_mona_cd": "9JF4562W",
+    "nec_huboids": [
+      "100152304"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

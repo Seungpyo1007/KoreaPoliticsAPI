@@ -1,0 +1,18 @@
+{
+  "id": "seong-iljong-1963",
+  "name": "성일종",
+  "birth_year": 1963,
+  "external_ids": {
+    "assembly_mona_cd": "7XY7109I",
+    "nec_huboids": [
+      "100152908"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

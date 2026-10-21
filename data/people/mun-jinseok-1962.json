@@ -1,0 +1,18 @@
+{
+  "id": "mun-jinseok-1962",
+  "name": "문진석",
+  "birth_year": 1962,
+  "external_ids": {
+    "assembly_mona_cd": "4U29186R",
+    "nec_huboids": [
+      "100152849"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}

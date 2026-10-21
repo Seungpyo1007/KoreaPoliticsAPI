@@ -1,0 +1,18 @@
+{
+  "id": "im-munyeong-1966",
+  "name": "임문영",
+  "birth_year": 1966,
+  "external_ids": {
+    "assembly_mona_cd": "JVK71445",
+    "nec_huboids": [
+      "100163871"
+    ]
+  },
+  "career": [],
+  "education": [],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-21"
+}
