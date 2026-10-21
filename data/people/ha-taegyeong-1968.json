@@ -5,8 +5,75 @@
   "external_ids": {
     "assembly_mona_cd": "I0S53762"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(전)SK텔레콤 수석연구원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20120411&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(현)민주평통 상임위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20120411&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(전)박근혜대통령직인수위원회 국민대통합위원회 간사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(현)제19대 새누리당 국회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(전)새로운보수당 책임대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20200415&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(현)제20대 국회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20200415&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 물리학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20120411&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0",
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "중국 길림대학 경제학박사(세계경제 전공)(2000.9.~2004.6.)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20200415&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],

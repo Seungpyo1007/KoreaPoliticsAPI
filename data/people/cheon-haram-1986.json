@@ -8,11 +8,31 @@
       "100153356"
     ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(전)개혁신당창당준비위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 법학전문대학원 졸업(법학전문석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
     "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
-  "checked_at": "2026-10-21"
+  "checked_at": "2026-10-22"
 }

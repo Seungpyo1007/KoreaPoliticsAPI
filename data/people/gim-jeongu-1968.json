@@ -5,8 +5,34 @@
   "external_ids": {
     "assembly_mona_cd": "6RP89579"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(현)세종대학교 행정학과 교수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=4100&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(전)기획재정부 국고국 계약제도과장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=4100&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "영)브리스톨 대학교 졸업(정책학전공, 철학박사, 2007.10~2011.9)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=4100&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],

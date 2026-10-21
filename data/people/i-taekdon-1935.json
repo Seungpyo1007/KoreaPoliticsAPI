@@ -5,8 +5,66 @@
   "external_ids": {
     "assembly_mona_cd": "M4560586"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "서울고등법원판사 /",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19710525&electionCode=2&cityCode=41&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "서울고법판사 /",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19730227&electionCode=2&cityCode=41&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "서울민사 형사지방법원판사 /",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19781212&electionCode=2&cityCode=41&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "대법원재판연구관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19850212&electionCode=2&cityCode=41&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "제8,9,10대국회의원, 신민당대변인, 정책심의회의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19850212&electionCode=2&cityCode=41&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울법대",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19710525&electionCode=2&cityCode=41&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "서울대법과대학졸",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19850212&electionCode=2&cityCode=41&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],

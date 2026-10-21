@@ -8,11 +8,136 @@
       "100163276"
     ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "참여연대 회원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=20000413&electionCode=2&cityCode=28&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "대우자동차고문변호사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=20000413&electionCode=2&cityCode=28&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "연세대 초대 총학생회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=20040415&electionCode=2&cityCode=28&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "국회 재경위원(현)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=20040415&electionCode=2&cityCode=28&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "변호사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20080409&electionCode=2&cityCode=2800&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "국회 재정경제위원 6년",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20080409&electionCode=2&cityCode=2800&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(전)제16,17,18대 국회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=2800&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(전)민선 5기 인천광역시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=2800&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0",
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20200415&electionCode=2&cityCode=2800&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(현)4선 국회의원(제16,17,18,20대)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20200415&electionCode=2&cityCode=2800&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(전)더불어민주당 대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)민선5기 인천광역시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대 경영학과 4년졸",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=20000413&electionCode=2&cityCode=28&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "연세대 경영학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=20040415&electionCode=2&cityCode=28&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "연세대학교 경영학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20080409&electionCode=2&cityCode=2800&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0",
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=2800&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "연세대학교 상경대학 경영학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20200415&electionCode=2&cityCode=2800&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0",
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
     "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
-  "checked_at": "2026-10-21"
+  "checked_at": "2026-10-22"
 }

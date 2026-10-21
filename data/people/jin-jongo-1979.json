@@ -8,11 +8,40 @@
       "100153282"
     ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(전)2024 강원동계청소년올림픽 조직위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)국민체육진흥공단 이사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경남대학교 대학원 체육학과 체육학전공(석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
     "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
-  "checked_at": "2026-10-21"
+  "checked_at": "2026-10-22"
 }

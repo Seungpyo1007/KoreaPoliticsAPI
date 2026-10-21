@@ -8,11 +8,47 @@
       "100152781"
     ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(전)부산지방변호사회 수석부회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20200415&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0",
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)해운대구청 공직자윤리위원회 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20200415&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(현)해운대구을 국회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "동아대학교 법학부 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20200415&electionCode=2&cityCode=2600&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0",
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
     "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
-  "checked_at": "2026-10-21"
+  "checked_at": "2026-10-22"
 }

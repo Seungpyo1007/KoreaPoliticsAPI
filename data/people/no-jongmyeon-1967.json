@@ -8,11 +8,37 @@
       "100152881"
     ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(현) 더불어민주당 대변인",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) YTN 앵커",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 법과대학 법학과 졸업(법학사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
     "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
-  "checked_at": "2026-10-21"
+  "checked_at": "2026-10-22"
 }

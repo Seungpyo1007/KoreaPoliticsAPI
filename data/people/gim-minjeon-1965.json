@@ -8,11 +8,40 @@
       "100153290"
     ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(현)대통령 직속 국민통합위원회 정치지역위원회 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)경희대학교 교수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 대학원 정치학석사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
     "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
-  "checked_at": "2026-10-21"
+  "checked_at": "2026-10-22"
 }

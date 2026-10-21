@@ -13,11 +13,67 @@
       "election_id": "20240410"
     }
   ],
-  "results": [],
+  "results": [
+    {
+      "party_name": "합계",
+      "vote_share": null,
+      "seats": 300,
+      "proportional_seats": 46
+    },
+    {
+      "party_name": "더불어민주당",
+      "vote_share": null,
+      "seats": 161,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "국민의힘",
+      "vote_share": null,
+      "seats": 90,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "국민의미래",
+      "vote_share": null,
+      "seats": null,
+      "proportional_seats": 18
+    },
+    {
+      "party_name": "더불어민주연합",
+      "vote_share": null,
+      "seats": null,
+      "proportional_seats": 14
+    },
+    {
+      "party_name": "조국혁신당",
+      "vote_share": null,
+      "seats": null,
+      "proportional_seats": 12
+    },
+    {
+      "party_name": "개혁신당",
+      "vote_share": null,
+      "seats": 1,
+      "proportional_seats": 2
+    },
+    {
+      "party_name": "진보당",
+      "vote_share": null,
+      "seats": 1,
+      "proportional_seats": null
+    },
+    {
+      "party_name": "새로운미래",
+      "vote_share": null,
+      "seats": 1,
+      "proportional_seats": null
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OLFZV7001148O518934",
+    "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
   "checked_at": "2026-10-22",
-  "note": "임기 종료 예정일은 2028-05-29"
+  "note": "임기 종료 예정일은 2028-05-29 results는 국회 자료에 22대가 없어서 선관위 당선인 정보로 셈. 21대 형식대로 seats는 지역구 당선인 수, 합계 행만 전체 의석. 득표율은 없음"
 }

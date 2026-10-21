@@ -8,11 +8,40 @@
       "100153436"
     ]
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "(전)법무부 출입국외국인 정책본부장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)법무부 국적난민과장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 대학원 법학과 수료(석사과정)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do",
+        "https://www.data.go.kr/data/15000908/openapi.do"
+      ]
+    }
+  ],
   "source_urls": [
     "https://www.data.go.kr/data/15000864/openapi.do"
   ],
   "verified": false,
-  "checked_at": "2026-10-21"
+  "checked_at": "2026-10-22"
 }
