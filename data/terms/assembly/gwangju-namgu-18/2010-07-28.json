@@ -1,16 +1,18 @@
 {
   "office": "assembly/gwangju-namgu-18",
   "person_id": "jang-byeongwan-1952",
-  "party_id": null,
-  "party_name": "민주통합당",
+  "party_id": "minjudang-2008",
+  "party_name": "민주당",
   "starts_on": "2010-07-28",
   "ends_on": "2012-05-30",
   "how": "by-election",
   "election_id": "20100728",
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
-    "https://www.data.go.kr/data/15000864/openapi.do"
+    "https://www.data.go.kr/data/15000864/openapi.do",
+    "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=0&electionName=20100728&electionCode=2&cityCode=2900&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-10-26",
+  "note": "국회 자료에는 민주통합당으로 적혀 있음. 당선 때 정당은 선관위 당선인 자료를 따름"
 }
