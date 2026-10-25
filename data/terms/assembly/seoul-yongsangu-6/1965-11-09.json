@@ -1,15 +1,17 @@
 {
   "office": "assembly/seoul-yongsangu-6",
   "person_id": "gim-duhan-1918",
-  "party_id": null,
+  "party_id": "hanguk-dongnipdang-1963",
   "party_name": "한국독립당",
   "starts_on": "1965-11-09",
   "ends_on": "1966-09-25",
   "how": "by-election",
   "election_id": null,
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/대한민국_제6대_국회",
+    "https://ko.wikipedia.org/wiki/김두한"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-10-26"
 }

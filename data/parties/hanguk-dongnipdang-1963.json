@@ -1,0 +1,22 @@
+{
+  "id": "hanguk-dongnipdang-1963",
+  "name": "한국독립당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1963-10-13",
+    "ends_on": "1970-02-03",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/한국독립당_(1963년)"
+    ],
+    "checked_at": "2026-10-26",
+    "note": "위키백과가 인용한 중앙선거관리위원회 대한민국정당사 제1집과 선관위 공고 제3호(1970-02-09) 날짜"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/한국독립당_(1963년)"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-26",
+  "note": "1930년 한국독립당(hanguk-dongnipdang)과는 다른 정당"
+}
