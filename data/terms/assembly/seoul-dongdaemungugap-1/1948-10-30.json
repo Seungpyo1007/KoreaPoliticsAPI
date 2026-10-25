@@ -1,0 +1,17 @@
+{
+  "office": "assembly/seoul-dongdaemungugap-1",
+  "person_id": "hong-seongha-1898",
+  "party_id": "hanguk-minjudang",
+  "party_name": "한국민주당",
+  "starts_on": "1948-10-30",
+  "ends_on": "1950-05-31",
+  "how": "by-election",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/1948년_대한민국_재보궐선거"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-26",
+  "note": "국회 자료에는 시작일이 1949-10-30으로 적혀 있음. 보궐선거는 1948-10-30"
+}

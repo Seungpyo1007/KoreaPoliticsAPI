@@ -1,11 +1,11 @@
 {
   "id": "geullo-nongmindang",
   "name": "근로농민당",
-  "predecessor": null,
+  "predecessor": "minju-nongmindang",
   "colors": [],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666"
   ],
   "verified": false,
-  "checked_at": "2026-10-25"
+  "checked_at": "2026-10-26"
 }
