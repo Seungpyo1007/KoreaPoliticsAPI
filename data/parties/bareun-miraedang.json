@@ -1,0 +1,20 @@
+{
+  "id": "bareun-miraedang",
+  "name": "바른미래당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2018-02-13",
+    "ends_on": "2020-02-24",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%A5%B8%EB%AF%B8%EB%9E%98%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%A5%B8%EB%AF%B8%EB%9E%98%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

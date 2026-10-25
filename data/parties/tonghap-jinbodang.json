@@ -1,0 +1,21 @@
+{
+  "id": "tonghap-jinbodang",
+  "name": "통합진보당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2011-12-13",
+    "ends_on": "2014-12-19",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%ED%86%B5%ED%95%A9%EC%A7%84%EB%B3%B4%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%ED%86%B5%ED%95%A9%EC%A7%84%EB%B3%B4%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25",
+  "note": "2014-12-19 헌법재판소 결정으로 해산"
+}

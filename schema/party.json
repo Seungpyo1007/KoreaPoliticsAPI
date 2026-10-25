@@ -8,6 +8,18 @@
     "id": { "$ref": "common.json#/$defs/id" },
     "name": { "$ref": "common.json#/$defs/text" },
     "predecessor": { "oneOf": [{ "$ref": "common.json#/$defs/id" }, { "type": "null" }] },
+    "period": {
+      "type": "object",
+      "required": ["starts_on", "ends_on", "source_urls", "checked_at"],
+      "additionalProperties": false,
+      "properties": {
+        "starts_on": { "$ref": "common.json#/$defs/date" },
+        "ends_on": { "oneOf": [{ "$ref": "common.json#/$defs/date" }, { "type": "null" }] },
+        "source_urls": { "$ref": "common.json#/$defs/source_urls" },
+        "checked_at": { "$ref": "common.json#/$defs/checked_at" },
+        "note": { "$ref": "common.json#/$defs/note" }
+      }
+    },
     "colors": {
       "type": "array",
       "items": {

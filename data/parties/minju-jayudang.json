@@ -1,0 +1,24 @@
+{
+  "id": "minju-jayudang",
+  "name": "민주자유당",
+  "predecessor": "minju-jeonguidang",
+  "period": {
+    "starts_on": "1990-01-22",
+    "ends_on": "1995-12-06",
+    "source_urls": [
+      "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036762",
+      "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%95%9C%EA%B5%AD%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25",
+    "note": "국가기록원은 1996-12-05로 적었으나 신한국당으로 이름을 바꾼 1995-12-06을 따름"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036762",
+    "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%95%9C%EA%B5%AD%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25",
+  "note": "민주정의당, 통일민주당, 신민주공화당이 합당"
+}

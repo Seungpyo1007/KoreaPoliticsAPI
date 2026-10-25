@@ -2,6 +2,15 @@
   "id": "jeonguidang",
   "name": "정의당",
   "predecessor": null,
+  "period": {
+    "starts_on": "2013-07-21",
+    "ends_on": null,
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%98%EB%8B%B9_%28%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%29"
+    ],
+    "checked_at": "2026-10-25",
+    "note": "2012-10-21 진보정의당으로 창당, 2013-07-21 이름을 바꿈"
+  },
   "colors": [
     {
       "hex": "#FFED00",
@@ -17,6 +26,6 @@
     "https://www.data.go.kr/data/15000900/openapi.do"
   ],
   "verified": false,
-  "checked_at": "2026-10-07",
+  "checked_at": "2026-10-25",
   "note": "선관위 개표결과에 나오는 선거: 20160413, 20200415"
 }

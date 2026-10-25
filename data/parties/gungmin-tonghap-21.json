@@ -1,0 +1,20 @@
+{
+  "id": "gungmin-tonghap-21",
+  "name": "국민통합21",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2002-11-11",
+    "ends_on": "2004-09-13",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC%ED%86%B5%ED%95%A921"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC%ED%86%B5%ED%95%A921"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

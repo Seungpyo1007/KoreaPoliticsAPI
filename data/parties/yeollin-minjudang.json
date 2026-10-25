@@ -1,0 +1,20 @@
+{
+  "id": "yeollin-minjudang",
+  "name": "열린민주당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2020-03-08",
+    "ends_on": "2022-01-18",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EC%97%B4%EB%A6%B0%EB%AF%BC%EC%A3%BC%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EC%97%B4%EB%A6%B0%EB%AF%BC%EC%A3%BC%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

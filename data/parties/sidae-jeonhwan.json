@@ -1,0 +1,20 @@
+{
+  "id": "sidae-jeonhwan",
+  "name": "시대전환",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2020-02-23",
+    "ends_on": "2023-12-27",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%8C%80%EC%A0%84%ED%99%98"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OAJPOY0010182J19421",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%8C%80%EC%A0%84%ED%99%98"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

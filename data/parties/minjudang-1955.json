@@ -1,0 +1,23 @@
+{
+  "id": "minjudang-1955",
+  "name": "민주당",
+  "predecessor": "minju-gungmindang-1949",
+  "period": {
+    "starts_on": "1955-09-18",
+    "ends_on": "1961-05-16",
+    "source_urls": [
+      "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036782",
+      "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A3%BC%EB%8B%B9_%281955%EB%85%84_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%29"
+    ],
+    "checked_at": "2026-10-25",
+    "note": "국가기록원은 1963년 재건된 민주당까지 묶어 1965-06-14까지로 적음. 여기서는 1961년 해산까지만 봄"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036782",
+    "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A3%BC%EB%8B%B9_%281955%EB%85%84_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%29"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

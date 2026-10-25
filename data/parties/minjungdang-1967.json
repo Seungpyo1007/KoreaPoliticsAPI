@@ -1,0 +1,21 @@
+{
+  "id": "minjungdang-1967",
+  "name": "민중당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1967-02-25",
+    "ends_on": "1973-07-03",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A4%91%EB%8B%B9_%281967%EB%85%84%29"
+    ],
+    "checked_at": "2026-10-25",
+    "note": "1963년 신민회로 창당, 1967-02-25 이름을 바꿈"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A4%91%EB%8B%B9_%281967%EB%85%84%29"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

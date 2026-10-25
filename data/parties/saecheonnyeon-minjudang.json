@@ -1,0 +1,20 @@
+{
+  "id": "saecheonnyeon-minjudang",
+  "name": "새천년민주당",
+  "predecessor": "saejeongchi-gungminhoeui",
+  "period": {
+    "starts_on": "2000-01-20",
+    "ends_on": "2005-05-06",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A3%BC%EB%8B%B9_%282000%EB%85%84_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%29"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A3%BC%EB%8B%B9_%282000%EB%85%84_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%29"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

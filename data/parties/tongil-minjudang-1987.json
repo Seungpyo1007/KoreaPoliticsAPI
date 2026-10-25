@@ -1,0 +1,24 @@
+{
+  "id": "tongil-minjudang-1987",
+  "name": "통일민주당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1987-05-01",
+    "ends_on": "1990-01-21",
+    "source_urls": [
+      "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036767",
+      "https://ko.wikipedia.org/wiki/%ED%86%B5%EC%9D%BC%EB%AF%BC%EC%A3%BC%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25",
+    "note": "국가기록원 기준. 위키백과는 창당일을 1987-04-21로 적음"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036767",
+    "https://ko.wikipedia.org/wiki/%ED%86%B5%EC%9D%BC%EB%AF%BC%EC%A3%BC%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25",
+  "note": "2020년 선거의 통일민주당(tongil-minjudang)과는 다른 정당"
+}

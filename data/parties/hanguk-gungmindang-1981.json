@@ -1,0 +1,21 @@
+{
+  "id": "hanguk-gungmindang-1981",
+  "name": "한국국민당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1981-01-23",
+    "ends_on": "1988-04-26",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%AD%EB%AF%BC%EB%8B%B9_%281981%EB%85%84%29"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%AD%EB%AF%BC%EB%8B%B9_%281981%EB%85%84%29"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25",
+  "note": "2016·2024년 선거의 한국국민당(hanguk-gungmindang)과는 다른 정당"
+}

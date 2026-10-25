@@ -1,13 +1,21 @@
 {
   "id": "saenuridang",
   "name": "새누리당",
-  "predecessor": null,
+  "predecessor": "hannaradang-1997",
+  "period": {
+    "starts_on": "2012-02-13",
+    "ends_on": "2017-02-13",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9C%A0%ED%95%9C%EA%B5%AD%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
   "colors": [],
   "source_urls": [
     "https://www.data.go.kr/data/15000900/openapi.do",
     "https://www.seoul.co.kr/news/politics/2017/02/13/20170213800004"
   ],
   "verified": false,
-  "checked_at": "2026-10-22",
-  "note": "공식 색 코드 출처 못 찾음 (당 홈페이지 보관본 확인 불가). 선관위 개표결과에 나오는 선거: 20160413. 2017년 자유한국당으로 이름을 바꿈. 2020년 선거의 새누리당은 saenuridang-2020"
+  "checked_at": "2026-10-25",
+  "note": "공식 색 코드 출처 못 찾음 (당 홈페이지 보관본 확인 불가). 2012-02-13 한나라당에서 이름을 바꿈. 2017-02-13 자유한국당으로 이름을 바꿈. 2020년 선거의 새누리당은 saenuridang-2020"
 }

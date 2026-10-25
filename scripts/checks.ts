@@ -273,16 +273,28 @@ export function checkRefs(recs: Rec[]): Problem[] {
 const electionDay = (id: string) => `${id.slice(0, 4)}-${id.slice(4, 6)}-${id.slice(6, 8)}`;
 
 // Terms of one office must not overlap, except an acting holder. A term never starts
-// before the election that produced it. Ruling periods are half-open and leave no gap.
+// before the election that produced it, and its party existed on that day.
+// Ruling periods are half-open and leave no gap.
 export function checkTime(recs: Rec[]): Problem[] {
   const out: Problem[] = [];
   const byOffice = new Map<string, Rec[]>();
+  const periods = new Map<string, Json>(
+    recs.filter((r) => r.kind === "party" && r.data.period).map((r) => [r.data.id, r.data.period]),
+  );
   for (const r of recs.filter((r) => r.kind === "term")) {
     const d = r.data;
     if (d.election_id && d.starts_on < electionDay(d.election_id)) {
       out.push({
         path: r.path,
         message: `starts_on ${d.starts_on} is before election ${d.election_id}`,
+      });
+    }
+    const p = d.party_id && periods.get(d.party_id);
+    const day = d.election_id ? electionDay(d.election_id) : d.starts_on;
+    if (p && (day < p.starts_on || (p.ends_on !== null && day >= p.ends_on))) {
+      out.push({
+        path: r.path,
+        message: `party ${d.party_id} did not exist on ${day} (${p.starts_on} to ${p.ends_on})`,
       });
     }
     if (d.how === "acting") continue;
