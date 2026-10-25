@@ -1,15 +1,17 @@
 {
   "office": "assembly/proportional-21",
   "person_id": "yong-hyein-1990",
-  "party_id": "gibon-sodeukdang",
-  "party_name": "기본소득당",
+  "party_id": "deobureo-simindang",
+  "party_name": "더불어시민당",
   "starts_on": "2020-05-30",
   "ends_on": "2024-05-30",
   "how": "elected",
   "election_id": "20200415",
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OAJPOY0010182J19421"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OAJPOY0010182J19421",
+    "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=20200415&electionCode=7&cityCode=-1&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-10-26",
+  "note": "국회 자료에는 기본소득당으로 적혀 있음. 당선 때 정당은 선관위 당선인 자료를 따름"
 }
