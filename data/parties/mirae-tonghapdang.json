@@ -2,11 +2,19 @@
   "id": "mirae-tonghapdang",
   "name": "미래통합당",
   "predecessor": null,
+  "period": {
+    "starts_on": "2020-02-17",
+    "ends_on": "2020-09-02",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98"
+    ],
+    "checked_at": "2026-10-25"
+  },
   "colors": [],
   "source_urls": [
     "https://www.data.go.kr/data/15000900/openapi.do"
   ],
   "verified": false,
-  "checked_at": "2026-10-07",
+  "checked_at": "2026-10-25",
   "note": "「해피 핑크」라는 이름만 보도됨. 코드 출처 못 찾음. 선관위 개표결과에 나오는 선거: 20200415"
 }

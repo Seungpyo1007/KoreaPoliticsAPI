@@ -1,0 +1,20 @@
+{
+  "id": "minju-gungmindang-2000",
+  "name": "민주국민당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2000-03-08",
+    "ends_on": "2004-04-18",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A3%BC%EA%B5%AD%EB%AF%BC%EB%8B%B9_%282000%EB%85%84%29"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A3%BC%EA%B5%AD%EB%AF%BC%EB%8B%B9_%282000%EB%85%84%29"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

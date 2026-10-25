@@ -1,0 +1,20 @@
+{
+  "id": "hangyeore-minjudang",
+  "name": "한겨레민주당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1988-04-06",
+    "ends_on": "1991-03-13",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B2%A8%EB%A0%88%EB%AF%BC%EC%A3%BC%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B2%A8%EB%A0%88%EB%AF%BC%EC%A3%BC%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

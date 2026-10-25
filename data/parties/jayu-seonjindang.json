@@ -1,0 +1,21 @@
+{
+  "id": "jayu-seonjindang",
+  "name": "자유선진당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2008-02-01",
+    "ends_on": "2012-05-29",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EC%84%A0%EC%A7%84%ED%86%B5%EC%9D%BC%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25",
+    "note": "2012-05-29 선진통일당으로 이름을 바꿈"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EC%84%A0%EC%A7%84%ED%86%B5%EC%9D%BC%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

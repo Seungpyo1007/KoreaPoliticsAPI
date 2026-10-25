@@ -1,0 +1,20 @@
+{
+  "id": "jayu-minju-yeonhap",
+  "name": "자유민주연합",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1995-03-30",
+    "ends_on": "2006-04-07",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9C%A0%EB%AF%BC%EC%A3%BC%EC%97%B0%ED%95%A9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9C%A0%EB%AF%BC%EC%A3%BC%EC%97%B0%ED%95%A9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

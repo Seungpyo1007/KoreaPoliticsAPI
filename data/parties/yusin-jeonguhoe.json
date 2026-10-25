@@ -1,0 +1,23 @@
+{
+  "id": "yusin-jeonguhoe",
+  "name": "유신정우회",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1973-03-10",
+    "ends_on": "1980-10-27",
+    "source_urls": [
+      "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036774",
+      "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%8B%A0%EC%A0%95%EC%9A%B0%ED%9A%8C"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036774",
+    "https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%8B%A0%EC%A0%95%EC%9A%B0%ED%9A%8C"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25",
+  "note": "정당이 아닌 원내교섭단체"
+}

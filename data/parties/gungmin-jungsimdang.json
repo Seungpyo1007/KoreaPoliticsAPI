@@ -1,0 +1,20 @@
+{
+  "id": "gungmin-jungsimdang",
+  "name": "국민중심당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2006-01-17",
+    "ends_on": "2008-02-12",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC%EC%A4%91%EC%8B%AC%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC%EC%A4%91%EC%8B%AC%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

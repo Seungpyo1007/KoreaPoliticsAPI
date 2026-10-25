@@ -2,7 +2,18 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/term.json",
   "type": "object",
-  "required": ["office", "person_id", "party_id", "starts_on", "ends_on", "how", "election_id", "source_urls", "verified", "checked_at"],
+  "required": [
+    "office",
+    "person_id",
+    "party_id",
+    "starts_on",
+    "ends_on",
+    "how",
+    "election_id",
+    "source_urls",
+    "verified",
+    "checked_at"
+  ],
   "additionalProperties": false,
   "properties": {
     "office": { "$ref": "common.json#/$defs/office_ref" },

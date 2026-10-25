@@ -1,0 +1,22 @@
+{
+  "id": "minju-jeonguidang",
+  "name": "민주정의당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1981-01-15",
+    "ends_on": "1990-01-22",
+    "source_urls": [
+      "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036763",
+      "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A3%BC%EC%A0%95%EC%9D%98%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036763",
+    "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A3%BC%EC%A0%95%EC%9D%98%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

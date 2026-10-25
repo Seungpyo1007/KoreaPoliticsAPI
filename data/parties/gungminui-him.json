@@ -1,7 +1,15 @@
 {
   "id": "gungminui-him",
   "name": "국민의힘",
-  "predecessor": null,
+  "predecessor": "mirae-tonghapdang",
+  "period": {
+    "starts_on": "2020-09-02",
+    "ends_on": null,
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98"
+    ],
+    "checked_at": "2026-10-25"
+  },
   "colors": [
     {
       "hex": "#E61E2B",
@@ -17,6 +25,6 @@
     "https://www.data.go.kr/data/15000900/openapi.do"
   ],
   "verified": false,
-  "checked_at": "2026-10-07",
+  "checked_at": "2026-10-25",
   "note": "선관위 개표결과에 나오는 선거: 20240410"
 }

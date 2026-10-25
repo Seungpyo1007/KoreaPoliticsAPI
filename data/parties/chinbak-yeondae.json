@@ -1,0 +1,21 @@
+{
+  "id": "chinbak-yeondae",
+  "name": "친박연대",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2008-03-21",
+    "ends_on": "2010-02-12",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%9E%98%ED%9D%AC%EB%A7%9D%EC%97%B0%EB%8C%80"
+    ],
+    "checked_at": "2026-10-25",
+    "note": "참주인연합에서 이름을 바꿨고 2010-02-12 미래희망연대로 다시 바꿈"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%9E%98%ED%9D%AC%EB%A7%9D%EC%97%B0%EB%8C%80"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}
