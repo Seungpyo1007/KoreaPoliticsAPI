@@ -1,0 +1,20 @@
+{
+  "id": "hanguk-dongnipdang",
+  "name": "한국독립당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1930-01-25",
+    "ends_on": "1961-05-22",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%8F%85%EB%A6%BD%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%8F%85%EB%A6%BD%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

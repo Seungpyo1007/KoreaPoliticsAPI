@@ -2,7 +2,19 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/assembly.json",
   "type": "object",
-  "required": ["id", "number", "name", "starts_on", "ends_on", "seats", "elections", "results", "source_urls", "verified", "checked_at"],
+  "required": [
+    "id",
+    "number",
+    "name",
+    "starts_on",
+    "ends_on",
+    "seats",
+    "elections",
+    "results",
+    "source_urls",
+    "verified",
+    "checked_at"
+  ],
   "additionalProperties": false,
   "properties": {
     "id": { "type": "string", "pattern": "^[0-9]+$" },
@@ -34,9 +46,13 @@
         "properties": {
           "chamber": { "$ref": "common.json#/$defs/text" },
           "party_name": { "$ref": "common.json#/$defs/text" },
-          "vote_share": { "oneOf": [{ "type": "number", "minimum": 0, "maximum": 100 }, { "type": "null" }] },
+          "vote_share": {
+            "oneOf": [{ "type": "number", "minimum": 0, "maximum": 100 }, { "type": "null" }]
+          },
           "seats": { "oneOf": [{ "type": "integer", "minimum": 0 }, { "type": "null" }] },
-          "proportional_seats": { "oneOf": [{ "type": "integer", "minimum": 0 }, { "type": "null" }] }
+          "proportional_seats": {
+            "oneOf": [{ "type": "integer", "minimum": 0 }, { "type": "null" }]
+          }
         }
       }
     },

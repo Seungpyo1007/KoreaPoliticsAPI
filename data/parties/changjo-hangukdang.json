@@ -1,0 +1,20 @@
+{
+  "id": "changjo-hangukdang",
+  "name": "창조한국당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2007-10-30",
+    "ends_on": "2012-04-26",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EC%B0%BD%EC%A1%B0%ED%95%9C%EA%B5%AD%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EC%B0%BD%EC%A1%B0%ED%95%9C%EA%B5%AD%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

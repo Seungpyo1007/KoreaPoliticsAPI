@@ -1,0 +1,21 @@
+{
+  "id": "gungminui-dang-2020",
+  "name": "국민의당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2020-02-23",
+    "ends_on": "2022-05-03",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC%EC%9D%98%EB%8B%B9_%282020%EB%85%84%29"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC%EC%9D%98%EB%8B%B9_%282020%EB%85%84%29"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25",
+  "note": "2016년 국민의당(gungminui-dang)과는 다른 정당"
+}

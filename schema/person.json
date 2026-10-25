@@ -2,18 +2,34 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/person.json",
   "type": "object",
-  "required": ["id", "name", "birth_year", "external_ids", "career", "education", "source_urls", "verified", "checked_at"],
+  "required": [
+    "id",
+    "name",
+    "birth_year",
+    "external_ids",
+    "career",
+    "education",
+    "source_urls",
+    "verified",
+    "checked_at"
+  ],
   "additionalProperties": false,
   "properties": {
     "id": { "type": "string", "pattern": "^[a-z]+(-[a-z]+)+(-[0-9]{4})?(-[0-9]+)?$" },
     "name": { "$ref": "common.json#/$defs/text" },
-    "birth_year": { "oneOf": [{ "type": "integer", "minimum": 1850, "maximum": 2100 }, { "type": "null" }] },
+    "birth_year": {
+      "oneOf": [{ "type": "integer", "minimum": 1850, "maximum": 2100 }, { "type": "null" }]
+    },
     "external_ids": {
       "type": "object",
       "additionalProperties": false,
       "properties": {
         "assembly_mona_cd": { "type": "string", "minLength": 1 },
-        "nec_huboids": { "type": "array", "items": { "type": "string", "pattern": "^[0-9]+$" }, "uniqueItems": true },
+        "nec_huboids": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[0-9]+$" },
+          "uniqueItems": true
+        },
         "wikidata_qid": { "type": "string", "pattern": "^Q[0-9]+$" }
       }
     },

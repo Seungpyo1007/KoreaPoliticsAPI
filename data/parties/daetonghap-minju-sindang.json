@@ -1,0 +1,20 @@
+{
+  "id": "daetonghap-minju-sindang",
+  "name": "대통합민주신당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2007-08-05",
+    "ends_on": "2008-02-17",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%86%B5%ED%95%A9%EB%AF%BC%EC%A3%BC%EC%8B%A0%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%86%B5%ED%95%A9%EB%AF%BC%EC%A3%BC%EC%8B%A0%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

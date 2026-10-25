@@ -1,0 +1,22 @@
+{
+  "id": "minjeongdang-1963",
+  "name": "민정당",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1963-05-14",
+    "ends_on": "1965-05-11",
+    "source_urls": [
+      "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036772",
+      "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A0%95%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0036772",
+    "https://ko.wikipedia.org/wiki/%EB%AF%BC%EC%A0%95%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

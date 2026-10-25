@@ -97,6 +97,23 @@ Deno.test("terms of one office do not overlap", () => {
   assertEquals(checkTime([term("2020-05-30", null), term("2024-01-01", null, "acting")]), []);
 });
 
+Deno.test("a term's party existed on its election day", () => {
+  const party: Rec = {
+    path: "p",
+    kind: "party",
+    data: { id: "a", colors: [], period: { starts_on: "1963-02-26", ends_on: "1980-10-27" } },
+  };
+  const term = (starts_on: string, election_id: string | null = null): Rec => ({
+    path: starts_on,
+    kind: "term",
+    data: { office: `assembly/${starts_on}`, party_id: "a", starts_on, ends_on: null, election_id },
+  });
+  assertEquals(checkTime([party, term("1963-12-17"), term("1980-10-26")]), []);
+  assertEquals(checkTime([party, term("1980-10-27")]).length, 1);
+  assertEquals(checkTime([party, term("1981-04-11")]).length, 1);
+  assertEquals(checkTime([party, term("1981-04-11", "19801001")]), []);
+});
+
 Deno.test("ruling periods leave no gap", () => {
   const rp = (periods: unknown[]): Rec[] => [
     { path: "r", kind: "ruling_periods", data: { periods } },

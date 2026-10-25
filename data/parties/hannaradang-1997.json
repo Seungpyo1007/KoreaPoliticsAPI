@@ -1,0 +1,21 @@
+{
+  "id": "hannaradang-1997",
+  "name": "한나라당",
+  "predecessor": "sinhangukdang",
+  "period": {
+    "starts_on": "1997-11-21",
+    "ends_on": "2012-02-13",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9C%A0%ED%95%9C%EA%B5%AD%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9C%A0%ED%95%9C%EA%B5%AD%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25",
+  "note": "2016·2020년 선거의 한나라당(hannaradang)과는 다른 정당. 2012-02-13 새누리당으로 이름을 바꿈"
+}

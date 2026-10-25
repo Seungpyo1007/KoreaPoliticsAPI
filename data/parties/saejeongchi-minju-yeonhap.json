@@ -1,0 +1,20 @@
+{
+  "id": "saejeongchi-minju-yeonhap",
+  "name": "새정치민주연합",
+  "predecessor": null,
+  "period": {
+    "starts_on": "2014-03-26",
+    "ends_on": "2015-12-28",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

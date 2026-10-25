@@ -1,0 +1,20 @@
+{
+  "id": "saejeongchi-gungminhoeui",
+  "name": "새정치국민회의",
+  "predecessor": null,
+  "period": {
+    "starts_on": "1995-09-05",
+    "ends_on": "2000-01-20",
+    "source_urls": [
+      "https://ko.wikipedia.org/wiki/%EC%83%88%EC%A0%95%EC%B9%98%EA%B5%AD%EB%AF%BC%ED%9A%8C%EC%9D%98"
+    ],
+    "checked_at": "2026-10-25"
+  },
+  "colors": [],
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/%EC%83%88%EC%A0%95%EC%B9%98%EA%B5%AD%EB%AF%BC%ED%9A%8C%EC%9D%98"
+  ],
+  "verified": false,
+  "checked_at": "2026-10-25"
+}

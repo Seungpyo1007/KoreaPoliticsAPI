@@ -2,7 +2,15 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/Seungpyo1007/KoreaPoliticsAPI/schema/pledge.json",
   "type": "object",
-  "required": ["election_id", "office", "candidate", "pledges", "source_urls", "verified", "checked_at"],
+  "required": [
+    "election_id",
+    "office",
+    "candidate",
+    "pledges",
+    "source_urls",
+    "verified",
+    "checked_at"
+  ],
   "additionalProperties": false,
   "properties": {
     "election_id": { "$ref": "common.json#/$defs/election_id" },
