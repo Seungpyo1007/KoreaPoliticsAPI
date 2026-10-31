@@ -23,10 +23,27 @@
       ]
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "text": "서울대행정대학원졸",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "고대경영대학원수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-01"
 }

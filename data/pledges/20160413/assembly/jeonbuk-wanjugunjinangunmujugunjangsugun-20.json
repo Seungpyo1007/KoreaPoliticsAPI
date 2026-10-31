@@ -1,0 +1,78 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonbuk-wanjugunjinangunmujugunjangsugun-20",
+  "candidate": {
+    "name": "안호영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "an-hoyeong-1965",
+    "nec_huboid": "100118531"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-01",
+      "title": "완진무장의 동서남북을 연결하는 광역교통망 허브구축",
+      "page": 8
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-02",
+      "title": "65세 이상 버스비 무료 및 농산촌 대중교통 연결망 구축",
+      "page": 8
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-03",
+      "title": "대한민국 1등 힐링수도, 완진무장",
+      "page": 8
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-04",
+      "title": "삶과 교육의 질을 높이는 15만 도농상생 신성장활력도시 완성하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-05",
+      "title": "청정 자연을 이용한 자연치유 의료관광도시 반드시 성공시키겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-06",
+      "title": "완진무장 주요 지역별 특화산업 활성화",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-07",
+      "title": "완진무장 읍·면사무소 기능확대로 농산촌 생활밀착형 복지 제공",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-08",
+      "title": "1000 시리즈(1,000 원 택시, 1,000 원 이 • 미용)로 65세이상 복지 혜택",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-09",
+      "title": "완진무장 의료취약지 및 취약계층에 대한 의료안전망 구축",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-10",
+      "title": "고향기부금제도 도입 추진",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-11",
+      "title": "산림자원을 활용한 대한민국 대표 산림생태도시 조성하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-wanjugunjinangunmujugunjangsugun-12",
+      "title": "돈 되는 사업들로 힐링푸드 전진기지 장수의 지도를 바꾸겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4510/003_100118531_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전북 완주군진안군무주군장수군 당선인 안호영 (더불어민주당). 머리 공약 목록이 하나로 정리돼 있지 않아 지역 공약 제목을 모았다. 책자형 선거공보 PDF 8쪽 「완진무장 바뀐다! 믿는다! 안호영」 제목 3개, PDF 9–10쪽 완주·진안·무주·장수 군별 제목 4개, PDF 10쪽 번호 목록 1–5. 제목 아래 • 세부 항목은 넣지 않았다. PDF 5–6쪽 「첩첩행복 ○○ 1등!」 11개는 교육·농업·복지 분야 정책 방향이라 넣지 않았다. PDF 3·7쪽은 글자층에 같은 문구만 반복돼 있다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

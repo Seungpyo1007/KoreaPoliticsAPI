@@ -5,11 +5,101 @@
   "external_ids": {
     "assembly_mona_cd": "QR92338T"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "한국여성체육학회회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "'88올림픽대회조직위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "KOC위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한체육회이사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "국민체육진흥재단이사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "사회체육센터이사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "서울YMCA회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "연대교수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "진명여고졸",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "이대체육학과졸",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "미텍사스안티코대대학원수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-01"
 }

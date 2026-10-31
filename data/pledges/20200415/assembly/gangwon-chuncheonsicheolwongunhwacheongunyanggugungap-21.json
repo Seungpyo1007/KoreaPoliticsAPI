@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gangwon-chuncheonsicheolwongunhwacheongunyanggugungap-21",
+  "candidate": {
+    "name": "허영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "heo-yeong-1970",
+    "nec_huboid": "100134571"
+  },
+  "pledges": [
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyanggugungap-01",
+      "title": "춘천_규제혁신",
+      "page": 3
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyanggugungap-02",
+      "title": "상수원보호규제도시를 넘어 국가호수정원도시로",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyanggugungap-03",
+      "title": "춘천 도심이 넓어지고 생활거리는 가까워집니다",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyanggugungap-04",
+      "title": "평화인터체인지 구축으로 동서남북 평화의 길이 뚫립니다",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyanggugungap-05",
+      "title": "미래첨단도시, 퀀텀시티 춘천",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4201/003_100134571_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 강원 춘천시철원군화천군양구군갑 당선인 허영 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 3–6·8쪽 분야별 공약의 제목 5개를 넣었다(두 줄 제목은 이었다). PDF 3–4쪽 펼침 표제 「춘천성장 발목잡는 물규제의 족쇄를 풀고, 세계가 주목하는 도시브랜드를 창출하겠습니다!」 아래 두 묶음은 각각의 띠 제목을 썼다. 제목 아래 ■·○ 세부 항목과 지도 속 사업명, PDF 7쪽 「사람중심 맞춤형 행복도시!」 9개 수당·복지 항목(전국 단위), PDF 8쪽 「일하는 국회!」와 코로나19 대응, PDF 9–10쪽 읍면동별 공약은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

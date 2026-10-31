@@ -1,0 +1,43 @@
+{
+  "id": "yu-chanjong-1959",
+  "name": "유찬종",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100154016"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)종로구청장 후보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제20-21대 이재명 대통령후보 종로구 공동상임 선대위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대학교 경법대학 법학 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

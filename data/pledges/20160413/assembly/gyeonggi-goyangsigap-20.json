@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-goyangsigap-20",
+  "candidate": {
+    "name": "심상정",
+    "party_id": "jeonguidang",
+    "person_id": "sim-sangjeong-1959",
+    "nec_huboid": "100120137"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-goyangsigap-01",
+      "title": "신분당선 연장 등 '교통 씽씽 프로젝트'",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-goyangsigap-02",
+      "title": "역사와 문화를 잇는 '교외선 복원 5대 프로젝트'",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-goyangsigap-03",
+      "title": "5대 걱정 없는 행복교육",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-goyangsigap-04",
+      "title": "균형있고 따뜻한 고양",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4120/003_100120137_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 고양시갑 당선인 심상정 (정의당). 책자형 선거공보 PDF 5–6쪽 「함께 잘사는 고양 더(THE)행복 프로젝트」 제목 4개(쪽 이미지의 위에서 아래 순). 제목 아래 한 줄 부제와 • 세부 항목, PDF 7–8쪽 지구별(고양·관산, 식사동 등) 공약, PDF 9쪽 「삶에 힘이 되는 변화」(전국 공약), PDF 2–4쪽 약력·정치 소개는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

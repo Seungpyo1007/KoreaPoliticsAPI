@@ -1,0 +1,43 @@
+{
+  "id": "gong-yeongmin-1954",
+  "name": "공영민",
+  "birth_year": 1954,
+  "external_ids": {
+    "nec_huboids": [
+      "100164457"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 기획재정부 부이사관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 고흥군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한성대학교 대학원 졸업(정책학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

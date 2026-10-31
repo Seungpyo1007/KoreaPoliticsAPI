@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-bupyeonggugap-21",
+  "candidate": {
+    "name": "이성만",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-seongman-1961",
+    "nec_huboid": "100135262"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-bupyeonggugap-01",
+      "title": "부평역 지하화",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-bupyeonggugap-02",
+      "title": "GTX-B 노선 조기착공",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-bupyeonggugap-03",
+      "title": "부평미군기지 공원 조성",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-bupyeonggugap-04",
+      "title": "백운역 덮개 공원 조성",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-bupyeonggugap-05",
+      "title": "군부대 이전지역 개발",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2806/003_100135262_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 부평구갑 당선인 이성만 (더불어민주당). 책자형 선거공보 PDF 6쪽 「부평의 미래 이성만」 번호 공약 1–5 제목. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 부제와 · 세부 항목, PDF 3–4쪽 경인전철 지하화·중심업무지구 그림 설명, PDF 7–10쪽 생활 밀착 정책과 분야별·정치·노동 공약(당 공약과 겹침)은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

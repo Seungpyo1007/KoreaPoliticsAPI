@@ -1,0 +1,43 @@
+{
+  "id": "gim-gijae-1974",
+  "name": "김기재",
+  "birth_year": 1974,
+  "external_ids": {
+    "nec_huboids": [
+      "100154262"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)당진시장후보(더불어민주당)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제3대 당진시의회 의장(전반기)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한양대학교 공공정책대학원 지방자치학과 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-bupyeonggueul-21",
+  "candidate": {
+    "name": "홍영표",
+    "party_id": "deobureo-minjudang",
+    "person_id": "hong-yeongpyo-1957",
+    "nec_huboid": "100137617"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-bupyeonggueul-01",
+      "title": "뉴욕 센트럴파크, 런던 하이드파크 같은 도심공원 조성",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-02",
+      "title": "3보급단 부지, 구민친화공간으로 바꾸겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-03",
+      "title": "157 공병대 부지, 올해 개방하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-04",
+      "title": "살고싶은 주거환경을 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-05",
+      "title": "부평경제, 새로운 동력을 창출하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-06",
+      "title": "문화·예술 도시로 도약합니다",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-07",
+      "title": "삼산유수지 문화·체육 클러스터 조성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-08",
+      "title": "도서관·커뮤니티 공간 확충하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-09",
+      "title": "갈산 문화체육복합센터 유치하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-10",
+      "title": "GTX-B 노선 조속착공 추진",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-11",
+      "title": "경인고속도로 지하화 재정사업 전환",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-bupyeonggueul-12",
+      "title": "서울도시철도 7호선 석남연장",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2806/003_100137617_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 부평구을 당선인 홍영표 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 5–8쪽 분야별 공약의 굵은 제목 12개를 넣었다. PDF 8쪽 「획기적 교통인프라 확충하겠습니다」는 표제 대신 그 아래 소제목 3개를 넣었다. 제목 아래 • 세부 항목, PDF 7쪽 「한국GM이 강한기업으로 거듭납니다」(신차 출시·복직 성과), PDF 5–6쪽 캠프마켓·3보급단 반환 경과, PDF 4쪽 지난 의정 성과, PDF 9–10쪽 동별 공약과 학교시설 개선 목록은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

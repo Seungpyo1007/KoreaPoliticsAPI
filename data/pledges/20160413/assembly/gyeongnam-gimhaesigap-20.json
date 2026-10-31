@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-gimhaesigap-20",
+  "candidate": {
+    "name": "민홍철",
+    "party_id": "deobureo-minjudang",
+    "person_id": "min-hongcheol-1961",
+    "nec_huboid": "100119714"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-gimhaesigap-01",
+      "title": "역사와 문화가 공존하는 체류형 관광도시",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongnam-gimhaesigap-02",
+      "title": "첨단산업기술도시(High Technology City)",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongnam-gimhaesigap-03",
+      "title": "사통팔달의 교통과 물류중심도시",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongnam-gimhaesigap-04",
+      "title": "미래세대를 위한 교육특성화 도시",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-gimhaesigap-05",
+      "title": "더불어 행복한 복지도시",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-gimhaesigap-06",
+      "title": "전국체전 유치를 추진하겠습니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4808/003_100119714_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 김해시갑 당선인 민홍철 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「김해발전 5대 비전」 VISION 01–05 제목 5개와 PDF 9쪽 한 쪽짜리 공약 「전국체전 유치를 추진하겠습니다.」 1개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 설명·• 세부 항목, 9쪽 ■ 소제목, PDF 10쪽 권역별(진영/한림권 등) 공약, PDF 5–6쪽 「더불어」 민생 정책, PDF 4쪽 지난 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

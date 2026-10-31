@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-yangsansieul-21",
+  "candidate": {
+    "name": "김두관",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-dugwan-1959",
+    "nec_huboid": "100136985"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-yangsansieul-01",
+      "title": "양산 광역전철시대 개막! 발전속도를 높이겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-yangsansieul-02",
+      "title": "양산의 튼튼한 미래! 새로운 경제생태계를 구축하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-yangsansieul-03",
+      "title": "모든 길이 통하는 양산! 사통팔달 교통망 구축하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-yangsansieul-04",
+      "title": "안전·생활인프라, 문화공간 확충! 여성·청소년·어르신이 행복해집니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-yangsansieul-05",
+      "title": "웅상 종합행정타운 조성! 웅상의 행정서비스를 높이겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-yangsansieul-06",
+      "title": "양산의 미래 성장동력 확보! 부산대 유휴부지 개발로 이끌겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4814/003_100136985_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 양산시을 당선인 김두관 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「경제·사람·행복이 모이는 중심, 양산 부울경 메가시티의 시작입니다」 두 줄 제목 6개(두 줄을 이었다). 제목 아래 ■ 세부 항목, PDF 9–10쪽 동별 공약, PDF 5–6쪽 지난 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

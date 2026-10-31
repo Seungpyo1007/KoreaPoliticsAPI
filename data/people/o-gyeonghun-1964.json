@@ -5,11 +5,77 @@
   "external_ids": {
     "assembly_mona_cd": "KQE57592"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "서울대학교 총 학생회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "내일신문 정치부 기자",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "한나라당 양천(을)지구당 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "한나라당 부대변인",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "대구신암초등학교 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "서울 영동 중학교 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "서울 용문 고등학교 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "서울대학교 외교학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-01"
 }

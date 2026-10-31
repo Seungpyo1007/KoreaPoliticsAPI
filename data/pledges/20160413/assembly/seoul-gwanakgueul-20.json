@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gwanakgueul-20",
+  "candidate": {
+    "name": "오신환",
+    "party_id": "saenuridang",
+    "person_id": "o-sinhwan-1971",
+    "nec_huboid": "100119314"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gwanakgueul-01",
+      "title": "관악을 청년창업의 메카로",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gwanakgueul-02",
+      "title": "관악의 새로운 성장동력을 만들겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgueul-03",
+      "title": "교통지옥을 교통천국으로! 삶의 질을 높이겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgueul-04",
+      "title": "교육·문화·여가의 중심 명품 관악을 건설하겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1121/003_100119314_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 관악구을 당선인 오신환 (새누리당). 책자형 선거공보 PDF 9쪽 「관악의 미래를 위한 오신환의 약속」 큰 제목 1개와 PDF 10쪽 분야별 제목 3개. 각 제목 아래 빨간 부제와 ■ 세부 항목, PDF 10쪽 아래 「강남아파트 재건축 민·공영개발로 끝까지 책임지겠습니다!」 맺음 문구는 넣지 않았다. PDF 7–8쪽 사법시험 존치·중소상공인·복지 등 전국 정책 공약과 PDF 6쪽 지난 성과도 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

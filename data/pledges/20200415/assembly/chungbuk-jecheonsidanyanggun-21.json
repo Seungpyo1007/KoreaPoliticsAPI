@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungbuk-jecheonsidanyanggun-21",
+  "candidate": {
+    "name": "엄태영",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "eom-taeyeong-1958",
+    "nec_huboid": "100134581"
+  },
+  "pledges": [
+    {
+      "id": "21-chungbuk-jecheonsidanyanggun-01",
+      "title": "국가지정 호반·산수관광단지 조성",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-jecheonsidanyanggun-02",
+      "title": "사통팔달의 수도권 연계 교통망 구축(여주간, 괴산간 고속도로 개설)",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-jecheonsidanyanggun-03",
+      "title": "우량기업 유치로 양질의 일자리 창출",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-jecheonsidanyanggun-04",
+      "title": "수도권 소재 문화관광 공공기관 유치(2차 공공기관 지방이전 정책)",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-jecheonsidanyanggun-05",
+      "title": "단양복합체육관(인라인롤러스케이트장)건립",
+      "page": 7
+    },
+    {
+      "id": "21-chungbuk-jecheonsidanyanggun-06",
+      "title": "단양~예천, 적성~청풍간 지방도 국도(국지도)승격·개량",
+      "page": 7
+    },
+    {
+      "id": "21-chungbuk-jecheonsidanyanggun-07",
+      "title": "단양호·청풍호 순환 자전거도로 확충",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4304/003_100134581_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충북 제천시단양군 당선인 엄태영 (미래통합당). 책자형 선거공보 PDF 5쪽 「엄태영2 약속드리는 더 큰 제천」 체크 공약 4개와 PDF 7쪽 「세계인이 찾는 국제 문화·관광 도시 단양」 체크 공약 3개, 제목 7개. PDF 5–8쪽 분야별 표제(경쟁력 있는 문화·관광도시 등)와 그 아래 • 세부 항목, PDF 3–4쪽 제천시장 시절 성과, PDF 10쪽 당 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

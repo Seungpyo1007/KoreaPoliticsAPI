@@ -1,0 +1,113 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-changwonsimasanhoewongu-21",
+  "candidate": {
+    "name": "윤한홍",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "yun-hanhong-1962",
+    "nec_huboid": "100135282"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-01",
+      "title": "창원교도소 이전 · 회성동 복합행정타운 조성 완수",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-02",
+      "title": "서마산IC 교통흐름 획기적 개선",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-03",
+      "title": "창업 · 벤처기업 육성을 위한 혁신성장공간 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-04",
+      "title": "동대구~창원 KTX 직선화로 도시경쟁력 강화",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-05",
+      "title": "창원지법 마산지원과 창원가정법원 등 공공기관 유치",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-06",
+      "title": "회성동복합행정타운에 ‘방과후 청소년 특별활동지원관’ 설립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-07",
+      "title": "중리 · 봉암공단 등에 민간투자 활성화 추진",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-08",
+      "title": "내서 주민복합센터와 중리 어린이체육관 건립",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-09",
+      "title": "삼계 블루힐스 앞 광려천 인도교 설치",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-10",
+      "title": "삼계 공영주차장 건립",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-11",
+      "title": "신평마을 화물공영주차장 재검토",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-12",
+      "title": "상시 수량 확보로 산호천 생태환경 개선",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-13",
+      "title": "노후 행정복지센터 신축(양덕1 · 2동, 합성2동)",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-14",
+      "title": "밤골 여울마당 체육공원 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-15",
+      "title": "합성2동 다목적 체육관 건립",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-16",
+      "title": "구암마당 다목적 실내 체육시설 건립",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-17",
+      "title": "합성동 상권 활성화",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-18",
+      "title": "지혜의 바다 도서관에 생태공원 조성과 지하주차장 건립",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhoewongu-19",
+      "title": "회원1동 폐선부지 특화거리 조성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4824/003_100135282_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 창원시마산회원구 당선인 윤한홍 (미래통합당). 책자형 선거공보 PDF 9–10쪽 「4년의 약속! 마산 재도약을 완성하겠습니다!」의 번호 공약 목록 셋, PDF 9쪽 「창원의 ‘중심’으로 발돋움하는 마산회원구!」 01–07, PDF 10쪽 「자족형 도시로 도약하는 내서!」 01–04, 「미래형 신도시로 탈바꿈하는 동마산권!」 01–08, 제목 19개(PDF 10쪽은 왼쪽 단, 오른쪽 단 순으로 번호 순). 제목 아래 • 세부 항목, PDF 7–8쪽 지난 4년 성과, PDF 6쪽 당 공약, PDF 3–4쪽 정권 심판 주장은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

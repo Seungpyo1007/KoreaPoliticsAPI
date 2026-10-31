@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-suwonsieul-20",
+  "candidate": {
+    "name": "백혜련",
+    "party_id": "deobureo-minjudang",
+    "person_id": "baek-hyeryeon-1967",
+    "nec_huboid": "100118721"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-suwonsieul-01",
+      "title": "35만개의 일자리가 생기는 더 당당한 경제 플랫폼",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-suwonsieul-02",
+      "title": "7만명의 학생들을 위한 더 든든한 교육 플랫폼",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-suwonsieul-03",
+      "title": "17만명의 출퇴근족을 위한 더 재빠른 교통 플랫폼",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-suwonsieul-04",
+      "title": "30만명의 서수원 시민을 위한 더 골고루 복지 플랫폼",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4102/003_100118721_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 수원시을 당선인 백혜련 (더불어민주당). 책자형 선거공보 PDF 6쪽 「살맛나고 폼나는, 서수원 신도시 4대 플랫폼」 제목 4개(작은 윗줄과 굵은 아랫줄을 이었다). 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 7–9쪽 플랫폼별 소제목·세부 항목과 쪽 아래 「폼나는 마을, 백혜련의 실천약속」 동별 공약, PDF 10쪽 청년정책은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

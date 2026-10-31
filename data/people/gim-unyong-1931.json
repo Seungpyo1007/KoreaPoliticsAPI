@@ -5,11 +5,125 @@
   "external_ids": {
     "assembly_mona_cd": "QG29833U"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "국기원원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "세계태권도연맹총재",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "국제올림픽위원회(IOC)부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한올림픽위원회(KOC)위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한체육회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "국제올림픽위원회(IOC)집행위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "2002년 월드컵축구대회조직위원회 자문위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "국제경기단체총연합회(GAISF)회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한태권도협회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "새천년민주당 총선기획위원회 위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "제33대 대한체육회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대학교 정치외교학과졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "동 대학원 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "미국메리빌대학교(법학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-01"
 }

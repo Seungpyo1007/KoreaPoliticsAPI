@@ -5,11 +5,109 @@
   "external_ids": {
     "assembly_mona_cd": "3JF36639"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "공군장교로 복무(중위)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "민주공화당 사무국요원(공채), 교무국장, 기획국장, 기획관리부장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "민주정의당 창당발기인, 기획실장, 전문위원실장, 정책국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "11대 국회 경제과학위원, 상공위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "국민투자신탁 사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한투자신탁 사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "산업증권 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "투자신탁협회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한민국헌정회 감사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한민국헌정회 이사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 법과졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "단국대 대학원 경영학 박사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-01"
 }

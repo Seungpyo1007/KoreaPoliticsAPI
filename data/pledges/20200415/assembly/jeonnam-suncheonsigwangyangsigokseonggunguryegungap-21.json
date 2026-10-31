@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonnam-suncheonsigwangyangsigokseonggunguryegungap-21",
+  "candidate": {
+    "name": "소병철",
+    "party_id": "deobureo-minjudang",
+    "person_id": "so-byeongcheol-1958",
+    "nec_huboid": "100137543"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonnam-suncheonsigwangyangsigokseonggunguryegungap-01",
+      "title": "「여수·순천10·19사건특별법」 제정",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-suncheonsigwangyangsigokseonggunguryegungap-02",
+      "title": "「2023순천만국제정원박람회지원특별법」 제정",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-suncheonsigwangyangsigokseonggunguryegungap-03",
+      "title": "하나된 순천! 「공직선거법」 개정안",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-suncheonsigwangyangsigokseonggunguryegungap-04",
+      "title": "전남 동남권 의과대학 설립 및 권역응급의료센터(3차 대학병원급) 기능 보강·확대",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-suncheonsigwangyangsigokseonggunguryegungap-05",
+      "title": "‘순천형’ 농업혁신과제 실현",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-suncheonsigwangyangsigokseonggunguryegungap-06",
+      "title": "전라선 고속화 및 수도권 2시간 생활권 구축",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4604/003_100137543_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전남 순천시광양시곡성군구례군갑 당선인 소병철 (더불어민주당). 책자형 선거공보 PDF 7쪽 「소병철의 약속1 입법 공약」 01–02와 PDF 8쪽 「소병철의 약속2 순천형 공약」 1–4 제목, 모두 6개(두 줄 제목은 이었다). 약속1의 03 「사이버·미성년자성범죄가중처벌법」, 04 「어린이 안전기본법」은 전국 단위 입법이라 넣지 않았다. 제목 아래 설명과 • 세부 항목, PDF 7–8쪽 코로나19 약속, PDF 9–10쪽 「소병철의 약속3 순천 지역별 공약」 사업표, PDF 3–6쪽 약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

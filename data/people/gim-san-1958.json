@@ -1,0 +1,43 @@
+{
+  "id": "gim-san-1958",
+  "name": "김산",
+  "birth_year": 1958,
+  "external_ids": {
+    "nec_huboids": [
+      "100161183"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)민선6기 무안군의회의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)민선8기 무안군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "목포대학(현 국립목포대학교) 지역개발학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

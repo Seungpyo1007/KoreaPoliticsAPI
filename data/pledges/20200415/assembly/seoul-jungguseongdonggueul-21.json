@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-jungguseongdonggueul-21",
+  "candidate": {
+    "name": "박성준",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-seongjun-1969",
+    "nec_huboid": "100137489"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-jungguseongdonggueul-01",
+      "title": "서울의 중심에 스타트업생태계를 조성하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-jungguseongdonggueul-02",
+      "title": "함께 꿈꾸는 교육도시, 서울 최고의 명문교육특구 조성",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-jungguseongdonggueul-03",
+      "title": "금호와 옥수를 서울의 대표 명품 주거지로 탈바꿈",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-jungguseongdonggueul-04",
+      "title": "지역을 살리고, 주민을 삶을 지원하는 든든한 공간 기반 마련",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-jungguseongdonggueul-05",
+      "title": "중구의 지도를 바꾸겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-jungguseongdonggueul-06",
+      "title": "아이 키우고 교육하기 좋은 중구",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-jungguseongdonggueul-07",
+      "title": "어르신들이 존경받는 중구",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-jungguseongdonggueul-08",
+      "title": "문화르네상스, 도심산업 활성화로 활력 넘치는 중구",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1102/003_100137489_20200415_4.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 중구성동구을 당선인 박성준 (더불어민주당). 책자형 선거공보 PDF 6쪽 큰 제목 1개, PDF 7쪽 「품격이 다른 명품도시 성동」 번호 공약 1–3, PDF 9쪽 「떠나가는 중구에서 살고 싶은 중구로」 번호 공약 1–4를 넣었다. PDF 6쪽 제목 아래 1–4 소제목과 • 세부 항목, PDF 8·10쪽 동별 공약, PDF 5쪽 코로나 대응 글은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

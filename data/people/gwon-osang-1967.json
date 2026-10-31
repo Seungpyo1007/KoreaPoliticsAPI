@@ -1,0 +1,43 @@
+{
+  "id": "gwon-osang-1967",
+  "name": "권오상",
+  "birth_year": 1967,
+  "external_ids": {
+    "nec_huboids": [
+      "100154194"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)대구광역시 서구부구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)대구광역시 환경수자원국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "영남대학교 경영행정대학원 졸업(사회복지학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

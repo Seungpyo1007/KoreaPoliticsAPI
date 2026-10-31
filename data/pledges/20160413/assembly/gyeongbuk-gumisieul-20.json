@@ -1,0 +1,98 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongbuk-gumisieul-20",
+  "candidate": {
+    "name": "장석춘",
+    "party_id": "saenuridang",
+    "person_id": "jang-seokchun-1957",
+    "nec_huboid": "100118458"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongbuk-gumisieul-01",
+      "title": "5공단 재창조",
+      "page": 3
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-02",
+      "title": "일자리 창조 도시",
+      "page": 3
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-03",
+      "title": "중소기업지원 강화",
+      "page": 3
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-04",
+      "title": "KTX 구미역 정차 및 칠곡철도 CY 존치",
+      "page": 3
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-05",
+      "title": "사회복지와 건강복지의 확충",
+      "page": 3
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-06",
+      "title": "1마을 1명품화 소득증대사업 부자농촌 육성",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-07",
+      "title": "공교육 도시구미 비상(飛上)",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-08",
+      "title": "100세시대 대비 평생학습체제 구축",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-09",
+      "title": "명실 상부한 문화관광 도시",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-10",
+      "title": "새마을운동, 자연보호 발상지 성역화",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-11",
+      "title": "국가산업단지 활성화 & 명품화",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-12",
+      "title": "모두가 건강한 복지",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-13",
+      "title": "지역인재 육성",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-14",
+      "title": "보육교육 질은 높게! 부모님 보육비용은 낮게! 아이들의 푸른 꿈은 더 크게",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-15",
+      "title": "농촌지역 미래 신성장동력 강소농육성",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-gumisieul-16",
+      "title": "에코 힐링(Eco-Healing)구미, 관광산업 벨트화",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4707/003_100118458_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경북 구미시을 당선인 장석춘 (새누리당). 책자형 선거공보 PDF 3–4쪽 「50만, 글로벌 신(新) 구미시대!」 번호 1–9 제목 9개와, 같은 ◈ 꼴로 이어지는 PDF 5–8쪽 번호 없는 공약 제목 7개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 앞 ◈ 기호와 쪽 머리띠 구호(「대한민국 경제수도 구미부활!」 등), 제목 아래 ▶ 세부 항목, PDF 9–10쪽 권역별 공약은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

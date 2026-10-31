@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-yangcheongugap-21",
+  "candidate": {
+    "name": "황희",
+    "party_id": "deobureo-minjudang",
+    "person_id": "hwang-hui-1967",
+    "nec_huboid": "100136878"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-yangcheongugap-01",
+      "title": "목동아파트 1·2·3단지 3종환원 결정",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-02",
+      "title": "재건축 안전진단 기준 고시개정",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-03",
+      "title": "목3동, 주민이 주도하는 도시재생 추진",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-04",
+      "title": "목동유수지 혁신성장밸리 조성 추진",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-05",
+      "title": "강북선·목동선 조기착공 추진",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-06",
+      "title": "신정차량기지 완전이전·2호선 신정지선 복선화",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-07",
+      "title": "염창역 역세권 활성화사업 추진(목2동)",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-08",
+      "title": "양천쓰레기소각장 이전 추진",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-09",
+      "title": "주차장 확보방안 마련",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-10",
+      "title": "안양천로 일부 구간 지하화 및 상부 공원화 추진",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-11",
+      "title": "신정교역 신설 타당성조사를 통한 2호선 역사 신설방안 마련",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongugap-12",
+      "title": "5호선 오목교역을 ‘목동중앙역’으로 역사명칭 변경 추진",
+      "page": 3
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1115/003_100136878_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 양천구갑 당선인 황희 (더불어민주당). 책자형 선거공보 PDF 3쪽(펼침면) 「지역개발 공약 (계속)」 1–6과 「지역개발 공약 (신규)」 7–12의 제목 12개. 제목 아래 • 세부 항목은 넣지 않았다. PDF 4쪽 교육·복지 공약(▶ 제목), PDF 5쪽 입법 및 제도개선 공약·미래혁신 공약, PDF 6쪽 개헌·외교 내용은 넣지 않았다. 1번은 계속 공약 목록에 실린 그대로 넣었다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

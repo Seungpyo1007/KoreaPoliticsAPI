@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-jinjusigap-20",
+  "candidate": {
+    "name": "박대출",
+    "party_id": "saenuridang",
+    "person_id": "bak-daechul-1961",
+    "nec_huboid": "100119410"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-jinjusigap-01",
+      "title": "윈윈(Win-Win) 도시",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongnam-jinjusigap-02",
+      "title": "남강 르네상스",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-jinjusigap-03",
+      "title": "항공우주산업 도시",
+      "page": 9
+    },
+    {
+      "id": "20-gyeongnam-jinjusigap-04",
+      "title": "남부내륙철도 조기착공 및 개통",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4803/003_100119410_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 진주시갑 당선인 박대출 (새누리당). 책자형 선거공보 PDF 7–9쪽 「결과를 또 만들겠습니다」 Ⅰ–Ⅲ 제목 3개와 PDF 9쪽 아래 KTX 상자 제목 1개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 앞 로마숫자를 덜어냈고, 제목 아래 부제(「조화·화합·상생의 도시재생」 등)와 붉은 띠 소제목·• ■ 세부 항목은 넣지 않았다. PDF 10쪽 「1과 새누리의 약속」 01–07은 전국 정책 공약이라 넣지 않았고, PDF 5쪽 지난 성과도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

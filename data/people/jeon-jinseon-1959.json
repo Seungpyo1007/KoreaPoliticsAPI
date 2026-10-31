@@ -1,0 +1,43 @@
+{
+  "id": "jeon-jinseon-1959",
+  "name": "전진선",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100162432"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)제8대 양평군의회 의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)양평군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "동국대학교 대학원 경찰행정학과 박사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

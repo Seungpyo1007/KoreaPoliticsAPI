@@ -1,0 +1,43 @@
+{
+  "id": "ryu-gyeonggi-1961",
+  "name": "류경기",
+  "birth_year": 1961,
+  "external_ids": {
+    "nec_huboids": [
+      "100163845"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)서울특별시 행정1부시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)중랑구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 정치학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

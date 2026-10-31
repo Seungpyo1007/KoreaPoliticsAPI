@@ -1,0 +1,43 @@
+{
+  "id": "gim-wanggyu-1963",
+  "name": "김왕규",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100160581"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)강원특별자치도의회 의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)강릉시 부시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "중국 청도대학 인구.자원과 환경경제학 졸업(경제학석사)(2005.9.~2007.12.)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

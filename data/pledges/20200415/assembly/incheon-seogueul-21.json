@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-seogueul-21",
+  "candidate": {
+    "name": "신동근",
+    "party_id": "deobureo-minjudang",
+    "person_id": "sin-donggeun-1961",
+    "nec_huboid": "100137341"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-seogueul-01",
+      "title": "수도권 매립지 종료 및 환경개선",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-seogueul-02",
+      "title": "사통팔달 교통요지 서구",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-seogueul-03",
+      "title": "건강하고 안전한 서구",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-seogueul-04",
+      "title": "교육·문화·복지 만족도시 서구",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-seogueul-05",
+      "title": "자족형 복합도시 서구",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2808/003_100137341_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 서구을 당선인 신동근 (더불어민주당). 책자형 선거공보 PDF 8쪽 「해낼사람 신동근이 약속합니다!」 분야 제목 5개. 제목 아래 ▶ 세부 항목과 사진 밑 이름표, PDF 9–10쪽 동별 공약, PDF 3·5–7쪽 지난 의정 성과, PDF 4쪽 당 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

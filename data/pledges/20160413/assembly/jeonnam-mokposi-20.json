@@ -1,0 +1,78 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonnam-mokposi-20",
+  "candidate": {
+    "name": "박지원",
+    "party_id": "gungminui-dang",
+    "person_id": "bak-jiwon-1942",
+    "nec_huboid": "100120234"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonnam-mokposi-01",
+      "title": "무안반도 통합, ‘목포-무안 경제자유구역’ 지정",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-02",
+      "title": "신항만배후부지 100만평 개발, 대기업·외자 유치",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-03",
+      "title": "목포역 복합역사·환승터미널 건설",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-04",
+      "title": "무안공항 활성화(활주로 증설, 국제·국내선 유치)",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-05",
+      "title": "목포 국제수산식품 박람회 개최",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-06",
+      "title": "북항 친환경수산종합지원단지 조성",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-07",
+      "title": "국립목포해양대 해양레저학부 신설",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-08",
+      "title": "목포항 크루즈 부두 개발, 내항(삼학도) 활성화",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-09",
+      "title": "도시재생, 목포역세권 개발로 원도심 상권 살리기",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-10",
+      "title": "의과대학 유치, 목상고 이전 등 신도심 교육환경개선",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-11",
+      "title": "신성장산업(해상풍력, 레저선박, 세라믹, 자동차부품·튜닝) 일자리 창출",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-mokposi-12",
+      "title": "공공임대주택 시설개선·생활지원·돌봄서비스 확대",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4601/003_100120234_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전남 목포시 당선인 박지원 (국민의당). 책자형 선거공보 PDF 5쪽 「목포의 미래, 박지원의 약속! 목포발전 3대 비전, 12대 공약」의 ①–⑫ 공약 12개(PDF 5–6쪽 펼침면, 공약 목록은 5쪽). PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 3대 비전 표제(「국제관문도시 목포」 등), 「기타」 • 항목, PDF 7쪽 지난 8년 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

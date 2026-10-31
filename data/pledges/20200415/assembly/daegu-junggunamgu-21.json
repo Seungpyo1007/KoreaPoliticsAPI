@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daegu-junggunamgu-21",
+  "candidate": {
+    "name": "곽상도",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gwak-sangdo-1959",
+    "nec_huboid": "100137777"
+  },
+  "pledges": [
+    {
+      "id": "21-daegu-junggunamgu-01",
+      "title": "대구시청 후적지 개발",
+      "page": 5
+    },
+    {
+      "id": "21-daegu-junggunamgu-02",
+      "title": "열악한 주거환경 개선",
+      "page": 5
+    },
+    {
+      "id": "21-daegu-junggunamgu-03",
+      "title": "문화ㆍ관광자원 개발",
+      "page": 5
+    },
+    {
+      "id": "21-daegu-junggunamgu-04",
+      "title": "학생 수 감소에 따른 사립 유치원 퇴로마련",
+      "page": 5
+    },
+    {
+      "id": "21-daegu-junggunamgu-05",
+      "title": "캠프워커ㆍ캠프조지 반환 절차 마무리",
+      "page": 6
+    },
+    {
+      "id": "21-daegu-junggunamgu-06",
+      "title": "열악한 주거환경 개선",
+      "page": 6
+    },
+    {
+      "id": "21-daegu-junggunamgu-07",
+      "title": "문화ㆍ관광자원 개발",
+      "page": 6
+    },
+    {
+      "id": "21-daegu-junggunamgu-08",
+      "title": "국공립 유치원ㆍ어린이집 점진적 확대",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2704/003_100137777_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대구 중구남구 당선인 곽상도 (미래통합당). 머리 공약 목록이 없어 책자형 선거공보 PDF 5쪽 「대구의 중심, 중구」와 PDF 6쪽 「남구의 중흥」의 상자 제목·하단 띠 제목 각 4개를 넣었다. 「열악한 주거환경 개선」과 「문화ㆍ관광자원 개발」은 중구·남구 쪽에 같은 제목으로 따로 있어 둘 다 넣었다. 제목 아래 ● 세부 항목, PDF 3쪽 코로나19 대응 활동, PDF 4쪽 대여투쟁 활동은 넣지 않았다. 끝의 !를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

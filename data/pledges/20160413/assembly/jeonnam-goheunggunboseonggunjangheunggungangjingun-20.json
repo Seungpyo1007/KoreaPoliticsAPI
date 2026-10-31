@@ -1,0 +1,238 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonnam-goheunggunboseonggunjangheunggungangjingun-20",
+  "candidate": {
+    "name": "황주홍",
+    "party_id": "gungminui-dang",
+    "person_id": "hwang-juhong-1952",
+    "nec_huboid": "100120179"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-01",
+      "title": "득량만 권역 청정해역특구 지정·개발",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-02",
+      "title": "직불금 지급이 안 되는 고흥·강진 등 간척지 농지에도 지급",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-03",
+      "title": "고흥, 보성, 장흥, 강진 4개 군의 한우 공동브랜드 개발",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-04",
+      "title": "통발 어망의 그물코 규격을 현실화(18mm로 축소)",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-05",
+      "title": "9년 만에 공사 재개시켜서 ‘황주홍 철도’라고 보도되었던 남해안철도(목포-강진-장흥-보성)를 전철화하고 적기 완공 추진",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-06",
+      "title": "4개 군 관내 농가에 벼 저장 싸이로 시설 공급",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-07",
+      "title": "면세유 확대공급 정책 시행",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-08",
+      "title": "중소 하천의 홍수피해 예방 위한 홍수 통합관리 체계 구축 지원",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-09",
+      "title": "국립 우주항공부품 시험평가센터 건립으로 우주항공산업 선도",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-10",
+      "title": "고흥을 차세대 성장 동력인 드론(무인기) 산업의 전진기지로 선정·육성",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-11",
+      "title": "동강 특화 농공단지(제2) 조성",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-12",
+      "title": "고흥-여수 연륙 공사(국도 77호선 11개 교량) 조기 완공위한 국비 확보",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-13",
+      "title": "녹동 구항-신항 도로 4차선 확포장",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-14",
+      "title": "녹동-소록도간 인도교를 소록도 100주년 기념 국비사업으로 건설",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-15",
+      "title": "소록도를 역사, 문화, 예술의 아름다운 국가 테마공원으로 조성",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-16",
+      "title": "두원 대전 - 대서 신기 간 연륙교 건설",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-17",
+      "title": "팔영산 권 관광개발 사업 추진",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-18",
+      "title": "녹동·금산 권역 스포츠 관광 종합공원 조성",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-19",
+      "title": "고흥-봉래(나로도 우주센터)간 국도 15호선 4차선 확포장",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-20",
+      "title": "국립 녹차시험연구기관 유치로 녹차산업을 국가 차원에서 육성",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-21",
+      "title": "보성 복내 ~ 화순 남면 간 도로 개설",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-22",
+      "title": "벌교 갯벌을 국립공원 지정",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-23",
+      "title": "벌교역 광장 우측 상가와 뒤쪽 군유지에 국비 주차장 건설",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-24",
+      "title": "회천-득량-조성 간 해안도로의 국도 승격",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-25",
+      "title": "율포, 동율, 군농 일대 휴양관광지 확충사업 추진",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-26",
+      "title": "보성강 생태하천 복원사업으로 수질 개선과 서식지 복원",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-27",
+      "title": "벌교 꼬막 목장화사업 추진으로 꼬막가격의 안정 및 경쟁력 확보",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-28",
+      "title": "국도 18호선(보성읍 보성리~회천면 영천리 간 14km) 확포장 공사",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-29",
+      "title": "보성 향토시장 진입로 개설과 대형 주차장 건설",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-30",
+      "title": "통합의학센터를 중심으로한 치유(힐링) 센터 건립",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-31",
+      "title": "신마항 공사 피해어민 보상 해결",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-32",
+      "title": "이청준문학관을 포함하는 국립문학관(문화관광부 공모사업) 유치",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-33",
+      "title": "국도 23호선(유치-장흥-용산-대덕) 4차선 확포장",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-34",
+      "title": "보림사 명상센터 건립",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-35",
+      "title": "토요시장 활성화 위한 강변주차장 개선과 천변 하상 데크 설치",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-36",
+      "title": "동학농민혁명기념관 역사교육 활용을 위한 운영비 국비 지원",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-37",
+      "title": "관산고등학교를 국립 한국산림과학고등학교로 전환",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-38",
+      "title": "고려청자 박물관을 국립박물관으로 승격",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-39",
+      "title": "신마항에 화물선이 조기 취항토록 추진",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-40",
+      "title": "10년 만의 강진만 어업 피해 영향사업 마무리와 피해 보상",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-41",
+      "title": "교통안전체험센터 유치",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-42",
+      "title": "하멜촌 조성 사업",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-43",
+      "title": "강진-마량간 (국도 23호선) 4차선 확포장",
+      "page": 9
+    },
+    {
+      "id": "20-jeonnam-goheunggunboseonggunjangheunggungangjingun-44",
+      "title": "강진 도암-해남 옥천간 (국도 18호선) 4차선 확포장",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4615/003_100120179_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전남 고흥군보성군장흥군강진군 당선인 황주홍 (국민의당). 책자형 선거공보 PDF 8–9쪽 「고흥·보성·장흥·강진 공통 공약」과 군별 「○○의 변화, 군과 함께 이렇게 약속합니다.」(고흥·보성·장흥·강진)의 ○ 항목 44개. 머리 공약 목록이나 굵은 제목 줄이 따로 없어 ○ 항목을 그대로 넣었다. ○ 아래 - 세부 항목, 장흥의 「노력항을 국가연안항으로 하기 위한 정부 연구용역 확정하였습니다!」(이미 확정된 일), PDF 5–7쪽 쌀·수산업·복지 정책(전국 단위), PDF 2–4쪽 의정활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

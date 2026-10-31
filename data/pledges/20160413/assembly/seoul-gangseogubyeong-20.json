@@ -1,0 +1,153 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gangseogubyeong-20",
+  "candidate": {
+    "name": "한정애",
+    "party_id": "deobureo-minjudang",
+    "person_id": "han-jeongae-1965",
+    "nec_huboid": "100119674"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gangseogubyeong-01",
+      "title": "서부광역철도 조기착공 추진",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-02",
+      "title": "지하철 9호선 대폭증차 및 이용객 편의시설 확충",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-03",
+      "title": "공항 고도제한 완화 조속히 실현",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-04",
+      "title": "준공업지역 해제 및 문화·컨텐츠 산업 등 강서구 특화산업 육성",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-05",
+      "title": "월드컵 대교 건설 조기 완공 추진",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-06",
+      "title": "국회대로 지하화 및 상부 명품거리 조성 추진",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-07",
+      "title": "자연경관지구 합리적 완화 추진",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-08",
+      "title": "임대주택의 생활환경 개선 추진",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-09",
+      "title": "방범 취약지역 공공CCTV 확대 설치로 안전도시 강서 구현",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-10",
+      "title": "가로등(보안등) 추가 설치 및 개선, 안전한 밤거리 조성",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-11",
+      "title": "환경성 질환센터 설치 (아토피 천식 등 관리 예방 지원)",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-12",
+      "title": "등촌삼거리 교차로 사거리화 등 교통 체계 불편 해소",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-13",
+      "title": "국공립 어린이집 및 직장어린이집 확충 추진",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-14",
+      "title": "어르신복지관 건립 및 인생이모작 등 사회활동 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-15",
+      "title": "어르신 돌봐드리는 데이케어센터(돌봄센터), 동마다 1개씩 단계적 확충",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-16",
+      "title": "일반고 역량 강화 및 고교 균형 발전 적극 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-17",
+      "title": "교육환경 개선",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-18",
+      "title": "마곡지구 보타닉 공원 내 유럽식 숲속 도서관 설립 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-19",
+      "title": "강서청소년 문화의 집(가칭 ‘꿈창작소’) 설립 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-20",
+      "title": "고교 무상교육 실현(교육비 절감) 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-21",
+      "title": "아이의 안전한 통학 지원하는 워킹스쿨버스 강서 전 초등학교로 단계적 확충",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-22",
+      "title": "‘강서문화예술회관’ 건립 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-23",
+      "title": "‘LG아트센터’ 강서구 조속 이전 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-24",
+      "title": "창작활동을 지원하는 ‘문화예술창작소’ 건립 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-25",
+      "title": "지역 상권 활성화를 위한 ‘어울림플라자(가칭)’ 설립",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-26",
+      "title": "마을공동체 사업 지원 확대",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogubyeong-27",
+      "title": "누구나 가고 싶은 봉제산 공원 조성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1116/003_100119674_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 강서구병 당선인 한정애 (더불어민주당). 머리 공약 목록이 따로 없어 분야별 공약 제목 27개를 넣었다. PDF 8쪽 「더 해내겠습니다」 굵은 제목 7개(위 큰 제목, 왼쪽 단, 오른쪽 단 순), PDF 9쪽 「생활만족, 더 세심히 살피겠습니다」 1–8, PDF 10쪽 「강서교육의 질, 대폭 향상 시키겠습니다」 1–6과 「문화시설, 집중적으로 확충하겠습니다」 1–6이다. 제목 아래 • 세부 항목은 넣지 않았다. PDF 9쪽 「한정애의 더 따뜻한 공약」 1–7은 전국 정책 공약이라 넣지 않았고, PDF 3–7쪽 지난 의정 성과도 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

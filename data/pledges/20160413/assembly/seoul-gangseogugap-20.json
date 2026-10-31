@@ -1,0 +1,123 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gangseogugap-20",
+  "candidate": {
+    "name": "금태섭",
+    "party_id": "deobureo-minjudang",
+    "person_id": "geum-taeseop-1967",
+    "nec_huboid": "100119795"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gangseogugap-01",
+      "title": "각 분야 최고 전문가로 구성된 〈강서 청소년 멘토 드림팀〉 구성",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogugap-02",
+      "title": "대한민국 최고 수준의 〈진학 진로 프로그램〉 도입",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogugap-03",
+      "title": "〈강서형 칸 아카데미〉 운영",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogugap-04",
+      "title": "〈청소년 창의 캠퍼스〉 건립",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogugap-05",
+      "title": "〈안전하고 가까운 학교〉 만들기",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogugap-06",
+      "title": "〈숲유치원〉 설치, 몸도 마음도 건강하게",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangseogugap-07",
+      "title": "온가족이 함께 자연을 배우는 〈키즈팜〉",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogugap-08",
+      "title": "놀면서 공부하는 〈상상 도서관〉",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogugap-09",
+      "title": "가족과 함께 쉬는 〈강서 가족의 숲〉",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogugap-10",
+      "title": "좋은 엄마, 아빠를 위한 〈마더센터〉",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogugap-11",
+      "title": "쌈지돈도 벌고 손주들과도 함께 하는 〈이야기보따리〉",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangseogugap-12",
+      "title": "차 세우기 편한 마을",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogugap-13",
+      "title": "다니기 편하고 전선이 정리된 쾌적한 골목",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogugap-14",
+      "title": "엄마가 안심하는 안전한 등하굣길",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogugap-15",
+      "title": "여성 안심하우스",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogugap-16",
+      "title": "앉아가는 편한 길",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogugap-17",
+      "title": "강서의 가치를 올리는 ‘고도제한 완화’ 부터 해내겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogugap-18",
+      "title": "국토부가 추진하는 서부권 광역철도 사업(부천원종~화곡~홍대입구)과 서울시가 추진하는 2호선 신정지선(화곡~까치산역)연결 사업, 최대한 앞장서겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogugap-19",
+      "title": "제물포로 지하화, 상부에 자연·문화시설을 조성하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogugap-20",
+      "title": "화곡유통단지를 유통산업단지로, 강서경제에 활력을",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangseogugap-21",
+      "title": "과밀학급·학군배정 문제, 박원순 시장·조희연 교육감·금태섭이 함께 풀겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1116/003_100119795_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 강서구갑 당선인 금태섭 (더불어민주당). 책자형 선거공보 PDF 8–10쪽 공약 목록 4개와 박스 공약 1개, 제목 21개. PDF 8쪽 「교육분야 5대 공약」 5개와 〈숲유치원〉 박스, PDF 9쪽 「온가족이 즐길 수 있는 문화선물 5가지」 5개, PDF 10쪽 「강서 안심마을 프로젝트」 5개와 「박원순 시장과 함께 5가지는 반드시 해내겠습니다」 5개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 설명 글, PDF 8쪽 위쪽 인터뷰형 본문, PDF 2–6·11쪽 추천사·약력은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

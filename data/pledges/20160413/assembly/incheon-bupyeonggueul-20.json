@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/incheon-bupyeonggueul-20",
+  "candidate": {
+    "name": "홍영표",
+    "party_id": "deobureo-minjudang",
+    "person_id": "hong-yeongpyo-1957",
+    "nec_huboid": "100120083"
+  },
+  "pledges": [
+    {
+      "id": "20-incheon-bupyeonggueul-01",
+      "title": "경인고속도로 직접진입구간(산곡청천,천대고가)",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-bupyeonggueul-02",
+      "title": "지하철7호선 급행추진",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-bupyeonggueul-03",
+      "title": "부평산단 준공업지역 전환",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-bupyeonggueul-04",
+      "title": "한국군부대 도심외곽 이전(예비군훈련장 이전저지)",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-bupyeonggueul-05",
+      "title": "생산물량확보, 고용안정으로 한국GM안정화",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-bupyeonggueul-06",
+      "title": "미군부대이전부지-장고개길신설, 국민체육센터 · 노인복지회관 설치",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-bupyeonggueul-07",
+      "title": "인천3호선계획 부개역·삼산체육관역 환승역 추진",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-bupyeonggueul-08",
+      "title": "굴포천 수량확보, 환경정화사업 추진",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2806/003_100120083_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 인천 부평구을 당선인 홍영표 (더불어민주당). 책자형 선거공보 PDF 9쪽 「홍영표의 핵심 ‘더+부평 약속’」 1–8. OCR 결과라 쪽 이미지를 보고 옮겼다. 같은 공약을 다르게 묶은 PDF 7쪽 「부평을 바꾸는 넷!」, PDF 8쪽 「부평을 키우는 일곱!」과 「부평 더+ 스물둘!」, PDF 9쪽 「크고 작은 부평의 변화」(완공·착공 사업)와 학교별 학습환경 개선계획, PDF 3–6쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

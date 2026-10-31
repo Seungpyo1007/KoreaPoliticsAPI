@@ -5,12 +5,46 @@
   "external_ids": {
     "assembly_mona_cd": "LSN2279U"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "보성전문학교교수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한적십자사부총재",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "6.25 납북",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "미국부라운대학교졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22",
-  "note": "국회 자료의 생년월일은 1981-00-00인데 재직 시기와 맞지 않아 출생연도를 비워 둠"
+  "checked_at": "2026-11-01",
+  "note": "국회 자료의 생년월일 1981-00-00은 틀린 값이라 출생연도를 비워 둠. 다른 출처끼리도 달라서 못 정함: 헌정회 1881년, 위키백과 1880년, 한국민족문화대백과 1883년"
 }

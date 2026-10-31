@@ -1,0 +1,63 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-uiwangsigwacheonsi-20",
+  "candidate": {
+    "name": "신창현",
+    "party_id": "deobureo-minjudang",
+    "person_id": "sin-changhyeon-1953",
+    "nec_huboid": "100118608"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-uiwangsigwacheonsi-01",
+      "title": "과천·의왕 고용복지플러스센터 신설",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-uiwangsigwacheonsi-02",
+      "title": "사회적경제 활성화로 일자리 확대",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-uiwangsigwacheonsi-03",
+      "title": "'인덕원-서동탄', '월곶-판교' 간 복선전철 조기 착공",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-uiwangsigwacheonsi-04",
+      "title": "서울 직통 광역급행 M버스 운행",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-uiwangsigwacheonsi-05",
+      "title": "국립철도박물관 유치",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-uiwangsigwacheonsi-06",
+      "title": "KTX 의왕 철도기지 건설 및 환승역 설치",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-uiwangsigwacheonsi-07",
+      "title": "청계산축(築) 레저 클러스터 구축",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-uiwangsigwacheonsi-08",
+      "title": "대공원 나들길, 문화예술 테마거리로 조성",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-uiwangsigwacheonsi-09",
+      "title": "복합문화관광단지와 서울랜드를 체류형 문화타운으로 조성",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4124/003_100118608_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 의왕시과천시 당선인 신창현 (더불어민주당). 책자형 선거공보 PDF 4쪽 「지역경제 살리기 프로젝트 일자리 브릿지 구축」 제목 2개, PDF 5쪽 「강소도시 의왕 프로젝트」 제목 4개, PDF 7쪽 「르네상스 과천 프로젝트」 제목 3개. 제목 아래 설명, PDF 6쪽 「의왕을 위해 더 많은 일을 하고 싶습니다」 동별 공약, PDF 7–8쪽 「과천을 위해 더 즐겁게 일하고 싶습니다」 분야별(환경·교통 등) 공약, PDF 10쪽 더불어민주당 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

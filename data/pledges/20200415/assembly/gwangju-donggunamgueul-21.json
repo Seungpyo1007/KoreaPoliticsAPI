@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gwangju-donggunamgueul-21",
+  "candidate": {
+    "name": "이병훈",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-byeonghun-1957",
+    "nec_huboid": "100134753"
+  },
+  "pledges": [
+    {
+      "id": "21-gwangju-donggunamgueul-01",
+      "title": "일자리가 풍부한 경제도시",
+      "page": 5
+    },
+    {
+      "id": "21-gwangju-donggunamgueul-02",
+      "title": "사람이 몰려드는 문화 관광도시",
+      "page": 5
+    },
+    {
+      "id": "21-gwangju-donggunamgueul-03",
+      "title": "물길·바람길이 열리는 생태도시",
+      "page": 5
+    },
+    {
+      "id": "21-gwangju-donggunamgueul-04",
+      "title": "쾌적하고 안전한 주거도시",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-donggunamgueul-05",
+      "title": "웃음이 넘치는 복지도시",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-donggunamgueul-06",
+      "title": "꿈이 이루어지는 교육도시",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2901/003_100134753_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 광주 동구남구을 당선인 이병훈 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「이병훈과 함께 ‘원도심 살리기 6대 프로젝트’」 제목 6개. 텍스트가 OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 ▶ 세부 항목, PDF 7–8쪽 「이병훈의 약속」 동별·분야별 지도 공약, PDF 9쪽 국가 공약, PDF 3–4쪽 지난 경력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

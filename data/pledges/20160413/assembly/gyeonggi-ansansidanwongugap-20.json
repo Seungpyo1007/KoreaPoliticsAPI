@@ -1,0 +1,128 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-ansansidanwongugap-20",
+  "candidate": {
+    "name": "김명연",
+    "party_id": "saenuridang",
+    "person_id": "gim-myeongyeon-1964",
+    "nec_huboid": "100119567"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-01",
+      "title": "인천발 KTX 안산 정차",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-02",
+      "title": "소사~원시선 전철역 교통망 개선",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-03",
+      "title": "신안산선 조기착공",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-04",
+      "title": "서안산 IC 선부동 방향 예전 진입로 부활",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-05",
+      "title": "군자톨게이트~서안산 IC~안산IC~서서울톨게이트 구간 통행료 인하",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-06",
+      "title": "노후 국가공단 개선을 위한 혁신사업 추진",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-07",
+      "title": "노인복지타운 조성",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-08",
+      "title": "노후준비지원센터 안산 유치",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-09",
+      "title": "경로당 양곡비·냉난방비 안정적인 확보",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-10",
+      "title": "단원구 청소년수련관 건립",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-11",
+      "title": "육아종합지원센터 안산 유치",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-12",
+      "title": "장애인 직업재활센터 확대",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-13",
+      "title": "세월호 추모공원 건립",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-14",
+      "title": "중소기업 근로자를 위한 ‘직장공동어린이집’ 확충",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-15",
+      "title": "「지방자치법」 개정 외국인전담공무원 증원",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-16",
+      "title": "사동 90블럭 개발 연기, 현재 재건축 사업계획승인 사업지 완료 이후로",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-17",
+      "title": "특정건축물 한시적 양성화법 발의",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-18",
+      "title": "근린공원 내 반려동물 놀이Zone 설치",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-19",
+      "title": "다세대 밀집 주택가 무료 공용주차장 확대",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-20",
+      "title": "방범용 CCTV 교체 및 추가 설치",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-21",
+      "title": "화정천 황토길 포장 (산책로 및 자전거 도로 조성)",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongugap-22",
+      "title": "자전거도로 정비 및 페달로 정거장 추가 설치",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4119/003_100119567_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 안산시단원구갑 당선인 김명연 (새누리당). 책자형 선거공보 PDF 9쪽 「지역공통 공약」(광역교통·지역경제, 생활환경, 주거환경)의 ● 항목 22개. 분야 제목은 이름뿐이라 그 아래 항목을 넣었다. PDF 10쪽 동별(선부동·화정동, 와동, 원곡동·신길동) 공약, PDF 7–8쪽 경제·민생 전국 정책, PDF 3–4쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

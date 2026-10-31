@@ -1,0 +1,63 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/incheon-namgugap-20",
+  "candidate": {
+    "name": "홍일표",
+    "party_id": "saenuridang",
+    "person_id": "hong-ilpyo-1956",
+    "nec_huboid": "100119438"
+  },
+  "pledges": [
+    {
+      "id": "20-incheon-namgugap-01",
+      "title": "도화지구에 인천시교육청과 남부교육지원청을 유치하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-namgugap-02",
+      "title": "남구 원도심에 국제고등학교를 설립하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-namgugap-03",
+      "title": "주안을 명품 의료ㆍ비즈니스타운으로 조성하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-namgugap-04",
+      "title": "경인고속도로를 허물고, 단절되고 정체된 도심을 회복시키겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-namgugap-05",
+      "title": "역세권을 활성화하여 지역경제를 살려내겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-namgugap-06",
+      "title": "주차장·체육시설·쉼터를 계속 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-namgugap-07",
+      "title": "남구주민의 안전을 지키겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-namgugap-08",
+      "title": "주민의 삶의 질을 높이겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-namgugap-09",
+      "title": "교육특구 도화, 명품교육 주안을 만들겠습니다",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2803/003_100119438_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 인천 남구갑 당선인 홍일표 (새누리당). 머리 공약 목록이 없어 책자형 선거공보 PDF 6쪽 「도화의 변화」·「주안의 가치」 아래 빨간 제목 4개와 PDF 7쪽 분야별 제목 5개를 넣었다. PDF 6쪽 두 묶음 제목과 설명 문단, PDF 7쪽 • 세부 항목, PDF 5쪽 역세권 지도, PDF 9쪽 출산·복지·소상공인 전국 정책 공약, PDF 4·8쪽 지난 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

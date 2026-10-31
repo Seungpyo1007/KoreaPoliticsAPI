@@ -1,0 +1,43 @@
+{
+  "id": "ryu-gyeongwan-1966",
+  "name": "류경완",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100161024"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)경상남도의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)고운재한옥펜션 대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경상대학교 사회과학대학 경영학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

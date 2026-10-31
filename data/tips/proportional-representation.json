@@ -1,0 +1,11 @@
+{
+  "id": "proportional-representation",
+  "kind": "term",
+  "title": "비례대표",
+  "text": "정당이 얻은 표에 따라 정당에 나눠 주는 국회 의석입니다. 비례대표선거에서 전국 유효투표의 3% 이상을 얻었거나 지역구에서 5석 이상을 얻은 정당만 받습니다.",
+  "source_urls": [
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%A7%81%EC%84%A0%EA%B1%B0%EB%B2%95/%EC%A0%9C189%EC%A1%B0"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

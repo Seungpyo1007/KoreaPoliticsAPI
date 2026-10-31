@@ -1,0 +1,73 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/ulsan-namgugap-20",
+  "candidate": {
+    "name": "이채익",
+    "party_id": "saenuridang",
+    "person_id": "i-chaeik-1955",
+    "nec_huboid": "100119582"
+  },
+  "pledges": [
+    {
+      "id": "20-ulsan-namgugap-01",
+      "title": "남구 발전을 위해 국비 확보에 최선을 다하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-ulsan-namgugap-02",
+      "title": "옥동 군부대를 이전하고 교육·문화 타운을 조성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-namgugap-03",
+      "title": "국립산업기술박물관을 세계적인 복합역사문화공간으로 육성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-namgugap-04",
+      "title": "울산테크노산업단지를 한국형 실리콘밸리로 육성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-namgugap-05",
+      "title": "전통시장을 특화시장으로 육성하고 청년창업을 지원하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-namgugap-06",
+      "title": "버스전용차로를 통해 교통편의를 획기적으로 개선하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-namgugap-07",
+      "title": "울산 청소년 유스호스텔 건립, 청소년 복합문화공간으로 조성하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-namgugap-08",
+      "title": "청년 전담기구 설치, 청년 일자리와 청년 지원기금을 조성하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-namgugap-09",
+      "title": "낡은시설을 개선하고 실력있고 안전한 학교환경을 조성하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-namgugap-10",
+      "title": "대구경북권 맑은 물 공급사업과 연계, 울산의 물 문제를 해결하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-namgugap-11",
+      "title": "원전해체센터를 유치하여 지역경제를 살리겠습니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/3102/003_100119582_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 울산 남구갑 당선인 이채익 (새누리당). 책자형 선거공보 PDF 7–9쪽 「이채익의 약속」 제목 11개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 설명과 · ▪ 세부 항목, PDF 10쪽 동별 공약, PDF 3–6쪽 지난 의정 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

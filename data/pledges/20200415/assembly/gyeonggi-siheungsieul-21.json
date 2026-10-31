@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-siheungsieul-21",
+  "candidate": {
+    "name": "조정식",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jo-jeongsik-1963",
+    "nec_huboid": "100137422"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-siheungsieul-01",
+      "title": "「GTX-C노선 연장 유치(시흥~안산~금정)」 등 주민과 함께 「시흥교통혁신」",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-siheungsieul-02",
+      "title": "「토취장 경자구역 유치」 및 「정왕동 재건축 추진」 「상가 용적률 대폭 완화」로 정왕도약",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-siheungsieul-03",
+      "title": "「시흥남부경찰서·황해경제자유구역청」 등 공공기관 대거 유치",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-siheungsieul-04",
+      "title": "「거모 공공주택지구 조기완공」으로 군자동과 푸르지오 주민 삶의 질 개선",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-siheungsieul-05",
+      "title": "「시흥해양관광단지 조기완성」으로 지역경제 활성화 앞장서겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4129/003_100137422_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 시흥시을 당선인 조정식 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「‘시흥 르네상스’ 5대 비전!」 01–05 제목 5개. 텍스트가 OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 ● 세부 항목, PDF 7–8쪽 동별 공약, PDF 3–4쪽 지난 성과와 확보 예산, PDF 10쪽 당 정책공약은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

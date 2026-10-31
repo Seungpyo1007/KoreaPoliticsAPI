@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/incheon-namgueul-20",
+  "candidate": {
+    "name": "윤상현",
+    "party_id": null,
+    "person_id": "yun-sanghyeon-1962",
+    "nec_huboid": "100119380"
+  },
+  "pledges": [
+    {
+      "id": "20-incheon-namgueul-01",
+      "title": "경인도로 인천IC~도화IC 전구간 대혁신으로 하나되는 남구",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-namgueul-02",
+      "title": "인천 최대의 서비스산업 집적지구 개발",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-namgueul-03",
+      "title": "국내 최고의 「진학·진로정보멘토단」 출범",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-namgueul-04",
+      "title": "지역 경제 활성화",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-namgueul-05",
+      "title": "일자리·가계 지원",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-namgueul-06",
+      "title": "교육 환경 개선",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-namgueul-07",
+      "title": "생활 환경 개선",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2803/003_100119380_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 인천 남구을 당선인 윤상현 (무소속). 머리 공약 목록이 따로 없어 분야별 공약 제목 7개를 넣었다. PDF 5–6쪽 경인도로 공약 제목 1개, PDF 7쪽 「윤상현의 대담한 도전」 제목 2개, PDF 8쪽 「더 큰 결실로 보답하겠습니다!」 분야 제목 4개다. 제목 아래 ■ 세부 항목, PDF 9–10쪽 동별 공약, PDF 4쪽 「해냈습니다!」 지난 성과, PDF 11쪽 국군장병 공약은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

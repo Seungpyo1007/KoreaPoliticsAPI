@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gangseogueul-20",
+  "candidate": {
+    "name": "김성태",
+    "party_id": "saenuridang",
+    "person_id": "gim-seongtae-1958",
+    "nec_huboid": "100120253"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gangseogueul-01",
+      "title": "고도제한 완화",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangseogueul-02",
+      "title": "방화동 건폐장 이전 및 제2서울숲 조성",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangseogueul-03",
+      "title": "미래성장문화도시 마곡개발 완성",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangseogueul-04",
+      "title": "서부광역철도 건설",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangseogueul-05",
+      "title": "R&D인재양성 교육국제화특구 지정",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1116/003_100120253_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 강서구을 당선인 김성태 (새누리당). 책자형 선거공보 PDF 5쪽 「김성태의 강서 르네상스 핵심 5대 실천」 목록 제목 5개(5–6쪽에 실천 1–5로 다시 풀어 씀). 각 실천 아래 부제와 • 세부 항목, PDF 7–10쪽 「분야별 30개 실천」, PDF 4쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -5,7 +5,8 @@
   "external_ids": {
     "assembly_mona_cd": "71M8132V",
     "nec_huboids": [
-      "100118081"
+      "100118081",
+      "100163411"
     ]
   },
   "career": [
@@ -39,6 +40,22 @@
       "to": null,
       "source_urls": [
         "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=4100&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "(전)국회 과학기술정보방송통신위원회 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)대한의사협회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
       ]
     }
   ],

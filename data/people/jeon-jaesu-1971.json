@@ -5,7 +5,8 @@
   "external_ids": {
     "assembly_mona_cd": "9YO73104",
     "nec_huboids": [
-      "100152254"
+      "100152254",
+      "100163192"
     ]
   },
   "career": [
@@ -44,6 +45,22 @@
     },
     {
       "text": "(현) 부산 북구강서구갑 국회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)부산 국회의원(제20대, 제21대, 제22대)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)해양수산부 장관",
       "from": null,
       "to": null,
       "source_urls": [

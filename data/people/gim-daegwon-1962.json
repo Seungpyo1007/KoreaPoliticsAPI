@@ -1,0 +1,43 @@
+{
+  "id": "gim-daegwon-1962",
+  "name": "김대권",
+  "birth_year": 1962,
+  "external_ids": {
+    "nec_huboids": [
+      "100160089"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 수성구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 대구광역시청 문화체육관광국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "캘리포니아웨스턴로스쿨 비교법학 석사과정 졸업(비교법 법학석사)(2002.01-2002.08)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

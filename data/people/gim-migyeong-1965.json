@@ -1,0 +1,43 @@
+{
+  "id": "gim-migyeong-1965",
+  "name": "김미경",
+  "birth_year": 1965,
+  "external_ids": {
+    "nec_huboids": [
+      "100163092"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)은평구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)더불어민주당 대변인",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 정책대학원 졸업(행정학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-suwonsigap-20",
+  "candidate": {
+    "name": "이찬열",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-chanyeol-1959",
+    "nec_huboid": "100119240"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-suwonsigap-01",
+      "title": "사통팔달, 교통중심지 수원 위상 재정립",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-suwonsigap-02",
+      "title": "백년대계, 인재 양성을 위한 문화·교육특구 건설",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-suwonsigap-03",
+      "title": "수원시민에게 행복을",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-suwonsigap-04",
+      "title": "어르신께 효도를",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-suwonsigap-05",
+      "title": "직장맘에게 안심을",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-suwonsigap-06",
+      "title": "청년에게 희망을",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4101/003_100119240_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 수원시갑 당선인 이찬열 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「이찬열의 “약속”」 분야 제목 6개. 제목 아래 • 세부 항목은 넣지 않았다. PDF 5–6쪽 인덕원-수원 복선전철·교육환경개선 등 지난 성과와 PDF 9쪽 대표발의 법률안은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

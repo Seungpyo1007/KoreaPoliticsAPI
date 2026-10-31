@@ -1,0 +1,43 @@
+{
+  "id": "bak-jongwon-1968",
+  "name": "박종원",
+  "birth_year": 1968,
+  "external_ids": {
+    "nec_huboids": [
+      "100159766"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 전라남도의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 더불어민주당 중앙당 부대변인",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전남대학교 정책대학원 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

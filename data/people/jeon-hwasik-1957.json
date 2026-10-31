@@ -1,0 +1,43 @@
+{
+  "id": "jeon-hwasik-1957",
+  "name": "전화식",
+  "birth_year": 1957,
+  "external_ids": {
+    "nec_huboids": [
+      "100158732"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)성주부군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)경북도청 문화관광체육국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "영남대학교 환경대학원 졸업(환경관리학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "gim-jeseon-1963",
+  "name": "김제선",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100163066"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)대전광역시 중구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)대통령직속 국민통합위원회 위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "목원대학교 대학원 행정학과 졸업 (행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

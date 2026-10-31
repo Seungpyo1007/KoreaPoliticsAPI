@@ -1,0 +1,12 @@
+{
+  "id": "bill-passage",
+  "kind": "term",
+  "title": "가결",
+  "text": "따로 정한 규정이 없으면 재적의원 과반수가 출석하고 출석의원 과반수가 찬성해야 가결됩니다. 찬성과 반대가 같으면 부결입니다.",
+  "source_urls": [
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%ED%97%8C%EB%B2%95/%EC%A0%9C49%EC%A1%B0",
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%ED%9A%8C%EB%B2%95/%EC%A0%9C109%EC%A1%B0"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

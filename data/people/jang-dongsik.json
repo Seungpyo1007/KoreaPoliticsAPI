@@ -31,12 +31,21 @@
       ]
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "text": "국민대학법률학부졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
   "source_urls": [
     "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19730227&electionCode=7&cityCode=-1&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0",
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22",
+  "checked_at": "2026-11-01",
   "note": "국회 자료의 생년월일은 1823-10-20로 재직 시기와 맞지 않음. 출생연도는 선관위 당선인 명부 값. id는 이미 공개돼서 바꾸지 않음"
 }

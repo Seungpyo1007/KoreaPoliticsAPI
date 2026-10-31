@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonbuk-wanjugunjinangunmujugunjangsugun-21",
+  "candidate": {
+    "name": "안호영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "an-hoyeong-1965",
+    "nec_huboid": "100136427"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonbuk-wanjugunjinangunmujugunjangsugun-01",
+      "title": "불법폐기물 처리, 국가책임 법안 추진",
+      "page": 5
+    },
+    {
+      "id": "21-jeonbuk-wanjugunjinangunmujugunjangsugun-02",
+      "title": "인구감소지역 특례지원을 위한 부처 간 협력사업 활성화",
+      "page": 5
+    },
+    {
+      "id": "21-jeonbuk-wanjugunjinangunmujugunjangsugun-03",
+      "title": "대한민국 수소경제도시 1번지, 수소경제 특화 클러스터 조성",
+      "page": 5
+    },
+    {
+      "id": "21-jeonbuk-wanjugunjinangunmujugunjangsugun-04",
+      "title": "촘촘한 농업인 소득·경영 안전망 확충",
+      "page": 5
+    },
+    {
+      "id": "21-jeonbuk-wanjugunjinangunmujugunjangsugun-05",
+      "title": "대한민국 1박2일 산림·건강·관광 도시 도약",
+      "page": 5
+    },
+    {
+      "id": "21-jeonbuk-wanjugunjinangunmujugunjangsugun-06",
+      "title": "살고 싶은 완진무장 맞춤형 도시재생 확대",
+      "page": 6
+    },
+    {
+      "id": "21-jeonbuk-wanjugunjinangunmujugunjangsugun-07",
+      "title": "임업인 소득강화 및 산림순환경제로 임업·산촌 활성화",
+      "page": 6
+    },
+    {
+      "id": "21-jeonbuk-wanjugunjinangunmujugunjangsugun-08",
+      "title": "어디에 살든 누구라도 차별받지 않는 포용적 국가교통망 구축",
+      "page": 6
+    },
+    {
+      "id": "21-jeonbuk-wanjugunjinangunmujugunjangsugun-09",
+      "title": "지역순환교통망 균등화 지원으로 교통 이동권 보장",
+      "page": 6
+    },
+    {
+      "id": "21-jeonbuk-wanjugunjinangunmujugunjangsugun-10",
+      "title": "소상공인 광역 통합물류센터 유치",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4510/003_100136427_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전북 완주군진안군무주군장수군 당선인 안호영 (더불어민주당). 책자형 선거공보 PDF 5쪽 「안호영이 약속드립니다!」 01–05와 PDF 6쪽 「더 잘사는 완진무장!」 06–10의 제목 10개. OCR 텍스트라 쪽 이미지를 보고 옮겼다. 제목 아래 설명, PDF 7–8쪽 분야별 세부 공약, PDF 9–10쪽 군별 공약, PDF 3–4쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

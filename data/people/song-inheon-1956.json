@@ -1,0 +1,43 @@
+{
+  "id": "song-inheon-1956",
+  "name": "송인헌",
+  "birth_year": 1956,
+  "external_ids": {
+    "nec_huboids": [
+      "100163201"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)충북혁신도시관리본부장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)제45대 괴산군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "건국대학교 창의융합대학원(사회복지학) 석사과정 휴학중",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

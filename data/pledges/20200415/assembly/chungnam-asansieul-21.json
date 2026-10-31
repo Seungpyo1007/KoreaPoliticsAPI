@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungnam-asansieul-21",
+  "candidate": {
+    "name": "강훈식",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gang-hunsik-1973",
+    "nec_huboid": "100137604"
+  },
+  "pledges": [
+    {
+      "id": "21-chungnam-asansieul-01",
+      "title": "일자리 8만개, 삶의 질을 바꿉니다",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansieul-02",
+      "title": "함께 잘 사는 아산, 골고루 넓게 행복해집니다",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansieul-03",
+      "title": "모든 길은 아산으로 통합니다",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansieul-04",
+      "title": "아산 관광 500만 시대, 경제 활력소입니다",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansieul-05",
+      "title": "새로운 삶의 표준, 아산이 앞장섭니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4404/003_100137604_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충남 아산시을 당선인 강훈식 (더불어민주당). 책자형 선거공보 PDF 9쪽 「아산 경제 일등시대 5대 공약」 첫째–다섯째의 큰 제목 5개(두 줄 제목은 이었다). 제목 위 작은 글씨 분야 이름(「일자리 활력도시, 아산」 등)과 ■ 세부 항목, PDF 10쪽 읍면별 공약, PDF 7–8쪽 지난 성과, PDF 2–4쪽 코로나 대응 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

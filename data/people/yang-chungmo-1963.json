@@ -1,0 +1,43 @@
+{
+  "id": "yang-chungmo-1963",
+  "name": "양충모",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100154499"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)기획재정부 재정관리관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)새만금개발청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "가천대학교 대학원 경영학 박사(회계, 세무학과/회계학 전공)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

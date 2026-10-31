@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-sahagugap-20",
+  "candidate": {
+    "name": "최인호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "choe-inho-1966",
+    "nec_huboid": "100118315"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-sahagugap-01",
+      "title": "괴정-대신동간 제2대티터널 건설 (상습교통 체증 해소)",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagugap-02",
+      "title": "(사상-) 하단-명지 신도시-녹산공단 도시철도 2017년 조기착공",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagugap-03",
+      "title": "국립 청소년 생태체험 수련관 조기 완공",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagugap-04",
+      "title": "어르신 기초연금 월 30만원으로 지급 확대",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagugap-05",
+      "title": "을숙도 종합 스포츠센터(수영장 등) 국비 증액 및 조기완공",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2611/003_100118315_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 사하구갑 당선인 최인호 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「최인호가 사하구민들께 약속합니다!」 펼침면 아래 목록 제목 5개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 7–8쪽 지도 위 동별 공약, PDF 9–10쪽 제2대티터널 설명과 「장애인 지원을 위한 최인호의 약속」 4개, PDF 3·5쪽 지난 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

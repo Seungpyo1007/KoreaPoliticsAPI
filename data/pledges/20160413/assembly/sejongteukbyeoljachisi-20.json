@@ -1,0 +1,98 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/sejongteukbyeoljachisi-20",
+  "candidate": {
+    "name": "이해찬",
+    "party_id": null,
+    "person_id": "i-haechan-1952",
+    "nec_huboid": "100120165"
+  },
+  "pledges": [
+    {
+      "id": "20-sejongteukbyeoljachisi-01",
+      "title": "어린이 전문 종합의료센터(24시간 응급실) 설립",
+      "page": 7
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-02",
+      "title": "국립 어린이도서관 설립",
+      "page": 7
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-03",
+      "title": "국공립 중심의 어린이집 확충으로 공공보육체계 완성",
+      "page": 7
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-04",
+      "title": "학교 신설, 청소년 수련시설 건립 등 교육환경 전면 개선",
+      "page": 7
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-05",
+      "title": "22개 생활권 별 영유아 플라자 설립",
+      "page": 8
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-06",
+      "title": "조치원 교육혁신지구 지정, 중학교 신설",
+      "page": 8
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-07",
+      "title": "보육과 여성 재취업을 위한 세종 일자리문화센터 운영",
+      "page": 8
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-08",
+      "title": "KTX 세종역 신설 (금남면 BRT도로 환승)",
+      "page": 9
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-09",
+      "title": "세종~서울 고속도로 건설 (1·2단계 동시 건설, 2022년 완공)",
+      "page": 9
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-10",
+      "title": "천안~서창~청주공항간 복선전철 건설 (2021년 완공)",
+      "page": 9
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-11",
+      "title": "실질적 행정수도 완성",
+      "page": 10
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-12",
+      "title": "동북아 최대 박물관도시 건설! 연평균 500만 관광객 유치",
+      "page": 10
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-13",
+      "title": "스마트시티 산업을 중심으로 국가R&D연구개발 특구 지정",
+      "page": 10
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-14",
+      "title": "광역생활권별 로컬푸드 매장 설립",
+      "page": 10
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-15",
+      "title": "아파트단지 종합민원센터(입주자 AS센터) 설립",
+      "page": 10
+    },
+    {
+      "id": "20-sejongteukbyeoljachisi-16",
+      "title": "청춘조치원 2단계 추진",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/5101/003_100120165_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 세종특별자치시 당선인 이해찬 (무소속). 책자형 선거공보 PDF 7–10쪽 「이해찬이 약속합니다!」 이하 공약 제목 16개(쪽마다 위에서 아래 순). 각 쪽 위 파란 띠 표어, 제목 아래 • 세부 항목과 PDF 7쪽 표, PDF 10쪽 「면지역 실정에 맞는 꼭 필요한 공약 추진」 면별 공약은 넣지 않았다. PDF 5–6쪽 지난 성과와 민원 해결도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

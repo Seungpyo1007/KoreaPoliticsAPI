@@ -1,0 +1,43 @@
+{
+  "id": "bak-yongcheol-1964",
+  "name": "박용철",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100162891"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)강화군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제9대 인천광역시의회 전반기 제1기 예산결산특별위원회 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경기대학교 경영학사(경영학전공)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

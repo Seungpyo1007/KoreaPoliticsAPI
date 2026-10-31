@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonbuk-iksansieul-20",
+  "candidate": {
+    "name": "조배숙",
+    "party_id": "gungminui-dang",
+    "person_id": "jo-baesuk-1956",
+    "nec_huboid": "100118723"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonbuk-iksansieul-01",
+      "title": "미래 희망을 키우는 교육도시 익산의 기능 강화",
+      "page": 3
+    },
+    {
+      "id": "20-jeonbuk-iksansieul-02",
+      "title": "“모두가 행복한 보편적 복지”를 위한 관련 정책 추진",
+      "page": 3
+    },
+    {
+      "id": "20-jeonbuk-iksansieul-03",
+      "title": "명품 식품산업 클러스터 구축 및 국내·외 식품산업박람회 개최",
+      "page": 5
+    },
+    {
+      "id": "20-jeonbuk-iksansieul-04",
+      "title": "중소기업, 영세 소상공인을 위한 법안 정비",
+      "page": 5
+    },
+    {
+      "id": "20-jeonbuk-iksansieul-05",
+      "title": "보석마을 및 보석가공 연관산업 유치로 보석산업 활성화 방안 마련",
+      "page": 5
+    },
+    {
+      "id": "20-jeonbuk-iksansieul-06",
+      "title": "생명산업을 지키는 지속가능한 농업 육성",
+      "page": 7
+    },
+    {
+      "id": "20-jeonbuk-iksansieul-07",
+      "title": "공정성장을 위한 법적, 제도적 기반 마련",
+      "page": 7
+    },
+    {
+      "id": "20-jeonbuk-iksansieul-08",
+      "title": "외국인 노동자 관리지원 대책 및 외국인의 날 지정",
+      "page": 7
+    },
+    {
+      "id": "20-jeonbuk-iksansieul-09",
+      "title": "백제역사유적지구 유네스코 세계문화유산 등재에 따른 관광 활성화 방안 수립 및 추진 (연간 500만명의 관광객 유치)",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-iksansieul-10",
+      "title": "익산 3대 박물관 및 5대 종교 유적을 잇는 순례길 프로그램 운영",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4505/003_100118723_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전북 익산시을 당선인 조배숙 (국민의당). 책자형 선거공보 PDF 3·5·7·9쪽 「배숙이가 다시 시작하는 익산 프로젝트」 2–11 제목 10개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 1번 「공정성장을 위한 국민의당 1호 법안 제정에 헌신」은 국민의당 당 법안이라 넣지 않았다. 제목 아래 - 세부 항목, 각 쪽 위 국민의당 소개 글, PDF 8쪽 18대 공약 실천(지난 성과)은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

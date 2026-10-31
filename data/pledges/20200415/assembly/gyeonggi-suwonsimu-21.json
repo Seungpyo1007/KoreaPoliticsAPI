@@ -1,0 +1,28 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-suwonsimu-21",
+  "candidate": {
+    "name": "김진표",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-jinpyo-1947",
+    "nec_huboid": "100137609"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-suwonsimu-01",
+      "title": "경기남부 통합 국제공항 건설로 수원군공항 이전",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsimu-02",
+      "title": "지방자치법 전면 개정으로 구(區) 신설",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4102/003_100137609_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 수원시무 당선인 김진표 (더불어민주당). 책자형 선거공보 PDF 9쪽과 10쪽의 큰 공약 제목 2개. 제목 아래 ● 설명, PDF 10쪽 사진 속 민주당 수원시 후보 5명 공동 「7대 공약」, PDF 7–8쪽 「지역맞춤형특화공약」 동별 번호 목록, PDF 6쪽 당 공약, PDF 3–5쪽 코로나19 대응 활동과 지난 이력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

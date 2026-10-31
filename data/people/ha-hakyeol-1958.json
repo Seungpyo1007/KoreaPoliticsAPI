@@ -1,0 +1,43 @@
+{
+  "id": "ha-hakyeol-1958",
+  "name": "하학열",
+  "birth_year": 1958,
+  "external_ids": {
+    "nec_huboids": [
+      "100159308"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 42대 경상남도 고성군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 고성군장애인후원회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "중앙대학교 전기공학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

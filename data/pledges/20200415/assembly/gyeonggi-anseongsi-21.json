@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-anseongsi-21",
+  "candidate": {
+    "name": "이규민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-gyumin-1968",
+    "nec_huboid": "100134842"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-anseongsi-01",
+      "title": "안성-서울 30분 고속전철 시대 이규민이 열겠습니다",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-anseongsi-02",
+      "title": "보개면 삼성 첨단AI산업단지 이규민이 유치하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-anseongsi-03",
+      "title": "생활체육 스포츠산업단지 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-anseongsi-04",
+      "title": "신한류 문화관광 거점도시 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-anseongsi-05",
+      "title": "청년 창업 주거 복합단지 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-anseongsi-06",
+      "title": "지역 전통문화 관광단지 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-anseongsi-07",
+      "title": "경기남부권역형 시민영상미디어교육센터 유치",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-anseongsi-08",
+      "title": "미세먼지와 축산 악취해소 대책 수립",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-anseongsi-09",
+      "title": "대학캠퍼스 혁신파크 사업 유치",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4138/003_100134842_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 안성시 당선인 이규민 (더불어민주당). 책자형 선거공보 PDF 3–4쪽 펼침면 큰 제목 2개(고속전철, 삼성 첨단AI산업단지)와 PDF 6쪽 「눈부신 변화, 발전하는 안성 이규민이 만들겠습니다!」 1–7 제목 7개. 텍스트가 OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 설명 줄, PDF 6쪽 [안성 동부권]·[안성 서부권] 항목, PDF 5쪽 「국회개혁 시작합니다!」 1–6(전국 입법 공약)은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

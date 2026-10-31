@@ -1,11 +1,11 @@
 {
   "person": {
-    "green": 3296,
+    "green": 3520,
     "yellow": 0,
     "red": 0
   },
   "photo": {
-    "green": 267,
+    "green": 3262,
     "yellow": 0,
     "red": 0
   },
@@ -20,22 +20,22 @@
     "red": 0
   },
   "office": {
-    "green": 4400,
+    "green": 4646,
     "yellow": 0,
     "red": 0
   },
   "term": {
-    "green": 6210,
+    "green": 6458,
     "yellow": 0,
     "red": 0
   },
   "pledge": {
-    "green": 254,
+    "green": 745,
     "yellow": 0,
     "red": 0
   },
   "tip": {
-    "green": 0,
+    "green": 16,
     "yellow": 0,
     "red": 0
   },

@@ -1,0 +1,43 @@
+{
+  "id": "gim-igang-1971",
+  "name": "김이강",
+  "birth_year": 1971,
+  "external_ids": {
+    "nec_huboids": [
+      "100163972"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 서구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 대통령직속 일자리위원회 대외협력관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전남대학교 경영대학원 경영학과 졸업(경영학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

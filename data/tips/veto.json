@@ -1,0 +1,11 @@
+{
+  "id": "veto",
+  "kind": "term",
+  "title": "재의요구",
+  "text": "대통령은 국회가 의결한 법률안에 이의가 있으면 15일 안에 국회로 돌려보내 다시 의결하라고 요구할 수 있습니다. 국회가 재적의원 과반수 출석, 출석의원 3분의 2 이상 찬성으로 다시 의결하면 법률로 확정됩니다.",
+  "source_urls": [
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%ED%97%8C%EB%B2%95/%EC%A0%9C53%EC%A1%B0"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

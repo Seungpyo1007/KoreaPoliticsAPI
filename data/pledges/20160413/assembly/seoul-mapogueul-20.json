@@ -1,0 +1,73 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-mapogueul-20",
+  "candidate": {
+    "name": "손혜원",
+    "party_id": "deobureo-minjudang",
+    "person_id": "son-hyewon-1955",
+    "nec_huboid": "100120473"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-mapogueul-01",
+      "title": "서부지역 광역철도 조기착공 및 지역주민들의 의사를 반영한 성산동역, 상암동역 설치 추진",
+      "page": 2
+    },
+    {
+      "id": "20-seoul-mapogueul-02",
+      "title": "대체교육훈련비행장 건설 지원을 통한 상암동 항공대 수색비행장 소음문제 영구 해결",
+      "page": 2
+    },
+    {
+      "id": "20-seoul-mapogueul-03",
+      "title": "경의선 철도부지 공원화사업(가좌역∼수색차량기지) 차질없는 추진",
+      "page": 2
+    },
+    {
+      "id": "20-seoul-mapogueul-04",
+      "title": "노을공원 축구잔디구장 건립 차질없는 추진(유소년 축구교실)",
+      "page": 2
+    },
+    {
+      "id": "20-seoul-mapogueul-05",
+      "title": "매봉산 석유비축기지 공원화사업 차질없는 추진",
+      "page": 2
+    },
+    {
+      "id": "20-seoul-mapogueul-06",
+      "title": "당인리발전소 문화창작발전소 건립 및 공원화사업 차질없는 추진",
+      "page": 2
+    },
+    {
+      "id": "20-seoul-mapogueul-07",
+      "title": "지역주민과 시장상인회의 의견을 반영한 상암동 롯데쇼핑몰 건립 추진",
+      "page": 2
+    },
+    {
+      "id": "20-seoul-mapogueul-08",
+      "title": "주민 안전을 위한 CCTV 확대 설치 및 가로등·보안등 LED 교체 지원",
+      "page": 2
+    },
+    {
+      "id": "20-seoul-mapogueul-09",
+      "title": "마포를 서북권의 문화창조거점으로 조성",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-mapogueul-10",
+      "title": "당인리발전소, 홍대입구역, 합정역 삼각벨트를 중심으로 문화예술특구 추진",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-mapogueul-11",
+      "title": "마포브랜드지원센터 설치",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1114/003_100120473_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 마포구을 당선인 손혜원 (더불어민주당). 책자형 선거공보 PDF 2쪽 「마포발전, 정청래와 더불어 손혜원이 마무리합니다」 목록 8개와 PDF 7쪽 「손혜원의 일상문화마을 조성사업」 굵은 제목 2개, PDF 8쪽 「골목生生프로젝트」의 「마포브랜드지원센터 설치」 1개. PDF 2쪽 · 하위 항목, 제목 아래 ● 세부 항목, PDF 3–4쪽 동별 공약, PDF 5–6쪽 교육·문화환경 개선 약속의 ● 항목, PDF 9–10쪽 전국 정책은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

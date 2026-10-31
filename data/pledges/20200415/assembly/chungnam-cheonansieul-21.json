@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungnam-cheonansieul-21",
+  "candidate": {
+    "name": "박완주",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-wanju-1966",
+    "nec_huboid": "100136702"
+  },
+  "pledges": [
+    {
+      "id": "21-chungnam-cheonansieul-01",
+      "title": "골고루 잘사는 대한민국",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansieul-02",
+      "title": "사통팔달도시 천안",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansieul-03",
+      "title": "천안의 미래를 준비하는 경제활력도시",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansieul-04",
+      "title": "100만이 쉬어도 넉넉한 녹색힐링도시",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansieul-05",
+      "title": "역사와 문화가 살아 숨 쉬는 교육문화도시",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansieul-06",
+      "title": "삶의 구석구석을 챙기는 복지행정도시",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansieul-07",
+      "title": "천안의 미래 백년을 이끌 청년창업도시",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansieul-08",
+      "title": "위험없고 깨끗한 안심쾌적도시",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansieul-09",
+      "title": "농산물 생산부터 판매까지 걱정없는 농업선진도시",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4417/003_100136702_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충남 천안시을 당선인 박완주 (더불어민주당). 책자형 선거공보 PDF 5쪽 「더 큰 천안 천안특례시로 가는 길 박완주가 하겠습니다」 분야별 제목 9개(왼쪽 단, 오른쪽 단 순). 제목 아래 • 세부 항목, PDF 4쪽 읍·면·동별 공약 지도(글자층 없음), PDF 6쪽 「힘있는 대한민국」 국정 공약 10개, PDF 3쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

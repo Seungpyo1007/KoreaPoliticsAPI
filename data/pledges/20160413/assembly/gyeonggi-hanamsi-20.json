@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-hanamsi-20",
+  "candidate": {
+    "name": "이현재",
+    "party_id": "saenuridang",
+    "person_id": "i-hyeonjae-1949",
+    "nec_huboid": "100119945"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-hanamsi-01",
+      "title": "청년, 여성 등 일자리 넘치는 하남",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-hanamsi-02",
+      "title": "고용복지플러스센터, 장애인·제2노인복지관 건립",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-hanamsi-03",
+      "title": "대학유치(특목고) 등 교육환경 개선",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-hanamsi-04",
+      "title": "아이와 여성이 안전하고 행복한 하남",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-hanamsi-05",
+      "title": "교통체증 제로! 막힘없는 하남",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-hanamsi-06",
+      "title": "미사강변도시·위례신도시 생활환경 개선",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4131/003_100119945_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 하남시 당선인 이현재 (새누리당). 책자형 선거공보 PDF 7–8쪽 「앞으로 4년, 시민이 바라는 하남발전 이현재가 해내겠습니다!」 번호 1–6 제목 6개. 제목 아래 ❖·● 세부 항목은 넣지 않았다. PDF 3–4쪽 5호선 조기개통·9호선 하남연장은 지난 추진 경과 위주라 넣지 않았고, PDF 5–6쪽 4년 성과, PDF 9쪽 의정활동도 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

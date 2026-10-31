@@ -1,0 +1,118 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gangwon-donghaesitaebaeksisamcheoksijeongseongun-21",
+  "candidate": {
+    "name": "이철규",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "i-cheolgyu-1957",
+    "nec_huboid": "100137528"
+  },
+  "pledges": [
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-01",
+      "title": "동해~강릉 KTX선로 고속화 개량",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-02",
+      "title": "'동해항' 북방교역 전진기지 육성",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-03",
+      "title": "북평산업단지 경쟁력강화사업 성공적 완수",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-04",
+      "title": "동해시, 올해의 관광도시 선정",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-05",
+      "title": "국도42호선(백복령~달방) 백복령구간 터널화",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-06",
+      "title": "삼척~제천간 고속도로 건설 대선공약 반영",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-07",
+      "title": "삼척시를 국내 최대의 수소 거점도시로 조성",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-08",
+      "title": "에너지 자원 관련 공공기관 유치",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-09",
+      "title": "동해 중부선 철도우회 및 삼척KTX 운행(EMU)",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-10",
+      "title": "폐광시 지정(내국인)면세점 설치",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-11",
+      "title": "태백·영동선 철도를 고속화 개량",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-12",
+      "title": "폐광지역개발기금 납부율 상향",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-13",
+      "title": "석탄산업 역사·정신 계승사업 및 광산재해자(진폐 등) 복지·의료 확대",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-14",
+      "title": "대안 없는 광해관리공단과 광물공사 통폐합 저지",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-15",
+      "title": "365세이프타운 안전체험관운영 국가부담 추진",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-16",
+      "title": "폐광지역 개발 지원에 관한 특별법 연장, 항구법 개정안 발의",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-17",
+      "title": "군민의 뜻에 따른 가리왕산 활용",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-18",
+      "title": "도암댐 수질정화 및 관광테마 개발",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-19",
+      "title": "정선읍 주거환경 개선 및 아파트 신규 공급",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-donghaesitaebaeksisamcheoksijeongseongun-20",
+      "title": "농촌 스마트팜 지원사업",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4204/003_100137528_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 강원 동해시태백시삼척시정선군 당선인 이철규 (미래통합당). 책자형 선거공보 PDF 4쪽 동해·삼척, PDF 5쪽 태백·정선 지역별 1–5 공약 제목 20개(각 쪽 왼쪽, 오른쪽 순). 제목 아래 설명 문장, PDF 6쪽 「핵심공약! 반드시 해내겠습니다!」 2개(삼척~제천간 고속도로, 폐특법 연장으로 지역별 목록과 겹침)와 당 공약, PDF 2–3쪽 지난 4년 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

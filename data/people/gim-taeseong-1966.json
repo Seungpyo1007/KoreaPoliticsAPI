@@ -1,0 +1,43 @@
+{
+  "id": "gim-taeseong-1966",
+  "name": "김태성",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100159704"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)더불어민주당 내란진상조사단 위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)대한민국 육군 장군",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한남대학교 대학원 졸업(행정학 박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gangdonggugap-20",
+  "candidate": {
+    "name": "진선미",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jin-seonmi-1967",
+    "nec_huboid": "100119515"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gangdonggugap-01",
+      "title": "진짜. 문화수도 강동",
+      "page": 4
+    },
+    {
+      "id": "20-seoul-gangdonggugap-02",
+      "title": "선진적인. 교통혁명",
+      "page": 4
+    },
+    {
+      "id": "20-seoul-gangdonggugap-03",
+      "title": "미래도시. 썬업시티(SunUp City)",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1125/003_100119515_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 강동구갑 당선인 진선미 (더불어민주당). 책자형 선거공보 PDF 4쪽 머리글자(진·선·미) 공약 제목 3개. 글자층이 OCR이라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 3쪽 「진짜 제대로」 구호 네 줄, PDF 5–6쪽 동별 공약과 6쪽 위쪽 • 항목, PDF 7쪽 「대한민국 발전 5대 비전」(전국 공약), PDF 9–10쪽 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

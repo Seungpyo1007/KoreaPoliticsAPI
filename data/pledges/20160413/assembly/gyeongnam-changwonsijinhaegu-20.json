@@ -1,0 +1,88 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-changwonsijinhaegu-20",
+  "candidate": {
+    "name": "김성찬",
+    "party_id": "saenuridang",
+    "person_id": "gim-seongchan-1954",
+    "nec_huboid": "100119629"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-01",
+      "title": "옛 육대부지에 첨단 IT연구단지를 조성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-02",
+      "title": "군 비행장 고도제한 문제를 해결하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-03",
+      "title": "진해글로벌테마파크 조성, 계속 추진하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-04",
+      "title": "두동지구 물류단지 및 주거단지를 조성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-05",
+      "title": "청년 일자리 창출! 해내겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-06",
+      "title": "주민들의 교통난 해소를 위해 노력하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-07",
+      "title": "교육여건을 획기적으로 개선 하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-08",
+      "title": "민생경제의 핵심! 전통시장 살리기에 앞장서겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-09",
+      "title": "서민주거대책 해소를 위한 임대주택 보급 증대에 힘쓰겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-10",
+      "title": "서부지역 도시재생 사업을 조기에 마무리 짓겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-11",
+      "title": "어업인 복지회관을 건립하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-12",
+      "title": "민군 복지타운 및 시민공원을 조성하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-13",
+      "title": "동부 건강증진센터를 건립하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeongnam-changwonsijinhaegu-14",
+      "title": "웅동1동 복지회관을 건립하겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4825/003_100119629_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 창원시진해구 당선인 김성찬 (새누리당). 책자형 선거공보 PDF 8쪽 「4대 중점 공약」 1–4, PDF 9쪽 「5대 희망 프로젝트」 1–5, PDF 10쪽 「5대 주요 사업」 1–5 제목 14개(번호 순). 글자층 순서가 섞여 있어 번호는 쪽 이미지 기준으로 맞췄다. 제목 아래 - 세부 항목, PDF 5–6쪽 「VISION 2020」 - 항목, PDF 3–4쪽 지난 성과는 넣지 않았다. 끝의 !와 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

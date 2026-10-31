@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonnam-yeongamgunmuangunsinangun-21",
+  "candidate": {
+    "name": "서삼석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "seo-samseok-1959",
+    "nec_huboid": "100137097"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonnam-yeongamgunmuangunsinangun-01",
+      "title": "“나쁜 법 계속 고치고, 좋은 법 더 만들겠습니다”",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeongamgunmuangunsinangun-02",
+      "title": "농어민 소득 보장을 위해 최선을 다 하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeongamgunmuangunsinangun-03",
+      "title": "농어촌 ‘보건 안전망 확충’에 노력하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeongamgunmuangunsinangun-04",
+      "title": "‘여성농어업인 지원책마련’을 최우선 하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeongamgunmuangunsinangun-05",
+      "title": "'청년'이 다시 꿈꿀 수 있도록 하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeongamgunmuangunsinangun-06",
+      "title": "국립 해양수산박물관(교육관, 과학관) 전남 유치 추진",
+      "page": 9
+    },
+    {
+      "id": "21-jeonnam-yeongamgunmuangunsinangun-07",
+      "title": "‘마한 역사문화권 복원 및 육성’ 사업 지원",
+      "page": 9
+    },
+    {
+      "id": "21-jeonnam-yeongamgunmuangunsinangun-08",
+      "title": "훈련용 항공기 전용비행장 건설",
+      "page": 9
+    },
+    {
+      "id": "21-jeonnam-yeongamgunmuangunsinangun-09",
+      "title": "영산강유역 노지스마트팜 조성사업(영산강 4지구 밭기반사업 확장) 추진",
+      "page": 9
+    },
+    {
+      "id": "21-jeonnam-yeongamgunmuangunsinangun-10",
+      "title": "농촌경관 회복을 위한 농업수리구조물 지중화 시범사업 추진",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4621/003_100137097_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전남 영암군무안군신안군 당선인 서삼석 (더불어민주당). 책자형 선거공보 PDF 8쪽 「더 나은 지역의 미래를 위해 최선을 다하겠습니다!」 01–05의 제목 5개와 PDF 9쪽 「서남부권 발전을 견인할 마중물을 준비합니다」 ▲ 항목 5개. 제목 아래 – 세부 항목, PDF 9쪽 도로·철도공항·항만해양 SOC 국가계획 반영 항목, PDF 10쪽 군별(영암·무안·신안) 공약, PDF 7쪽 도서지역 약속, PDF 3–6쪽 지난 의정 성과와 확보 예산은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

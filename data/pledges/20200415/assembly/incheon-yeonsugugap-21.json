@@ -1,0 +1,88 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-yeonsugugap-21",
+  "candidate": {
+    "name": "박찬대",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-chandae-1967",
+    "nec_huboid": "100137009"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-yeonsugugap-01",
+      "title": "제2경인선 (서울까지 30분대)",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-yeonsugugap-02",
+      "title": "송도역발 KTX",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-yeonsugugap-03",
+      "title": "수인선-분당선 직접연결",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-yeonsugugap-04",
+      "title": "월곶-판교선 (판교까지 40분대)",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-yeonsugugap-05",
+      "title": "옥련동 트램 (주안까지 10분대)",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-yeonsugugap-06",
+      "title": "수인선-4호선 평면환승",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-yeonsugugap-07",
+      "title": "연수 공공의료타운 신설",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-yeonsugugap-08",
+      "title": "노후 아파트 리모델링 사업 지원",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-yeonsugugap-09",
+      "title": "주민편의시설 확대",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-yeonsugugap-10",
+      "title": "마을관리사무소 추가 신설",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-yeonsugugap-11",
+      "title": "연수문화예술회관 신설",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-yeonsugugap-12",
+      "title": "학교 내 석면 제로화",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-yeonsugugap-13",
+      "title": "노후 학교시설 개선",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-yeonsugugap-14",
+      "title": "마을 교육공동체 활성화",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2804/003_100137009_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 연수구갑 당선인 박찬대 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「앞으로 4년! 연수가 이렇게 바뀝니다!」에서 PDF 5쪽 「연수의 교통 혁명!」 노선 제목 6개와 PDF 6쪽 「연수의 삶의 질 향상!」 분야(공공의료·명품주거·교육문화도시) 아래 굵은 제목 8개를 넣었다. 제목 아래 • 세부 항목, PDF 7–8쪽 동별 공약, PDF 9–10쪽 「문재인정부와 함께 해냅니다」 1–7(대부분 전국 정책), PDF 11쪽 국회·교육개혁 공약, PDF 3–4쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

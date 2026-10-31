@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-geumjeonggu-21",
+  "candidate": {
+    "name": "백종헌",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "baek-jongheon-1962",
+    "nec_huboid": "100135873"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-geumjeonggu-01",
+      "title": "신소재섬유산업 복합지원센터 유치",
+      "page": 10
+    },
+    {
+      "id": "21-busan-geumjeonggu-02",
+      "title": "부산종합터미널 뉴딜 복합개발",
+      "page": 10
+    },
+    {
+      "id": "21-busan-geumjeonggu-03",
+      "title": "금정 관광 트램(노면전차) 개통",
+      "page": 10
+    },
+    {
+      "id": "21-busan-geumjeonggu-04",
+      "title": "금정산터널 회동동 회차로 신설",
+      "page": 10
+    },
+    {
+      "id": "21-busan-geumjeonggu-05",
+      "title": "제3세대 K-POP산업단지 조성",
+      "page": 10
+    },
+    {
+      "id": "21-busan-geumjeonggu-06",
+      "title": "부산공동체 예술촌 조성",
+      "page": 10
+    },
+    {
+      "id": "21-busan-geumjeonggu-07",
+      "title": "금샘로 부산대구간 공사를 마무리 하겠습니다",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2612/003_100135873_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 금정구 당선인 백종헌 (미래통합당). 책자형 선거공보 PDF 10쪽 「New 금정 실천약속」 번호 공약 01–06 제목 6개와, PDF 9쪽 지도에 함께 묶인 PDF 7쪽 「‘교통도시’ 금정으로!」의 금샘로 공약 제목 1개를 넣었다. PDF 8쪽 선진·복지·환경도시 묶음과 그 아래 ● 세부 항목, PDF 5–6쪽 당 공약·정권 비판, PDF 3쪽 약력은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

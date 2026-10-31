@@ -1,0 +1,88 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungnam-dangjinsi-20",
+  "candidate": {
+    "name": "어기구",
+    "party_id": "deobureo-minjudang",
+    "person_id": "eo-gigu-1963",
+    "nec_huboid": "100118852"
+  },
+  "pledges": [
+    {
+      "id": "20-chungnam-dangjinsi-01",
+      "title": "전기이용 부담금법 제정",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-dangjinsi-02",
+      "title": "당진시 여성커뮤니티 센터 건립",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-dangjinsi-03",
+      "title": "두레마을 복원 사업(어르신 일자리 공동체)",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-dangjinsi-04",
+      "title": "세계최고의 도농 복합 6차 산업 도시 만들기",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-dangjinsi-05",
+      "title": "우리 동네 농수산물 먹기 운동",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-dangjinsi-06",
+      "title": "활기찬 경제특별시 당진",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-dangjinsi-07",
+      "title": "희망의 교육도시 당진",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-dangjinsi-08",
+      "title": "꼼꼼한 복지도시 당진",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-dangjinsi-09",
+      "title": "활력 넘치는 농어촌도시 당진",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-dangjinsi-10",
+      "title": "모두가 찾는 관광도시 당진",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-dangjinsi-11",
+      "title": "여성이 행복한 도시 당진",
+      "page": 8
+    },
+    {
+      "id": "20-chungnam-dangjinsi-12",
+      "title": "미래 친환경 도시 당진",
+      "page": 8
+    },
+    {
+      "id": "20-chungnam-dangjinsi-13",
+      "title": "공경이 살아있는 효도 도시 당진",
+      "page": 8
+    },
+    {
+      "id": "20-chungnam-dangjinsi-14",
+      "title": "청년이 꿈꾸는 도시 당진",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4416/003_100118852_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충남 당진시 당선인 어기구 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「당진시민을 위한 어기구의 ‘특별한’ 약속」 번호 제목 5개와 PDF 7–8쪽 「당진시민과 함께 하는 어기구의 ‘아홉가지’ 약속」 제목 9개. 각 제목 아래 부제·번호 세부 항목·● 항목, PDF 9–10쪽 「어기구의 ‘지역을 위한’ 약속」 읍면동별 공약은 넣지 않았다. 아홉가지 약속 제목 앞의 번호(01.–09.)를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

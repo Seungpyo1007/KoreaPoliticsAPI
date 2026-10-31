@@ -1,0 +1,43 @@
+{
+  "id": "gim-jungnam-1962",
+  "name": "김중남",
+  "birth_year": 1962,
+  "external_ids": {
+    "nec_huboids": [
+      "100154106"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)더불어민주당 가뭄,물부족사태해결 특별위원회 부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)이재명 대통령후보 선거대책위 강원도당 공동선대위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "강릉원주대학교 일반대학원 박사과정 행정학과 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

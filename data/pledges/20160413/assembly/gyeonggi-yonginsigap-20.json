@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-yonginsigap-20",
+  "candidate": {
+    "name": "이우현",
+    "party_id": "saenuridang",
+    "person_id": "i-uhyeon-1957",
+    "nec_huboid": "100119931"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-yonginsigap-01",
+      "title": "교통중심 도시 용인",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-yonginsigap-02",
+      "title": "체류형관광단지 조성",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-yonginsigap-03",
+      "title": "규제해결",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-yonginsigap-04",
+      "title": "용인발전을 위한 예산",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-yonginsigap-05",
+      "title": "명품교육도시",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-yonginsigap-06",
+      "title": "복지·안전",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-yonginsigap-07",
+      "title": "산업단지 조성",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4135/003_100119931_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 용인시갑 당선인 이우현 (새누리당). 책자형 선거공보 PDF 5쪽 「중단없는 용인발전! 이우현이 지켜가겠습니다.」 「용인의 미래」 분야 제목 7개(위 교통부터 시계 방향). OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 - 세부 항목, PDF 6쪽 연령·대상별 정책, PDF 7–8쪽 도로교통망 설명, PDF 9–10쪽 읍면동별 공약, PDF 3–4쪽 지난 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

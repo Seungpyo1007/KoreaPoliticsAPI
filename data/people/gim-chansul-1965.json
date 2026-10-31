@@ -1,0 +1,43 @@
+{
+  "id": "gim-chansul-1965",
+  "name": "김찬술",
+  "birth_year": 1965,
+  "external_ids": {
+    "nec_huboids": [
+      "100154870"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)더불어민주당 정책위원회 부의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제8대 대전광역시의회 산업건설위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "대전대학교 경영행정·사회복지대학원 졸업(경영학석사) ",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

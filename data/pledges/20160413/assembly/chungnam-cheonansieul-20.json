@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungnam-cheonansieul-20",
+  "candidate": {
+    "name": "박완주",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-wanju-1966",
+    "nec_huboid": "100119289"
+  },
+  "pledges": [
+    {
+      "id": "20-chungnam-cheonansieul-01",
+      "title": "산업기반 잘 갖춘 기업하기 좋은 도시 천안을 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-cheonansieul-02",
+      "title": "천안의 성장동력 미래먹거리를 준비하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-cheonansieul-03",
+      "title": "젊은 청년의 꿈 천안을 청년창업의 메카로 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-cheonansieul-04",
+      "title": "더 빨라지는 천안",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-cheonansieul-05",
+      "title": "더 안전한 천안",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-cheonansieul-06",
+      "title": "더 품격있는 천안",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-cheonansieul-07",
+      "title": "더 행복한 농촌",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4417/003_100119289_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충남 천안시을 당선인 박완주 (더불어민주당). 책자형 선거공보 PDF 7쪽 「더 큰천안 Ⅰ」 번호 공약 01–03과 PDF 9쪽 「더 큰천안 Ⅱ」 제목 4개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 10쪽 읍면동별 공약, PDF 4–6쪽 「더 큰정치」 전국 정책과 더불어민주당 공약, PDF 2쪽 지난 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

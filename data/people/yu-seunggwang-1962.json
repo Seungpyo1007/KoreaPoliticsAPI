@@ -1,0 +1,43 @@
+{
+  "id": "yu-seunggwang-1962",
+  "name": "유승광",
+  "birth_year": 1962,
+  "external_ids": {
+    "nec_huboids": [
+      "100159444"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)더불어민주당 서천군수 후보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)국무총리 자문위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "공주대학교 대학원 역사교육학과 졸업(교육학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

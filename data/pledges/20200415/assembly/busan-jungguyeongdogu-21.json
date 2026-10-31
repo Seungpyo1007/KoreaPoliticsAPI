@@ -1,0 +1,83 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-jungguyeongdogu-21",
+  "candidate": {
+    "name": "황보승희",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "hwangbo-seunghui-1976",
+    "nec_huboid": "100137440"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-jungguyeongdogu-01",
+      "title": "중구 미니 관광트램 설치",
+      "page": 7
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-02",
+      "title": "용두산 공영주차장 부지 복합개발",
+      "page": 7
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-03",
+      "title": "부산터널 상부 복개 공간 활용",
+      "page": 7
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-04",
+      "title": "시장 상권 활성화 사업 추진",
+      "page": 7
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-05",
+      "title": "지역택시와 어르신 연계",
+      "page": 7
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-06",
+      "title": "도로 및 주차장 지속 확충",
+      "page": 7
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-07",
+      "title": "노면전차 영도순환선 설치",
+      "page": 8
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-08",
+      "title": "자유무역 지역 지정 추진",
+      "page": 8
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-09",
+      "title": "오션판타지아 추진",
+      "page": 8
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-10",
+      "title": "해변 수영장 설치",
+      "page": 8
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-11",
+      "title": "선박수리 안벽 항만기본계획 반영 추진",
+      "page": 8
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-12",
+      "title": "방과 후 돌봄교실 집중센터 설립",
+      "page": 8
+    },
+    {
+      "id": "21-busan-jungguyeongdogu-13",
+      "title": "기존 계획 초당적 지원",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2604/003_100137440_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 중구영도구 당선인 황보승희 (미래통합당). 책자형 선거공보 PDF 7쪽 중구 공약 「경제·인구·가치복원 - 원|도|심|회|복」 제목 6개와 PDF 8쪽 영도 공약 「새인물, 새비전 - 영|도|새|집|짓|기」 제목 7개. 제목 아래 · 세부 항목, PDF 9–10쪽 주민 이야기 형식의 공약 설명, PDF 3–6쪽 정권 비판과 약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

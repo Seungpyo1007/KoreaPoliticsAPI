@@ -1,0 +1,43 @@
+{
+  "id": "jang-gilseon-1961",
+  "name": "장길선",
+  "birth_year": 1961,
+  "external_ids": {
+    "nec_huboids": [
+      "100158337"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)구례군의회의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)전라남도구례교육지원청교육장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전남대학교 사범대학 체육교육과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

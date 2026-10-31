@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-yonginsijeong-20",
+  "candidate": {
+    "name": "표창원",
+    "party_id": "deobureo-minjudang",
+    "person_id": "pyo-changwon-1966",
+    "nec_huboid": "100120242"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-yonginsijeong-01",
+      "title": "교통 사각지대 개선",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yonginsijeong-02",
+      "title": "교육 사각지대 개선",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yonginsijeong-03",
+      "title": "행정 사각지대 개선",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yonginsijeong-04",
+      "title": "의료 사각지대 개선",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yonginsijeong-05",
+      "title": "안전 사각지대 개선",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yonginsijeong-06",
+      "title": "난개발은 No! 시민을 위한 개발 Yes",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yonginsijeong-07",
+      "title": "노후불량 Stop! 쾌적한 주거 Ok",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yonginsijeong-08",
+      "title": "베드타운 Out! 자족도시 Start",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4137/003_100120242_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 용인시정 당선인 표창원 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「5대 사각지대를 해소하면 해결됩니다」 제목 5개와 PDF 9쪽 「살맛나는 용인!」 제목 3개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 | · - 세부 항목, 제목 옆 「빠른 용인」 같은 띠 문구, PDF 10쪽 더불어민주당 민생복지 공약은 넣지 않았다. PDF 9쪽 제목은 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

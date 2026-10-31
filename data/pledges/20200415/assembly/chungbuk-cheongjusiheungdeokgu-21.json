@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungbuk-cheongjusiheungdeokgu-21",
+  "candidate": {
+    "name": "도종환",
+    "party_id": "deobureo-minjudang",
+    "person_id": "do-jonghwan-1955",
+    "nec_huboid": "100137418"
+  },
+  "pledges": [
+    {
+      "id": "21-chungbuk-cheongjusiheungdeokgu-01",
+      "title": "더 큰 청주! 세계 속의 청주로 키우겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-chungbuk-cheongjusiheungdeokgu-02",
+      "title": "더 활기찬 청주! 도시에 활력을 불어넣겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusiheungdeokgu-03",
+      "title": "더 안전한 청주! 감염병 대응역량을 강화하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusiheungdeokgu-04",
+      "title": "더 살기 좋은 청주! 문화적 삶의 질을 높이겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4302/003_100137418_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충북 청주시흥덕구 당선인 도종환 (더불어민주당). 책자형 선거공보 PDF 7쪽 「도종환을 더 크게 쓰십시오」와 PDF 8쪽 「도종환의 청주 키움 프로젝트는 계속됩니다」의 분야 제목 4개(두 줄 제목은 이었다). 제목 아래 • 세부 항목, PDF 9–10쪽 당과 함께하는 전국 단위 공약과 정책 제안 목록, PDF 6쪽 「청주키움 프로젝트」 지난 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

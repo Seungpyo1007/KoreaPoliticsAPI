@@ -1,0 +1,43 @@
+{
+  "id": "gim-sin-1963",
+  "name": "김신",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100159672"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 제 4~5대 완도군의회 의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 완도군 탄소중립위원회 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "동신대학교 사회개발대학원 상담리더쉽학과 졸업 (경영학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

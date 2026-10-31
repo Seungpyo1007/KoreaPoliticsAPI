@@ -5,7 +5,8 @@
   "external_ids": {
     "assembly_mona_cd": "BT62420K",
     "nec_huboids": [
-      "100152610"
+      "100152610",
+      "100163128"
     ]
   },
   "career": [
@@ -56,6 +57,22 @@
       "source_urls": [
         "https://www.data.go.kr/data/15000864/openapi.do"
       ]
+    },
+    {
+      "text": "(전) 제20,21,22대 인천연수구갑 국회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 더불어민주당 원내대표 ",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
     }
   ],
   "education": [
@@ -77,6 +94,14 @@
     },
     {
       "text": "서울대학교 대학원 경영학 석사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "서울대학교 대학원 경영학석사 졸업",
       "from": null,
       "to": null,
       "source_urls": [

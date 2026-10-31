@@ -1,0 +1,103 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-seochogueul-21",
+  "candidate": {
+    "name": "박성중",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "bak-seongjung-1958",
+    "nec_huboid": "100136886"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-seochogueul-01",
+      "title": "한강공원 연결 프로젝트",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-02",
+      "title": "서초형 인생3모작 프로젝트",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-03",
+      "title": "주민 스마트생활 활성화",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-04",
+      "title": "[서초·방배] 전용 배드민턴 등 실내 체육관 조성",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-05",
+      "title": "[내곡동] 체육부지 내 복합동계스포츠 시설 건립",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-06",
+      "title": "도구머리공원 전면 리모델링 후 주민 체육 및 편의시설 확장",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-07",
+      "title": "이면도로 전선 지중화 및 공중선정비 사업의 확대 추진",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-08",
+      "title": "양재역, 매헌역 주변 지구단위계획 수립",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-09",
+      "title": "장애인 종합복지센터",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-10",
+      "title": "반려동물 의료 보험 도입, 팻파크 조성",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-11",
+      "title": "미래형 스마트학교",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-12",
+      "title": "경부고속도로 지하화",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-13",
+      "title": "국립중앙의료원 이전 조속 추진",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-14",
+      "title": "종상향 숙원 해결",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-15",
+      "title": "위례·과천선 선암 IC역, 포이사거리역 유치",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-16",
+      "title": "선바위~양재 지선 지하철 조기 착공",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seochogueul-17",
+      "title": "매헌~내곡~복정을 잇는 지선 추진",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1122/003_100136886_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 서초구을 당선인 박성중 (미래통합당). 책자형 선거공보 PDF 9쪽 「박성중 이心전心 공약」의 지역 공약 17개(위 세 칸은 칸 제목, 아래 칸들은 • 항목). 위 세 칸 제목 아래 • 세부 항목과 「미래형 스마트학교」 아래 – 설명은 넣지 않았다. PDF 7–8쪽 「박성중 야心만만 공약」(부동산·세금·보육 등 분야별 정책 약속), PDF 10쪽 권역별 공약, PDF 3–6쪽 의정 성과와 확보 예산은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

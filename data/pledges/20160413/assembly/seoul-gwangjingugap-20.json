@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gwangjingugap-20",
+  "candidate": {
+    "name": "전혜숙",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeon-hyesuk-1955",
+    "nec_huboid": "100118932"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gwangjingugap-01",
+      "title": "집으로 돌아가는 안전한 골목길을 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gwangjingugap-02",
+      "title": "광진에 돈이 돌게 하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gwangjingugap-03",
+      "title": "문화와 여가를 즐길 수 있는 광진을 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gwangjingugap-04",
+      "title": "유소년 청소년을 위한 교육환경 조성에 힘쓰겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1105/003_100118932_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 광진구갑 당선인 전혜숙 (더불어민주당). 책자형 선거공보 PDF 8쪽 「광진 이야기」(광진구에 '발전' 광진구민에 '만족한 삶')의 ▍ 제목 4개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 · 세부 항목, PDF 4·6쪽 「경제 이야기」·「복지 이야기」의 전국 단위 정책, PDF 3·5·9쪽 지난 의정활동은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

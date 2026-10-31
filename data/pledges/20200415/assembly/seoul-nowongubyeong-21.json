@@ -1,0 +1,158 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-nowongubyeong-21",
+  "candidate": {
+    "name": "김성환",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-seonghwan-1965",
+    "nec_huboid": "100137043"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-nowongubyeong-01",
+      "title": "첨단 생명의료 산업단지",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-nowongubyeong-02",
+      "title": "서울아레나",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-nowongubyeong-03",
+      "title": "중랑천 수변공원",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-nowongubyeong-04",
+      "title": "KTX 의정부 연장",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-nowongubyeong-05",
+      "title": "GTX-C 노선",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-nowongubyeong-06",
+      "title": "서울대병원",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-nowongubyeong-07",
+      "title": "호텔, 쇼핑몰, 컨벤션 등 상업단지",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-nowongubyeong-08",
+      "title": "문화(음악)산업단지",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-nowongubyeong-09",
+      "title": "수락산 체육공원 완공",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-10",
+      "title": "수락산자연휴양림 조성 (동막골)",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-11",
+      "title": "상계IC 신설",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-12",
+      "title": "장암동 군부대이전부지 문화체육시설 조성",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-13",
+      "title": "수락 리버시티 1,2단지 노원구 편입",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-14",
+      "title": "어울림체육센터 2022년 개관",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-15",
+      "title": "상계1동 행정복합타운 조성",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-16",
+      "title": "동부간선도로 확장공사 연내 마무리",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-17",
+      "title": "주공아파트 환경개선특별대책",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-18",
+      "title": "13단지 뒷길 방음터널 설치 (올해 중)",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-19",
+      "title": "중랑천 횡단 징검다리 설치 (4월 중)",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-nowongubyeong-20",
+      "title": "상계3·4동 뉴타운, 새로운 주거·문화중심도시로 조성",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-nowongubyeong-21",
+      "title": "지하철역 이용을 더 편하게",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-nowongubyeong-22",
+      "title": "성원APT뒤 문화복지시설 건립",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-nowongubyeong-23",
+      "title": "상계5동 주민센터 신축",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-nowongubyeong-24",
+      "title": "상계2동, 5동 일반주택지역 주거환경개선 (재건축 등 추진)",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-nowongubyeong-25",
+      "title": "간선도로변 고압송전탑 지중화 추진",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-nowongubyeong-26",
+      "title": "주공10,11단지 방음벽 교체설치(올해 중)",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-nowongubyeong-27",
+      "title": "경전철 동북선 방학역까지 연장 보람역, 마들역 신설",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-nowongubyeong-28",
+      "title": "지하철 4호선 급행화 ('30년 완공) 지하철 7호선 급행화 조기 추진",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1111/003_100137043_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 노원구병 당선인 김성환 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「상계동의 행복을 위한 김성환의 약속1」 지도 위 굵은 이름표 8개와 PDF 9–10쪽 「김성환의 약속2」 사진 설명 제목 20개. OCR 텍스트라 쪽 이미지를 보고 옮겼다. 약속1의 「노원역 7호선 출입구 신설」은 이미 설치했다는 설명이라 넣지 않았다. 약속2의 「상계3·4동 뉴타운…」과 「지하철역 이용을 더 편하게」는 묶음 제목만 넣고 그 아래 구역별·역별 사진 설명은 넣지 않았다. 사진 설명의 보조 줄(완공 시기, 세부 시설)은 넣지 않았고, 두 줄짜리 설명은 이어 붙였다. PDF 5–6쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

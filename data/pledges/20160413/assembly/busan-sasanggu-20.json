@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-sasanggu-20",
+  "candidate": {
+    "name": "장제원",
+    "party_id": null,
+    "person_id": "jang-jewon-1967",
+    "nec_huboid": "100119235"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-sasanggu-01",
+      "title": "사상 3대 하천 복원사업 재가동",
+      "page": 6
+    },
+    {
+      "id": "20-busan-sasanggu-02",
+      "title": "사상공업지역 첨단화사업 재가동",
+      "page": 6
+    },
+    {
+      "id": "20-busan-sasanggu-03",
+      "title": "교육명품도시 사상건설 재가동",
+      "page": 7
+    },
+    {
+      "id": "20-busan-sasanggu-04",
+      "title": "서부산 교통중심도시 사상건설 재가동",
+      "page": 7
+    },
+    {
+      "id": "20-busan-sasanggu-05",
+      "title": "복지사각지대 없는 따뜻한 사상건설 재가동",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sasanggu-06",
+      "title": "백지화된 부산구치소 이전 재가동",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sasanggu-07",
+      "title": "서부산 행정중심도시 사상건설 가동",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2616/003_100119235_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 사상구 당선인 장제원 (무소속). 책자형 선거공보 PDF 6–9쪽 「장제원의 사상 재창조 7대 프로젝트」 제목 7개. 제목 아래 설명 글과 추진사업 번호 항목, PDF 4쪽 18대 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

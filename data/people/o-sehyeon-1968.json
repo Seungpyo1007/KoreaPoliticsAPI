@@ -1,0 +1,43 @@
+{
+  "id": "o-sehyeon-1968",
+  "name": "오세현",
+  "birth_year": 1968,
+  "external_ids": {
+    "nec_huboids": [
+      "100163850"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)더불어민주당 충남도당 부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)아산시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "센트럴미시간대학교 공공행정학(석사) 졸업 (2010.8~2012.12)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

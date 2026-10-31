@@ -5,7 +5,8 @@
   "external_ids": {
     "assembly_mona_cd": "5TQ6306B",
     "nec_huboids": [
-      "100152004"
+      "100152004",
+      "100163153"
     ]
   },
   "career": [
@@ -35,6 +36,14 @@
     },
     {
       "text": "(전)청와대 대변인",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제19대·22대 국회의원",
       "from": null,
       "to": null,
       "source_urls": [

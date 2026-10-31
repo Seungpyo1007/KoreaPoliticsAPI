@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-geojesi-20",
+  "candidate": {
+    "name": "김한표",
+    "party_id": "saenuridang",
+    "person_id": "gim-hanpyo-1954",
+    "nec_huboid": "100119509"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-geojesi-01",
+      "title": "조선해양플랜트의 힘찬 날갯짓을 위한 거제시민과의 약속",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongnam-geojesi-02",
+      "title": "경남권 교통중심지 발돋움을 위한 거제시민과의 약속",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongnam-geojesi-03",
+      "title": "문화·관광도시 도약을 위한 거제시민과의 약속",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-geojesi-04",
+      "title": "시민복지 향상을 위한 거제시민과의 약속",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4810/003_100119509_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 거제시 당선인 김한표 (새누리당). 책자형 선거공보 PDF 7–8쪽 「거제의 꿈! 더 나은 내일!」의 「…을 위한 거제시민과의 약속!」 제목 4개. 끝의 !를 덜어냈다. 각 약속 아래 ▪ 소제목 14개와 · 세부 항목, PDF 9–10쪽 「면·동별 생활환경 개선을 위한 거제시민과의 약속」, PDF 4–6쪽 지난 의정 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

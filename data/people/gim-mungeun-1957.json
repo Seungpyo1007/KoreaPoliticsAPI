@@ -1,0 +1,43 @@
+{
+  "id": "gim-mungeun-1957",
+  "name": "김문근",
+  "birth_year": 1957,
+  "external_ids": {
+    "nec_huboids": [
+      "100161025"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 충청북도 농정국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 단양군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "충북대학교 행정대학원 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

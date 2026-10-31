@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gangnamgueul-20",
+  "candidate": {
+    "name": "전현희",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeon-hyeonhui-1964",
+    "nec_huboid": "100118491"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gangnamgueul-01",
+      "title": "세곡 신 시티(CITY) 완성하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-gangnamgueul-02",
+      "title": "시립병원 유치하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangnamgueul-03",
+      "title": "재건축·리모델링! 주민이 원하는 대로",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangnamgueul-04",
+      "title": "강남(을) 지하철역 유치하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangnamgueul-05",
+      "title": "수서역 KTX 역세권 청년일자리 SOHO 건립 (Small Office + Home Office)",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangnamgueul-06",
+      "title": "생활체육 시설확보 및 동호회 지원확대",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangnamgueul-07",
+      "title": "저소득층·장애인·어르신들 복지혜택 확대",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangnamgueul-08",
+      "title": "아이 키우기 좋은 맘(MOM)편한 강남",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1123/003_100118491_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 강남구을 당선인 전현희 (더불어민주당). 책자형 선거공보 PDF 7–10쪽 「진심공약 #1」–「#8」 제목 8개. #1 아래 세곡 소제목 6개와 각 공약의 · 세부 항목, 쪽 머리의 구호(「항상 여러분 곁에 있겠습니다」 등)는 넣지 않았다. 끝의 !만 덜어냈고 #3 가운데 !는 원문대로 두었다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

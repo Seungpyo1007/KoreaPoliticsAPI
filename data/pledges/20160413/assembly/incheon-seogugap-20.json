@@ -1,0 +1,63 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/incheon-seogugap-20",
+  "candidate": {
+    "name": "이학재",
+    "party_id": "saenuridang",
+    "person_id": "i-hakjae-1964",
+    "nec_huboid": "100119555"
+  },
+  "pledges": [
+    {
+      "id": "20-incheon-seogugap-01",
+      "title": "고속도로 일반도로화! 나와 내 가족의 삶이 바뀝니다",
+      "page": 3
+    },
+    {
+      "id": "20-incheon-seogugap-02",
+      "title": "2호선 7월 개통! 모든 길이 서구로 통합니다",
+      "page": 3
+    },
+    {
+      "id": "20-incheon-seogugap-03",
+      "title": "루원시티로 시청 유치! 서구가 인천의 중심이 됩니다",
+      "page": 4
+    },
+    {
+      "id": "20-incheon-seogugap-04",
+      "title": "SK인천석유화학, 주민 건강과 안전이 최우선입니다",
+      "page": 4
+    },
+    {
+      "id": "20-incheon-seogugap-05",
+      "title": "7호선 신현·가정·청라 연장! 이학재가 반드시 끌어옵니다",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-seogugap-06",
+      "title": "청라의 보석, 시티타워! 이학재가 기필코 세워 올립니다",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-seogugap-07",
+      "title": "청라를 명품교육도시로! 청라의 학부모 이학재가 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-seogugap-08",
+      "title": "연희공원을 주민 휴식공간으로",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-seogugap-09",
+      "title": "수도권매립지를 테마파크로",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2808/003_100119555_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 인천 서구갑 당선인 이학재 (새누리당). 책자형 선거공보 PDF 3–4쪽 「서구를 인천의 중심으로 만들겠습니다!」 뚝심 1–5와 PDF 5–6쪽 「청라를 ‘송도도 탐내는’ 국제도시로 만들겠습니다!」 뚝심 1–5의 제목 중 9개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 4쪽 뚝심 5 「수도권 최고의 황금노선, 9호선! 이학재가 서구로 유치했습니다」는 지난 성과라 넣지 않았다. 제목 아래 설명 글, PDF 6쪽 버스 노선 한 줄, PDF 10쪽 분야별 「성과와 약속」 - 항목, PDF 7–9쪽 지난 성과와 확보 예산은 넣지 않았다. 끝의 !·.만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

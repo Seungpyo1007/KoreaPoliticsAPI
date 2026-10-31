@@ -1,0 +1,78 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungbuk-cheongjusisangdanggu-20",
+  "candidate": {
+    "name": "정우택",
+    "party_id": "saenuridang",
+    "person_id": "jeong-utaek-1953",
+    "nec_huboid": "100119752"
+  },
+  "pledges": [
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-01",
+      "title": "최고의 상당 구현",
+      "page": 5
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-02",
+      "title": "통합과 상생 발전",
+      "page": 5
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-03",
+      "title": "국민을 위한 정책 실현",
+      "page": 5
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-04",
+      "title": "경제특별구 상당 건설",
+      "page": 5
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-05",
+      "title": "지역현안 해결사, 프로일꾼 정우택",
+      "page": 5
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-06",
+      "title": "신규산업단지 조성",
+      "page": 6
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-07",
+      "title": "복합실내 체육관 건립",
+      "page": 6
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-08",
+      "title": "상당산성 생태뫼길(등산로) 정비사업 추진",
+      "page": 6
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-09",
+      "title": "통합청주시 상생발전을 위한 청주동물원 이전 추진",
+      "page": 6
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-10",
+      "title": "안전한 청주시를 위한 재난안전체험관 건립",
+      "page": 6
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-11",
+      "title": "청주 금천도서관 건립",
+      "page": 6
+    },
+    {
+      "id": "20-chungbuk-cheongjusisangdanggu-12",
+      "title": "살기좋은 주거환경 조성",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4301/003_100119752_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충북 청주시상당구 당선인 정우택 (새누리당). 책자형 선거공보 PDF 5쪽 「정우택의 슈퍼공약」(S·U·P·E·R) 제목 5개와 PDF 6쪽 「서민행복 1번지 슈퍼상당」 제목 7개. 제목 아래 굵은 부제와 · 세부 항목, PDF 9–10쪽 읍·면·동별 공약, PDF 4·7쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

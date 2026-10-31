@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-gwangmyeongsigap-20",
+  "candidate": {
+    "name": "백재현",
+    "party_id": "deobureo-minjudang",
+    "person_id": "baek-jaehyeon-1951",
+    "nec_huboid": "100119872"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-gwangmyeongsigap-01",
+      "title": "8만 개의 좋은 일자리가 생깁니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-gwangmyeongsigap-02",
+      "title": "다음 역은 현충공원역입니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-gwangmyeongsigap-03",
+      "title": "시민들의 돈이 더 많아집니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-gwangmyeongsigap-04",
+      "title": "스포츠테마파크에서 맘껏 뛰놉니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gwangmyeongsigap-05",
+      "title": "새 도서관에서 지식이 쑥쑥",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4114/003_100119872_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 광명시갑 당선인 백재현 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「V100 프로젝트 100% 오직 광명!」 번호 1–5 제목 5개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 위 작은 분야 꼬리표(일자리광명·사통팔달·곳간 든든·에코&클린·교육 쑥쑥)는 덜어냈고, 제목 아래 ■ 세부 항목은 넣지 않았다. PDF 8–9쪽 「백재현 우리의 필승카드입니다」 1–8은 전국 민생경제 공약이라 넣지 않았고, PDF 4쪽 지난 의정 성과도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

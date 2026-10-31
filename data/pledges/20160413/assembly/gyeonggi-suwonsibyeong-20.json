@@ -1,0 +1,78 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-suwonsibyeong-20",
+  "candidate": {
+    "name": "김영진",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-yeongjin-1967",
+    "nec_huboid": "100118699"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-suwonsibyeong-01",
+      "title": "신분당선을 우만-화서-호매실까지 연장하여 강남 45분 생활권으로 만들겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-02",
+      "title": "정약용 과학문화체험센터를 만들어서 수원화성을 체험하는 문화관광의 메카로 만들겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-03",
+      "title": "모든 초중고 석면교체",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-04",
+      "title": "수원 비행장 이전",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-05",
+      "title": "기존 영업중인 중소상인들의 사전/사후 면세점 Yes",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-06",
+      "title": "수원발 KTX 조속추진",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-07",
+      "title": "전통시장 현대화 관광특구 활성화",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-08",
+      "title": "도청 부지에 시민문화혁신도시를 만들겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-09",
+      "title": "신설되는 팔달경찰서를 조속히 완공하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-10",
+      "title": "빠르고 올바른 도시재생으로 행복한 도시를 만들겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-11",
+      "title": "팔달문화복지회관을 신축하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-suwonsibyeong-12",
+      "title": "국내 최초 친환경 노면전차(Tram) 운행으로 관광특구 팔달의 경제가 살아납니다",
+      "page": 11
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4103/003_100118699_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 수원시병 당선인 김영진 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「팔달이 활짝 수원이 활짝」 펼침면의 공약 문구 11개와 PDF 11쪽 노면전차 공약 1개. 번호 붙은 머리 목록이 없어 굵은 글씨가 들어간 공약 문구를 문장째 옮겼고, OCR 결과라 쪽 이미지를 보고 옮겼다. PDF 9–10쪽 아래 「팔달구 10개동 동별 공약」, PDF 7–8쪽 「김영진이 드리는 7대 경제 약속」(전국 정책), PDF 5–6쪽 지난 활동은 넣지 않았다. 면세점 문구 앞의 「대기업 면세점 No!」와 끝의 !를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

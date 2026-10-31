@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-ansansidanwongueul-21",
+  "candidate": {
+    "name": "김남국",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-namguk-1982",
+    "nec_huboid": "100137493"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-ansansidanwongueul-01",
+      "title": "민생중심 더 많은 일자리",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-ansansidanwongueul-02",
+      "title": "안전하고 살기 좋은 안산",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-ansansidanwongueul-03",
+      "title": "더 빨라지고 편리한 교통도시 안산",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-ansansidanwongueul-04",
+      "title": "지속가능발전도시 안산",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-ansansidanwongueul-05",
+      "title": "공정하고 정의로운 안산",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4119/003_100137493_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 안산시단원구을 당선인 김남국 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「김남국후보 핵심정책 5대 공약」 제목 5개. 글자층에 띄어쓰기가 빠져 있어 띄어쓰기는 쪽 이미지를 보고 옮겼다. 각 공약 아래 1·2·3 번호 소제목과 • 세부 항목, PDF 5쪽 「모여라 안산으로!」, PDF 6쪽 동별 공약, PDF 8쪽 「10대정책과제」는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

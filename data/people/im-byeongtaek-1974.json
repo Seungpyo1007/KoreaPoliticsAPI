@@ -1,0 +1,43 @@
+{
+  "id": "im-byeongtaek-1974",
+  "name": "임병택",
+  "birth_year": 1974,
+  "external_ids": {
+    "nec_huboids": [
+      "100161693"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)시흥시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)노무현 대통령비서실 청와대 행정관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전남대학교 법학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

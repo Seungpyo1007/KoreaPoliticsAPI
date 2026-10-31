@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-sahagugap-21",
+  "candidate": {
+    "name": "최인호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "choe-inho-1966",
+    "nec_huboid": "100135316"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-sahagugap-01",
+      "title": "사통팔달 교통대책으로 더 빨라진 사하",
+      "page": 7
+    },
+    {
+      "id": "21-busan-sahagugap-02",
+      "title": "주거환경 개선으로 더 살기 좋은 사하",
+      "page": 7
+    },
+    {
+      "id": "21-busan-sahagugap-03",
+      "title": "친환경 생태도시로 더 깨끗해진 사하",
+      "page": 8
+    },
+    {
+      "id": "21-busan-sahagugap-04",
+      "title": "드론, 스마트공장 사하 미래산업 육성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2611/003_100135316_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 사하구갑 당선인 최인호 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「사하경제를 살리겠습니다」 번호 1–4(교통·도시재생·생태·미래산업)의 제목 4개. 분야 표제 아래 굵은 제목 줄을 옮겼고, 그 아래 사업별 항목, PDF 10쪽 동별 생활밀착형 공약, PDF 5–6쪽 확보 예산과 PDF 9쪽 지난 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

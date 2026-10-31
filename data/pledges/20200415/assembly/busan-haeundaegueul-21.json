@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-haeundaegueul-21",
+  "candidate": {
+    "name": "김미애",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-miae-1969",
+    "nec_huboid": "100134694"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-haeundaegueul-01",
+      "title": "제2센텀 도시첨단 산업단지를 완성하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-busan-haeundaegueul-02",
+      "title": "미래인재개발원을 유치하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-busan-haeundaegueul-03",
+      "title": "구)한진CY부지 개발에 주민참여를 보장하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-busan-haeundaegueul-04",
+      "title": "꿈의 놀이터를 만들겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2609/003_100134694_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 해운대구을 당선인 김미애 (미래통합당). 책자형 선거공보 PDF 7–8쪽 번호 붙은 공약 1–4 제목 4개. 제목 아래 부제와 • 세부 항목, PDF 9쪽 「해운대의 아름다운 변화」 동별 공약, PDF 10쪽 당 공약, PDF 3–6쪽 살아온 이야기는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

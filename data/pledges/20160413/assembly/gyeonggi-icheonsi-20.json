@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-icheonsi-20",
+  "candidate": {
+    "name": "송석준",
+    "party_id": "saenuridang",
+    "person_id": "song-seokjun-1964",
+    "nec_huboid": "100118737"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-icheonsi-01",
+      "title": "불합리한 수도권 규제 반드시 바로잡겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-icheonsi-02",
+      "title": "부족을 채워 풍요롭게 송석준이 책임집니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-icheonsi-03",
+      "title": "이천을 내륙교통의 중심지로",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4134/003_100118737_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 이천시 당선인 송석준 (새누리당). 책자형 선거공보 PDF 7–8쪽 「살맛 나는 이천! 송·석·준이 이루어내겠습니다!」의 굵은 제목 3개. PDF 7–8쪽은 글자층 일부가 깨져 있어 쪽 이미지로 확인했다. 제목 아래 설명 글과 ■ 세부 항목, PDF 9–10쪽 읍·면·동별 공약과 PDF 10쪽 분야별(「모든 세대가 신명나는 이천」 등) ■ 항목, PDF 4쪽 공직 시절 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

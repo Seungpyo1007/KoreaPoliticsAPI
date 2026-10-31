@@ -1,0 +1,43 @@
+{
+  "id": "jo-sangho-1970",
+  "name": "조상호",
+  "birth_year": 1970,
+  "external_ids": {
+    "nec_huboids": [
+      "100153754"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 이재명 정부 국정기획위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 더불어민주당 당대표 정무조정실장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 대학원 박사과정 수료(정치외교학과)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "son-hwajeong-1970",
+  "name": "손화정",
+  "birth_year": 1970,
+  "external_ids": {
+    "nec_huboids": [
+      "100157153"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)이재명대통령비서실 청와대 행정관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)더불어민주당 전략기획위원회 부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대학교 법과대학 법학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

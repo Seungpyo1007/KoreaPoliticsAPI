@@ -1,0 +1,43 @@
+{
+  "id": "bak-byeonggyu-1966",
+  "name": "박병규",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100158654"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)광산구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)광주광역시 경제부시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "송원대학 (현 송원대학교) 사회복지과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

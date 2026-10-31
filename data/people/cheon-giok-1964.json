@@ -1,0 +1,43 @@
+{
+  "id": "cheon-giok-1964",
+  "name": "천기옥",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100158728"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)울산광역시 제4대 동구의회의원(전반기 의장)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제7대 울산광역시의회의원(전반기교육위원장)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "울산대학교 지역개발학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,83 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-namyangjusieul-21",
+  "candidate": {
+    "name": "김한정",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-hanjeong-1963",
+    "nec_huboid": "100137031"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-namyangjusieul-01",
+      "title": "지하철 4호선(진접선) '21년 5월 반드시 개통시키겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-02",
+      "title": "지하철 8호선(별내선) '23년까지 완공시키겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-03",
+      "title": "이미 확정된 4호선 북별내역과 8호선 별내역 연결 사업의 첫 단계인 예비타당성조사(중앙역 포함)를 조기 완료하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-04",
+      "title": "지하철 8호선 별내면 연장도 추진하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-05",
+      "title": "지하철 9호선, 진접까지 연장(4호선 환승)을 추진하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-06",
+      "title": "서울행 광역버스, 노선·운행대수를 계속 늘리겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-07",
+      "title": "지하철역까지 편리하게 갈 수 있도록 버스 노선을 전면 개편하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-08",
+      "title": "외곽순환고속도로 지하화(복층화) 사업을 추진하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-09",
+      "title": "남양주 대표급 복합문화체육공원을 조성하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-10",
+      "title": "(가칭)풍양역에 서울시청광장 2배 규모의 시민광장을 조성하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-11",
+      "title": "왕숙지구에 첨단기업위주의 산업단지를 조성하여 미래형 일자리도시를 만들겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-12",
+      "title": "남양주세무서를 유치하고 청년창업지원센터 설치를 추진하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-namyangjusieul-13",
+      "title": "안심하고 아이들을 맡길 수 있는 맞춤형 돌봄센터를 확충하겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4126/003_100137031_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 남양주시을 당선인 김한정 (더불어민주당). 책자형 선거공보 PDF 7쪽 「김한정이 약속합니다 교통문제를 최우선」 항목 8개와 PDF 9–10쪽 「핵심공약」 1–5 제목 5개. 항목 아래 괄호 설명, PDF 9–10쪽 읍·면·동 공약(별내면·별내동·진접읍·오남읍), PDF 5–6쪽 지난 4년 성과, PDF 4쪽 당 코로나 경제 대책은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

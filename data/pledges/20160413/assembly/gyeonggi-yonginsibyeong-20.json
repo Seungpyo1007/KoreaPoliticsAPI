@@ -1,0 +1,158 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-yonginsibyeong-20",
+  "candidate": {
+    "name": "한선교",
+    "party_id": "saenuridang",
+    "person_id": "han-seongyo-1959",
+    "nec_huboid": "100119779"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-yonginsibyeong-01",
+      "title": "수지지하철 요금인하를 추진하겠습니다",
+      "page": 2
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-02",
+      "title": "동천스마트IC(가칭)를 유치하겠습니다",
+      "page": 2
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-03",
+      "title": "지하철역 중심으로 대중교통 노선을 정비하겠습니다",
+      "page": 2
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-04",
+      "title": "수지 시니어행복센터를 건립하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-05",
+      "title": "노인 일자리 지원에 관한 법률을 제정하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-06",
+      "title": "어르신 문화 동아리 활동을 확대 지원하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-07",
+      "title": "어르신 재능기부 프로그램을 확대하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-08",
+      "title": "공립유치원을 반드시 유치하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-09",
+      "title": "아이돌봄 서비스를 지원하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-10",
+      "title": "보육시설에 맡긴 아이를 실시간으로 보실 수 있도록 하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-11",
+      "title": "‘새로일하기센터’를 유치하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-12",
+      "title": "여성의 경력지속성을 보장해주는 유연한 근무환경을 조성하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-13",
+      "title": "산후가정 건강관리사 파견을 확대하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-14",
+      "title": "신봉동에 경찰지구대를 신설하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-15",
+      "title": "학대전담경찰관 제도를 실시하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-16",
+      "title": "장애인 이동권 보장을 위한 기반을 마련하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-17",
+      "title": "누리과정 예산을 함부로 다른 곳에 전용할 수 없도록 법제화 하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-18",
+      "title": "수지맘교육위원회를 구성하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-19",
+      "title": "각 동마다 도서관을 신설 또는 확대하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-20",
+      "title": "환경개선연구프로젝트를 운영하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-21",
+      "title": "청소년 직업체험관 및 진로교육지원센터를 설립하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-22",
+      "title": "EBS-2TV(교육방송) 조기 실시 하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-23",
+      "title": "생활체육 활성화를 위해 K-스포츠클럽을 육성하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-24",
+      "title": "주민이 함께 이용하는 개방형 학교 체육관을 확대하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-25",
+      "title": "생애주기별 맞춤형 체육시설을 건립하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-26",
+      "title": "심곡문화공원을 조성하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-27",
+      "title": "수지에 차 없는 문화거리를 조성하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-yonginsibyeong-28",
+      "title": "찾아가는 문화공연을 유치하겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4136/003_100119779_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 용인시병 당선인 한선교 (새누리당). 책자형 선거공보 PDF 2–10쪽 분야별 공약의 굵은 제목 28개. 머리 공약 목록이 없어 쪽마다 분야 표제(「더 편리한 교통시스템 구축에 최선을 다하겠습니다」 등) 아래 굵은 제목을 썼다. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 분야 표제, 제목 아래 설명 글과 공약·예산·관련기관 표, PDF 11쪽 수상·약력은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

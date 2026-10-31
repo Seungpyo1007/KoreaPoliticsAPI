@@ -1,0 +1,43 @@
+{
+  "id": "gim-jeongjung-1964",
+  "name": "김정중",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100158374"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)양양군수선거 후보(더불어민주당, 제8회 동시지방선거)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)강원도의회의원(농림수산위원회위원장)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경기대학교 사학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

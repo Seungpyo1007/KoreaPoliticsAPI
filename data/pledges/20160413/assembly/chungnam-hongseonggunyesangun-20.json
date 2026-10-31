@@ -1,0 +1,143 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungnam-hongseonggunyesangun-20",
+  "candidate": {
+    "name": "홍문표",
+    "party_id": "saenuridang",
+    "person_id": "hong-munpyo-1947",
+    "nec_huboid": "100120189"
+  },
+  "pledges": [
+    {
+      "id": "20-chungnam-hongseonggunyesangun-01",
+      "title": "한국교육기술대학교 내포신도시 캠퍼스 유치",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-02",
+      "title": "충남 적십자병원 신설",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-03",
+      "title": "한국방송공사(KBS) 내포방송총국 신설",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-04",
+      "title": "한국농어촌공사충남본부 / 대한지적공사충남본부 이전유도",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-05",
+      "title": "내포도시첨단산업단지 내 유망기업 유치",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-06",
+      "title": "고용복지 종합센터 유치",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-07",
+      "title": "국립지적 박물관 신설",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-08",
+      "title": "농협 하나로마트 신설(예산·홍성 농수축산물 전용 마트)",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-09",
+      "title": "서해선 복선전철, 수도권전철, 제2서해안고속도로 조기 예산확보로 원활 추진",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-10",
+      "title": "서해선 복선전철 삽교역사 신설",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-11",
+      "title": "해미공군비행장 민간항공기 유치",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-12",
+      "title": "동물약품 특화산업단지로 집중 육성",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-13",
+      "title": "낙농치즈 체험목장 건립",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-14",
+      "title": "예당호, 수덕사, 덕산온천과 연계된 종합 관광특구로 지정",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-15",
+      "title": "자동차 부품기업 유치를 통한 일자리 창출",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-16",
+      "title": "서부내륙권 관광개발",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-17",
+      "title": "덕산온천 휴양마을 조성",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-18",
+      "title": "명품종자연구소 설립",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-19",
+      "title": "국립 산림치유원 설립(오서산일대)",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-20",
+      "title": "홍성역 확장 및 역세권 개발",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-21",
+      "title": "남당항 관광특구지역으로 개발",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-22",
+      "title": "오관지구 주거환경 조성사업 성공적 추진",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-23",
+      "title": "첨단 부품산업단지 조성",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-24",
+      "title": "홍성여고 홍성고 부지로 이전",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-hongseonggunyesangun-25",
+      "title": "홍성수협 설치",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4413/003_100120189_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충남 홍성군예산군 당선인 홍문표 (새누리당). 책자형 선거공보 PDF 9–10쪽 「홍문표의 “약속”」 중 지역 목록의 번호 제목 25개(「충남중심 내포신도시 발전을 위한 약속」 8, 「사통팔달 충남교통 요충지로 집중육성」 3, 「예산군 발전비전」 7, 「홍성군 발전비전」 7). PDF 9쪽 「노인, 농어민, 청년, 장애인을 위한 약속」 10개는 전국 공약이라 넣지 않았고, 제목 아래 – 세부 항목, PDF 5–8쪽 확보 예산과 사업 성과도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

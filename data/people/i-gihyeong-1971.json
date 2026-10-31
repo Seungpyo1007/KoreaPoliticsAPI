@@ -1,0 +1,43 @@
+{
+  "id": "i-gihyeong-1971",
+  "name": "이기형",
+  "birth_year": 1971,
+  "external_ids": {
+    "nec_huboids": [
+      "100156825"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)경기도의원(제10대.11대)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)이재명 대통령 후보 총괄선거대책본부 부대변인(21대)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "중앙대학교 행정대학원 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

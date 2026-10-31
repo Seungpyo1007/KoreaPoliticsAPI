@@ -1,0 +1,123 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-yangjusi-21",
+  "candidate": {
+    "name": "정성호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeong-seongho-1962",
+    "nec_huboid": "100137490"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-yangjusi-01",
+      "title": "전철 7호선 옥정중심 연장 조기 착공(포천연장과 별도추진)",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-02",
+      "title": "GTX 양주~수원 조기 착공, 덕정 광역복합환승센터 건립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-03",
+      "title": "1호선 양주구간 열차운행 증회 추진(출퇴근 셔틀도 협의)",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-04",
+      "title": "교외선 운행재개·관광개발 등 종합활용방안 착수(용역 중)",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-05",
+      "title": "광역버스 노선 확충, 구리~포천·양주고속도로 통행료 인하",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-06",
+      "title": "테크노밸리 첨단 융·복합기업 유치(2단계 9만평 추가착수)",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-07",
+      "title": "은남산단 유통·패션·제조 특화기업 유치(행안부 투자심사)",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-08",
+      "title": "양주역세권 개발사업 제때 준공(지역민 의무고용 협약추진)",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-09",
+      "title": "회천 도시첨단산단 착공, 평화로 덕계구간 전신주 지중화",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-10",
+      "title": "세대별 계층별 맞춤형 취업·창업지원 통합서비스 구축",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-11",
+      "title": "서울~연천 고속도로 양주 서부권역 우선 착수(1조 4797억)",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-12",
+      "title": "백석~의정부 서부우회도로 연결(백석지구 광역교통분담금)",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-13",
+      "title": "국지도 39호선 상수~한산 연장 개설(동두천 국가산단 연계)",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-14",
+      "title": "광석지구·백석도시개발사업 재추진, 백석~양주역 도로개설",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-15",
+      "title": "일영개발 연계 장흥 문화프로젝트 추진, 우이령길 개방확대",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-16",
+      "title": "경기도 상위권 공기 질 실현(대기오염 배출요인 엄정 차단)",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-17",
+      "title": "공공거점 종합병원 유치(도립 양주의료원, 공공노인요양원)",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-18",
+      "title": "읍면 주민센터 복합화, 원도심 도시재생사업 지속 확대",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-19",
+      "title": "교육부 미래교육지구 지정 추진(혁신교육지구센터 설립)",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-20",
+      "title": "아트센터 착공, 수변·산림공원 확대, 자전거도로·둘레길 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-yangjusi-21",
+      "title": "경기북부 규제개혁·지역경제 혁신입법",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4116/003_100137490_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 양주시 당선인 정성호 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「함께 만들 4대 비전, 21개 약속!」 번호 공약 제목 21개(1–21 번호 순). 글자층에 번호 글자가 빠져 있어 번호와 순서는 쪽 이미지로 확인했다. 제목 아래 - 세부 항목, 4대 비전 표제, PDF 3–4·6쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

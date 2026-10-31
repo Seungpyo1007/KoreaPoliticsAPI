@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gangwon-wonjusieul-20",
+  "candidate": {
+    "name": "송기헌",
+    "party_id": "deobureo-minjudang",
+    "person_id": "song-giheon-1963",
+    "nec_huboid": "100118340"
+  },
+  "pledges": [
+    {
+      "id": "20-gangwon-wonjusieul-01",
+      "title": "중부내륙 50만 중심도시 원주",
+      "page": 2
+    },
+    {
+      "id": "20-gangwon-wonjusieul-02",
+      "title": "도시재생 : 원도심 활성화",
+      "page": 2
+    },
+    {
+      "id": "20-gangwon-wonjusieul-03",
+      "title": "일자리 서민경제",
+      "page": 2
+    },
+    {
+      "id": "20-gangwon-wonjusieul-04",
+      "title": "더불어 함께 행복한 원주",
+      "page": 2
+    },
+    {
+      "id": "20-gangwon-wonjusieul-05",
+      "title": "건강보험 보장성 강화",
+      "page": 2
+    },
+    {
+      "id": "20-gangwon-wonjusieul-06",
+      "title": "지방자치 활성화 : 지역균형발전",
+      "page": 2
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4202/003_100118340_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 강원 원주시을 당선인 송기헌 (더불어민주당). 책자형 선거공보 PDF 2쪽 「살기좋은 살고싶은 원주를 만들겠습니다」 로마숫자(Ⅰ–Ⅵ) 공약 목록 제목 6개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 앞의 로마숫자를 덜어냈다. PDF 3–7쪽 각 분야의 » 소제목과 ○ 세부 항목, PDF 8–9쪽 표어는 넣지 않았다. Ⅲ·Ⅴ·Ⅵ은 법령 개정 중심 내용이지만 머리 목록에 들어 있어 그대로 넣었다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

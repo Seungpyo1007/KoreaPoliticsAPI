@@ -1,0 +1,63 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-namyangjusigap-20",
+  "candidate": {
+    "name": "조응천",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jo-eungcheon-1962",
+    "nec_huboid": "100120386"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-namyangjusigap-01",
+      "title": "경춘선은 용산까지 달려야 합니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-namyangjusigap-02",
+      "title": "남양주! KTX·GTX 시대를 엽니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-namyangjusigap-03",
+      "title": "경춘선! 화도 월산·답내역을 차질없이 신설합니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-namyangjusigap-04",
+      "title": "조응천과 함께하는 남양주 5대도로! 차질없이 추진합니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-namyangjusigap-05",
+      "title": "서울 출퇴근 버스! 더 편안하고~ 더 빠르게~",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-namyangjusigap-06",
+      "title": "서울춘천고속도로 이용요금 지역주민 할인제 도입",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-namyangjusigap-07",
+      "title": "국립대학병원·비즈니스 복합단지 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-namyangjusigap-08",
+      "title": "에듀컬처(교육-문화) 단지 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-namyangjusigap-09",
+      "title": "KIDS & FAMILY 스포랜드 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4126/003_100120386_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 남양주시갑 당선인 조응천 (더불어민주당). 머리 공약 목록이 없어 분야별 제목을 넣었다. 책자형 선거공보 PDF 7쪽 「더 빠른 남양주」 제목 6개와 PDF 8쪽 「도약하는 남양주」 화도·호평평내·수동 제목 3개. 제목 아래 세부 줄, PDF 5–6쪽 「더불어민주당과 조응천이 약속합니다」 당 공약, PDF 9–10쪽 읍·면·동별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

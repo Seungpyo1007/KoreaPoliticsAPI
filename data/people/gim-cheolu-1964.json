@@ -1,0 +1,43 @@
+{
+  "id": "gim-cheolu-1964",
+  "name": "김철우",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100159879"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)보성군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)대통령직속 북방경제협력위원회 전문위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "조선대학교 대학원 졸업 (경영학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-pohangsibukgu-21",
+  "candidate": {
+    "name": "김정재",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-jeongjae-1966",
+    "nec_huboid": "100137384"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-pohangsibukgu-01",
+      "title": "4차산업혁명 선도도시 포항",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongbuk-pohangsibukgu-02",
+      "title": "해양문화관광 일류도시 포항",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongbuk-pohangsibukgu-03",
+      "title": "환동해물류 중심도시 포항",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-pohangsibukgu-04",
+      "title": "아이키우기 좋은도시 포항",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-pohangsibukgu-05",
+      "title": "살맛 나는 희망도시 포항",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4701/003_100137384_20200414_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 포항시북구 당선인 김정재 (미래통합당). 책자형 선거공보 PDF 5–9쪽 「김정재가 그리는 포항의 미래먹거리!」 01–05 번호 공약 제목 5개. 이 쪽들은 제목 글자층이 깨져 있어 쪽 이미지를 보고 옮겼다. 번호 공약 아래 「…하겠습니다」 소제목과 ● 세부 항목, PDF 9쪽 권역별 공약, PDF 4쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

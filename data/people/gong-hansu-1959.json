@@ -1,0 +1,43 @@
+{
+  "id": "gong-hansu-1959",
+  "name": "공한수",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100160476"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)서구청장(민선7, 8기)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제6, 7대 부산광역시의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "동아대학교 대학원 정치학과 정치학석사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

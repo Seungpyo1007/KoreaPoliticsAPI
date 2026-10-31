@@ -1,0 +1,43 @@
+{
+  "id": "gim-sehun-1959",
+  "name": "김세훈",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100158943"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)더불어민주당 강원특별자치도당 부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)강원특별자치도 테크노파크 협력관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "강원대학교 임과대학 임학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

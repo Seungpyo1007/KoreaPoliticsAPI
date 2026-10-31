@@ -1,0 +1,43 @@
+{
+  "id": "i-namo-1972",
+  "name": "이남오",
+  "birth_year": 1972,
+  "external_ids": {
+    "nec_huboids": [
+      "100159559"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)더불어민주당 함평군수 후보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)함평군의회의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "호남대학교 대학원 행정학박사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

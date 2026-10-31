@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-namgugap-21",
+  "candidate": {
+    "name": "박수영",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "bak-suyeong-1964",
+    "nec_huboid": "100134853"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-namgugap-01",
+      "title": "첨단해양 삼각벨트",
+      "page": 8
+    },
+    {
+      "id": "21-busan-namgugap-02",
+      "title": "문현금융단지 3단계 사업 조속 완료",
+      "page": 9
+    },
+    {
+      "id": "21-busan-namgugap-03",
+      "title": "어린이 도서관 건립",
+      "page": 9
+    },
+    {
+      "id": "21-busan-namgugap-04",
+      "title": "UN기념공원의 자유민주주의 성지화",
+      "page": 9
+    },
+    {
+      "id": "21-busan-namgugap-05",
+      "title": "세계수산대학 특별법 제정",
+      "page": 9
+    },
+    {
+      "id": "21-busan-namgugap-06",
+      "title": "(우암동~감만부두) '장고개길 랜드마크' 조성",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2607/003_100134853_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 남구갑 당선인 박수영 (미래통합당). 책자형 선거공보 PDF 8–9쪽 「박수영의 2030 남구 미래비전」 제목 6개(PDF 8쪽 큰 제목 1개, PDF 9쪽 상자 제목 5개, 두 줄 제목은 이었다). PDF 8쪽 「첨단해양 삼각벨트」 아래 문현금융단지·우암부두·감만동 외대부지 상자와 각 상자의 • 세부 항목, PDF 10쪽 동별 공약, PDF 7쪽 방역·정치 개혁 공약, PDF 2–6쪽 약력과 정권 비판 글은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

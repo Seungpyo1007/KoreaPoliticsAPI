@@ -1,0 +1,43 @@
+{
+  "id": "jo-juhong-1969",
+  "name": "조주홍",
+  "birth_year": 1969,
+  "external_ids": {
+    "nec_huboids": [
+      "100159545"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)대한민국 국회부의장 선임비서관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)경상북도의회 제10대·제11대 의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경북대학교 정책정보대학원 정치리더십전공(정치학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

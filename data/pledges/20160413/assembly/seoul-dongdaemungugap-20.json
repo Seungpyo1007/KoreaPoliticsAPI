@@ -1,0 +1,118 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-dongdaemungugap-20",
+  "candidate": {
+    "name": "안규백",
+    "party_id": "deobureo-minjudang",
+    "person_id": "an-gyubaek-1961",
+    "nec_huboid": "100119918"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-dongdaemungugap-01",
+      "title": "분당선 청량리역 직결운행",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-02",
+      "title": "KTX 청량리역 - 강릉 1시간 연결",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-03",
+      "title": "GTX 청량리역 - 송도 30분대 연결",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-04",
+      "title": "경전철 동북선ㆍ면목선 2017년 착공",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-05",
+      "title": "경춘선 청량리역 출발역 복원(휘경역 신설)",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-06",
+      "title": "동대문 전통시장 관광벨트 구축",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-07",
+      "title": "전통시장 주차장 확보 및 현대화",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-08",
+      "title": "약령시 국가전략한방산업단지화",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-09",
+      "title": "홍릉 바이오의료 신산업 거점 구축",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-10",
+      "title": "청년 스타트업타운 조성으로 일자리 창출",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-11",
+      "title": "홍릉숲 평일개방 및 천장산둘레길 조성",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-12",
+      "title": "홍릉문화벤처단지 및 공연장 조성",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-13",
+      "title": "동대문 복합문화체육센터 건립",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-14",
+      "title": "회기로 문화가로수길 조성",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-15",
+      "title": "각 동별 마을공원 조성",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-16",
+      "title": "수준높고 다채로운 혁신교육지구 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-17",
+      "title": "친환경급식 확대 및 고교무상교육 실시",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-18",
+      "title": "서울주요대학생 연계 멘토공부방 설치",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-19",
+      "title": "어린이도서관 및 작은도서관 확충",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungugap-20",
+      "title": "학교 환경개선 및 에코스쿨 조성",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1106/003_100119918_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 동대문구갑 당선인 안규백 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「일 잘하는 안규백만이 해낼 수 있습니다」의 분야별 • 공약 20개(5쪽 「사통팔달 활력경제」 10개, 6쪽 「문화복지 행복교육」 10개). 분야 표제는 구호라 넣지 않고 그 아래 • 줄을 공약 제목으로 삼았다. 5–6쪽 아래 동별 공약, PDF 3–4쪽 지난 4년 성과, PDF 8쪽 당 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

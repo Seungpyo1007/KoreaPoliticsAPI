@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-yangsansieul-20",
+  "candidate": {
+    "name": "서형수",
+    "party_id": "deobureo-minjudang",
+    "person_id": "seo-hyeongsu-1957",
+    "nec_huboid": "100119876"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-yangsansieul-01",
+      "title": "양산을 협동조합, 마을기업의 메카로! 5천 개의 일자리가 생깁니다",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongnam-yangsansieul-02",
+      "title": "말 많은 무상급식과 누리과정 예산, 앞으로는 중앙정부가 부담합니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongnam-yangsansieul-03",
+      "title": "쾌적한 주거와 첨단산업이 어우러진 하이브리드 도시, 양산을 경남의 대덕 지구로",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongnam-yangsansieul-04",
+      "title": "문화 콘텐츠가 강물처럼 흐르는, 문화 도시 양산으로 변화합니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4814/003_100119876_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 양산시을 당선인 서형수 (더불어민주당). 책자형 선거공보 PDF 4–6쪽 「서형수가 생각하는 ‘낯선 ○○’」 면의 굵은 소제목 4개(경제·교육·생활·문화). 소제목 아래 설명 문장, PDF 4쪽 「낯선 정치」의 국회의원 특권 폐지(전국 정치 공약), PDF 2쪽 「새로운 방법」 구호 목록, PDF 10쪽 청년·학부모 다짐은 넣지 않았다. 끝의 .·!만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

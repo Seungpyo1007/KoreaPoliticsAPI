@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-21",
+  "candidate": {
+    "name": "조해진",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "jo-haejin-1963",
+    "nec_huboid": "100135882"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-01",
+      "title": "영남 일반산업단지 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-02",
+      "title": "대구산업선 철도 연장 추진",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-03",
+      "title": "부림 일반산업단지 및 기반시설 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-04",
+      "title": "의령~정곡~부림간 도로 확·포장",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-05",
+      "title": "합강권역관광벨트 조성사업 추진",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-06",
+      "title": "창녕고암~밀양 부북 국도건설",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-07",
+      "title": "폴리텍대학 밀양나노캠퍼스 조기 개교",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-08",
+      "title": "부곡 스포츠파크 인프라 확충",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-09",
+      "title": "밀양역세권 종합개발 및 상권 활성화",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-10",
+      "title": "밀양~김해 고속국도 신설",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-11",
+      "title": "아라가야 역사유적지구 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-12",
+      "title": "함안 군북~가야~칠원간 도로 확·포장",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4809/003_100135882_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 밀양시의령군함안군창녕군 당선인 조해진 (미래통합당). 책자형 선거공보 PDF 9–10쪽(펼침면) 「골고루 발전하는 4개시군 조해진의 약속입니다!」 지도 위 공약 표지 12개(PDF 9쪽, PDF 10쪽 각각 위에서 아래 순). 표지 안 작은 글씨 줄(대합미니복합타운 기반시설 지원, 노선 경유지 등)은 넣지 않았다. PDF 8쪽 지난 성과, PDF 6쪽 정권교체·신적폐 청산 다짐은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

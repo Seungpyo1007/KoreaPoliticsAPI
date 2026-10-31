@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gangwon-wonjusigap-21",
+  "candidate": {
+    "name": "이광재",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-gwangjae-1965",
+    "nec_huboid": "100137402"
+  },
+  "pledges": [
+    {
+      "id": "21-gangwon-wonjusigap-01",
+      "title": "원주~여주 복선전철 조기착공 + 문막역 설치",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-wonjusigap-02",
+      "title": "교육에 집중 투자해 교육은 분명하게 책임지겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-wonjusigap-03",
+      "title": "미세먼지로부터 자유로운 ‘맘(MOM) 편한 공간’을 조성하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-wonjusigap-04",
+      "title": "군사시설 + 철도부지로 오랜 기간 갑갑했던 지역발전 확실히 해결하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-wonjusigap-05",
+      "title": "원주천과 섬강에서 아이들이 뛰어놀 수 있게 하겠습니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4202/003_100137402_20200414_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 강원 원주시갑 당선인 이광재 (더불어민주당). 머리 공약 목록이 없고 PDF 5–9쪽이 권역별 맞춤공약(문막·부론·귀래, 지정, 단계·무실, 태장·우산·호저, 원인·일산·중앙·학성)으로 짜여 있어, 각 쪽 아래 상자의 굵은 제목 5개를 넣었다. 글자층이 없어 쪽 이미지를 보고 옮겼다. 쪽마다 되풀이되는 분야 띠(「일자리가 늘어나는 원주」 등)와 • 권역별 항목, 상자 안 ▶ 세부 항목, PDF 2–4·10쪽 인사말·경력·기사는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

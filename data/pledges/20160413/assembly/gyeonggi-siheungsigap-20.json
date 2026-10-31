@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-siheungsigap-20",
+  "candidate": {
+    "name": "함진규",
+    "party_id": "saenuridang",
+    "person_id": "ham-jingyu-1959",
+    "nec_huboid": "100120012"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-siheungsigap-01",
+      "title": "전철 4개노선 연결 추진",
+      "page": 1
+    },
+    {
+      "id": "20-gyeonggi-siheungsigap-02",
+      "title": "EBS 방송미디어센터 및 교육특구 추진",
+      "page": 1
+    },
+    {
+      "id": "20-gyeonggi-siheungsigap-03",
+      "title": "옛 염전 명품 개발 - 경제활성화",
+      "page": 1
+    },
+    {
+      "id": "20-gyeonggi-siheungsigap-04",
+      "title": "그린벨트 합리적 조정 - 일자리 창출",
+      "page": 1
+    },
+    {
+      "id": "20-gyeonggi-siheungsigap-05",
+      "title": "종합예술회관 및 복합체육공원 건립",
+      "page": 1
+    },
+    {
+      "id": "20-gyeonggi-siheungsigap-06",
+      "title": "기업과 상권의 경제 활성화",
+      "page": 1
+    },
+    {
+      "id": "20-gyeonggi-siheungsigap-07",
+      "title": "산후조리원 유치 및 경로당 주치의 제도 실시",
+      "page": 1
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4129/003_100120012_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 시흥시갑 당선인 함진규 (새누리당). 책자형 선거공보 PDF 1쪽(표지) 「대표공약」 제목 7개. PDF 3–5쪽 분야별 설명과 - 세부 항목, PDF 6–7쪽 동별 공약, PDF 2·8쪽 지난 성과, PDF 9쪽 상대 후보 반박은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

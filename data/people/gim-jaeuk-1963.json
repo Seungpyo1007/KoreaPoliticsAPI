@@ -1,0 +1,43 @@
+{
+  "id": "gim-jaeuk-1963",
+  "name": "김재욱",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100162448"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)TBC 상무이사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)칠곡군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 대학원 경제학부 수료(석사과정)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

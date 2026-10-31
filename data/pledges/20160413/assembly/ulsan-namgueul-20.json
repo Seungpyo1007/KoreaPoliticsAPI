@@ -1,0 +1,108 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/ulsan-namgueul-20",
+  "candidate": {
+    "name": "박맹우",
+    "party_id": "saenuridang",
+    "person_id": "bak-maengu-1951",
+    "nec_huboid": "100120320"
+  },
+  "pledges": [
+    {
+      "id": "20-ulsan-namgueul-01",
+      "title": "주력산업 고도화 (ICT Industry 4.0s 등)",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-namgueul-02",
+      "title": "미래 유망산업 육성 (3D프린팅, 수소전지차 등)",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-namgueul-03",
+      "title": "동북아 오일허브 구축",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-namgueul-04",
+      "title": "시민안전체험센터 건립",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-namgueul-05",
+      "title": "스타트업 울산 프로젝트",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-namgueul-06",
+      "title": "국가산단 유해화학물질 안전대응시스템 구축",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-07",
+      "title": "장생포항 오염퇴적물 정화사업",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-08",
+      "title": "취약지역 CCTV 설치",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-09",
+      "title": "울산항 배후도로 개설",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-10",
+      "title": "상개~매암 간 도로 조기 개설",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-11",
+      "title": "장생포 순환도로 확장",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-12",
+      "title": "대현(수암)동 일원(신선로) 도로망 개설",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-13",
+      "title": "왕생이길 주차장 완공",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-14",
+      "title": "장생포 새뜰마을 사업",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-15",
+      "title": "선암지구 생활환경 개선사업",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-16",
+      "title": "상개지구 주거환경 개선사업",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-17",
+      "title": "뉴스테이 연계형 정비사업",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-namgueul-18",
+      "title": "전통시장 지원 (현대화사업, 주차장 조성 등)",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/3102/003_100120320_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 울산 남구을 당선인 박맹우 (새누리당). 책자형 선거공보 PDF 9쪽 「울산 경제 재도약의 전기를 마련하겠습니다」 5개와 PDF 10쪽 「남구를 안전하고 쾌적하게 만들겠습니다」(안전한 남구·편리한 남구·살기좋은 남구) 13개, 모두 18개의 • 공약 줄. 머리 공약 목록 없이 • 목록만 있어 이것을 넣었다. PDF 9쪽 「대한민국 정치를 바로 세우겠습니다」 전국 정치 공약 5개, PDF 4·6쪽 울산시장 시절과 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

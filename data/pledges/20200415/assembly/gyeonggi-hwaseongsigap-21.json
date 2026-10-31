@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-hwaseongsigap-21",
+  "candidate": {
+    "name": "송옥주",
+    "party_id": "deobureo-minjudang",
+    "person_id": "song-okju-1965",
+    "nec_huboid": "100136459"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-hwaseongsigap-01",
+      "title": "환승센터 건립을 통한 교통혁명 실현",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsigap-02",
+      "title": "환태평양 관광허브도시 조성",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsigap-03",
+      "title": "공공의료원 향남 설립",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsigap-04",
+      "title": "교육국제화특구 추진",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsigap-05",
+      "title": "경제자유구역 지정 추진",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4128/003_100136459_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 화성시갑 당선인 송옥주 (더불어민주당). 책자형 선거공보 PDF 4쪽 「새로운 화성을 위한 송옥주의 5대 공약」 1–5. 각 항목 앞의 분야 이름(교통·관광·복지·교육·경제 :)은 덜어냈다. PDF 5–9쪽 5대 공약별 소제목과 세부 항목, PDF 10쪽 분야(계층)별·지역별 공약, PDF 4쪽 위 「수원 군공항 이전! 화성시민과 함께 막아내겠습니다」(활동 소개), PDF 3쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

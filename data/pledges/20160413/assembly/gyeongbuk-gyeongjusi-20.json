@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongbuk-gyeongjusi-20",
+  "candidate": {
+    "name": "김석기",
+    "party_id": "saenuridang",
+    "person_id": "gim-seokgi-1954",
+    "nec_huboid": "100118999"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongbuk-gyeongjusi-01",
+      "title": "일자리와 인구가 늘어나는 경주를 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongbuk-gyeongjusi-02",
+      "title": "해외 관광객 10배 이상 유치로 관광도시 경주 재도약",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongbuk-gyeongjusi-03",
+      "title": "동경주(감포,양남,양북)에 해안권 해양휴양단지 조성",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongbuk-gyeongjusi-04",
+      "title": "농어촌이 잘 사는 행복 경주",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongbuk-gyeongjusi-05",
+      "title": "도심권 관광경제 부활로 웃는 경주 잘사는 경주",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-gyeongjusi-06",
+      "title": "교육과 여성, 노인, 장애인 복지에 최선을 다하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-gyeongjusi-07",
+      "title": "경주에 시급한 법 제정 및 개정",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-gyeongjusi-08",
+      "title": "경주를 국제적 스포츠 메카로",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4704/003_100118999_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경북 경주시 당선인 김석기 (새누리당). 책자형 선거공보 PDF 7–8쪽 「1등 도시 경주를 위한 김석기만의 약속」 번호 공약 01–08 제목 8개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 ■ 부제와 · 세부 항목, PDF 9–10쪽 권역별 약속, PDF 2–6쪽 인사말·약력은 넣지 않았다. 04·08 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

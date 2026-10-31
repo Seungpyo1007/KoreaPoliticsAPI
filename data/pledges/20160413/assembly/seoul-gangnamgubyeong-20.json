@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gangnamgubyeong-20",
+  "candidate": {
+    "name": "이은재",
+    "party_id": "saenuridang",
+    "person_id": "i-eunjae-1952",
+    "nec_huboid": "100118560"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gangnamgubyeong-01",
+      "title": "영동대로 통합개발 완수하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "20-seoul-gangnamgubyeong-02",
+      "title": "재건축 기간 단축하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "20-seoul-gangnamgubyeong-03",
+      "title": "창조교육·문화특구를 조성하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-seoul-gangnamgubyeong-04",
+      "title": "빼앗긴 재산세 찾아오겠습니다",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1123/003_100118560_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 강남구병 당선인 이은재 (새누리당). 책자형 선거공보 PDF 3–4쪽 「공약 I–IV」 제목 4개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 4쪽 「공약 V 시장경제 이념을 실현하는 투사가 되겠습니다」는 국회선진화법 개정 등 전국 정치 공약이라 넣지 않았다. 제목 아래 굵은 소제목과 ■ 세부 항목, PDF 5–6쪽 지난 의정 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

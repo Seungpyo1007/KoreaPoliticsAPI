@@ -1,0 +1,43 @@
+{
+  "id": "seo-yeonghak-1971",
+  "name": "서영학",
+  "birth_year": 1971,
+  "external_ids": {
+    "nec_huboids": [
+      "100155926"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)대통령비서실 행정관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)여성가족부 기획재정담당관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전남대학교 일반대학원 임학과 석사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

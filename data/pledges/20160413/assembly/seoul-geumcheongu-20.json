@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-geumcheongu-20",
+  "candidate": {
+    "name": "이훈",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-hun-1965",
+    "nec_huboid": "100119649"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-geumcheongu-01",
+      "title": "서울 최고의 일자리 금천",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-geumcheongu-02",
+      "title": "혁신교육 선도 금천",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-geumcheongu-03",
+      "title": "발전하는 금천",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-geumcheongu-04",
+      "title": "어르신, 여성, 아동을 위한 금천",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-geumcheongu-05",
+      "title": "안전한 금천",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-geumcheongu-06",
+      "title": "든든한 금천",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-geumcheongu-07",
+      "title": "참여와 소통하는 금천",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1118/003_100119649_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 금천구 당선인 이훈 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「이훈의 7가지 약속」 번호 제목 7개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 각 번호 아래 나열된 세부 공약 줄, PDF 5–6쪽의 동별 지도·분야 요약, PDF 10쪽 더불어민주당 경제 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-uiwangsigwacheonsi-21",
+  "candidate": {
+    "name": "이소영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-soyeong-1985",
+    "nec_huboid": "100137284"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-uiwangsigwacheonsi-01",
+      "title": "출퇴근이 편리한 교통 도시 의왕",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-uiwangsigwacheonsi-02",
+      "title": "지속가능한 더 좋은 개발로 행복한 주거 도시 의왕",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-uiwangsigwacheonsi-03",
+      "title": "그린뉴딜로 경제가 쑥쑥, 미래 도시 의왕",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-uiwangsigwacheonsi-04",
+      "title": "아이 키우기 좋은, 맘(mom) 편한 도시 의왕",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-uiwangsigwacheonsi-05",
+      "title": "광역 교통망 확충으로 더 살기 편한 도시 과천",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-uiwangsigwacheonsi-06",
+      "title": "삶의 질을 올리는 주거안정 도시 과천",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-uiwangsigwacheonsi-07",
+      "title": "미래먹거리 산업 유치로 지속가능한 자족 도시 과천",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-uiwangsigwacheonsi-08",
+      "title": "더 촘촘한 복지가 제공되는 행복 도시 과천",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4124/003_100137284_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 의왕시과천시 당선인 이소영 (더불어민주당). 책자형 선거공보 PDF 4쪽 「새로운 미래도시 의왕」과 PDF 5쪽 「살고 싶은 도시 과천」의 분야별(교통·주거·경제·보육/복지) 굵은 제목 8개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 위 작은 글씨 구호(「의왕이 빨라집니다」 등)와 제목 아래 • 세부 항목, 각 쪽 오른쪽 동별 공약, PDF 6쪽 그린뉴딜특별법·민생·교육 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

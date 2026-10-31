@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gwanakgugap-21",
+  "candidate": {
+    "name": "유기홍",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yu-gihong-1958",
+    "nec_huboid": "100135027"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gwanakgugap-01",
+      "title": "보라매병원 더 크게 더 좋게",
+      "page": 4
+    },
+    {
+      "id": "21-seoul-gwanakgugap-02",
+      "title": "서울대 제2사대부고 신설로 관악구민들이 선호하는 고등학교를 꼭 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwanakgugap-03",
+      "title": "혼자 살아도 행복한 관악",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gwanakgugap-04",
+      "title": "경전철 서부선 조기착공",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gwanakgugap-05",
+      "title": "서울대와 함께 낙성벤처밸리 조성",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gwanakgugap-06",
+      "title": "봉천천 생태하천 복원",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1121/003_100135027_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 관악구갑 당선인 유기홍 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 4쪽 「보라매병원 더 크게 더 좋게」, PDF 5쪽 제2사대부고 공약 문구, PDF 7쪽 「관악발전, 시작도 마무리도 유기홍입니다」 상자 제목 4개를 넣었다. 제목 아래 세부 항목, PDF 8쪽 「유기홍이 약속하는 변화」의 대상별(어린이·어르신·청년·여성·장애인) 항목과 동별 공약, PDF 4쪽 「일하는 국회법 발의」, PDF 6쪽 교육 일반 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

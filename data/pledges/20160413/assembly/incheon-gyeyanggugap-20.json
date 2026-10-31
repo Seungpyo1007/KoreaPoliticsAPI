@@ -1,0 +1,143 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/incheon-gyeyanggugap-20",
+  "candidate": {
+    "name": "유동수",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yu-dongsu-1961",
+    "nec_huboid": "100118305"
+  },
+  "pledges": [
+    {
+      "id": "20-incheon-gyeyanggugap-01",
+      "title": "작전역 BRT 연계 순환 노선 확대",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-02",
+      "title": "출퇴근 BRT 배차 간격 조정(국비 투입)",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-03",
+      "title": "서울 연계 노선 확대 및 심야 콜버스 도입",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-04",
+      "title": "한림병원 뒤 공영주차장 주차타워 걸립",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-05",
+      "title": "경인고속도로 지하화 시대",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-06",
+      "title": "효성도시개발 임기 내 착공",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-07",
+      "title": "뉴스테이 1만호 건설 추진",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-08",
+      "title": "풍산금속 이전부지 쇼핑문화복합타운 조성",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-09",
+      "title": "단독·다가구 밀집지역 마을관리소 설치",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-10",
+      "title": "효성2동치안센터 청소년 전용 공간 활용",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-11",
+      "title": "제2서운산업단지 조성 추진",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-12",
+      "title": "계양주민 우선 고용, 일자리 창출",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-13",
+      "title": "김포공항 연계 첨단·항공산업 유치",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-14",
+      "title": "작전역세권 복합 개발, 상권 활성화",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-15",
+      "title": "작전시장 현대화 사업추진",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-16",
+      "title": "중학교 무상 급식",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-17",
+      "title": "교육혁신지구 지정 추진",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-18",
+      "title": "교사연구·혁신배움학교·문화예술교육 등 혁신 교육 예산 지원",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-19",
+      "title": "지역별 어린이 도서관 건립, 서운동 작은도서관 증축",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-20",
+      "title": "도서관 활성화 예산지원확대, 1학교 1강당 만들기",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-21",
+      "title": "계양산 관광 벨트 추진",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-22",
+      "title": "산성복원사업 및 역사공원, 박물관 건립",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-23",
+      "title": "둘레길 추가 조성 지원",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-24",
+      "title": "서부간선수로 친수생태공간 조성 및 굴포천 정비",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-gyeyanggugap-25",
+      "title": "현광아파트, 천대고가 옆 하천정비사업 추진",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2807/003_100118305_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 인천 계양구갑 당선인 유동수 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 분야별 공약(교통·생활·경제·교육·환경)의 ➲ 제목 25개(PDF 8쪽은 왼쪽 위, 오른쪽 위, 왼쪽 아래, 오른쪽 아래 순). 분야 머리말(「계양이 빨라집니다」 등)은 구호라 넣지 않았다. PDF 6쪽 「진심 공약」의 두 공약(효성도시개발 착공, 제2서운산업단지 조성)은 PDF 8쪽 목록과 겹쳐 따로 넣지 않았다. – 세부 항목, PDF 9쪽 당 공약, PDF 3쪽 지난 경력은 넣지 않았다. 「일자리」는 글자층의 「일차리」 대신 쪽 이미지대로 적었다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,16 +1,76 @@
 {
   "id": "hyeon-jeongju",
   "name": "현정주",
-  "birth_year": null,
+  "birth_year": 1899,
   "external_ids": {
     "assembly_mona_cd": "7G51815E"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "상해한국교민협회회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한적십자사사무총장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한축구협회회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "대한자기공업협회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "민주공화당당무위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    },
+    {
+      "text": "제20차UN총회한국대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "중국상해호강대학정치외교학부졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://rokps.or.kr/profile/profile_view.asp?idx=1580",
+    "https://ko.wikipedia.org/wiki/%ED%98%84%EC%A0%95%EC%A3%BC"
   ],
   "verified": false,
-  "checked_at": "2026-10-22",
-  "note": "국회 자료의 생년월일은 1999-00-00인데 재직 시기와 맞지 않아 출생연도를 비워 둠"
+  "checked_at": "2026-11-01",
+  "note": "국회 자료의 생년월일 1999-00-00은 틀린 값임. 헌정회 프로필과 위키백과(체육학대사전 인용)의 1899년을 따름"
 }

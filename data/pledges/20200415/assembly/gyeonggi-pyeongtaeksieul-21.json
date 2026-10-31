@@ -1,0 +1,183 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-pyeongtaeksieul-21",
+  "candidate": {
+    "name": "유의동",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "yu-uidong-1971",
+    "nec_huboid": "100137204"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-01",
+      "title": "미군기지 이전 지역에 대한 지속적인 정부 지원 방안 모색",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-02",
+      "title": "평택항, 국제경쟁력을 갖춘 종합무역항으로 육성 · 지원",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-03",
+      "title": "미래산업 클러스터 조성",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-04",
+      "title": "지역인재 육성 · 지역인재 취업 지원",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-05",
+      "title": "지역기업 지원강화",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-06",
+      "title": "주한미군기지 근로자 고용안정 및 복지 확충",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-07",
+      "title": "소상공인지원",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-08",
+      "title": "국가급 재난 대응시스템 점검 및 확립",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-09",
+      "title": "미세먼지 저감 대책 마련",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-10",
+      "title": "평택에코센터 내 처리재생시설 설치",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-11",
+      "title": "도로 및 철도 인근 방음벽 확충",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-12",
+      "title": "GTX(수도권광역급행철도) C노선 평택 연장 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-13",
+      "title": "BRT(간선급행버스) 확대",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-14",
+      "title": "광역버스(M버스) 노선 연장",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-15",
+      "title": "서울-평택간 심야버스 운행 확대",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-16",
+      "title": "주민 맞춤 버스노선 신설",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-17",
+      "title": "국도 확장 및 신설",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-18",
+      "title": "병목지점 개선",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-19",
+      "title": "평택항 횡단도로 미개통 구간 조기 준공",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-20",
+      "title": "신규단지 및 입주예정지역 초 · 중 · 고 신설",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-21",
+      "title": "학교 시설물 신설 및 개보수",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-22",
+      "title": "권역별 도서관 설립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-23",
+      "title": "예술특성화 프로그램 운영",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-24",
+      "title": "지역영재발굴 및 지원",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-25",
+      "title": "국립과학관 신설 유치(평택호 내)",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-26",
+      "title": "평택책보고 신설 유치",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-27",
+      "title": "평택박물관 신설",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-28",
+      "title": "종합레포츠타운 신설",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-29",
+      "title": "권역별 · 종목별 실내 전용구장 설치(배드민턴 등)",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-30",
+      "title": "평화예술의전당 완공",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-31",
+      "title": "어린이 직업 체험 테마파크 유치",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-32",
+      "title": "공공형 실내놀이터 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksieul-33",
+      "title": "반려동물 돌봄 지원",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4115/003_100137204_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 평택시을 당선인 유의동 (미래통합당). 머리 공약 목록이 없어 책자형 선거공보 PDF 7–8쪽 「평택을+ 당신을+ 세대친화도시, Aging in 평택」 분야별(경제·일자리, 안전·환경, 교통, 교육, 문화) 굵은 ● 제목 33개를 넣었다. 제목 아래 - 세부 항목, PDF 9–10쪽 읍·면·동 공약, PDF 5–6쪽 코로나·미세먼지·교육 전국 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

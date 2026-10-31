@@ -1,0 +1,98 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-donggumichuholgugap-21",
+  "candidate": {
+    "name": "허종식",
+    "party_id": "deobureo-minjudang",
+    "person_id": "heo-jongsik-1962",
+    "nec_huboid": "100136114"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-donggumichuholgugap-01",
+      "title": "경인전철 지하화",
+      "page": 4
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-02",
+      "title": "주안 산단 일자리 3만개",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-03",
+      "title": "승기천 물길복원",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-04",
+      "title": "수봉공원~제물포 문화, 예술 벨트 조성",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-05",
+      "title": "원도심의 획기적 발전",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-06",
+      "title": "승학산 문화, 체육 시설 건립",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-07",
+      "title": "경인고속도로 일반화 사업 조속 추진",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-08",
+      "title": "원도심을 살리는 교통복지",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-09",
+      "title": "혁신상권개발을 통한 산업첨단화",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-10",
+      "title": "사람이 찾아오는 역사·문화관광",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-11",
+      "title": "친환경 중심으로 4차 미래산업 유치",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-12",
+      "title": "주민이 원하는 맞춤형 원도심 개발",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-13",
+      "title": "안전한 복지환경 조성",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-14",
+      "title": "전통시장 활성화(현대, 송현, 화수, 중앙, 석바위, 신기 시장 등)",
+      "page": 9
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-15",
+      "title": "안전한 사회를 최우선으로 안심행복도시 추진",
+      "page": 9
+    },
+    {
+      "id": "21-incheon-donggumichuholgugap-16",
+      "title": "서해평화 협력을 위한 통일회관 건립",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2803/003_100136114_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 동구미추홀구갑 당선인 허종식 (더불어민주당). 책자형 선거공보 PDF 4쪽 「경인전철 지하화 이제 현실이 됩니다!」 1개, PDF 5–6쪽 「미추홀 새로운 발전의 약속」 제목 6개, PDF 7–8쪽 「동구 미래를 위한 약속」 제목 6개, PDF 9쪽 「함께 하는 약속」 제목 3개. 제목 아래 • 세부 항목, PDF 9쪽 GTX-B 노선 비판 글, PDF 2–3·10쪽 인사말은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

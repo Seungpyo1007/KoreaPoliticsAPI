@@ -1,0 +1,43 @@
+{
+  "id": "jin-gyohun-1967",
+  "name": "진교훈",
+  "birth_year": 1967,
+  "external_ids": {
+    "nec_huboids": [
+      "100162985"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 강서구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 경찰청 차장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대학교 행정대학원 경찰.사법행정전공(행정학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

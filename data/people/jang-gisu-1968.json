@@ -1,0 +1,43 @@
+{
+  "id": "jang-gisu-1968",
+  "name": "장기수",
+  "birth_year": 1968,
+  "external_ids": {
+    "nec_huboids": [
+      "100155038"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)이재명 대통령 후보 충남공동상황실장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)천안시의회 부의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "단국대학교 경영학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

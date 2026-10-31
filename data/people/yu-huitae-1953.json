@@ -1,0 +1,43 @@
+{
+  "id": "yu-huitae-1953",
+  "name": "유희태",
+  "birth_year": 1953,
+  "external_ids": {
+    "nec_huboids": [
+      "100161540"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)기업은행 부행장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)제46대 전북특별자치도 완주군 군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전주대학교 경영학과 박사 학위과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

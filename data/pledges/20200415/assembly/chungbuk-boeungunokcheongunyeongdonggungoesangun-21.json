@@ -1,0 +1,83 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungbuk-boeungunokcheongunyeongdonggungoesangun-21",
+  "candidate": {
+    "name": "박덕흠",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "bak-deokheum-1953",
+    "nec_huboid": "100136727"
+  },
+  "pledges": [
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-01",
+      "title": "돈 없어서 병원에 못 가는 설움을 없도록 하겠습니다",
+      "page": 2
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-02",
+      "title": "주거 걱정 없이 살 수 있도록 하겠습니다",
+      "page": 2
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-03",
+      "title": "아이들이 꿈과 희망을 마음껏 펼칠 수 있도록 하겠습니다",
+      "page": 2
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-04",
+      "title": "학비 걱정 없이 공부만 전념하게 하겠습니다",
+      "page": 2
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-05",
+      "title": "유전무죄, 무전유죄 없는 세상을 만들겠습니다",
+      "page": 2
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-06",
+      "title": "노력한 만큼 대우받는 공정한 사회를 만들겠습니다",
+      "page": 2
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-07",
+      "title": "동서횡단철도 신설(오송-보은-영덕) 추진",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-08",
+      "title": "보은-대전 고속도로 신설 추진",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-09",
+      "title": "충청권 광역철도 조속 확대 추진",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-10",
+      "title": "대전-옥천-영동 광역철도 추진",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-11",
+      "title": "무주-영동-보은 고속도로 신설 추진",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-12",
+      "title": "오창-괴산 고속도로 신설 추진",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-boeungunokcheongunyeongdonggungoesangun-13",
+      "title": "동서횡단철도 신설(서산-괴산-울진) 추진",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4307/003_100136727_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충북 보은군옥천군영동군괴산군 당선인 박덕흠 (미래통합당). 책자형 선거공보 PDF 2쪽 「박덕흠의 6대 프로젝트! 억울함이 없는 동남4군 만들기!」 1–6 제목 6개와 PDF 5쪽 「보은·옥천 영동·괴산 지도를 확 바꾸겠습니다!」 1–7 교통 공약 7개. PDF 6쪽 동남4군 공통공약(분야별 ● 항목), PDF 7–8쪽 군별 공약, PDF 3쪽 지난 의정 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

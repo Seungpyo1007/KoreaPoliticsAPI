@@ -1,0 +1,43 @@
+{
+  "id": "jeon-seongsu-1961",
+  "name": "전성수",
+  "birth_year": 1961,
+  "external_ids": {
+    "nec_huboids": [
+      "100162496"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 서초구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 인천광역시 행정부시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울시립대학교 일반대학원 행정학박사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

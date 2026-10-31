@@ -1,0 +1,43 @@
+{
+  "id": "yun-byeongtae-1960",
+  "name": "윤병태",
+  "birth_year": 1960,
+  "external_ids": {
+    "nec_huboids": [
+      "100159254"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)민선8기 나주시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)전라남도 정무부지사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "미국미주리대학교-컬럼비아경제학대학원(경제학박사) [2004.1~2006.12]",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

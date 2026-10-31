@@ -1,0 +1,43 @@
+{
+  "id": "choe-sanggi-1955",
+  "name": "최상기",
+  "birth_year": 1955,
+  "external_ids": {
+    "nec_huboids": [
+      "100163065"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)인제군 부군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)인제군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "인제농업고등학교 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

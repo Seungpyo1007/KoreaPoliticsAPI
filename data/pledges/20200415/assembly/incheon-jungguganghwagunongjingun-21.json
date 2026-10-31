@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-jungguganghwagunongjingun-21",
+  "candidate": {
+    "name": "배준영",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "bae-junyeong-1970",
+    "nec_huboid": "100134804"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-jungguganghwagunongjingun-01",
+      "title": "공유경제형 항공정비(MRO)단지 조성, 한국항공교육원 유치",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-jungguganghwagunongjingun-02",
+      "title": "인천국제공항공사 정부 배당금(17년. 4,724억원) 지역사회 환원하여 공항 근로자 급여 인상 등 복지수준 향상, 영종 발전시설 건립",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-jungguganghwagunongjingun-03",
+      "title": "인천역에서 출발하는 인천발KTX, 연안부두~신흥동~신포동~동인천을 잇는 친환경 노면전차(트램) 건설",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-jungguganghwagunongjingun-04",
+      "title": "상상플랫폼 재추진, 주민들이 원하는 내항 친수시설 조성, 해사법원 유치, 인천종합어시장·석탄부두 이전 부지에 주민참여 문화공간 조성",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-jungguganghwagunongjingun-05",
+      "title": "서울, 인천 도심과 확 가까워진 강화, 주민·관광객 모두의 만족도를 높입니다",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-jungguganghwagunongjingun-06",
+      "title": "한강물 걱정 끝! 살기 좋은 강화 만들기에 사력을 다하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-jungguganghwagunongjingun-07",
+      "title": "옹진발전과 군민편의를 위해 국가의 책임을 더 키우겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-jungguganghwagunongjingun-08",
+      "title": "3천톤급 쾌속여객선 도입, 여객선 완전 공영제로 1일 생활권 옹진을 완성하겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2801/003_100134804_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 중구강화군옹진군 당선인 배준영 (미래통합당). 책자형 선거공보 PDF 5–8쪽 지역별(영종·중구 원도심·강화군·옹진군) 공약 쪽에서 사진 옆 굵은 분홍 제목 8개(쪽마다 2개). 제목 아래 - 세부 항목, 각 쪽 아래쪽 • 지역 공약 목록, 쪽 위 지역 구호 띠, PDF 9쪽 분야별 전국 공약, PDF 4·10쪽 약력과 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

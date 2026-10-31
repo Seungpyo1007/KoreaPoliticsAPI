@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonbuk-iksansigap-21",
+  "candidate": {
+    "name": "김수흥",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-suheung-1961",
+    "nec_huboid": "100134609"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonbuk-iksansigap-01",
+      "title": "전북도청의 익산 이전 추진",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-iksansigap-02",
+      "title": "공공기관 및 신성장산업 유치",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-iksansigap-03",
+      "title": "KTX익산역 및 역세권(구도심) 대대적 정비",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-iksansigap-04",
+      "title": "서울-세종 고속도로 익산까지 연장",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-iksansigap-05",
+      "title": "장점마을 등 열악한 환경문제 대책 강구",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-iksansigap-06",
+      "title": "도·농 복합도시 및 백제문화 유산과 연계된 관광벨트화",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4505/003_100134609_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전북 익산시갑 당선인 김수흥 (더불어민주당). 책자형 선거공보 PDF 4쪽 「익산발전 6가지 프로젝트」 제목 6개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 1번 아래 작은 글씨 「-전주시의 특례시 지정 대비」는 덧붙임 줄이라 넣지 않았다. PDF 5–6쪽 프로젝트 설명, PDF 7–8쪽 읍·면·동 공약, PDF 9–10쪽 분야별 지원 정책은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,93 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/ulsan-junggu-21",
+  "candidate": {
+    "name": "박성민",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "bak-seongmin-1959",
+    "nec_huboid": "100136610"
+  },
+  "pledges": [
+    {
+      "id": "21-ulsan-junggu-01",
+      "title": "공장없는 중구, 도시첨단산업단지 추가 조성으로 지역경제 활성화",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-junggu-02",
+      "title": "전염병 등 재난으로부터 안전한 울산 조성",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-junggu-03",
+      "title": "혁신도시 정주여건 획기적 개선",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-junggu-04",
+      "title": "혁신도시 종가로 도로폭 확장(4차선→7·8차선)",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-junggu-05",
+      "title": "혁신도시 북측 그린밸트 조정으로 혁신도시 대폭 확장",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-junggu-06",
+      "title": "균형 있는 도시 재창조",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-junggu-07",
+      "title": "역사와 문화가 흐르는 '태화강 번영 프로젝트' 추진",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-junggu-08",
+      "title": "출·퇴근이 시원한 교통망 확충",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-junggu-09",
+      "title": "서민이 잘 사는 골목상권 살리기",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-junggu-10",
+      "title": "중구 도심통과 도시철도(트램) 조기건설",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-junggu-11",
+      "title": "청년 일자리 창출 및 희망정책",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-junggu-12",
+      "title": "여성에게 행복을 주는 정책",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-junggu-13",
+      "title": "꿈과 희망 담는 교육환경 조성",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-junggu-14",
+      "title": "입화산 자연휴양림을 도심 속 최고의 휴식처로 조성",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-junggu-15",
+      "title": "어르신의 편안한 노후 지원",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3101/003_100136610_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 울산 중구 당선인 박성민 (미래통합당). 머리 공약 목록이 없어 책자형 선거공보 PDF 7–8쪽 「새로운 큰 일꾼」·「가장 살기 좋은 중구를 만드는 것이 박성민의 꿈입니다!」의 굵은 공약 제목 15개를 넣었다. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 4–6쪽 구청장 시절 성과, PDF 9–10쪽 정권 심판 주장은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonbuk-jeongeupsigochanggun-20",
+  "candidate": {
+    "name": "유성엽",
+    "party_id": "gungminui-dang",
+    "person_id": "yu-seongyeop-1960",
+    "nec_huboid": "100120172"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonbuk-jeongeupsigochanggun-01",
+      "title": "「정읍•고창」의 농어업을 살리고",
+      "page": 3
+    },
+    {
+      "id": "20-jeonbuk-jeongeupsigochanggun-02",
+      "title": "사계절 체류형 일류 관광정읍",
+      "page": 3
+    },
+    {
+      "id": "20-jeonbuk-jeongeupsigochanggun-03",
+      "title": "첨단과학기술의 중심, 정읍",
+      "page": 3
+    },
+    {
+      "id": "20-jeonbuk-jeongeupsigochanggun-04",
+      "title": "정읍의 지속가능한 산업기반",
+      "page": 3
+    },
+    {
+      "id": "20-jeonbuk-jeongeupsigochanggun-05",
+      "title": "생활과 마음이 편안한 고장을 만들겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-jeonbuk-jeongeupsigochanggun-06",
+      "title": "세계자연유산에 빛나는 명품 관광고창",
+      "page": 4
+    },
+    {
+      "id": "20-jeonbuk-jeongeupsigochanggun-07",
+      "title": "세계로 통하는 사통팔달 고창",
+      "page": 4
+    },
+    {
+      "id": "20-jeonbuk-jeongeupsigochanggun-08",
+      "title": "고창발전견인, 미래산업기술",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4507/003_100120172_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전북 정읍시고창군 당선인 유성엽 (국민의당). 책자형 선거공보 PDF 3–4쪽 「“기호 3번 유성엽의 3•3•3 공약”」 중 「3•3•3 하나, 정읍시를 위한 약속 3」과 「3•3•3 둘, 고창군을 위한 약속 3」의 제목 6개, 그리고 같은 펼침면 위쪽 정읍·고창 공통 공약 제목 2개(「정읍•고창」의 농어업을 살리고, 생활과 마음이 편안한 고장을 만들겠습니다). 제목 아래 • 세부 항목은 넣지 않았다. PDF 5쪽 「3•3•3 셋, 좋은 나라 대한민국을 위한 약속 3」은 전국 정치 공약이라 넣지 않았고, PDF 6쪽 대표 성과도 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,33 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-suwonsieul-21",
+  "candidate": {
+    "name": "백혜련",
+    "party_id": "deobureo-minjudang",
+    "person_id": "baek-hyeryeon-1967",
+    "nec_huboid": "100137315"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-suwonsieul-01",
+      "title": "첨단 R&D 사이언스 파크 조성으로, 신성장 동력 마련",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-suwonsieul-02",
+      "title": "이제 신분당선 연장선 조속착공과 구운역 신설입니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-suwonsieul-03",
+      "title": "수원 군공항 이전, 민군통합공항이 답이다",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4102/003_100137315_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 수원시을 당선인 백혜련 (더불어민주당). 책자형 선거공보 PDF 5쪽 「서수원 발전의 세 축!」(신분당선 연장선·R&D 사이언스 파크·군공항 이전)을 PDF 5–7쪽에서 각각 풀어 쓴 큰 제목 3개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 · 세부 항목, PDF 7–8쪽 문화·체육, 교육, 복지, 안전 · 항목, PDF 9–10쪽 동별 공약, PDF 2–4쪽 지난 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

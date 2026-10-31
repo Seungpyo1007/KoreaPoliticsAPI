@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-yeonsugueul-21",
+  "candidate": {
+    "name": "정일영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeong-ilyeong-1957",
+    "nec_huboid": "100134866"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-yeonsugueul-01",
+      "title": "송도 ↔ 서울 20분대 시대로",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-yeonsugueul-02",
+      "title": "명품 도시에는 명품 의료 서비스를",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-yeonsugueul-03",
+      "title": "동춘·옥련 주거환경 개선",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-yeonsugueul-04",
+      "title": "송도 대중교통 10분 생활권",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-yeonsugueul-05",
+      "title": "원스톱 교육특구 지정",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2804/003_100134866_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 연수구을 당선인 정일영 (더불어민주당). 책자형 선거공보 PDF 6–7쪽 「여당의 능력있는 후보」·「정일영이 해내겠습니다!」의 원형 제목 5개. 제목 아래 • 세부 항목, PDF 5쪽 「한 눈에 보는 우리동네 공약지도」, PDF 8쪽 「미래를 바꿀 5G(Goal)」 분야별 항목, PDF 9쪽 더불어민주당 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

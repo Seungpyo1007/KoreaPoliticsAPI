@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daegu-seogu-21",
+  "candidate": {
+    "name": "김상훈",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-sanghun-1963",
+    "nec_huboid": "100136735"
+  },
+  "pledges": [
+    {
+      "id": "21-daegu-seogu-01",
+      "title": "사통팔달, 막힘없는 우리 서구",
+      "page": 9
+    },
+    {
+      "id": "21-daegu-seogu-02",
+      "title": "도시환경, 살맛나는 우리서구",
+      "page": 9
+    },
+    {
+      "id": "21-daegu-seogu-03",
+      "title": "교육환경, 미래위한 우리 서구",
+      "page": 9
+    },
+    {
+      "id": "21-daegu-seogu-04",
+      "title": "복지가득, 함께하는 우리 서구",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2703/003_100136735_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대구 서구 당선인 김상훈 (미래통합당). 책자형 선거공보 PDF 9쪽 「김상훈이 주민여러분과 함께 만들어 갈 서구!」 제목 4개. OCR 텍스트라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 3–7쪽 서대구KTX역 등 추진 사업과 지난 확보 예산, PDF 10쪽 미래통합당과 함께하는 전국 공약은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

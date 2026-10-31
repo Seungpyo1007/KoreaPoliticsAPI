@@ -1,0 +1,43 @@
+{
+  "id": "choe-hyeondeok-1966",
+  "name": "최현덕",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100154668"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 남양주시 부시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 경기도 경제실장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 행정학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

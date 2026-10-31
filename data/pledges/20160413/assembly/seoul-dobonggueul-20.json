@@ -1,0 +1,63 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-dobonggueul-20",
+  "candidate": {
+    "name": "김선동",
+    "party_id": "saenuridang",
+    "person_id": "gim-seondong-1963",
+    "nec_huboid": "100118558"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-dobonggueul-01",
+      "title": "도봉산 「특급 유스호스텔」 유치",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-dobonggueul-02",
+      "title": "「도봉산 레저타운」 조성",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-dobonggueul-03",
+      "title": "「도봉 아울렛」 조성",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-dobonggueul-04",
+      "title": "도봉산 자락길 조성",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-dobonggueul-05",
+      "title": "도봉경제 활성화 · 일자리 창출",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-dobonggueul-06",
+      "title": "해묵은 지역현안 매듭",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-dobonggueul-07",
+      "title": "청소년 · 교육의 질적 향상",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-dobonggueul-08",
+      "title": "도봉구민의 생활환경 개선",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-dobonggueul-09",
+      "title": "어르신 · 장애인을 위한 복지 향상",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1110/003_100118558_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 도봉구을 당선인 김선동 (새누리당). 책자형 선거공보 PDF 8쪽 「김선동의 「도봉산 프로젝트」」 공약1–4 제목 4개와 PDF 9–10쪽 「도봉구민을 위해」·「김선동이 약속합니다」 약속1–5 제목 5개. 글자층이 OCR이라 쪽 이미지를 보고 옮겼다. 제목 아래 •·- 세부 항목, PDF 3–5쪽 18대 의정 성과, PDF 11쪽 편지·약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongbuk-yeongyanggunyeongdeokgunbonghwagunuljingun-20",
+  "candidate": {
+    "name": "강석호",
+    "party_id": "saenuridang",
+    "person_id": "gang-seokho-1955",
+    "nec_huboid": "100119679"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongbuk-yeongyanggunyeongdeokgunbonghwagunuljingun-01",
+      "title": "울진~분천간 경북순환철도 조기구축 추진",
+      "page": 10
+    },
+    {
+      "id": "20-gyeongbuk-yeongyanggunyeongdeokgunbonghwagunuljingun-02",
+      "title": "동해중부선 철도(포항~영덕~울진~삼척) 전철화",
+      "page": 10
+    },
+    {
+      "id": "20-gyeongbuk-yeongyanggunyeongdeokgunbonghwagunuljingun-03",
+      "title": "영덕 달산~포항 죽장간 국지도 69호선 개량",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4722/003_100119679_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경북 영양군영덕군봉화군울진군 당선인 강석호 (새누리당). 책자형 선거공보 PDF 10쪽 「3선의 큰힘으로 지역발전을 위해 열심히 뛰겠습니다」 지도 위 군 사이 사업 표제 3개(위에서 아래 순). 같은 쪽 봉화·울진·영양·영덕 군별 ■ 공약, PDF 9쪽 「3선의 책임감으로 국가를 위한 일에 앞장 서겠습니다」 농어업·복지·교육 분야(전국 정책), PDF 7–8쪽 확보 예산·지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

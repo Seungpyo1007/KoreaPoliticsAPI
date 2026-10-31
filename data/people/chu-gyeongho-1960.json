@@ -5,7 +5,8 @@
   "external_ids": {
     "assembly_mona_cd": "G152611B",
     "nec_huboids": [
-      "100152750"
+      "100152750",
+      "100163199"
     ]
   },
   "career": [
@@ -56,6 +57,22 @@
       "source_urls": [
         "https://www.data.go.kr/data/15000864/openapi.do"
       ]
+    },
+    {
+      "text": "(전)경제부총리 겸 기획재정부 장관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)국민의힘 원내대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
     }
   ],
   "education": [
@@ -77,6 +94,14 @@
     },
     {
       "text": "미국 오리건대학교 대학원 졸업(경제학 석사, 1991.9~1993.3)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "고려대학교 경영대학 경영학과 졸업",
       "from": null,
       "to": null,
       "source_urls": [

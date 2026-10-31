@@ -1,0 +1,43 @@
+{
+  "id": "yun-ilhyeon-1964",
+  "name": "윤일현",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100162580"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)금정구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)부산광역시의회의원(예산결산특별위원장, 교육위원장)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대학교 대학원 경영학과(석사) 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

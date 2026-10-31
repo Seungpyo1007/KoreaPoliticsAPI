@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/ulsan-junggu-20",
+  "candidate": {
+    "name": "정갑윤",
+    "party_id": "saenuridang",
+    "person_id": "jeong-gapyun-1950",
+    "nec_huboid": "100120239"
+  },
+  "pledges": [
+    {
+      "id": "20-ulsan-junggu-01",
+      "title": "울산답게 만들어가겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-ulsan-junggu-02",
+      "title": "역사·문화·예술의 자부심을 높이겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-ulsan-junggu-03",
+      "title": "살맛나는 행복을 드리겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-ulsan-junggu-04",
+      "title": "원도심-혁신도시 간 조화로운 상생발전을 이루겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-junggu-05",
+      "title": "울산의 큰 도약! 중구의 큰 미래가 다가옵니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/3101/003_100120239_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 울산 중구 당선인 정갑윤 (새누리당). 책자형 선거공보 PDF 7–8쪽 「함께 만든 큰 변화 함께 만들 큰 미래」 번호 1–5 제목 5개. 제목 아래 • 세부 항목, PDF 5–6쪽 지난 의정 활동과 「제20대국회는 일하는 국회」 다짐, PDF 9–10쪽 대통령·당 홍보는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

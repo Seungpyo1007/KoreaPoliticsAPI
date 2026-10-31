@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-pocheonsigapyeonggun-20",
+  "candidate": {
+    "name": "김영우",
+    "party_id": "saenuridang",
+    "person_id": "gim-yeongu-1967",
+    "nec_huboid": "100119805"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-pocheonsigapyeonggun-01",
+      "title": "교통망 개선, 확대",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-pocheonsigapyeonggun-02",
+      "title": "다각적인 도시 재생 사업 실시",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-pocheonsigapyeonggun-03",
+      "title": "신성장 정책개발과 연계",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-pocheonsigapyeonggun-04",
+      "title": "교통망 개선, 확대",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-pocheonsigapyeonggun-05",
+      "title": "다각적인 도시 재생 사업 실시",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-pocheonsigapyeonggun-06",
+      "title": "신성장 정책개발과 연계",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4141/003_100119805_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 포천시가평군 당선인 김영우 (새누리당). 책자형 선거공보 PDF 7–8쪽 「포천과 가평의 발전을 위한 김영우의 333 프로젝트!」 중 「포천의 발전 방안 3가지」(PDF 7쪽)와 「가평의 발전 방안 3가지」(PDF 8쪽)의 번호 제목 6개. 두 목록의 제목 문구가 같아 둘 다 넣었다. 이 쪽들은 글자층이 상당 부분 깨져 있어 쪽 이미지를 보고 옮겼다. 제목 아래 - 세부 항목, 「발전 저해요소 3가지」와 「실천 방안 3가지」, PDF 6쪽 새누리당 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

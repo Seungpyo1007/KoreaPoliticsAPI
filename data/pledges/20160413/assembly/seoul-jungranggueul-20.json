@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-jungranggueul-20",
+  "candidate": {
+    "name": "박홍근",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-honggeun-1969",
+    "nec_huboid": "100119564"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-jungranggueul-01",
+      "title": "활기찬 경제1번지",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-jungranggueul-02",
+      "title": "주거와 문화가 공존하는 마을",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-jungranggueul-03",
+      "title": "사람을 키우는 교육특별도시",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-jungranggueul-04",
+      "title": "사통팔달의 교통 중심",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-jungranggueul-05",
+      "title": "사람 사는 따뜻한 복지공동체",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1107/003_100119564_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 중랑구을 당선인 박홍근 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「중랑 비전 2020」 분야별 제목 5개. 제목 아래 · 세부 항목은 넣지 않았다. PDF 3–4쪽 지난 4년의 기록, PDF 7–8쪽 더불어민주당 경제 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

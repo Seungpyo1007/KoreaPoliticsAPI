@@ -1,0 +1,43 @@
+{
+  "id": "gu-jaeyong-1965",
+  "name": "구재용",
+  "birth_year": 1965,
+  "external_ids": {
+    "nec_huboids": [
+      "100158205"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)김교흥 국회의원 보좌관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)대통령직속 지방시대위원회 자문위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "인천대학교대학원 무역학과 박사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

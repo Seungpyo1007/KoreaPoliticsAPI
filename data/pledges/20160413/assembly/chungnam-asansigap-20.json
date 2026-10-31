@@ -1,0 +1,283 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungnam-asansigap-20",
+  "candidate": {
+    "name": "이명수",
+    "party_id": "saenuridang",
+    "person_id": "i-myeongsu-1955",
+    "nec_huboid": "100120097"
+  },
+  "pledges": [
+    {
+      "id": "20-chungnam-asansigap-01",
+      "title": "2016 전국체전 성공적 개최와 마무리(이순신종합운동장 일원 종합스포츠센터 건립 지원 협력 등)",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-02",
+      "title": "조선왕궁벨트(경복궁~화성행궁~남한행궁~온양행궁)완성 위한 온양행궁 복원 단계적 추진 (연구 용역 및 복원계획 및 수립)",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-03",
+      "title": "국비지원을 통한 「아산문예회관」(예술의 전당) 건립 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-04",
+      "title": "충무공유적지(현충사 및 묘소) 주변환경 개선사업 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-05",
+      "title": "외암민속마을 외암정사 건립 등 명품화 사업 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-06",
+      "title": "홍가신선생 묘소 주변 환경개선사업 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-07",
+      "title": "서해선 복선전철(인주역사 신설) 건설사업 지속 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-08",
+      "title": "아산~천안 고속도로 사업(‘16년 국비 800억) 조기 완공 개통 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-09",
+      "title": "수도권 1호선 광역전철 -「탕정역」 및 「풍기역」 신설 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-10",
+      "title": "제2서해안(서평택~아산) 고속도로 건설 지속 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-11",
+      "title": "농·축산·원예·특작물 등 FTA 피해보전대책 강화",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-12",
+      "title": "쌀시장 안정-적정생산·소비확대 등 중장기 수급대책 강화",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-13",
+      "title": "축산기반 및 환경시설 지원 강화 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-14",
+      "title": "선장면소재지 정비사업(4·4독립만세운동 상징공간 조성 등) 조기 완료 지원",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-15",
+      "title": "도고면 소재지 (신언리) 외곽도로 개설",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-16",
+      "title": "수도권 광역전철 도고온천역까지 노선연장 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-17",
+      "title": "정부지정 「보양온천지역」 도고온천 관광활성화 추진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-18",
+      "title": "행목리(양우내안)~코아루아파트~신창초 인도 설치 촉진",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-19",
+      "title": "남성아파트 단지 주변도로 및 교통시설 대폭 확충",
+      "page": 4
+    },
+    {
+      "id": "20-chungnam-asansigap-20",
+      "title": "낙후된 주거환경개선 및 열악한 기반시설 확충을 위한 온양중심상권 재정비사업 지원",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-21",
+      "title": "온천의료관광 및 재활병원센터 구축 추진",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-22",
+      "title": "권곡·모종 재해위험지구 정비사업 적극 추진",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-23",
+      "title": "용화 신 상업지구 활성화 지속대책 마련 지원",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-24",
+      "title": "충무교 확장 재가설공사 추진 지원",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-25",
+      "title": "국비지원을 통한 아산세무서 이전 신축 완료 등",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-26",
+      "title": "충무교차로 및 교차로 진입지점 등 교통여건 개선 추진",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-27",
+      "title": "신동 순환형 매립장 민원(신동2통 보조금 지원관련, 마을버스 운행 등) 해소 추진을 통한 주민화합 노력",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-28",
+      "title": "국비지원을 통한 아산중앙도서관(용화동, 방축동 일원) 건립 완료 추진",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-29",
+      "title": "신도시 해제지역(용화동 일원) 도시개발사업 단계적 추진 노력",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-30",
+      "title": "대형중기차량 전용주차장(초사동 일원) 설립 추진",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-31",
+      "title": "외암대로(풍기2교차로 ~청댕이고개 ~ 읍내사거리) 도로 확·포장 완료",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-32",
+      "title": "국도21호 및 39호 접속 「장존교차로」 개량사업 완료",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-asansigap-33",
+      "title": "국민건강보험 개선을 통한 농촌지역가입자, 5060퇴직세대 및 저소득가입자 건강보험료 부담 경감 추진",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-34",
+      "title": "여성·청년취업자(인턴 포함) 등 국민연금 사각지대 개선",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-35",
+      "title": "저소득·빈곤층 등 복지사각지대 지원 확대 및 강화",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-36",
+      "title": "믿고 맡기는 국·공립어린이집 확충 및 어린이집 보육환경 개선위한 지원확대",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-37",
+      "title": "남산노인종합복지관 확충 등 지원 강화",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-38",
+      "title": "「노인복지청」 신설 및 노인일자리 확충 등 고령화 대비 노인정책추진 강화",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-39",
+      "title": "소상공인 지원인프라 확대",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-40",
+      "title": "지방대학 산학협력 강화 등 지원 확대",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-41",
+      "title": "저소득 자녀에 대한 고른 교육기회 제공 및 사교육비 부담 경감을 위한 사회안전망 제공",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-42",
+      "title": "EBS-2TV(교육방송) 조기실시를 통한 양질의 교육컨텐츠 제공",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-43",
+      "title": "「아산근로자 복지회관」 확충",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-44",
+      "title": "「반려동물」에 대한 보호대책 강화",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-asansigap-45",
+      "title": "장애인복지법 개정을 통한 공공재활의료 서비스 강화 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-asansigap-46",
+      "title": "장애인·노인 등의 보조기구 권역별 무상A/S센터 확대 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-asansigap-47",
+      "title": "「아산장애인종합복지관」 개축 및 「중증장애인지원센터」 신설 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-asansigap-48",
+      "title": "포괄간호서비스의 조기정착 및 간병인 처우개선 강화",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-asansigap-49",
+      "title": "체계적인 유보통합 추진 및 어린이집 지원강화",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-asansigap-50",
+      "title": "아동학대피해자 보호 및 예방 대책 강화",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-asansigap-51",
+      "title": "초·중·고 통학로 등 안전취약지역 등 안전 강화",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-asansigap-52",
+      "title": "2030 여성 취업격차 해소·경력개발 지원사업 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-asansigap-53",
+      "title": "경력단절 여성의 재취업 지원대책 및 경제활동 여성의 경력단절 예방 대책 추진",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4404/003_100120097_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충남 아산시갑 당선인 이명수 (새누리당). 책자형 선거공보 PDF 4–7쪽 분야별 ■ 공약 53개(「일류·선진·문화아산」, 「‘선장·도고·신창’ 농촌이 잘사는 아산」, 「온양원도심 활성화」, 「온양시내권 삶의 질 개선」, 「행복·섬김·희망의 아산」, 「촘촘·안전·든든한 아산」). 분야 표제는 대부분 구호라 넣지 않고 그 아래 ■ 줄을 공약 제목으로 삼았다. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 8쪽 「정치혁신·제도개선·민생우선」 전국 공약, PDF 9쪽 군 관련 공약, PDF 2쪽 지난 8년 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

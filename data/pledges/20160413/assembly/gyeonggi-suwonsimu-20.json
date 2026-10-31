@@ -1,0 +1,83 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-suwonsimu-20",
+  "candidate": {
+    "name": "김진표",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-jinpyo-1947",
+    "nec_huboid": "100120167"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-suwonsimu-01",
+      "title": "수원비행장 이전부지 ~ 삼성전자 한국형 실리콘밸리 조성",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-02",
+      "title": "‘공군 골프장’을 ‘수원숲’으로",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-03",
+      "title": "안전하고 편리한 서울 출퇴근 광역버스 확충",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-04",
+      "title": "분당선 연장선 급행화 강남까지 지하철 40분 시대",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-05",
+      "title": "분당선 연장선 권선지선 권곡사거리 ~ 버스터미널 ~ 세류동 지하철역 신설",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-06",
+      "title": "125만 도시에 걸맞은 수원특례시 법제화",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-07",
+      "title": "미래 직업을 체험하라! 수원 잡월드(Job World) 설립",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-08",
+      "title": "신성장산업 인력 양성 수원 게임콘텐츠고교 설립",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-09",
+      "title": "인생 백세시대 최소한의 효도는 국가 책임",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-10",
+      "title": "어린이가 안전하고 즐거운 세상 만들기",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-11",
+      "title": "아이를 마음 놓고 기를 수 있는 여건 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-12",
+      "title": "청년의 창의와 도전 스타트업 벤처 적극 지원",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-suwonsimu-13",
+      "title": "자영업자 살리기! 카드수수료 부담 더! 더! 더! 경감",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4102/003_100120167_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 수원시무 당선인 김진표 (더불어민주당). 책자형 선거공보 PDF 5–8쪽 「김진표의 약속」 제목 13개(PDF 5쪽은 두 쪽 펼침면). PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 각 쪽 큰 표제(「수원비행장 이전, 시작도 끝도 김진표라야 가능합니다」 등)는 구호라 넣지 않았다. PDF 6쪽 첫 띠의 두 줄(광역버스 확충, 분당선 급행화)은 따로 나눠 적었다. 제목 아래 • 세부 항목, PDF 9쪽 세류·영통·태장 지역별 공약, PDF 3–4쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonnam-yeosusigap-21",
+  "candidate": {
+    "name": "주철현",
+    "party_id": "deobureo-minjudang",
+    "person_id": "ju-cheolhyeon-1959",
+    "nec_huboid": "100135153"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonnam-yeosusigap-01",
+      "title": "국내 최초‘한국해양관광공사’설립",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-02",
+      "title": "박람회장 사후활용 활성화",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-03",
+      "title": "전라선 고속 철도화",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-04",
+      "title": "여객선 공영제(대중교통) 도입",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-05",
+      "title": "여수항, 동북아 해상물류 거점항 육성",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-06",
+      "title": "여순사건 특별법 제정",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-07",
+      "title": "석유화학산업 및 석유비축기지 주변 지원 특별법 제정",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-08",
+      "title": "농·수산물 거점형 물류센터 건립",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-09",
+      "title": "여수산단건설노동자 복지센터 건립",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-10",
+      "title": "여성장애인 인력개발센터(쉼터) 설치",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-11",
+      "title": "노인복지 허브, 여수시노인회관 신축",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeosusigap-12",
+      "title": "2022 유엔기후변화협약 당사국총회(COP28) 여수 유치",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4602/003_100135153_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전남 여수시갑 당선인 주철현 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「여수, 해양관광·해상물류의 중심이 됩니다」 제목 12개를 넣었다. 제목 아래 설명 글, PDF 9–10쪽 「시민께서 주신 공약」 권역별 ◼ 항목, PDF 5–6쪽 민선6기 성과, PDF 3–4쪽 경력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

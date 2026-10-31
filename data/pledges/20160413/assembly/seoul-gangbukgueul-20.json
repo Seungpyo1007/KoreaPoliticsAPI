@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gangbukgueul-20",
+  "candidate": {
+    "name": "박용진",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-yongjin-1971",
+    "nec_huboid": "100118288"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gangbukgueul-01",
+      "title": "교통인프라 확충 및 개선",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangbukgueul-02",
+      "title": "강북구 경제활성화와 좋은 일자리 창출",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangbukgueul-03",
+      "title": "강북구 주거환경개선 및 서민주거권 보호",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangbukgueul-04",
+      "title": "아이가 안전하고 행복한 강북구",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangbukgueul-05",
+      "title": "교육환경개선, 과감한 교육투자",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-gangbukgueul-06",
+      "title": "체육문화시설 확충",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-gangbukgueul-07",
+      "title": "강북구 노후환경 개선",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-gangbukgueul-08",
+      "title": "안전한 강북구 만들기",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1109/003_100118288_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 강북구을 당선인 박용진 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「박용진의 상상은 현실이 됩니다!」 분야별 제목 8개. 제목 아래 ● 세부 항목은 넣지 않았다. PDF 7–8쪽 「박용진의 희망 프로젝트」(경제·민주·청년·여성·어르신·장애인희망)는 전국 단위 정책이라 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

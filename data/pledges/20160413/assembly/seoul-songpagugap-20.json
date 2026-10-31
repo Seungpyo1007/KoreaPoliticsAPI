@@ -1,0 +1,178 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-songpagugap-20",
+  "candidate": {
+    "name": "박인숙",
+    "party_id": "saenuridang",
+    "person_id": "bak-insuk-1948",
+    "nec_huboid": "100119623"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-songpagugap-01",
+      "title": "풍납토성 사적지 보상가 현실화 추진",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-02",
+      "title": "결합개발 추진",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-03",
+      "title": "삼표레미콘 조기이전",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-04",
+      "title": "구립어린이집 조기개원",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-05",
+      "title": "올림픽 하부도로는 주민 뜻대로 추진",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-06",
+      "title": "잠실중학교 교실 및 체육관 건립 추진",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-07",
+      "title": "신천유수지 내 도서관 건립",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-08",
+      "title": "제2롯데월드타워 건립에 따른 교통·환경대책 강구",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-09",
+      "title": "재개발·재건축 추진",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-10",
+      "title": "송파2동 주민센터 신축 추진",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-11",
+      "title": "재개발·재건축 추진",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-12",
+      "title": "송파2동 100번지일대 재건축 추진",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-13",
+      "title": "송이공원 리모델링 추진",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-14",
+      "title": "석촌호수 명소화 추진",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-songpagugap-15",
+      "title": "지하철 9호선 조기 개통 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-16",
+      "title": "관광특구 내 면세점 유치 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-17",
+      "title": "올림픽공원 야간 경관 개선 사업 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-18",
+      "title": "올림픽공원 내 몽촌토성 탐방로 재포장 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-19",
+      "title": "방범용 CCTV 설치 확대",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-20",
+      "title": "잠실관광특구활성화로 지역경제 살리기",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-21",
+      "title": "국공립어린이집 설치확대",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-22",
+      "title": "송파구 내 기업유치 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-23",
+      "title": "송파구 융복합 교육특구 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-24",
+      "title": "송파구를 의료관광메카로 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-25",
+      "title": "항공 소음 피해 최소화 대책 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-26",
+      "title": "방이습지 보존 및 운동장 부지 공원화 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-27",
+      "title": "지속적인 학교시설 개선",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-28",
+      "title": "잠실관광특구 활성화 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-29",
+      "title": "방이지구대 이전 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-30",
+      "title": "지하철 9호선 역세권 지구단위계획 재정비 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-31",
+      "title": "지하철 5호선 방이역 주변 지구단위계획 재정비 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-songpagugap-32",
+      "title": "방이시장 활성화 추진",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1124/003_100119623_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 송파구갑 당선인 박인숙 (새누리당). 책자형 선거공보 PDF 5–6쪽 「말보다 행동으로 4년간 하겠습니다」 동별(풍납1·2동, 잠실4·6동, 송파1·2동, 오륜동, 방이1·2동)과 공통 공약 32개. 머리 공약 목록이 따로 없어 동별 목록을 넣었다(잠실4·6동과 송파1·2동의 「재개발·재건축 추진」은 각각 넣었다). PDF 3–4쪽 「4년간 해냈습니다」 성과와 PDF 8쪽 분야별 약속(경제·교육·보건의료 등, 전국 정책)은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

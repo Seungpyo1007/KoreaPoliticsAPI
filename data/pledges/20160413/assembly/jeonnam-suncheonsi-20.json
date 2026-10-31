@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonnam-suncheonsi-20",
+  "candidate": {
+    "name": "이정현",
+    "party_id": "saenuridang",
+    "person_id": "i-jeonghyeon-1958",
+    "nec_huboid": "100119888"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonnam-suncheonsi-01",
+      "title": "순천의대 및 부속병원 유치",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-suncheonsi-02",
+      "title": "광양만권 활성화 및 기업유치를 통한 지역 일자리 창출",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-suncheonsi-03",
+      "title": "경전선(광주 송정~순천) 전철화 추진",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-suncheonsi-04",
+      "title": "호남권 직업체험관(잡월드) 건립",
+      "page": 5
+    },
+    {
+      "id": "20-jeonnam-suncheonsi-05",
+      "title": "여수~남해 한려터널 건설",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4604/003_100119888_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전남 순천시 당선인 이정현 (새누리당). 책자형 선거공보 PDF 5쪽 「이정현은 반드시 약속을 지킵니다!」 공약 1–5 제목 5개. 제목 옆 사업비 금액, PDF 5–6쪽 분야별 • 항목, PDF 7–8쪽 일자리·의대 설명, PDF 9–10쪽 동·면별 민원, PDF 3–4쪽 확보 예산은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

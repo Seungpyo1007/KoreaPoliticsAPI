@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-yonginsigap-21",
+  "candidate": {
+    "name": "정찬민",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "jeong-chanmin-1958",
+    "nec_huboid": "100134574"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-yonginsigap-01",
+      "title": "처인 교통혁명을 이루겠습니다",
+      "page": 2
+    },
+    {
+      "id": "21-gyeonggi-yonginsigap-02",
+      "title": "SK반도체대학교 및 반도체 특성화고 설립 추진",
+      "page": 2
+    },
+    {
+      "id": "21-gyeonggi-yonginsigap-03",
+      "title": "복합쇼핑몰 ‘스타필드 용인’ 유치 추진 건의",
+      "page": 2
+    },
+    {
+      "id": "21-gyeonggi-yonginsigap-04",
+      "title": "공용버스종합터미널 종합운동장으로 이전 추진",
+      "page": 2
+    },
+    {
+      "id": "21-gyeonggi-yonginsigap-05",
+      "title": "고압선 송전탑 지중화 법제화 입법추진",
+      "page": 2
+    },
+    {
+      "id": "21-gyeonggi-yonginsigap-06",
+      "title": "코로나19 바이러스 등 전염병 대응체계법 발의",
+      "page": 2
+    },
+    {
+      "id": "21-gyeonggi-yonginsigap-07",
+      "title": "영업용택시 고속버스전용차로 허용 도입",
+      "page": 2
+    },
+    {
+      "id": "21-gyeonggi-yonginsigap-08",
+      "title": "자영업자·소상공인 지원대책",
+      "page": 2
+    },
+    {
+      "id": "21-gyeonggi-yonginsigap-09",
+      "title": "주민불편 유발시설 대책 제도화",
+      "page": 2
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4135/003_100134574_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 용인시갑 당선인 정찬민 (미래통합당). 책자형 선거공보 PDF 2쪽 「정찬민 핵심공약」 1–9 제목. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 설명 줄과 - 세부 항목, PDF 1쪽 표지 요약, PDF 3–6쪽 분야별 풀이, PDF 7–8쪽 읍·면·동 공약, PDF 10쪽 「모두가 행복한 용인」 대상별 항목, PDF 9쪽 시장 재임 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

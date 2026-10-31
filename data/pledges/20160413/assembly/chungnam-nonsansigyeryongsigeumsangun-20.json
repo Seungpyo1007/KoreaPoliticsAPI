@@ -1,0 +1,163 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungnam-nonsansigyeryongsigeumsangun-20",
+  "candidate": {
+    "name": "김종민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-jongmin-1964",
+    "nec_huboid": "100118449"
+  },
+  "pledges": [
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-01",
+      "title": "KTX논산훈련소역 유치",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-02",
+      "title": "논산·계룡 국방산업단지 조성",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-03",
+      "title": "농업농촌 활성화",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-04",
+      "title": "논산 역사문화 관광개발 사업",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-05",
+      "title": "화지전통시장 활성화(영세업체 카드수수료 인하 및 체크카드 운영 개선)",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-06",
+      "title": "논산시 노인회관, 새마을회관, 보훈회관 신축 지원",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-07",
+      "title": "초·중·고교 국제교류 활성화 추진",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-08",
+      "title": "논산시립도서관, 다목적실내체육관 건립",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-09",
+      "title": "멀티플렉스(복합문화공간, CGV 등)유치",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-10",
+      "title": "장애인보호작업장 설치",
+      "page": 5
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-11",
+      "title": "계룡·논산 국방산업단지 조성을 통한 일자리 창출",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-12",
+      "title": "향적산 치유의 숲 프로젝트 지원",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-13",
+      "title": "계룡시 행정기관 적극 유치 (경찰서, 교육지원청)",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-14",
+      "title": "충청권 광역철도망 ‘신도역’ 신설",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-15",
+      "title": "2020 세계군문화 엑스포 성공 개최 적극 지원",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-16",
+      "title": "계룡대 다목적 쇼핑타운 건립 (건강센터, 수영장, 영화관 등)",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-17",
+      "title": "군인 자녀를 위한 학생 기숙사 건립",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-18",
+      "title": "새마을회관 신축 지원",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-19",
+      "title": "장애인복지센터 및 자립생활센터 건립 지원",
+      "page": 6
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-20",
+      "title": "금산 인삼산업 활성화를 위한 7대 사업",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-21",
+      "title": "약초수목원 설립과 숲 프로젝트",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-22",
+      "title": "금산 역사문화 관광개발 사업",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-23",
+      "title": "금산-논산 간 4차선 도로(국지도68호) 확충",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-24",
+      "title": "농업농촌 활성화",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-25",
+      "title": "새마을회관 신축 지원",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-26",
+      "title": "장애인복지센터 및 자립생활센터 건립 지원",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-27",
+      "title": "상하수도 보급 확대",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-28",
+      "title": "평생학습관 건립",
+      "page": 7
+    },
+    {
+      "id": "20-chungnam-nonsansigyeryongsigeumsangun-29",
+      "title": "CCTV통합관제센터 구축",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4409/003_100118449_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충남 논산시계룡시금산군 당선인 김종민 (더불어민주당). 책자형 선거공보 PDF 5–7쪽 「일자리 많고, 가보고 싶고, 오기 쉬운 논산·계룡·금산을 만들겠습니다!」의 시·군별(논산 5쪽, 계룡 6쪽, 금산 7쪽) 굵은 제목 29개. 머리 공약 목록이 따로 없어 시·군별 제목 줄을 그대로 넣었고, 계룡·금산에 같은 제목(새마을회관 신축 지원 등)이 있어 각각 넣었다. 제목 아래 - 세부 항목, 6–7쪽 「읍면 주요사업」, 7쪽 읍·면·동별 현장대화 약속, PDF 8쪽 민생 정책(전국 단위), PDF 4쪽 낙선 기간 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

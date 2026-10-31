@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-anyangsidongangugap-20",
+  "candidate": {
+    "name": "이석현",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-seokhyeon-1951",
+    "nec_huboid": "100118892"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-anyangsidongangugap-01",
+      "title": "월곶~판교 복선전철의 조속한 건설",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-anyangsidongangugap-02",
+      "title": "우리 아이들 교육환경 개선",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-anyangsidongangugap-03",
+      "title": "주차·교통·생활 편의 증진",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-anyangsidongangugap-04",
+      "title": "어린이집부터 경로당까지",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-anyangsidongangugap-05",
+      "title": "범죄로부터 안전한 안양",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4110/003_100118892_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 안양시동안구갑 당선인 이석현 (더불어민주당). 책자형 선거공보 PDF 8쪽 「비산역·관양역은 오직 이석현!」 아래 굵은 제목 1개와 「더 큰힘으로 안양 발전!」 분야 제목 4개. 분야 제목 옆 세부 항목, PDF 9–10쪽 「동별공약」, PDF 7쪽 「더불어민주당과 더굿맨, 이석현의 정의로운 약속」(당 공약), PDF 5–6쪽 확보 예산·수상 내역은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

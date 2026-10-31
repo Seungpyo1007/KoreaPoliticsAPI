@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-ansansidanwongueul-20",
+  "candidate": {
+    "name": "박순자",
+    "party_id": "saenuridang",
+    "person_id": "bak-sunja-1958",
+    "nec_huboid": "100118363"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-ansansidanwongueul-01",
+      "title": "신안산선 조기 착공과 KTX 초지역 정차, 박순자면 가능합니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongueul-02",
+      "title": "대부도를 세계 속의 보물섬, 최고의 해양문화관광지로",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongueul-03",
+      "title": "안산스마트허브 공단, 제2의 도약이 시작됩니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongueul-04",
+      "title": "지역상권에 활력을! 소상공인에게 웃음을",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongueul-05",
+      "title": "재건축, 시작도 마무리도 박순자가 책임지겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongueul-06",
+      "title": "아이들의 건강, 미래를 지키는 24시간 어린이 전문병원",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongueul-07",
+      "title": "문화예술과 배움을 마음껏 누리는 안산",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-ansansidanwongueul-08",
+      "title": "안전과 복지, 꼼꼼하게 챙기겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4119/003_100118363_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 안산시단원구을 당선인 박순자 (새누리당). 책자형 선거공보 PDF 7–8쪽 「안산의 밀린 숙제, 시원하게 풀겠습니다」의 굵은 제목 8개. 제목 아래 설명 글과 ✚ 세부 항목, PDF 9–10쪽 동별 공약(초지동·대부동·고잔1동·호수동·고잔2동), PDF 5–6쪽 지난 성과·확보 예산은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

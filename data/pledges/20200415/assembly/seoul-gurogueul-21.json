@@ -1,0 +1,33 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gurogueul-21",
+  "candidate": {
+    "name": "윤건영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-geonyeong-1969",
+    "nec_huboid": "100136636"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gurogueul-01",
+      "title": "정체된 구로의 발전, 구로역 주변 개발(신역사 추진)을 시작으로 속도를 내겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gurogueul-02",
+      "title": "일상 생활 곳곳의 불편, 작지만 중요한 것부터 적극적으로 해결해 나가겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gurogueul-03",
+      "title": "문화와 여가 생활, 푸른 녹지가 어우러진 풍요로운 구로를 만들겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1117/003_100136636_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 구로구을 당선인 윤건영 (더불어민주당). 책자형 선거공보 PDF 6쪽 아래 「구로가 달라지는 정치를 하겠습니다」 제목 3개. 같은 쪽 위 「국민의 사랑 받는 정치를 하겠습니다」 4개는 전국 정치 공약이라 넣지 않았고, PDF 7–8쪽 「대한민국에 힘이 되는 사람」「구로에 힘이 되는 사람」 분야별 정책, PDF 9–10쪽 동별 공약, 제목 아래 세부 항목도 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

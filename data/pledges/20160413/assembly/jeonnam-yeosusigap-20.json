@@ -1,0 +1,108 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonnam-yeosusigap-20",
+  "candidate": {
+    "name": "이용주",
+    "party_id": "gungminui-dang",
+    "person_id": "i-yongju-1968",
+    "nec_huboid": "100118420"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonnam-yeosusigap-01",
+      "title": "여문지역 법원 · 검찰청 지원 · 지청 유치",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-02",
+      "title": "여수-남해 한려 해저터널 건설",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-03",
+      "title": "여문지구 돌산청사 이전 유치",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-04",
+      "title": "돌산 우두지역 도시가스 공급",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-05",
+      "title": "돌산대교 쌍둥이대교 건설",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-06",
+      "title": "거북선대교 종화동 진출입로 조기 준공",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-07",
+      "title": "해양관광특구 지정 개발(박람회장, 만성리해수욕장, 만덕동 인근 통합 개발)",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-08",
+      "title": "시장상가 통합지원센터 설립",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-09",
+      "title": "동시장 농산물 유통센터 건립",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-10",
+      "title": "율촌 제2산단 조기 준공",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-11",
+      "title": "오천산단 수산물가공단지 활성화",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-12",
+      "title": "돌산 진목 임해관광도로 건설",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-13",
+      "title": "위그선 관련 산업단지 및 연구단지 유치",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-14",
+      "title": "국립 다도해 섬 박물관 건립 (엑스포장 부지)",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-15",
+      "title": "청년지원금 신설",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-16",
+      "title": "복합 의료단지 구축 – 화상 및 산재 / 노인질환 / 아동 전문병원 (전남대 국동 캠퍼스 부지)",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-17",
+      "title": "장애인 체육 실업팀 창단 지원",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusigap-18",
+      "title": "진학진로지원센터 (대입 정시/수시 상담실 포함) 설립",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4602/003_100118420_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전남 여수시갑 당선인 이용주 (국민의당). 책자형 선거공보 PDF 8쪽 「이용주가 드리는 여수지역 공약」(지역현안 01–06, 지역경제 01–07, 교육·문화·복지 01–05) 18개. OCR 결과라 쪽 이미지를 보고 옮겼다. PDF 7쪽 「이용주가 드리는 국가적 공약」 01–05, 같은 공약을 다시 설명한 PDF 9–10쪽은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

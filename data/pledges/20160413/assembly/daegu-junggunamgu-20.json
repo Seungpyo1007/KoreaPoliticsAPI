@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-junggunamgu-20",
+  "candidate": {
+    "name": "곽상도",
+    "party_id": "saenuridang",
+    "person_id": "gwak-sangdo-1959",
+    "nec_huboid": "100119276"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-junggunamgu-01",
+      "title": "융성하는 대구문화",
+      "page": 3
+    },
+    {
+      "id": "20-daegu-junggunamgu-02",
+      "title": "매력 있는 지역개발",
+      "page": 3
+    },
+    {
+      "id": "20-daegu-junggunamgu-03",
+      "title": "갖고 싶은 “내” 일자리",
+      "page": 4
+    },
+    {
+      "id": "20-daegu-junggunamgu-04",
+      "title": "개성 있는 전통시장",
+      "page": 4
+    },
+    {
+      "id": "20-daegu-junggunamgu-05",
+      "title": "희망 있는 맞춤 복지",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2704/003_100119276_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 중구남구 당선인 곽상도 (새누리당). 책자형 선거공보 PDF 3–4쪽 「중·남구 회생 5대 프로젝트」 제목 5개(쪽 위에서 아래 순). 제목 아래 • 세부 항목과 PDF 6쪽 「도심 랜드마크 plan」 등 세부 계획은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

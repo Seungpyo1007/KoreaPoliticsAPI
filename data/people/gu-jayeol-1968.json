@@ -1,0 +1,43 @@
+{
+  "id": "gu-jayeol-1968",
+  "name": "구자열",
+  "birth_year": 1968,
+  "external_ids": {
+    "nec_huboids": [
+      "100153887"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)강원도지사 비서실장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)더불어민주당 원주시장선거 후보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "강원대학교 일반대학원 정치외교학과 박사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

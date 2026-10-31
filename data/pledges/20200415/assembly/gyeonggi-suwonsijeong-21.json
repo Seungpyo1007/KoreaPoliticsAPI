@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-suwonsijeong-21",
+  "candidate": {
+    "name": "박광온",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-gwangon-1957",
+    "nec_huboid": "100137627"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-suwonsijeong-01",
+      "title": "어떤 위기에도 안전한 영통구를 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-suwonsijeong-02",
+      "title": "함께 잘 사는 따뜻한 경제를 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-suwonsijeong-03",
+      "title": "출퇴근 시간 단축으로 삶의 질을 높이겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-suwonsijeong-04",
+      "title": "모든 영통구 시민을 위한 든든한 집을 짓겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsijeong-05",
+      "title": "국회를 완전히 새롭게 개혁하겠습니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4104/003_100137627_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 수원시정 당선인 박광온 (더불어민주당). 책자형 선거공보 PDF 7–9쪽 번호 1–5(튼튼한 재난안전망, 활기찬 경제안전망, 시원한 교통안전망, 든든한 사회안전망, 깨끗한 정치안전망)의 따옴표 제목 5개. 번호 옆 안전망 이름표, ● 소제목과 · 세부 항목, PDF 10쪽 매탄·원천·광교·영통 동별 공약, PDF 3–6쪽 지난 입법 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

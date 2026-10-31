@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-21",
+  "candidate": {
+    "name": "이개호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-gaeho-1959",
+    "nec_huboid": "100137616"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-01",
+      "title": "살맛나는 농어촌",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-02",
+      "title": "어르신 및 사회적 약자의 권익향상",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-03",
+      "title": "잘사는 지방, 지역균형발전",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-04",
+      "title": "대한민국 정원문화의 중심지 담양",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-05",
+      "title": "생태교육, 체험 관광도시 함평",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-06",
+      "title": "e-모빌리티 중심도시 영광",
+      "page": 9
+    },
+    {
+      "id": "21-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-07",
+      "title": "자연과 사람이 공존하는 옐로우시티 장성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4622/003_100137616_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전남 담양군함평군영광군장성군 당선인 이개호 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 6쪽 「경제적 약자와 지역균형 발전을 위한 이개호의 약속!」 분야 제목 3개와 PDF 7–10쪽 「담양·함평·영광·장성 100년 도약의 기틀 일 잘하는 이개호가 만들겠습니다!」의 군별 제목 4개를 넣었다. 제목 아래 •/● 세부 항목, PDF 3–5쪽 장관·의정 성과는 넣지 않았다. 군별 제목 끝의 !를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungbuk-chungjusi-21",
+  "candidate": {
+    "name": "이종배",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "i-jongbae-1957",
+    "nec_huboid": "100137276"
+  },
+  "pledges": [
+    {
+      "id": "21-chungbuk-chungjusi-01",
+      "title": "중부내륙권 첨단신산업도시 조성해 양질의 일자리를 15,000개 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-chungjusi-02",
+      "title": "품격있는 명품 문화·체육·관광 도시, 충주를 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-chungjusi-03",
+      "title": "삶의 질이 높은 행복 도시, 충주를 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-chungbuk-chungjusi-04",
+      "title": "SOC 확충으로 충주 성장을 견인하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-chungbuk-chungjusi-05",
+      "title": "농업경쟁력 강화로 도시와 농촌이 함께 잘 사는 충주를 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-chungbuk-chungjusi-06",
+      "title": "무너진 민생경제를 다시 살려내겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-chungjusi-07",
+      "title": "작은 약속이지만, 큰 행복을 드리겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4303/003_100137276_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충북 충주시 당선인 이종배 (미래통합당). 책자형 선거공보 PDF 5–8쪽 「중단없는 충주발전을 위한 이종배의 7대 약속」 약속 1–7 제목(두 줄 제목은 이었다). 제목 아래 ▲ 세부 항목과 PDF 6쪽 「서충주신도시, 행복 맞춤 도시 조성」 상자, PDF 3–4쪽 지난 성과, PDF 9–10쪽 정권 비판은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

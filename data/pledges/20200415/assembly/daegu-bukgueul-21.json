@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daegu-bukgueul-21",
+  "candidate": {
+    "name": "김승수",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-seungsu-1965",
+    "nec_huboid": "100134733"
+  },
+  "pledges": [
+    {
+      "id": "21-daegu-bukgueul-01",
+      "title": "신공항 항공 물류 거점도시로",
+      "page": 8
+    },
+    {
+      "id": "21-daegu-bukgueul-02",
+      "title": "의료융합 및 의료관광도시로",
+      "page": 8
+    },
+    {
+      "id": "21-daegu-bukgueul-03",
+      "title": "아이 키우기 좋은 명품 교육도시로",
+      "page": 8
+    },
+    {
+      "id": "21-daegu-bukgueul-04",
+      "title": "금호강 관광·레저명소 수변도시로",
+      "page": 8
+    },
+    {
+      "id": "21-daegu-bukgueul-05",
+      "title": "생활체육·문화 시설이 풍부한 고품격 미래도시로",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2705/003_100134733_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대구 북구을 당선인 김승수 (미래통합당). 책자형 선거공보 PDF 7–8쪽 「김승수의 북구 혁신플랜」 강북토피아 공약 제목 5개(PDF 8쪽)를 넣었다. 제목 아래 설명 글과 이행 계획, PDF 9–10쪽 동별 공약, PDF 5–6쪽 코로나·정권 비판 글, PDF 3–4쪽 경력·대구시 재임 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-20",
+  "candidate": {
+    "name": "황영철",
+    "party_id": "saenuridang",
+    "person_id": "hwang-yeongcheol-1965",
+    "nec_huboid": "100120217"
+  },
+  "pledges": [
+    {
+      "id": "20-gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-01",
+      "title": "민 · 관 · 군이 함께 행복한 접경지역을 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-02",
+      "title": "안보 최전선을 지키는 군인의 삶의 질을 향상 시키겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-03",
+      "title": "민통선 5km 북상 시키겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-04",
+      "title": "DMZ 세계평화공원 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-05",
+      "title": "접경지역 각종 규제 완화 하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-06",
+      "title": "농어촌 지방 죽이는 잘못된 선거구 획정 바로 잡겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-07",
+      "title": "강원 영서 내륙권 핵심 도로·철도 교통망을 구축하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-08",
+      "title": "농·림·축산업인의 목소리를 앞장서 대변하는 국회의원이 되겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-09",
+      "title": "침체된 지역경제 활성화하기 위해 향토기업 육성 및 지원법을 제1호 법안으로 발의하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-gangwon-hongcheonguncheolwongunhwacheongunyangguguninjegun-10",
+      "title": "응답하라 국회의원의 날을 만들어 군민과 더 가까이에서 소통하겠습니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4212/003_100120217_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 강원 홍천군철원군화천군양구군인제군 당선인 황영철 (새누리당). 책자형 선거공보 PDF 5쪽 「접경지역 '새로운 희망'을 만들겠습니다!」 1–5 제목 5개와 PDF 6–9쪽 「'황영철의 HI-FIVE 5대 비전'」 1–5 제목 5개. 글자층이 OCR이라 쪽 이미지를 보고 옮겼다. 제목 아래 부제·✓·▲ 세부 항목(지난 성과 포함), PDF 10쪽 지역 사업 목록, PDF 2–4쪽 인사말·의정활동은 넣지 않았다. 끝의 !와 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

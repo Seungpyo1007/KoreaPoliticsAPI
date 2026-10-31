@@ -1,0 +1,208 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungnam-asansigap-21",
+  "candidate": {
+    "name": "이명수",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "i-myeongsu-1955",
+    "nec_huboid": "100137308"
+  },
+  "pledges": [
+    {
+      "id": "21-chungnam-asansigap-01",
+      "title": "4차산업혁명 거점도시 아산 육성",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-02",
+      "title": "수도권전철 「풍기역」 조기 추진",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-03",
+      "title": "「제2서해안고속도로」 건설 추진 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-04",
+      "title": "「천안∼아산∼당진 고속도로」 건설 조기 완공 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-05",
+      "title": "「천안∼아산∼장항 고속도로」 건설 추진",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-06",
+      "title": "「서해선 복선전철」 건설 조기 완공 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-07",
+      "title": "이순신 테마파크 조성",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-08",
+      "title": "온양행궁 복원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-09",
+      "title": "충남재활병원 조기 건립 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-10",
+      "title": "국립경찰병원 또는 종합병원 유치 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-11",
+      "title": "아산 「소상공업·자영업 활성화센터」 설립",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-12",
+      "title": "아산 산림자원 관광자원화",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-13",
+      "title": "「장존교차로∼외암마을」 간 도로개량사업(국도21호 및 39호 접속도로) 조기 완공 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-14",
+      "title": "현충사로 개통(서해그랑블사거리∼현충교사거리)",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-15",
+      "title": "「오목지역 6-3도로∼남성(국도)」 연계도로 개설 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-16",
+      "title": "「온양시내∼남성∼신창」 도로 확·포장공사 추진",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-17",
+      "title": "신정호 주변 정비 및 신정호 명소로 교량(오버브릿지) 건설",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-18",
+      "title": "청년창업타운 육성(순천향대 스타트업 시너지밸리 등)",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-19",
+      "title": "아산시 「청년지원과」, 「대학지원팀」 신설",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-20",
+      "title": "아산 중장기 청년지도자 육성프로그램 시행",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-21",
+      "title": "순천향대·호서대·유원대·폴리텍대·경찰대 등 대학간 공동축제 및 교류·협력 사업 추진",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-22",
+      "title": "아산 문화예술이용권(바우처) 지원 대상 및 금액 확대 추진",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-23",
+      "title": "아산 문화예술공간 조성 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-24",
+      "title": "「맹사성 청렴교육원」 건립 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-25",
+      "title": "「이어령 문화테마파크」 조성 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-26",
+      "title": "「아산 전통예절교육관」 및 「다도·차문화 체험관」 조성 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-27",
+      "title": "「아산 향교(3개)」 지원 강화",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-28",
+      "title": "아산 「다문화 축제」 확대 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-29",
+      "title": "「아산문화재단」을 「아산문화산업진흥원」으로 확대·개편 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-30",
+      "title": "「외암민속마을 외암정사」 건립 등 명품화 사업 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-31",
+      "title": "「아산시민축구단」 활성화 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-32",
+      "title": "「아산 근로자복지관」 확충 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-33",
+      "title": "「아산 자원봉사회관」 건립 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-34",
+      "title": "「아산 적십자봉사관」 건립지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-35",
+      "title": "「아산 새마을회관」 건립 지원",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-36",
+      "title": "「아산 장애인종합복지관」 개축 및 「아산 중증장애인지원센터」 신설 추진",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-37",
+      "title": "「아산 노인종합복지관」 확충 등 지원 강화",
+      "page": 9
+    },
+    {
+      "id": "21-chungnam-asansigap-38",
+      "title": "경찰대학·폴리텍대학 지원 강화",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4404/003_100137308_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충남 아산시갑 당선인 이명수 (미래통합당). 책자형 선거공보 PDF 9쪽 「1. 아산시 전체」의 ■ 항목 제목 38개(왼쪽 단, 오른쪽 단 순). 머리 공약 목록이 따로 없어 선거구 전체 공약 목록을 옮겼다. ■ 아래 ▸ 세부 항목, PDF 10쪽 「2. 온양도심 발전 공약」·「3. 신창면·도고면·선장면 발전 공약」(지역별 공약), PDF 7–8쪽 1–6 분야 정책(서민경제·가정·교육·안전·농촌·복지, 전국 단위 정책), PDF 3–4쪽 입법정책 의제 1–5는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

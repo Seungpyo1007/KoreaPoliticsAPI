@@ -1,0 +1,43 @@
+{
+  "id": "sin-sujeong-1973",
+  "name": "신수정",
+  "birth_year": 1973,
+  "external_ids": {
+    "nec_huboids": [
+      "100158994"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)광주광역시의회 의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)더불어민주당 중앙당 정책위원회 부의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전남대학교 정책대학원 졸업(정책학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

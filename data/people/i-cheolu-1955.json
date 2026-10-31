@@ -3,7 +3,10 @@
   "name": "이철우",
   "birth_year": 1955,
   "external_ids": {
-    "assembly_mona_cd": "NS06841K"
+    "assembly_mona_cd": "NS06841K",
+    "nec_huboids": [
+      "100159249"
+    ]
   },
   "career": [
     {
@@ -53,6 +56,22 @@
       "source_urls": [
         "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=4700&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
       ]
+    },
+    {
+      "text": "(전)제18·19·20대 국회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)경상북도지사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
     }
   ],
   "education": [
@@ -71,6 +90,14 @@
       "source_urls": [
         "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20120411&electionCode=2&cityCode=4700&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0",
         "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%231&oldElectionType=1&electionType=2&electionName=20160413&electionCode=2&cityCode=4700&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "연세대학교 행정대학원 졸업(정치학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
       ]
     }
   ],

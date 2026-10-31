@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-yangcheongueul-20",
+  "candidate": {
+    "name": "김용태",
+    "party_id": "saenuridang",
+    "person_id": "gim-yongtae-1968",
+    "nec_huboid": "100120403"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-yangcheongueul-01",
+      "title": "다시는 동네 물 안 차게 마무리 짓겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-yangcheongueul-02",
+      "title": "생태공원·상업지구개발 마무리 짓겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-yangcheongueul-03",
+      "title": "추가로 주민지원사업 확대 마무리 짓겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-yangcheongueul-04",
+      "title": "신정네거리역 2번 에스컬레이터 마무리 짓겠습니다 신정역 에스컬레이터 추가 설치 마무리 짓겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-yangcheongueul-05",
+      "title": "외국인 특화 쇼핑·문화단지로 탈바꿈 시키겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yangcheongueul-06",
+      "title": "광역철도 원종-신월-홍대 노선 돌파해 내겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yangcheongueul-07",
+      "title": "현대식 변기로 전면 교체해 내겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yangcheongueul-08",
+      "title": "도시첨단물류단지 유치, 서울시와 끝장 보겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1115/003_100120403_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 양천구을 당선인 김용태 (새누리당). 책자형 선거공보 PDF 5–8쪽 「마무리 짓겠습니다」·「돌파해 내겠습니다」 표지가 붙은 지역 공약 제목 8개. 각 제목 앞줄의 현황·성과 문장(\"이미 대심도 빗물 배수터널 시작 했습니다\", \"신정동 로데오거리 상권이 활력을 잃었습니다\" 등)은 덜어내고 공약 줄만 옮겼다. PDF 10쪽 「사람정책」 하나–셋(열정페이 근절 등 입법 공약), PDF 2–4·9쪽 의정 활동 이야기는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

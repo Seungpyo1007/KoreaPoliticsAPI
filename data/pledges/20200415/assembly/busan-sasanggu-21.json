@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-sasanggu-21",
+  "candidate": {
+    "name": "장제원",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "jang-jewon-1967",
+    "nec_huboid": "100137461"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-sasanggu-01",
+      "title": "리버프런트시티 조성",
+      "page": 8
+    },
+    {
+      "id": "21-busan-sasanggu-02",
+      "title": "교육 1번지, 아이 키우기 좋은 사상",
+      "page": 8
+    },
+    {
+      "id": "21-busan-sasanggu-03",
+      "title": "생활체육의 메카 사상",
+      "page": 9
+    },
+    {
+      "id": "21-busan-sasanggu-04",
+      "title": "제2의 경제부흥, 사상뉴딜사업",
+      "page": 9
+    },
+    {
+      "id": "21-busan-sasanggu-05",
+      "title": "부산구치소 이전 마무리",
+      "page": 10
+    },
+    {
+      "id": "21-busan-sasanggu-06",
+      "title": "생활밀착형 환경개선사업",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2616/003_100137461_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 사상구 당선인 장제원 (미래통합당). 책자형 선거공보 PDF 8–10쪽 「사상발전의 완성 프로젝트」 프로젝트 1–6 제목 6개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 각 프로젝트 아래 1.–8. 세부 항목(동별 사업 포함)과 PDF 3–6쪽 지난 의정활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

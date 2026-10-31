@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungbuk-cheongjusicheongwongu-21",
+  "candidate": {
+    "name": "변재일",
+    "party_id": "deobureo-minjudang",
+    "person_id": "byeon-jaeil-1948",
+    "nec_huboid": "100137147"
+  },
+  "pledges": [
+    {
+      "id": "21-chungbuk-cheongjusicheongwongu-01",
+      "title": "오창 후기리소각장, 반드시 막겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusicheongwongu-02",
+      "title": "청원구를 대한민국 혁신성장의 심장으로 ‘차세대방사광가속기’ 청주 유치 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusicheongwongu-03",
+      "title": "내수·북이·북오창에 ‘UAM 특화단지’를 포함한 ‘미호천·석화천 복합신도시 조성’ 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusicheongwongu-04",
+      "title": "63빌딩과 맞먹는 규모의 ‘오창과학지식산업복합센터 건립’ 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusicheongwongu-05",
+      "title": "순항하고 있는 밀레니엄타운을 확장하여 ‘도시첨단산업단지(넥스트폴리스) 조성’ 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusicheongwongu-06",
+      "title": "‘미호천 시민공원’ 조기 조성 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusicheongwongu-07",
+      "title": "주중동 충북도로관리사업소 부지에 ‘문화체육복합센터(생활SOC) 건립’ 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusicheongwongu-08",
+      "title": "내수를 수도권과 직접 연결하는 ‘수도권내륙선(동탄~진천~청주공항)건설’ 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusicheongwongu-09",
+      "title": "밀레니엄타운 내 'AR·VR 테마파크 가족공원 조성' 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-cheongjusicheongwongu-10",
+      "title": "내덕·우암 도시재생뉴딜사업 적극 지원",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4306/003_100137147_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충북 청주시청원구 당선인 변재일 (더불어민주당). 책자형 선거공보 PDF 7쪽 표제 「약속을 지키는 변재일의 핵심 10대 공약」에 이어 PDF 8쪽 1–10 제목 10개. 제목 아래 ▷ 세부 항목과 파급효과 주석, PDF 9–10쪽 지역별 현안, PDF 10쪽 「정의롭고 공정한 사회를 만들겠습니다」 분야 정책, PDF 5–6쪽 지난 성과는 넣지 않았다. 1번 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongbuk-gyeongsansi-20",
+  "candidate": {
+    "name": "최경환",
+    "party_id": "saenuridang",
+    "person_id": "choe-gyeonghwan-1955",
+    "nec_huboid": "100120226"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongbuk-gyeongsansi-01",
+      "title": "영남권 최첨단산업 행복도시 경산 조성",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongbuk-gyeongsansi-02",
+      "title": "경산의 사통팔달 대역사 완성",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongbuk-gyeongsansi-03",
+      "title": "전국에서 가장 살기 좋은 도시 경산",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4713/003_100120226_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경북 경산시 당선인 최경환 (새누리당). 책자형 선거공보 PDF 7쪽 「최경환이 약속드리는 더 큰 경산!」 약속1–3 제목 3개. 제목 아래 설명과 PDF 8–10쪽 약속별 소제목·①② 세부 항목, PDF 5–6쪽 지난 성과와 유치 사업, PDF 3–4쪽 경력은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

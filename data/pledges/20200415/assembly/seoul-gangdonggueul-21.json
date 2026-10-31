@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gangdonggueul-21",
+  "candidate": {
+    "name": "이해식",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-haesik-1963",
+    "nec_huboid": "100135074"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gangdonggueul-01",
+      "title": "교통과 주차",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangdonggueul-02",
+      "title": "도시 재활성화",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangdonggueul-03",
+      "title": "생활SOC",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangdonggueul-04",
+      "title": "지역경제",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangdonggueul-05",
+      "title": "교육과 복지",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangdonggueul-06",
+      "title": "환경과 에너지",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangdonggueul-07",
+      "title": "지역 문화",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1125/003_100135074_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 강동구을 당선인 이해식 (더불어민주당). 책자형 선거공보 PDF 8쪽 「확실한 변화 더나은 강동」 분야 제목 7개(왼쪽 단, 오른쪽 단 순). OCR 텍스트라 쪽 이미지를 보고 옮겼다. 제목 위 #확실한_변화 꼬리표와 제목 아래 - 세부 항목, PDF 9–10쪽 「더나은 대한민국」 전국 공약, PDF 3–4쪽 구청장 시절 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-goyangsijeong-20",
+  "candidate": {
+    "name": "김현미",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-hyeonmi-1962",
+    "nec_huboid": "100119511"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-goyangsijeong-01",
+      "title": "한국예술종합학교 유치",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-goyangsijeong-02",
+      "title": "경기북부테크노밸리 조성 및 첨단방송영상밸리 개발",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-goyangsijeong-03",
+      "title": "킨텍스 제3전시장 건립",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-goyangsijeong-04",
+      "title": "GTX 사업 조기 완공 및 3호선 가좌마을역·덕이역 설치 추진",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-goyangsijeong-05",
+      "title": "서울외곽순환고속도로·일산대교 통행료 인하",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-goyangsijeong-06",
+      "title": "청년·신혼부부 공공주택 건립",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4122/003_100119511_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 고양시정 당선인 김현미 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「‘활력도시’ 일산 김현미가 만들겠습니다!」 1–6 제목 6개. 글자층에 띄어쓰기가 빠져 있어 띄어쓰기는 쪽 이미지를 보고 옮겼다. 번호 옆 분야 문구(문화·예술 활력도시 등), 제목 아래 - 세부 항목, 아래쪽 교통·교육·문화·복지·보건·행정 분야별 목록은 넣지 않았다. PDF 5–8쪽 지난 활동도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

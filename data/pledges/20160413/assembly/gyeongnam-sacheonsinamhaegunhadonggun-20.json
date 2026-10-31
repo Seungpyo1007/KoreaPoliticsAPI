@@ -1,0 +1,63 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-sacheonsinamhaegunhadonggun-20",
+  "candidate": {
+    "name": "여상규",
+    "party_id": "saenuridang",
+    "person_id": "yeo-sanggyu-1948",
+    "nec_huboid": "100119816"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-sacheonsinamhaegunhadonggun-01",
+      "title": "좋은 일자리를 만들겠습니다. 항공우주 지역인재를 양성하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "20-gyeongnam-sacheonsinamhaegunhadonggun-02",
+      "title": "살기 좋은 생활공간을 만들겠습니다. 사통팔달의 사천을 열겠습니다",
+      "page": 3
+    },
+    {
+      "id": "20-gyeongnam-sacheonsinamhaegunhadonggun-03",
+      "title": "머무는 관광을 실현하겠습니다. 지역경제에 활력을 더하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongnam-sacheonsinamhaegunhadonggun-04",
+      "title": "좋은 일자리를 만들겠습니다. 에너지신산업 고급두뇌를 양성하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongnam-sacheonsinamhaegunhadonggun-05",
+      "title": "해양관광산업을 더 키우겠습니다. 새로운 일자리를 드리겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-sacheonsinamhaegunhadonggun-06",
+      "title": "막힘 없는 문화관광실크로드 구축, 지역경제에 활력을 더하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-sacheonsinamhaegunhadonggun-07",
+      "title": "좋은 일자리를 만들겠습니다. 세계수준의 고급인력을 양성하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongnam-sacheonsinamhaegunhadonggun-08",
+      "title": "동서통합·복합관광산업의 중심, 문화관광산업의 새로운 길을 열겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-sacheonsinamhaegunhadonggun-09",
+      "title": "삶의 질을 높이겠습니다. 지역경제에 활력을 더하겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4807/003_100119816_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 사천시남해군하동군 당선인 여상규 (새누리당). 책자형 선거공보 PDF 3–4쪽 「사천 지역발전 공약」, PDF 5–6쪽 「남해 지역발전 공약」, PDF 7–8쪽 「하동 지역발전 공약」의 상자 제목 9개(군별 3개씩). 두 줄로 나뉜 제목은 이어 붙였다. 제목 아래 + 세부 항목과 각 쪽의 「더 큰+ 사천/남해/하동」 성과·구상 문단은 넣지 않았다. PDF 9–10쪽 농어촌·소상공인·어르신 등 공통 공약 목록은 항목만 있고 제목 줄이 없어 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

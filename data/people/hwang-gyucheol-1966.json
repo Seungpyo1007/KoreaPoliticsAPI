@@ -1,0 +1,43 @@
+{
+  "id": "hwang-gyucheol-1966",
+  "name": "황규철",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100158951"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)제9대,10대,11대 충청북도의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)제38대 옥천군수 ",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "대전대학교 행정학부 행정학전공 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-songpagubyeong-20",
+  "candidate": {
+    "name": "남인순",
+    "party_id": "deobureo-minjudang",
+    "person_id": "nam-insun-1958",
+    "nec_huboid": "100119315"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-songpagubyeong-01",
+      "title": "양극화 해소와 좋은 일자리 창출",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-songpagubyeong-02",
+      "title": "더 많은 민주주의와 역사바로세우기",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-songpagubyeong-03",
+      "title": "아이가 안전하고 행복한 대한민국",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-songpagubyeong-04",
+      "title": "청년에게 희망의 사다리 구축",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-songpagubyeong-05",
+      "title": "여성 경제활동참여 활성화와 일•가정 양립환경 조성",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-songpagubyeong-06",
+      "title": "고령사회 대응 강화, 건강하고 존경받는 100세 시대",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-songpagubyeong-07",
+      "title": "장애인이 편하고 차별받지 않은 사회",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1124/003_100119315_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 송파구병 당선인 남인순 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「송파똑순이 7대 희망 프로젝트」 1–7의 제목 7개. 번호 옆 「경제희망」「민주희망」 같은 분야 이름은 덜어내고 그 옆 띠 제목만 적었다. 제목 아래 • 세부 항목, PDF 9–10쪽 동별 공약(오금·가락, 문정·장지, 거여·마천, 위례), PDF 3–4·6쪽 지난 의정 성과·확보 예산은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}
