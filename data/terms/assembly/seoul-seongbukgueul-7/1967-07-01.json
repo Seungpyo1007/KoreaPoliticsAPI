@@ -1,0 +1,19 @@
+{
+  "office": "assembly/seoul-seongbukgueul-7",
+  "person_id": "seo-beomseok-1902",
+  "party_id": "sinmindang-1967",
+  "party_name": "신민당",
+  "starts_on": "1967-07-01",
+  "ends_on": "1971-07-01",
+  "how": "elected",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19670608&electionCode=2&cityCode=11&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EC%A0%9C7%EB%8C%80_%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%9B%90_%EB%AA%A9%EB%A1%9D",
+    "https://rokps.or.kr/profile/profile_view.asp?idx=846"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "국회 자료에는 성동구을로 적혀 있음. 선관위 당선인 명부 서울 제8지역구, 헌정회와 위키백과로는 성북구을"
+}

@@ -1,16 +1,18 @@
 {
   "id": "mun-yongju",
   "name": "문용주",
-  "birth_year": null,
+  "birth_year": 1933,
   "external_ids": {
     "assembly_mona_cd": "VL42775J"
   },
   "career": [],
   "education": [],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://rokps.or.kr/profile/profile_view.asp?idx=226",
+    "https://www.yna.co.kr/view/AKR20260311076300505"
   ],
   "verified": false,
-  "checked_at": "2026-10-22",
-  "note": "국회 자료의 생년월일은 1833-02-08인데 재직 시기와 맞지 않아 출생연도를 비워 둠"
+  "checked_at": "2026-11-01",
+  "note": "국회 자료의 생년월일 1833-02-08은 틀린 값임. 헌정회 프로필의 1933-02-08을 따름. 연합뉴스 부고(2026-03-11, 향년 93세)와도 맞음"
 }

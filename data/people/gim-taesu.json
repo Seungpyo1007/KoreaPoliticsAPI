@@ -1,16 +1,18 @@
 {
   "id": "gim-taesu",
   "name": "김태수",
-  "birth_year": null,
+  "birth_year": 1937,
   "external_ids": {
     "assembly_mona_cd": "NTX2814J"
   },
   "career": [],
   "education": [],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://rokps.or.kr/profile/profile_view.asp?idx=525",
+    "https://ko.wikipedia.org/wiki/%EA%B9%80%ED%83%9C%EC%88%98_%281937%EB%85%84%29"
   ],
   "verified": false,
-  "checked_at": "2026-10-22",
-  "note": "국회 자료의 생년월일은 2037-01-07인데 재직 시기와 맞지 않아 출생연도를 비워 둠"
+  "checked_at": "2026-11-01",
+  "note": "국회 자료의 생년월일 2037-01-07은 틀린 값임. 헌정회 프로필과 위키백과의 1937-01-07을 따름"
 }

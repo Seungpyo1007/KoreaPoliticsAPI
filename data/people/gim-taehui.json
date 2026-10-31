@@ -11,6 +11,6 @@
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22",
-  "note": "국회 자료의 생년월일은 1999-00-00인데 재직 시기와 맞지 않아 출생연도를 비워 둠"
+  "checked_at": "2026-11-01",
+  "note": "국회 자료의 생년월일 1999-00-00은 틀린 값이라 출생연도를 비워 둠. 헌정회 프로필은 1899년인데 위키백과 문서가 헌정회 문구를 그대로 옮긴 것이라 따로 확인한 출처로 안 봄"
 }
