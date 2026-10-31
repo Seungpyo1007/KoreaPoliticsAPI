@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-namyangjusigap-21",
+  "candidate": {
+    "name": "조응천",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jo-eungcheon-1962",
+    "nec_huboid": "100137049"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-namyangjusigap-01",
+      "title": "더 새로운 남양주 철도시대를 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusigap-02",
+      "title": "더 편리하고 빠른 출근길을 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusigap-03",
+      "title": "더 쾌적한 도로를 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusigap-04",
+      "title": "가치는 더하고",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusigap-05",
+      "title": "불안은 빼고",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusigap-06",
+      "title": "행복은 곱하고",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusigap-07",
+      "title": "희망은 나누고",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-namyangjusigap-08",
+      "title": "100만 남양주를 준비하는, \"남양주 종합 스포츠 단지\" 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusigap-09",
+      "title": "12만 화도읍 \"제2체육문화센터\" 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusigap-10",
+      "title": "천마산 \"자연휴양림 및 둘레길\" 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4126/003_100137049_20200415_4.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 남양주시갑 당선인 조응천 (더불어민주당). 책자형 선거공보 PDF 6쪽 「역시 조응천! 내 삶을 바꾸는 남양주 교통을 만들겠습니다」의 원형 표제 3개, PDF 7쪽 「다시 조응천! 내 삶을 높이는 남양주를 만들겠습니다」의 소제목 4개, PDF 8쪽 「웰빙 남양주를 위한 3대 핵심과제」 1–3 제목 3개. PDF 7쪽 소제목 사이의 +·−·×·÷ 기호는 그림이라 옮기지 않았다. 제목 아래 ▶/• 세부 항목, PDF 9–10쪽 생애주기 약속과 입법 공약(전국 정책 포함), PDF 3–4쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

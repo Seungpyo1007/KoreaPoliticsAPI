@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gangwon-chuncheonsicheolwongunhwacheongunyangguguneul-21",
+  "candidate": {
+    "name": "한기호",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "han-giho-1952",
+    "nec_huboid": "100134586"
+  },
+  "pledges": [
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyangguguneul-01",
+      "title": "「국방수권법」 제정 – 군 통수권 행사에 민의를 반한 권한 행사 제한",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyangguguneul-02",
+      "title": "「군 유휴지 주변지역 발전 특별법」 제정 및 「접경지역지원특별법」 개정",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyangguguneul-03",
+      "title": "「인구소멸지역지원특별법」 제정 및 농산촌 공동화 방지 사업 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyangguguneul-04",
+      "title": "농축산물 군납 확대 및 1차 가공품 지역 조달",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyangguguneul-05",
+      "title": "강원도 맞춤형 스마트팜 첨단농업단지 조성 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyangguguneul-06",
+      "title": "동서고속화철도 조기 완공 등 SOC 확충",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyangguguneul-07",
+      "title": "강원도 규제 OUT 정책 실현",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyangguguneul-08",
+      "title": "농산촌 신산업 육성 및 일자리 창출",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-chuncheonsicheolwongunhwacheongunyangguguneul-09",
+      "title": "도내 대학생·청년 취업지원 면접수당 지급",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4201/003_100134586_20200414_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 강원 춘천시철원군화천군양구군을 당선인 한기호 (미래통합당). 책자형 선거공보 PDF 8쪽 「3선의 힘으로 이뤄내겠습니다!」 「공통공약」 9개. PDF 7쪽 춘천·철원·화천·양구 시군별 공약, PDF 9–10쪽 「2020 희망 약속」(감염병·농업·소상공인·군·교육 분야 정책), PDF 5–6쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,28 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-namdonggugap-21",
+  "candidate": {
+    "name": "맹성규",
+    "party_id": "deobureo-minjudang",
+    "person_id": "maeng-seonggyu-1962",
+    "nec_huboid": "100136967"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-namdonggugap-01",
+      "title": "교통중심남동",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-namdonggugap-02",
+      "title": "행복중심남동",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2805/003_100136967_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 남동구갑 당선인 맹성규 (더불어민주당). 책자형 선거공보 PDF 5쪽 「공약1」과 PDF 7쪽 「공약2」 제목 2개. OCR 결과라 쪽 이미지를 보고 옮겼다. 각 공약 아래 소제목(「철도를 통한 남동구 교통체계의 혁명적 변화」, ①–③ 보건 인프라 등)과 • 세부 항목, PDF 4·6·8쪽의 같은 공약 보충 면, PDF 9–10쪽 동별·분야별 공약 목록, PDF 2–3쪽 의정 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

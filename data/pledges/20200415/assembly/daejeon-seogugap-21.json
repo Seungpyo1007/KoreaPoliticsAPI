@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daejeon-seogugap-21",
+  "candidate": {
+    "name": "박병석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-byeongseok-1952",
+    "nec_huboid": "100137585"
+  },
+  "pledges": [
+    {
+      "id": "21-daejeon-seogugap-01",
+      "title": "대전·충청을 국가균형발전의 중심지로 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-daejeon-seogugap-02",
+      "title": "좋은 일자리 살기 좋은 대전 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-daejeon-seogugap-03",
+      "title": "서구가 대전 교통의 중심이 됩니다",
+      "page": 5
+    },
+    {
+      "id": "21-daejeon-seogugap-04",
+      "title": "삶의 질 더 높이겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogugap-05",
+      "title": "문화가 숨 쉬는 서구를 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogugap-06",
+      "title": "우리 아이들에 대한 지원을 확대하겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3003/003_100137585_20200415_4.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대전 서구갑 당선인 박병석 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「대전 발전의 든든한 힘」 펼침면의 단 제목 6개를 넣었다. OCR 글자가 섞여 있어 쪽 이미지를 보고 옮겼다. 단 제목 아래 색 글씨 대표 사업과 ■ 세부 항목, PDF 3쪽 계층별 정책, PDF 4쪽 국회 개혁 공약, PDF 7–10쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

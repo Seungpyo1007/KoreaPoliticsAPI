@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-ansansidanwongugap-21",
+  "candidate": {
+    "name": "고영인",
+    "party_id": "deobureo-minjudang",
+    "person_id": "go-yeongin-1963",
+    "nec_huboid": "100135146"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-ansansidanwongugap-01",
+      "title": "반월산업단지를 스마트산업 선도지로",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-ansansidanwongugap-02",
+      "title": "일자리는 늘리고! 지역상권은 살리고",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-ansansidanwongugap-03",
+      "title": "GTX-C노선 안산으로 연장",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansidanwongugap-04",
+      "title": "안산을 경기서남부 교통의 허브로",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansidanwongugap-05",
+      "title": "초지역세권을 안산의 중심으로",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansidanwongugap-06",
+      "title": "국제관광타운 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4119/003_100135146_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 안산시단원구갑 당선인 고영인 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「GO 영인 안산공약」 1–6의 제목 6개. OCR 텍스트라 쪽 이미지를 보고 옮겼다. 제목 아래 · 세부 항목, PDF 9쪽 분야별 생활 공약, PDF 10쪽 동별 공약, PDF 5–6쪽 상대 후보 비판은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

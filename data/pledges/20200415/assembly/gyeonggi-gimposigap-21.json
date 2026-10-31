@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-gimposigap-21",
+  "candidate": {
+    "name": "김주영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-juyeong-1961",
+    "nec_huboid": "100137185"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-gimposigap-01",
+      "title": "지하철 중심도시 김포",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gimposigap-02",
+      "title": "편리한 도로교통, 사통팔달 김포",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gimposigap-03",
+      "title": "해양레저 인프라가 좋은 관광도시 김포",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gimposigap-04",
+      "title": "미래성장동력이 살아난다, 성장도시 김포",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gimposigap-05",
+      "title": "아이 키우기 좋은 교육도시 김포",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gimposigap-06",
+      "title": "더 안전하고 깨끗한 청정도시 김포",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gimposigap-07",
+      "title": "의료와 보건 걱정 없는 안심도시 김포",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gimposigap-08",
+      "title": "생활의 품격이 있는 문화도시 김포",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gimposigap-09",
+      "title": "골목마다 활력과 좋은 일자리가 넘치는 경제도시 김포",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4139/003_100137185_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 김포시갑 당선인 김주영 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「빨라지는 김포!」「성장하는 김포!」 번호 제목 1–4와 PDF 7–8쪽 「시민이 행복한 김포 5대 비전」 1–5 제목, 모두 9개. 5대 비전 제목 앞의 분야 꼬리표(보육, 교육 / 안전, 환경 / 보건, 복지 / 문화, 체육 / 지역경제, 일자리)는 덜어냈다. 제목 아래 • 세부 항목, PDF 9–10쪽 동별 공약, PDF 3–4쪽 경력 소개는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

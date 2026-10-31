@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-gurisi-21",
+  "candidate": {
+    "name": "윤호중",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-hojung-1963",
+    "nec_huboid": "100136733"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-gurisi-01",
+      "title": "구리를 수도권 철도망 거점으로",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gurisi-02",
+      "title": "출퇴근 정체문제 해결·스마트교통체계 구축",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gurisi-03",
+      "title": "주차문제 해결, 거점 주차장 2,000면 추가 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gurisi-04",
+      "title": "핵심스마트시티·일자리 통합지원체계 구축",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gurisi-05",
+      "title": "도시재생사업·상권르네상스 프로젝트 시행",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gurisi-06",
+      "title": "구리시 감염병 예방체계 구축, 안전환경도시",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gurisi-07",
+      "title": "포용적 구리시대, 따뜻한 복지도시",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gurisi-08",
+      "title": "더불어 키우는 보육·교육도시",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gurisi-09",
+      "title": "문화가 흐르는 도시, 삶의 질 1등 구리시",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gurisi-10",
+      "title": "체육시설 대폭 확충, 시민건강 도시",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4125/003_100136733_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 구리시 당선인 윤호중 (더불어민주당). 책자형 선거공보 PDF 6쪽 「구리의 확실한 미래를 위한 10대 약속」 1–10 제목 10개. 제목 아래 / 로 나열한 세부 항목, PDF 7–8쪽 동별 공약, PDF 4–5쪽 확보 예산·지켜진 약속, PDF 9–10쪽 당 공약은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,73 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonbuk-jeonjusigap-21",
+  "candidate": {
+    "name": "김윤덕",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-yundeok-1966",
+    "nec_huboid": "100134742"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonbuk-jeonjusigap-01",
+      "title": "평화동 교도소 이전을 완전히 마무리 하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-jeonjusigap-02",
+      "title": "조선역사문화단지 조성, 제2의 전통문화 전주 전성기를 열겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-jeonjusigap-03",
+      "title": "소상공인 돕는 포용금융지원 전담기구를 설치하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-jeonjusigap-04",
+      "title": "노후가 즐거운 치매 걱정 없는 동네를 만들겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-jeonjusigap-05",
+      "title": "청년이 원하는 청년일자리, 청년 창업을 늘리겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-jeonjusigap-06",
+      "title": "아중호수를 친환경 관광단지로 조성하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-jeonjusigap-07",
+      "title": "노송동 천사회관을 건립하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-jeonjusigap-08",
+      "title": "중화산동에 문화센터와 노인복지센터 공간을 만들겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-jeonjusigap-09",
+      "title": "중앙동 주민 복합 커뮤니티센터를 건립하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-jeonjusigap-10",
+      "title": "반려동물 산업 육성하고 반려동물 전담기구를 설립하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-jeonjusigap-11",
+      "title": "장애인의 평생소원, 자립 ‘장애인 평생학교’를 열겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4501/003_100134742_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전북 전주시갑 당선인 김윤덕 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「내 삶을 바꾸는 정책, 김윤덕이 약속합니다!」 제목 11개(각 쪽 왼쪽 단부터 단별 위에서 아래 순). 글자층 순서가 섞여 있어 순서는 쪽 이미지를 따랐다. 제목 아래 설명, PDF 7–8쪽 동별 지난 성과, PDF 3–4쪽 코로나19 대응 글은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

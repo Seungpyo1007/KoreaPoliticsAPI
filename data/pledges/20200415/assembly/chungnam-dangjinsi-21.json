@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungnam-dangjinsi-21",
+  "candidate": {
+    "name": "어기구",
+    "party_id": "deobureo-minjudang",
+    "person_id": "eo-gigu-1963",
+    "nec_huboid": "100136656"
+  },
+  "pledges": [
+    {
+      "id": "21-chungnam-dangjinsi-01",
+      "title": "편리한 교통, 사통팔달 당진",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-dangjinsi-02",
+      "title": "당진시민의 건강을 지키는 쾌적한 환경",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-dangjinsi-03",
+      "title": "석탄화력 감축, 친환경 에너지 전환",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-dangjinsi-04",
+      "title": "일자리가 넘쳐나는 당진",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-dangjinsi-05",
+      "title": "활력 넘치는 원도심, 전통시장·소상공인·자영업자 사업 환경 개선",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-dangjinsi-06",
+      "title": "농어민 소득 증대 기반 조성",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-dangjinsi-07",
+      "title": "서해안의 으뜸 관광지, 찾아오는 당진",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-dangjinsi-08",
+      "title": "품격있는 역사와 문화의 도시",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-dangjinsi-09",
+      "title": "시민 모두가 안전한 당진",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-dangjinsi-10",
+      "title": "복지·의료·교육·문화 인프라 확충",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4416/003_100136656_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충남 당진시 당선인 어기구 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「당진시민과 함께 여당 재선의 큰 힘으로 만든 어기구의 약속! 반드시 해내겠습니다」 1–10 제목 10개. 제목 아래 • 세부 항목, PDF 4–6쪽 지난 성과·확보 사업, PDF 9쪽 당 공약은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

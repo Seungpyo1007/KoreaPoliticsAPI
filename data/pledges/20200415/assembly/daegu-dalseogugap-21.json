@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daegu-dalseogugap-21",
+  "candidate": {
+    "name": "홍석준",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "hong-seokjun-1966",
+    "nec_huboid": "100136327"
+  },
+  "pledges": [
+    {
+      "id": "21-daegu-dalseogugap-01",
+      "title": "성서산업단지를 디지털 메이커시티'로 변모 시키겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-daegu-dalseogugap-02",
+      "title": "화원에서 동촌까지 30km구간을 생태역사문화레저벨트로 구축하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-daegu-dalseogugap-03",
+      "title": "성서가 ‘교육문화도시’로 재탄생 합니다",
+      "page": 7
+    },
+    {
+      "id": "21-daegu-dalseogugap-04",
+      "title": "대중교통을 대폭 확충하여 주민편의를 도모하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-daegu-dalseogugap-05",
+      "title": "편안하고 안전한 주거환경을 조성하겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2707/003_100136327_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대구 달서구갑 당선인 홍석준 (미래통합당). 책자형 선거공보 PDF 5–8쪽 Project 1–4의 굵은 제목 5개(PDF 8쪽 Project 4 면은 제목이 둘이다). 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 ⦿ 세부 항목, PDF 9–10쪽 동별 공약, PDF 4쪽 지난 일한 내용은 넣지 않았다. 끝의 !·.만 덜어냈고, Project 1 제목의 짝 없는 따옴표(')는 원문대로 두었다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

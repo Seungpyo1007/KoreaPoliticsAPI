@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-eunpyeonggugap-21",
+  "candidate": {
+    "name": "박주민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-jumin-1973",
+    "nec_huboid": "100137581"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-eunpyeonggugap-01",
+      "title": "맑고 깨끗한 녹번천으로 복원하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-eunpyeonggugap-02",
+      "title": "서울혁신파크가 다시 태어납니다",
+      "page": 4
+    },
+    {
+      "id": "21-seoul-eunpyeonggugap-03",
+      "title": "새절역 초역세권화 드디어 실현됩니다",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-eunpyeonggugap-04",
+      "title": "광역복합환승센터를 건립하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-eunpyeonggugap-05",
+      "title": "교통체증 해결하고, 교통의 허브로 거듭납니다",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-eunpyeonggugap-06",
+      "title": "아이들이 행복한 은평으로 만들겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1112/003_100137581_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 은평구갑 당선인 박주민 (더불어민주당). 책자형 선거공보 PDF 3–8쪽 각 쪽의 큰 제목 6개. 번호 붙은 머리 목록이 없어 쪽마다 하나씩 있는 공약 제목을 넣었다. 큰 제목 위의 한 줄 구호(「역촌·응암·녹번 변화의 시작!」 등)와 아래 소제목·· 세부 항목, PDF 9쪽 마인드맵, PDF 10쪽 의정 활동과 당 공약, PDF 11쪽 지역 지도는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

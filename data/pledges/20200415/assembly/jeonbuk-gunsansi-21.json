@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonbuk-gunsansi-21",
+  "candidate": {
+    "name": "신영대",
+    "party_id": "deobureo-minjudang",
+    "person_id": "sin-yeongdae-1968",
+    "nec_huboid": "100134930"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonbuk-gunsansi-01",
+      "title": "현대중공업 군산조선소 재가동",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-02",
+      "title": "중앙공공기관 군산유치하여 군산을 제2혁신도시로",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-03",
+      "title": "전기차클러스터 구축 및 강소특구 지정으로 산업 생태계 다변화 추진",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-04",
+      "title": "새만금, 고군산, 근대역사지구를 잇는 국제적인 관광거점사업 추진",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-05",
+      "title": "군산 수산업 제2부흥시대 선도",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-06",
+      "title": "허리가 튼튼한 혁신, 경제가 살아나는 미래",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-07",
+      "title": "엄마와 아이가 행복한 미래",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-08",
+      "title": "꿈과 자유가 꿈꾸는 행복한 교육",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-09",
+      "title": "평등을 넘어서 함께 성장하는 복지",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-10",
+      "title": "문화예술관광이 함께 춤추는 희망 군산",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-11",
+      "title": "생산이 아름답고 시민이 잘 사는 군산",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-gunsansi-12",
+      "title": "새만금을 혁신 지구로 재설계 추진",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4503/003_100134930_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전북 군산시 당선인 신영대 (더불어민주당). 책자형 선거공보 PDF 8쪽 「신영대의 5대 경제살리기 전략」 1–5 제목 5개와 PDF 9–10쪽 「민생 공약 7대 전략 50대 과제」의 전략 제목 7개, 모두 12개(두 줄 제목은 이었다). OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목(50대 과제 포함), PDF 7쪽 현대중공업 재가동 설명 면, PDF 5–6쪽 군산 경제 현황과 활동, PDF 2–4쪽 인사말·약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

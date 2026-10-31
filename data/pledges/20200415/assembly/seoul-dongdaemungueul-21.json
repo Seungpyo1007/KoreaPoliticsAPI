@@ -1,0 +1,83 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-dongdaemungueul-21",
+  "candidate": {
+    "name": "장경태",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jang-gyeongtae-1983",
+    "nec_huboid": "100136804"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-dongdaemungueul-01",
+      "title": "청량리 복합환승센터 역세권 개발",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-02",
+      "title": "품격있는 도시 동대문",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-03",
+      "title": "행복안심 도시 동대문",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-04",
+      "title": "서울시립어린이병원 유치 추진",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-05",
+      "title": "젊은활력 도시 동대문",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-06",
+      "title": "주민소통 도시 동대문",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-07",
+      "title": "모빌리티 산업벨트 조성",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-08",
+      "title": "서울대표도서관 전문교육기관화",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-09",
+      "title": "동부권 교통중심 청량리",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-10",
+      "title": "전통과 현대를 잇는 신개념 문화상권 조성",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-11",
+      "title": "동부간선도로 지하화 수변공원 조성",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-12",
+      "title": "동대문 주거·문화르네상스",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-dongdaemungueul-13",
+      "title": "더 가깝고 더 편리한 생활환경",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1106/003_100136804_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 동대문구을 당선인 장경태 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 7–10쪽 분야별 공약의 굵은 제목 13개를 넣었다. OCR 결과라 쪽 이미지를 보고 옮겼다. 「모빌리티 산업벨트 조성」은 PDF 7쪽 하단 「모빌리티」와 8쪽 하단 「산업벨트 조성」이 두 쪽에 걸친 한 제목이라 이었다. 제목 아래 · 세부 항목, PDF 10쪽 「주민 불편 최소로, 주민 편의 최대로!」 동별 공약, PDF 6쪽 국회·정치 공약, PDF 5쪽 약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

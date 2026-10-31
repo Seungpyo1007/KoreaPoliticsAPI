@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-jinjusieul-21",
+  "candidate": {
+    "name": "강민국",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gang-minguk-1971",
+    "nec_huboid": "100136233"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-jinjusieul-01",
+      "title": "‘진주미래 100년의 먹거리’를 마련하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusieul-02",
+      "title": "더 풍요로운 ‘복지도시’를 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusieul-03",
+      "title": "문화·관광·체육산업을 육성하고, ‘쾌적한 도시환경’을 조성하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusieul-04",
+      "title": "세계와 경쟁하는 ‘강한농촌’을 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-jinjusieul-05",
+      "title": "‘교육도시 진주’의 자존심을 회복하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-jinjusieul-06",
+      "title": "‘원도심 활성화’를 추진하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-jinjusieul-07",
+      "title": "‘사통팔달의 교통망’을 확충하겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4803/003_100136233_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 진주시을 당선인 강민국 (미래통합당). 책자형 선거공보 PDF 5–6쪽 「진주부흥 '多Dream' 프로젝트 희망공약」 1–7의 제목 7개. 제목 아래 • 세부 항목과 - 설명, PDF 8쪽 동·면별 공약, PDF 3–4쪽 도의원 시절 성과, PDF 9쪽 코로나19 정부 비판은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

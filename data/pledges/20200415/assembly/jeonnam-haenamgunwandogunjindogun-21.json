@@ -1,0 +1,218 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonnam-haenamgunwandogunjindogun-21",
+  "candidate": {
+    "name": "윤재갑",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-jaegap-1955",
+    "nec_huboid": "100134641"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-01",
+      "title": "어린이 특별지구 조성",
+      "page": 3
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-02",
+      "title": "어린이 프로그램 센터 건립",
+      "page": 3
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-03",
+      "title": "국·공립 어린이집 전환 (OECD국가 평균 60% 수준)",
+      "page": 3
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-04",
+      "title": "유모차 & 어린이, 장애인 안전 인도 조성",
+      "page": 3
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-05",
+      "title": "어린이 응급 & 임산부 100원 택시 운영",
+      "page": 3
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-06",
+      "title": "어린이·청소년 진로상담센터 운영",
+      "page": 4
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-07",
+      "title": "관내 고등학교 특수 언어 교육반 신설",
+      "page": 4
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-08",
+      "title": "청소년 버스킹 거리 재정비",
+      "page": 4
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-09",
+      "title": "해남·완도·진도 역사 교과서 발간",
+      "page": 4
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-10",
+      "title": "청소년 커뮤니티 공간",
+      "page": 4
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-11",
+      "title": "여성 자기계발 지원 확대",
+      "page": 5
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-12",
+      "title": "여성 스포츠 및 취미 동호회 지원 확대",
+      "page": 5
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-13",
+      "title": "빅데이터 활용 중년 일자리 매칭 시스템 구축",
+      "page": 5
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-14",
+      "title": "중년 창업지원 사업 신설",
+      "page": 5
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-15",
+      "title": "장애인 이동권, 접근성 보장을 위한 이동지원센터 확대",
+      "page": 5
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-16",
+      "title": "장애인 관련 사회복지종사자 및 활동지원사 처우 개선",
+      "page": 5
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-17",
+      "title": "A.I.(인공지능)와 빅데이터를 활용한 헬스케어 시스템 구축",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-18",
+      "title": "고독사 방지를 위한 지역사회 안심 케어 시스템 확대",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-19",
+      "title": "어르신 공유 주택, 지역 요양원 확충",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-20",
+      "title": "치매안심센터 확충",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-21",
+      "title": "마을 공동체 특화 사업 조성",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-22",
+      "title": "대한민국 호국 관광특구 조성",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-23",
+      "title": "침미다례 마한 박물관 건립",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-24",
+      "title": "해남·완도·진도 관광정보 앱 개발",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-25",
+      "title": "해남·완도·진도 문화예술인복합교육지원센터 설립",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-26",
+      "title": "친환경 농축수산 유통저장단지 건립",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-27",
+      "title": "지역 특성화 면세점 유치",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-28",
+      "title": "합법적인 외국인 노동자 특구 조성",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-29",
+      "title": "농축수산물 글로벌 브랜드화(K-푸드) 개발",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-30",
+      "title": "국제항구 냉동 컨테이너 단지 조성",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-31",
+      "title": "농업의 '공익적 가치', '다원적 기능', '식량 주권 기본정신' 개헌 헌법 반영",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-32",
+      "title": "헌법 제121조, 경자유전의 원칙 전면적 실현",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-33",
+      "title": "통일대비 농축수산업 특구지정",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-34",
+      "title": "아열대 작물, 곤충 산업 육성 지원",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-35",
+      "title": "해남·완도·진도 수산자원 보호지역 완화",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-36",
+      "title": "해남·완도·진도 재해·재난대비 기금조성",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-37",
+      "title": "지역 중소기업 산업 단지 조성",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-38",
+      "title": "해남·완도·진도 KTX 및 지역 철도 사업비 확보",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-39",
+      "title": "완도국제무역항(전남 지역 농축수산물 對일본 수출입 전용) 구축",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-haenamgunwandogunjindogun-40",
+      "title": "진도국제무역항(전남 지역 농축수산물 對중국 수출입 및 중국인 관광객) 조기완공",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4618/003_100134641_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전남 해남군완도군진도군 당선인 윤재갑 (더불어민주당). 책자형 선거공보 PDF 3–8쪽 분야별(어린이·청소년·여성·중년·장애인·어르신·관광·농축수산·SOC) 갈색 제목 40개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 머리 공약 목록이 따로 없어 분야 제목을 넣었다. 쪽 위 큰 구호와 파란 띠 문구, 제목 아래 · 세부 항목, PDF 4쪽 원 안의 한부모·미혼모 양육 법 제정, PDF 9–10쪽 군별(해남·완도·진도) · 목록은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

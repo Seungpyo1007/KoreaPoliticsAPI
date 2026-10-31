@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-dongdaemungugap-21",
+  "candidate": {
+    "name": "안규백",
+    "party_id": "deobureo-minjudang",
+    "person_id": "an-gyubaek-1961",
+    "nec_huboid": "100137155"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-dongdaemungugap-01",
+      "title": "청량리역 르네상스, 복합환승센터 구축",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-dongdaemungugap-02",
+      "title": "상습정체 해소, 동부간선도로 지하화",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-dongdaemungugap-03",
+      "title": "시민의 발, 동북·강북·면목선 적기 추진",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-dongdaemungugap-04",
+      "title": "강남까지 10분, 분당선 운행 대폭확대",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-dongdaemungugap-05",
+      "title": "여의도까지 10분, GTX-B/C 조속착공",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-dongdaemungugap-06",
+      "title": "전국이 반나절, 수서발 고속철도 유치",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1106/003_100137155_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 동대문구갑 당선인 안규백 (더불어민주당). 책자형 선거공보 PDF 5–6쪽에 걸친 「사통팔달 동대문」 머리 공약 제목 6개. 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 5–7쪽 분야별(활력경제·명품도시·행복도시·안심교육 동대문) 체크 항목과 동별 공약, PDF 8쪽 당 공약, PDF 2–4쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

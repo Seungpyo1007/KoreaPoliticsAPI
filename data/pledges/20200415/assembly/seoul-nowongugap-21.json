@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-nowongugap-21",
+  "candidate": {
+    "name": "고용진",
+    "party_id": "deobureo-minjudang",
+    "person_id": "go-yongjin-1964",
+    "nec_huboid": "100136437"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-nowongugap-01",
+      "title": "광운대역세권 개발 대기업 유치로 날개를",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-nowongugap-02",
+      "title": "한전연수원 부지 이전해 주민의 품으로",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-nowongugap-03",
+      "title": "동부간선도로 지하화 생태수변공원 조성",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-nowongugap-04",
+      "title": "경춘선숲길 업그레이드 철도공원–문화관광벨트화",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1111/003_100136437_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 노원구갑 당선인 고용진 (더불어민주당). 책자형 선거공보 PDF 7쪽 「월계 공릉 전성시대」 아래 PDF 8쪽 공약 제목 4개(왼쪽 단, 오른쪽 단 순, 두 줄 제목은 이었다). 제목 아래 · 세부 항목, PDF 9–10쪽 「고용진은 합니다」의 월계동·공릉동 약속과 민생약속, PDF 5–6쪽 「성과로 말합니다」는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

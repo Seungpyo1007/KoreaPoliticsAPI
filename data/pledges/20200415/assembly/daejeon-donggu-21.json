@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daejeon-donggu-21",
+  "candidate": {
+    "name": "장철민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jang-cheolmin-1983",
+    "nec_huboid": "100134631"
+  },
+  "pledges": [
+    {
+      "id": "21-daejeon-donggu-01",
+      "title": "대전 혁신도시 동구 유치",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-donggu-02",
+      "title": "대전의료원 건립",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-donggu-03",
+      "title": "대전선 숲길 공원 조성",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-donggu-04",
+      "title": "미래형 명품 주거도시 완성",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-donggu-05",
+      "title": "대전 경제혁신의 중심 동구",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3001/003_100134631_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대전 동구 당선인 장철민 (더불어민주당). 책자형 선거공보 PDF 4쪽(펼침면) 「인구 30만 동구, 모든 것이 달라집니다」의 파란 제목 5개(왼쪽 단, 오른쪽 단 순). 제목 아래 부제와 ● 세부 항목, PDF 5쪽 감염병 대응 약속, PDF 6쪽 「더불어 사는 세상을 위한 장철민의 약속」(전국 단위 정책)은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

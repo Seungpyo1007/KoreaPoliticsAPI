@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-gimcheonsi-21",
+  "candidate": {
+    "name": "송언석",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "song-eonseok-1963",
+    "nec_huboid": "100137462"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-gimcheonsi-01",
+      "title": "사통팔달 김천",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gimcheonsi-02",
+      "title": "미래먹거리 완성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gimcheonsi-03",
+      "title": "삶의 질 향상, 인프라 확충",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gimcheonsi-04",
+      "title": "농업 성공, 도농 상생",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gimcheonsi-05",
+      "title": "여가산업의 新중심지",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4705/003_100137462_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 김천시 당선인 송언석 (미래통합당). 책자형 선거공보 PDF 9쪽 「김천의 도약!」 분야 제목 5개(왼쪽 단, 오른쪽 단 순). 제목 아래 ❶❷ 세부 문장, PDF 10쪽 「정권교체의 선봉!」 1–5(전국 단위 공약), PDF 3쪽 남부내륙철도 등 추진 경과와 확보 예산, PDF 4–8쪽 의정 활동과 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

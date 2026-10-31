@@ -1,0 +1,83 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daegu-suseonggugap-21",
+  "candidate": {
+    "name": "주호영",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "ju-hoyeong-1960",
+    "nec_huboid": "100137499"
+  },
+  "pledges": [
+    {
+      "id": "21-daegu-suseonggugap-01",
+      "title": "수성구 투기과열지구지정 해제 추진",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-02",
+      "title": "범어·만촌·황금동 1종 일반 주거지역 종 상향",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-03",
+      "title": "재개발·재건축 지원을 위한 전문가 자문단 운영",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-04",
+      "title": "개발제한구역(그린벨트) 합리적 해제",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-05",
+      "title": "전통시장 활성화 및 이용자 편의시설 강화",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-06",
+      "title": "40-50대 고용 지원을 위한 ‘40플러스일자리지원센터’ 건립",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-07",
+      "title": "도시철도 3호선 연장[범물-고산-신서혁신도시] 추진",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-08",
+      "title": "도시철도 엑스코선[수성구민운동장역-동대구역-동구 이시아폴리스] 추진",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-09",
+      "title": "범안삼거리-황금네거리 직선 도로 개설",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-10",
+      "title": "고산3동 주민센터-매호천 도로 차질없는 준공",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-11",
+      "title": "아이와 엄마의 휴식공간 ‘행복수성마더센터’ 설치",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-12",
+      "title": "수성구 ‘육아종합지원센터’ 조기 건립 추진",
+      "page": 10
+    },
+    {
+      "id": "21-daegu-suseonggugap-13",
+      "title": "반려동물 테마파크조성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2706/003_100137499_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대구 수성구갑 당선인 주호영 (미래통합당). 책자형 선거공보 PDF 10쪽 「행복한 대구·수성을 위한 공약」의 「공통공약」 13개. 둘째 항목 뒤 작은 글씨 괄호 설명은 덜어냈다. 같은 쪽 「권역별공약」, PDF 9쪽 「주호영 국가공약」, PDF 4쪽 미래통합당 공약, PDF 8쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

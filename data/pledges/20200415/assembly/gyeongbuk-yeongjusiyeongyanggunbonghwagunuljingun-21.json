@@ -1,0 +1,118 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-21",
+  "candidate": {
+    "name": "박형수",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "bak-hyeongsu-1965",
+    "nec_huboid": "100135067"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-01",
+      "title": "영주 첨단베어링산업 클러스터 조성",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-02",
+      "title": "서산-영주-봉화-울진간 중부권 동서횡단철도 건설",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-03",
+      "title": "2021 영주 세계풍기인삼엑스포 국비 투자 확대",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-04",
+      "title": "항공정비산업 신성장기반 구축",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-05",
+      "title": "국립인성교육진흥원 유치",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-06",
+      "title": "국도 31호선 직선화 공사",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-07",
+      "title": "영양고추 중심 토종농산물 6차 산업기반 구축",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-08",
+      "title": "환자긴급 이송체계 확립 및 준종합병원급 의료원 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-09",
+      "title": "수비면 자작나무 명품숲 관광자원화",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-10",
+      "title": "국립멸종위기종복원센터 교육관 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-11",
+      "title": "수목원 진입도로 확포장 공사",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-12",
+      "title": "백두대간 탐방로드 건설 (백두대간국립수목원 연계)",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-13",
+      "title": "종합산림휴양단지 조성 (백두대간국립수목원 연계)",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-14",
+      "title": "봉화한약우, 봉화사과 브랜드사업 확대 시행",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-15",
+      "title": "첨단기술을 응용한 스마트 농업기반 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-16",
+      "title": "포항-울진-삼척간 동해중부선철도 전철 복선화",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-17",
+      "title": "해양치유단지 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-18",
+      "title": "국제마리나항 개발과 연계한 해양리조트 건설",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-19",
+      "title": "\"원전 건설 취소 및 폐로지역 개발지원 특별법\" 제정",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-yeongjusiyeongyanggunbonghwagunuljingun-20",
+      "title": "신한울원전 3,4호기 건설 재개",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4708/003_100135067_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 영주시영양군봉화군울진군 당선인 박형수 (미래통합당). 책자형 선거공보 PDF 7–10쪽 「박형수 행복공약」 영주·영양·봉화·울진 시·군별 ▶ 공약 20개(쪽마다 5개). 공보 전체에 시·군별 목록 말고 따로 머리 공약 목록이 없어 이것을 넣었다. 시·군 표어(예: 영주 전략적 신산업 문화전통 중심도시)와 설명 문단, PDF 2–6쪽 인사·약력·활동 사진은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

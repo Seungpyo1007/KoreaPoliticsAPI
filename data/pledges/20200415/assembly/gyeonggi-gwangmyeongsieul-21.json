@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-gwangmyeongsieul-21",
+  "candidate": {
+    "name": "양기대",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yang-gidae-1962",
+    "nec_huboid": "100134816"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-gwangmyeongsieul-01",
+      "title": "광명·목동선 지하철 시대",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-gwangmyeongsieul-02",
+      "title": "감염병 관리 및 대응체계 강화",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-gwangmyeongsieul-03",
+      "title": "병원진료동행 서비스 추진",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-gwangmyeongsieul-04",
+      "title": "어린이·청소년 꿈터 조성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gwangmyeongsieul-05",
+      "title": "청년의 희망! 청년이 행복한 나라",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gwangmyeongsieul-06",
+      "title": "일자리가 넘치는 경제 활력 도시",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4114/003_100134816_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 광명시을 당선인 양기대 (더불어민주당). 책자형 선거공보 PDF 3–6쪽 「양기대의 약속 광명의 가치를 두배로!」 띠 제목 6개. 제목 아래 • 세부 항목과 소제목(어린이 과학관 건립 등), PDF 6쪽 「더불어민주당과 함께 하겠습니다」 당 공약, PDF 7–10쪽 광명시장 시절 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

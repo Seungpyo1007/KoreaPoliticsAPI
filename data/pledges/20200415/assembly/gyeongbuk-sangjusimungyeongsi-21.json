@@ -1,0 +1,128 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-sangjusimungyeongsi-21",
+  "candidate": {
+    "name": "임이자",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "im-ija-1964",
+    "nec_huboid": "100137523"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-01",
+      "title": "상주 고속철도 시대를 열겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-02",
+      "title": "상주시노인회관 신축을 앞당기겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-03",
+      "title": "상주문화예술회관 건립을 앞당기겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-04",
+      "title": "시립도서관 건립으로 문화수준을 향상시키겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-05",
+      "title": "도시재생사업을 안정적으로 마무리 하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-06",
+      "title": "한우 명품화사업을 추진하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-07",
+      "title": "상주보·낙단보를 지켜내겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-08",
+      "title": "도로 확포장 조속히 추진하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-09",
+      "title": "병선천을 친환경 수변생태공원으로 복원시키겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-10",
+      "title": "농생명치유복합단지를 조성하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-11",
+      "title": "관상어(漁)비즈니스센터 건립을 앞당겨 지역경제를 활성화시키겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-12",
+      "title": "중부내륙고속철도 조기완공으로 남부내륙선과의 연결망을 구축하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-13",
+      "title": "중부권 동서횡단철도 건설을 추진하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-14",
+      "title": "단산터널 공사를 추진하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-15",
+      "title": "보훈회관 신축으로 보훈가족에 대한 예우를 강화하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-16",
+      "title": "국립 산림레포츠진흥센터와 산림레포츠단지를 조성하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-17",
+      "title": "낙후지역에 생활문화센터를 조성하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-18",
+      "title": "국가지질공원 등재를 통해 문경의 브랜드 가치를 끌어올리겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-19",
+      "title": "업그레이드 문경새재! 문경의 대표 브랜드로 탈바꿈시키겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-20",
+      "title": "<돌리네습지>를 문경의 대표 관광명소로 탈바꿈시키겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-21",
+      "title": "도시재생 뉴딜사업을 추진해 도심의 활력을 불어넣겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-sangjusimungyeongsi-22",
+      "title": "진폐재해자의 복지 확대와 권익 신장에 앞장서겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4710/003_100137523_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 상주시문경시 당선인 임이자 (미래통합당). 책자형 선거공보 PDF 9쪽 「상주의 새로운 봄 임이자가 만들겠습니다」와 PDF 10쪽 「문경의 새로운 도약 임이자가 이뤄내겠습니다」의 제목 22개(각 쪽 왼쪽 단, 오른쪽 단 순). 제목 아래 설명, PDF 7–8쪽 「임이자의 행복 약속」·「임이자의 미래 약속」 분야별 정책(농업·일자리·보육·어르신 등 일반 정책), PDF 3–6쪽 의정 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

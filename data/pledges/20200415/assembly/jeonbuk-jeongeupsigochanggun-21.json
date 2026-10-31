@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonbuk-jeongeupsigochanggun-21",
+  "candidate": {
+    "name": "윤준병",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-junbyeong-1961",
+    "nec_huboid": "100134615"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-01",
+      "title": "최고의 소비시장 서울시에 특산물 상설매장 건립 추진",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-02",
+      "title": "농업피해보상의 제도적 보장 및 농정 제도정비, 공익수당 현실화",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-03",
+      "title": "고부 전봉준, 무장 손화중, 태인 김개남 장군 특화 정읍·고창 동학벨트 조성추진",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-04",
+      "title": "한빛원자력 발전소(영광) 안전성 강화 및 축산 악취 조사 해결",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-05",
+      "title": "부창대교 건설, 내장호(저수지) 국립공원 구역해제 추진",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-06",
+      "title": "유네스코 세계문화유산 사계절 관광특구 추진",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-07",
+      "title": "돈 되는 농·어·축 산업 육성",
+      "page": 7
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-08",
+      "title": "일자리 늘리는 지역전략산업 육성 및 기업 유치",
+      "page": 7
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-09",
+      "title": "정읍·고창 경제를 꽃피우는 관광시스템 구축",
+      "page": 7
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-10",
+      "title": "부창대교 건설 등 10년 묵은 지역 현안과제 해결",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-11",
+      "title": "어르신·여성·청년·다문화 가정·장애인 등의 복지시스템 강화",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-jeongeupsigochanggun-12",
+      "title": "자긍심을 키우는 문화·예술·교육·체육 진작",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4507/003_100134615_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전북 정읍시고창군 당선인 윤준병 (더불어민주당). 책자형 선거공보 PDF 4쪽 「지역 현안과제 시원하게 해결하겠습니다」 01–06과 PDF 7–8쪽 「정읍·고창 6대 발전공약」 공약 01–06, 제목 12개. OCR 결과라 쪽 이미지를 보고 옮겼다. 두 목록에 부창대교 등 겹치는 내용이 있으나 문구가 달라 모두 넣었다. 제목 아래 부제와 • 세부 항목, PDF 5–6쪽 읍·면·동별 지역현안, PDF 3쪽 지난 활동, PDF 10쪽 목표 수치는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-yeongdeungpogueul-21",
+  "candidate": {
+    "name": "김민석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-minseok-1964",
+    "nec_huboid": "100135281"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-yeongdeungpogueul-01",
+      "title": "정치일번지 숙의민주주의 일번지",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-yeongdeungpogueul-02",
+      "title": "안전한 삶 안정된 미래",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-yeongdeungpogueul-03",
+      "title": "미래경제 미래교육",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-yeongdeungpogueul-04",
+      "title": "남녀노소를 포용하는 나눔ㆍ섬김 공동체",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-yeongdeungpogueul-05",
+      "title": "여의도 대림 신길의 쾌적한 삶 역동적 환경",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1119/003_100135281_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 영등포구을 당선인 김민석 (더불어민주당). 책자형 선거공보 PDF 9쪽 「김민석과 함께 영등포의 미래가 달라집니다」 번호 1–5 분야 제목 5개(줄바꿈으로 나뉜 제목은 이었다). 각 분야의 그림 설명 공약과 PDF 10쪽에 이어지는 같은 형식의 세부 공약, PDF 3쪽 「4대 특별공약」(코로나 대응 전국 단위 공약), PDF 5–6쪽 약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

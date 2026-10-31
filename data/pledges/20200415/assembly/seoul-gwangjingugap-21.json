@@ -1,0 +1,148 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gwangjingugap-21",
+  "candidate": {
+    "name": "전혜숙",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeon-hyesuk-1955",
+    "nec_huboid": "100137525"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gwangjingugap-01",
+      "title": "관내 상업지역 확대",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-02",
+      "title": "최고고도지구 해제 및 종상향 문제 해결",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-03",
+      "title": "지역상권 경쟁력 강화",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-04",
+      "title": "시장 시설현대화 및 주차장 확보",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-05",
+      "title": "지역주도형 청년일자리 확충 및 사회적경제기업 육성",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-06",
+      "title": "노후 주민센터 신축",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-07",
+      "title": "대공연장 겸 다목적홀 공간 유치",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-08",
+      "title": "공영주차장 확충",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-09",
+      "title": "전선지중화사업 지속 추진",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-10",
+      "title": "문화가 있는 거리 조성",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-11",
+      "title": "어린이대공원 재조성, 아차산 둘레길 연장 및 정리",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-12",
+      "title": "시내버스 노선 신설 및 마을버스 증차",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-13",
+      "title": "에스컬레이터 추가 설치(군자역, 광나루역), 출입구 신설 및 정비(중곡역, 아차산역, 광나루역)",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gwangjingugap-14",
+      "title": "귀갓길 안심보장 강화",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-15",
+      "title": "주민 보행안전 강화",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-16",
+      "title": "통학로 교통안전 강화",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-17",
+      "title": "안전한 치안환경 구축",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-18",
+      "title": "수해 및 안전사고 예방",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-19",
+      "title": "열린육아방 확충",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-20",
+      "title": "육아종합지원센터 프로그램 내실화 및 환경개선 추진",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-21",
+      "title": "국공립·민간·가정어린이집에 대한 차별 없는 지원",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-22",
+      "title": "우리동네 키움센터 유치",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-23",
+      "title": "초·중·고교 무상교육 및 친환경무상급식 실시",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-24",
+      "title": "쾌적한 학교환경 조성",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-25",
+      "title": "작은도서관 도서 확보, 공공도서관 신설, 아차산 숲속도서관 조성",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gwangjingugap-26",
+      "title": "어린이대공원을 자연친화적 복합문화공간으로 재조성",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1105/003_100137525_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 광진구갑 당선인 전혜숙 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「행복 광진 시대」·「활짝 열겠습니다」의 분야별(광진발전 척척, 더 살기 좋은 광진구, 더 안전한 광진구, 아이들이 꿈을 키우는 행복한 광진구) 번호 공약 제목 26개. 각 항목에서 파란 글씨 제목만 넣고 : 뒤 설명은 넣지 않았다. PDF 7–8쪽 「국민과 함께」·「더 나은 미래」는 전국 단위 공약이라, PDF 3–4쪽 동별 확보 예산과 PDF 9–10쪽 의정 활동은 지난 성과라 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

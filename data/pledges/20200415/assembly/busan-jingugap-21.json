@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-jingugap-21",
+  "candidate": {
+    "name": "서병수",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "seo-byeongsu-1952",
+    "nec_huboid": "100137546"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-jingugap-01",
+      "title": "동서고가도로 철거",
+      "page": 5
+    },
+    {
+      "id": "21-busan-jingugap-02",
+      "title": "초읍선 설치",
+      "page": 5
+    },
+    {
+      "id": "21-busan-jingugap-03",
+      "title": "당감 글로벌 기업도시",
+      "page": 5
+    },
+    {
+      "id": "21-busan-jingugap-04",
+      "title": "아동전문 응급병원",
+      "page": 5
+    },
+    {
+      "id": "21-busan-jingugap-05",
+      "title": "부전복합환승센터",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2605/003_100137546_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산진구갑 당선인 서병수 (미래통합당). 책자형 선거공보 PDF 5쪽 「부울경 초광역 글로벌 기업도시로 재탄생합니다」 그림의 공약 이름표 5개. 이 쪽은 글자층이 없어 쪽 이미지를 보고 옮겼다. 이름표 아래 작은 설명, PDF 6쪽 「무너진 대한민국 재건!」 전국 공약과 「지역별 맞춤공약」 생활권별 공약, PDF 1–4쪽 인사말과 정권 비판은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

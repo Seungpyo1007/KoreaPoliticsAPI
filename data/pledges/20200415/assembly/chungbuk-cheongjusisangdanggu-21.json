@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungbuk-cheongjusisangdanggu-21",
+  "candidate": {
+    "name": "정정순",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeong-jeongsun-1958",
+    "nec_huboid": "100134650"
+  },
+  "pledges": [
+    {
+      "id": "21-chungbuk-cheongjusisangdanggu-01",
+      "title": "청년에게 희망의 사다리를 드리겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-cheongjusisangdanggu-02",
+      "title": "엄마에게 안심보육과 일자리를 드리겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-chungbuk-cheongjusisangdanggu-03",
+      "title": "안전한 세상을 만듭니다",
+      "page": 6
+    },
+    {
+      "id": "21-chungbuk-cheongjusisangdanggu-04",
+      "title": "농촌을 회생시키겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-chungbuk-cheongjusisangdanggu-05",
+      "title": "지역경제 · 도심 상권에 활력을 불어넣겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-chungbuk-cheongjusisangdanggu-06",
+      "title": "삶의 질을 높이겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-chungbuk-cheongjusisangdanggu-07",
+      "title": "후손의 도리를 다 하겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4301/003_100134650_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충북 청주시상당구 당선인 정정순 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「정정순의 ‘좋은 약속’」 분야 제목 7개를 넣었다. 청년 제목 아래 상자 「청년 도시 청주 1조원 프로젝트」와 ● 세부 항목, PDF 7–8쪽 동·면별 공약, PDF 9쪽 당 공약, PDF 3–4쪽 약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

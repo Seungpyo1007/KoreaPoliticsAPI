@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/ulsan-donggu-21",
+  "candidate": {
+    "name": "권명호",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gwon-myeongho-1961",
+    "nec_huboid": "100134681"
+  },
+  "pledges": [
+    {
+      "id": "21-ulsan-donggu-01",
+      "title": "동구 일감 지켜내겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-ulsan-donggu-02",
+      "title": "조선산업 활성화 방안 마련",
+      "page": 5
+    },
+    {
+      "id": "21-ulsan-donggu-03",
+      "title": "협력사 근로자 지원방안 마련하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-ulsan-donggu-04",
+      "title": "소상공인 보호·권익향상 대책 마련하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-ulsan-donggu-05",
+      "title": "대왕암공원 일대 힐링테마파크 건설",
+      "page": 6
+    },
+    {
+      "id": "21-ulsan-donggu-06",
+      "title": "동구 월드컵 스포츠테마파크 조성",
+      "page": 6
+    },
+    {
+      "id": "21-ulsan-donggu-07",
+      "title": "쇠평일원 산림문화단지 조성",
+      "page": 6
+    },
+    {
+      "id": "21-ulsan-donggu-08",
+      "title": "울산과학대학교 서부캠퍼스, 동부캠퍼스로 이전 통합",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3103/003_100134681_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 울산 동구 당선인 권명호 (미래통합당). 책자형 선거공보 PDF 5쪽 「동구경제 살리고 일자리 늘리겠습니다!」 첫째–넷째 제목 4개, PDF 6쪽 「동구를 최고의 관광명소로 만들겠습니다!」 제목 3개와 울산과학대학교 이전 통합 1개. 제목 아래 설명, PDF 5–6쪽 분홍 띠의 안전·청년·복지·입시·아이돌봄 항목(독감 예방접종 확대, 입시제도 개혁 등 당 공약과 겹치는 일반 정책), PDF 4쪽 구청장 시절 공약이행은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-mapogugap-21",
+  "candidate": {
+    "name": "노웅래",
+    "party_id": "deobureo-minjudang",
+    "person_id": "no-ungrae-1957",
+    "nec_huboid": "100137015"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-mapogugap-01",
+      "title": "문화·예술·관광의 중심 K-컬쳐밸리",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-mapogugap-02",
+      "title": "청년 창업의 메카",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-mapogugap-03",
+      "title": "강남에 버금가는 명품 교육도시",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-mapogugap-04",
+      "title": "더불어 행복한 마포 공감시대",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-mapogugap-05",
+      "title": "일하는 국회를 위한 정치혁신",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1114/003_100137015_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 마포구갑 당선인 노웅래 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「노웅래가 약속하는 5대 공약」 제목 5개. 제목 아래 ● 세부 항목, PDF 9–10쪽 동별 공약, PDF 3–6쪽 지난 성과와 확보 예산은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

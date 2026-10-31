@@ -1,0 +1,153 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-uijeongbusieul-21",
+  "candidate": {
+    "name": "김민철",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-mincheol-1967",
+    "nec_huboid": "100135589"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-uijeongbusieul-01",
+      "title": "대중교통 전면 재설계",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-02",
+      "title": "마을버스 준공영제 도입",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-03",
+      "title": "민락·고산지구 광역·시내버스 노선 증설",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-04",
+      "title": "민락·고산지구 경전철 연결",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-05",
+      "title": "영석고-용현산업단지, 민락-고산지구 연결도로",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-06",
+      "title": "지하철 8호선 연장",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-07",
+      "title": "지하철 7호선 문제해결을 위한 TF구성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-08",
+      "title": "종합고속버스터미널 및 도심공항터미널 신설",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-09",
+      "title": "GTX-C 조기착공, KTX수서발 연장",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-10",
+      "title": "도심 속 테마공원 신설 추진",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-11",
+      "title": "복합컨벤션센터 신설 추진",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-12",
+      "title": "민락 젊음의 거리 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-13",
+      "title": "반려동물 전용공원 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-14",
+      "title": "다목적 체육시설 확충",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-15",
+      "title": "주민복합문화센터",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-16",
+      "title": "복합문화융합단지 조성 지원",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-17",
+      "title": "공영주차장 확충",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-18",
+      "title": "청년신혼부부 행복주택",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-19",
+      "title": "경기북도 신설",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-20",
+      "title": "송산동 법조타운 건설",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-21",
+      "title": "용현산업단지 발전 방안 수립",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-22",
+      "title": "국가주도산업단지 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-23",
+      "title": "나리벡시티 조성지원",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-24",
+      "title": "도시농민 문화센터 건립추진",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-25",
+      "title": "미래형 최첨단 학교 구축",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-26",
+      "title": "의정부 학군 2개로 조정",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-uijeongbusieul-27",
+      "title": "자율학기제 연계 현장체험 운영",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4108/003_100135589_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 의정부시을 당선인 김민철 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「경기북부 중심도시 의정부를 위한 6가지 약속!」 01 교통–06 교육 아래 ● 굵은 제목 27개. 분야 표제(더 편한 출근길, 더 빠른 퇴근길 등)는 구호라 넣지 않았다. 각 제목 아래 설명 줄, PDF 10쪽 동별 공약, PDF 5–8쪽 국회개혁·경제·안전·복지 등 전국 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

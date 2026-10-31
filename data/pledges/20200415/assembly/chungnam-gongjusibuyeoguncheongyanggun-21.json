@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungnam-gongjusibuyeoguncheongyanggun-21",
+  "candidate": {
+    "name": "정진석",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "jeong-jinseok-1960",
+    "nec_huboid": "100137134"
+  },
+  "pledges": [
+    {
+      "id": "21-chungnam-gongjusibuyeoguncheongyanggun-01",
+      "title": "충남혁신도시 지정 및 공공기관 이전 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-gongjusibuyeoguncheongyanggun-02",
+      "title": "충남권 잡(JOB)월드 유치",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-gongjusibuyeoguncheongyanggun-03",
+      "title": "‘백제 여행의 시작’ KTX공주역세권 개발",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-gongjusibuyeoguncheongyanggun-04",
+      "title": "부여~청양~공주를 잇는 충청산업문화철도 건설",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-gongjusibuyeoguncheongyanggun-05",
+      "title": "평택~청양~부여~익산을 잇는 서부내륙고속도로 건설 보령~청양~공주~울진 간 동서5축 고속도로 건설 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-gongjusibuyeoguncheongyanggun-06",
+      "title": "지역 농산물의 안정적 생산 및 판로 개척",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-gongjusibuyeoguncheongyanggun-07",
+      "title": "세계유산권역 주민 생활불편 해소 및 재산권보호",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-gongjusibuyeoguncheongyanggun-08",
+      "title": "공주·부여·청양 ‘청년발전위원회’ 발족",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-gongjusibuyeoguncheongyanggun-09",
+      "title": "아이들의 꿈이 자라는 공주·부여·청양",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-gongjusibuyeoguncheongyanggun-10",
+      "title": "생활체육 스포츠 단지 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4402/003_100137134_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충남 공주시부여군청양군 당선인 정진석 (미래통합당). 책자형 선거공보 PDF 8쪽 「정진석과 함께 하는 10대 진심 공약」 진심1–10 제목 10개. 글자층의 번호 순서가 섞여 있어 쪽 이미지 순서를 따랐다. 진심2 뒤 작은 글씨 괄호 설명은 덜어냈고, 진심5는 두 줄을 이었다. 제목 아래 • 세부 항목, PDF 9–10쪽 부여·청양·공주 지역별 공약, PDF 7쪽 「2020 민심 공약」(당 공약), PDF 5쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

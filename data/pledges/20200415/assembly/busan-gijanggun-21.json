@@ -1,0 +1,108 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-gijanggun-21",
+  "candidate": {
+    "name": "정동만",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "jeong-dongman-1965",
+    "nec_huboid": "100135686"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-gijanggun-01",
+      "title": "지역기술인재 양성을 위한 전문교육기관 유치(국립 방사선 의·과학대학 등)",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-02",
+      "title": "자연친화적 어린이 종합 놀이시설 확충",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-03",
+      "title": "3자녀 이상 다자녀 국가장학금 지급확대",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-04",
+      "title": "청년 및 신혼부부 주거확대",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-05",
+      "title": "만65세 이상 어르신 임플란트 건강보험 적용 2개에서 4개로 확대",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-06",
+      "title": "반려동물 진료비 부담 경감 위한 진료비 표준화 및 세제해택",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-07",
+      "title": "의료·휴양 관광벨트 조성 및 서비스 신산업 육성",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-08",
+      "title": "탈원전 정책 폐기와 안전이 담보된 투명한 원전 운영",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-09",
+      "title": "최저임금의 업종별, 규모별 구분 적용 추진(최저임금법 개정)",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-10",
+      "title": "광역연결 교통망(정관선, 기장선 등) 및 노선버스 확충",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-11",
+      "title": "지하철 2호선 해운대 장산역-동부산관광단지-기장 연장 조속 추진",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-12",
+      "title": "기장읍성 사적형 공원으로 복원 및 문화관광형 전통시장 활성화",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-13",
+      "title": "여성의 능력개발과 복지증진을 위한 여성회관 건립",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-14",
+      "title": "데이트 폭력 및 디지털 성범죄 등 예방을 위한 특별법 제정",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-15",
+      "title": "임산부 택시비(교통비) 지원 및 바우처 금액 상향",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-16",
+      "title": "기장군 감염병 대응 인프라 확충(동남권원자력의학원 음압병실, 구급차 등)",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-17",
+      "title": "민관 원전안전관리·지진방재 대책 수립",
+      "page": 4
+    },
+    {
+      "id": "21-busan-gijanggun-18",
+      "title": "감염병 확산에 대비한 비상 계획 수립 및 대비 훈련 실시",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2610/003_100135686_20200415_4.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 기장군 당선인 정동만 (미래통합당). 책자형 선거공보 PDF 4쪽 「기장발전을 위한 정동만의 6대 시책」. 분야 이름(교육, 복지, 경제 일자리, 교통 문화, 청소년 여성, 환경 안전)만 있고 제목 줄이 따로 없어 분야마다 붙은 · 항목 18개를 넣었다(두 줄 항목은 이었다). PDF 5–9쪽 읍·면별 공약(기장읍, 정관읍, 장안·일광·철마), PDF 10쪽 당 정권심판 내용은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

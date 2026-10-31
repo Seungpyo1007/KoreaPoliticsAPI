@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungnam-hongseonggunyesangun-21",
+  "candidate": {
+    "name": "홍문표",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "hong-munpyo-1947",
+    "nec_huboid": "100137597"
+  },
+  "pledges": [
+    {
+      "id": "21-chungnam-hongseonggunyesangun-01",
+      "title": "예산ㆍ홍성 KTX 고속철도건설, 서울(용산) 40분대 진입",
+      "page": 2
+    },
+    {
+      "id": "21-chungnam-hongseonggunyesangun-02",
+      "title": "혁신도시건설, 공공기관 15~20개 이전 유치",
+      "page": 2
+    },
+    {
+      "id": "21-chungnam-hongseonggunyesangun-03",
+      "title": "내포종합병원 유치",
+      "page": 2
+    },
+    {
+      "id": "21-chungnam-hongseonggunyesangun-04",
+      "title": "KBS 내포방송국 / 충남교통방송국 설치",
+      "page": 2
+    },
+    {
+      "id": "21-chungnam-hongseonggunyesangun-05",
+      "title": "수도권전철 신창역 → 예산ㆍ홍성역까지 연장추진",
+      "page": 2
+    },
+    {
+      "id": "21-chungnam-hongseonggunyesangun-06",
+      "title": "내포 버스복합터미널 건설",
+      "page": 2
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4413/003_100137597_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충남 홍성군예산군 당선인 홍문표 (미래통합당). 책자형 선거공보 PDF 2쪽 「변화와 개혁!」 공약 1–6의 제목 6개. 제목 아래 ● 설명, PDF 9–10쪽 「홍문표의 실천공약」 약속 1–4의 번호 항목(약속 1이 이 6개와 겹치고, 약속 2·3은 예산군·홍성군별, 약속 4는 노인·농민 대상 전국 정책), PDF 6–8쪽 확보 예산과 성과, PDF 4쪽 입법 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

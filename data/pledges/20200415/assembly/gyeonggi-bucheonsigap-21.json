@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-bucheonsigap-21",
+  "candidate": {
+    "name": "김경협",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-gyeonghyeop-1962",
+    "nec_huboid": "100136410"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-bucheonsigap-01",
+      "title": "사통팔달 광역교통망의 중심",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-bucheonsigap-02",
+      "title": "도시재생·스마트 시티",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-bucheonsigap-03",
+      "title": "첨단산업의 심장, 부천",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-bucheonsigap-04",
+      "title": "국가 지정 문화도시 부천",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4145/003_100136410_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 부천시갑 당선인 김경협 (더불어민주당). 책자형 선거공보 PDF 3–4쪽 「김경협의 부천발전 4대비전」 01–04 제목 4개. 제목 아래 굵은 소항목과 • 세부 항목, 쪽 아래 「김경협의 민생입법」 띠, PDF 5–6쪽 동별 완료·진행 사업, PDF 7쪽 코로나 대응, PDF 8쪽 「민생경제 전문가 김경협의 약속」 생활경제 항목, PDF 10쪽 국가 비전은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

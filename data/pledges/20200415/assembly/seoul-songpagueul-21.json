@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-songpagueul-21",
+  "candidate": {
+    "name": "배현진",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "bae-hyeonjin-1983",
+    "nec_huboid": "100134639"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-songpagueul-01",
+      "title": "文정권이 급격히 올린 보유세 조정 추진",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-songpagueul-02",
+      "title": "재건축은 쉽고 빠르게",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-songpagueul-03",
+      "title": "보육·교육환경 개선",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-songpagueul-04",
+      "title": "탄천 동측도로 지하화, 지상공원 계속 추진",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-songpagueul-05",
+      "title": "송파주민이 즐거운 송파체육시설",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-songpagueul-06",
+      "title": "석촌호수~백제고분 명소화",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-songpagueul-07",
+      "title": "든든하고 살기좋은 송파",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1124/003_100134639_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 송파구을 당선인 배현진 (미래통합당). 책자형 선거공보 PDF 7–10쪽 「배현진의 송파 Dream Project」 4개 분야(경제활력·따뜻한 맘·매력송파·안전송파 드림)의 하나·둘·셋 번호 제목 7개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 · 세부 항목과 PDF 7쪽 신문 기사 인용은 넣지 않았다. 「재건축은 쉽고 빠르게!」는 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

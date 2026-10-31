@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-seochogugap-21",
+  "candidate": {
+    "name": "윤희숙",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "yun-huisuk-1970",
+    "nec_huboid": "100137518"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-seochogugap-01",
+      "title": "부동산세 부담 완화",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seochogugap-02",
+      "title": "재건축 활성화",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seochogugap-03",
+      "title": "경부고속도로 지하화",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seochogugap-04",
+      "title": "육아·교육 1번지! 서초",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seochogugap-05",
+      "title": "활기찬 노후! 건강한 서초",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seochogugap-06",
+      "title": "친환경과 문화의 선두! 서초",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1122/003_100137518_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 서초구갑 당선인 윤희숙 (미래통합당). 책자형 선거공보 PDF 6쪽 「서초 발전 윤희숙에게 맡겨주십시오!」 01–06 제목 6개. 제목 아래 설명 문장, PDF 5쪽 「대한민국 경제 윤희숙이 바로 잡겠습니다!」 1–5(전국 경제 공약), PDF 3–4쪽 정부 비판은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

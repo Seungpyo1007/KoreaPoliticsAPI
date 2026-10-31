@@ -1,0 +1,93 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-21",
+  "candidate": {
+    "name": "김희국",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-huiguk-1958",
+    "nec_huboid": "100137737"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-01",
+      "title": "대구경북특별자치도 추진",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-02",
+      "title": "국도 28호선 4차선 확장 사업",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-03",
+      "title": "통합 신공항 및 배후 도시 건설",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-04",
+      "title": "미래농업 육성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-05",
+      "title": "통합 신공항 및 주변 지역 개발",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-06",
+      "title": "군위-의성 국도 28호선 개선",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-07",
+      "title": "서의성IC-신도청 간 4차선 도로 건설",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-08",
+      "title": "세포배양혈청 생산기지 구축",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-09",
+      "title": "청송 스마트팜 연구단지 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-10",
+      "title": "공공기관·기업연수원 유치",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-11",
+      "title": "안덕지구 지질에코공원 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-12",
+      "title": "동서 횡단 철도 건설(전주~영덕 간)",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-13",
+      "title": "에너지 산업 융복합 단지 지정",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-14",
+      "title": "국립 동해안 해양생물 연구센터 건립",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-gunwigunuiseongguncheongsonggunyeongdeokgun-15",
+      "title": "해안 지구 연안 정비사업",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4719/003_100137737_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 군위군의성군청송군영덕군 당선인 김희국 (미래통합당). 책자형 선거공보 PDF 9–10쪽 「일 할 줄 아는 김희국은 지역 발전을 위해 제대로 해냅니다!」의 공통 제목 「경상북도, 대구시와 함께 대구경북특별자치도 추진」 1개와 군 단위(군위·의성·청송·영덕) ■ 제목 14개(군위, 의성, 청송, 영덕 순)를 넣었다. 제목 아래 설명 글, PDF 5–8쪽 군별 다짐 글, PDF 3–4쪽 지난 의정 활동은 넣지 않았다. 앞의 「경상북도, 대구시와 함께」를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,208 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-geojesi-21",
+  "candidate": {
+    "name": "서일준",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "seo-iljun-1965",
+    "nec_huboid": "100134987"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-geojesi-01",
+      "title": "거제경제자유구역청 신설",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-geojesi-02",
+      "title": "대우조선 불공정 매각 반대",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-geojesi-03",
+      "title": "노동자·회사·국회의원 참여 정례 간담회 개최",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-geojesi-04",
+      "title": "거가대교 통행료 대폭 인하",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-geojesi-05",
+      "title": "남부내륙고속철도(KTX) 조기착공",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-geojesi-06",
+      "title": "가덕신공항 유치 적극 지원",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-geojesi-07",
+      "title": "편리한 도로교통망 구축",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-geojesi-08",
+      "title": "아주·상문동 송전탑 지중화",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-geojesi-09",
+      "title": "국립공원 구역·수자원 보호구역·도시공원 구역 합리적 재조정",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-geojesi-10",
+      "title": "종합병원 산과 부활 지원",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-11",
+      "title": "임산부 택시비(교통비·주유비) 지원, 바우처 금액 인상",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-12",
+      "title": "24시간·365일 긴급 아이돌봄센터 설립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-13",
+      "title": "국공립어린이집 내실화 및 민간(가정)어린이집 지원 확대",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-14",
+      "title": "사립유치원 부모부담금 지원 강화",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-15",
+      "title": "어린이도서관 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-16",
+      "title": "상문동지역 중학교 신설",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-17",
+      "title": "고등학교 신설 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-18",
+      "title": "청소년 공공예술센터(공연장) 설치",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-19",
+      "title": "문화놀이센터 설치",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-20",
+      "title": "공공도서관 확충 (아주동 시립도서관 건립)",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-21",
+      "title": "청소년 및 교직원 위한 상담치료센터 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-22",
+      "title": "등·하교 시 대중교통 이용 편의성 증대",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-23",
+      "title": "진로직업체험지원센터 신설",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-24",
+      "title": "생활밀착형 국민체육센터 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-25",
+      "title": "거제문화원 신축",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-26",
+      "title": "반려동물 놀이공원 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-geojesi-27",
+      "title": "장애인복지회관 건립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-28",
+      "title": "장애인 문화·예술센터 건립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-29",
+      "title": "장애인 평생교육기관 설립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-30",
+      "title": "무장애 관광지 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-31",
+      "title": "장애인 콜택시 증차",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-32",
+      "title": "여성일자리센터 설립 및 관리시스템 구축",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-33",
+      "title": "노인복지회관 건립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-34",
+      "title": "지자체사업 지역청년 할당제 도입",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-35",
+      "title": "조선소 직영 직원과 협력사 직원 간 임금격차 해소",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-36",
+      "title": "농어업인 세제혜택 연장",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-37",
+      "title": "농어업인·서민 목돈마련저축 대상 확대 및 한도 상향",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-geojesi-38",
+      "title": "다문화가정 및 저소득계층을 위한 방과 후 학교 개설",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4810/003_100134987_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 거제시 당선인 서일준 (미래통합당). 머리 공약 목록이 없어 책자형 선거공보 PDF 3쪽 「거제를 안다! 경제를 안다!」의 제목 1개와 PDF 7–9쪽 분야별(「힘내라! 거제!」, 「시민이 풍요롭고, 아이가 행복한 도시!」, 「살고 싶은 거제! 살맛 나는 시민!」) 굵은 제목 줄 37개, 모두 38개를 넣었다. 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 3–4쪽 유치업종·파급효과 - 항목, PDF 7쪽 제목 아래 • 세부 항목, PDF 5–6쪽 읍·면·동 공약, PDF 10쪽 경력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

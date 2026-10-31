@@ -1,0 +1,168 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-gwangjusigap-21",
+  "candidate": {
+    "name": "소병훈",
+    "party_id": "deobureo-minjudang",
+    "person_id": "so-byeonghun-1954",
+    "nec_huboid": "100136073"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-gwangjusigap-01",
+      "title": "수서~광주 복선전철 조기 착공",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-02",
+      "title": "태전역 신설 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-03",
+      "title": "더 빠르게, 더 안전하게 : 도로환경개선",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-04",
+      "title": "광주~서울 광역버스 노선 추가 신설",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-05",
+      "title": "대중교통 소외지역 해소",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-06",
+      "title": "우리동네 쌈지주차장 및 공영주차장 확충",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-07",
+      "title": "노인보호구역 확대 및 안전시설 강화",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-08",
+      "title": "어린이보호구역 개선 및 통학로 안전시설 강화",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-09",
+      "title": "여성이 안전한 골목길 조성",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-10",
+      "title": "주민 청소년 문화예술 향유공간 확충",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-11",
+      "title": "생활체육 저변 확산을 위한 체육공간 확충",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-12",
+      "title": "문화예술인 및 생활체육인 지원 확대",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-13",
+      "title": "분원 도요지 종합정비 추진 및 도예인 지원 확대",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-14",
+      "title": "남한산성 역사문화관 조성 및 주민지원사업 확대",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-15",
+      "title": "도시재생 확대 및 생태하천 복원",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-16",
+      "title": "자연휴양림 조성 및 등산로 정비",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-17",
+      "title": "송정동 군부대 이전 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-18",
+      "title": "백세인생 어르신 편의공간 확충",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-19",
+      "title": "장애인을 위한 복지관 및 체육시설 확충",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-20",
+      "title": "아이 키우기 좋은 환경 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-21",
+      "title": "청년 신혼부부 주거공간 확충",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-22",
+      "title": "상수도 및 도시가스 소외지역 해소",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-23",
+      "title": "상수원 규제 개선 및 주민 지원 확대",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-24",
+      "title": "삼동 첨단산업단지 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-25",
+      "title": "행복한 골목상권을 위한 소상공인 지원 확대",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-26",
+      "title": "청년혁신 창업지원 및 지역 일자리 확대",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-27",
+      "title": "지역기업 및 농업인 경쟁력 강화 지원",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-28",
+      "title": "학교 신설로 학급과밀화 해소",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-29",
+      "title": "교육여건 향상을 위한 학교환경 개선",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-gwangjusigap-30",
+      "title": "혁신교육프로그램 지원 확대",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4140/003_100136073_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 광주시갑 당선인 소병훈 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「광주발전을 위한 소병훈의 좋은 약속」의 분야별(교통·안전·문화체육·도시정비환경·복지·경제·교육) • 제목 30개(각 쪽 왼쪽 단, 오른쪽 단 순). PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 분야 머리의 「~광주를 만들겠습니다」 구호, • 아래 - 세부 항목, PDF 5–6쪽 읍·면·동별 지난 4년 사업, PDF 9쪽 법안 실적은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

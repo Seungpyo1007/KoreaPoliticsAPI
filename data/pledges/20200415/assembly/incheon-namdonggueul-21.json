@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-namdonggueul-21",
+  "candidate": {
+    "name": "윤관석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-gwanseok-1960",
+    "nec_huboid": "100137460"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-namdonggueul-01",
+      "title": "GTX-B",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-namdonggueul-02",
+      "title": "제2경인선",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-namdonggueul-03",
+      "title": "인천2호선 연장",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-namdonggueul-04",
+      "title": "서창~김포 지하 고속도로",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-namdonggueul-05",
+      "title": "청년이 꿈꾸는 희망도시",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-namdonggueul-06",
+      "title": "살기좋고 걷기좋은 안심도시",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-namdonggueul-07",
+      "title": "아이가 행복한 교육도시",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-namdonggueul-08",
+      "title": "모두가 행복한 복지도시",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-namdonggueul-09",
+      "title": "공공 지역의료가 튼튼한 안전도시",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2805/003_100137460_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 남동구을 당선인 윤관석 (더불어민주당). 책자형 선거공보 PDF 6쪽 「교통혁명의 중심 남동과 인천의 내일을 준비하고 있습니다」 교통사업 4개와 PDF 7쪽 「남동의 내일을 여는 윤관석의 비전」 5대 도시 제목 5개. PDF 6쪽은 「시청 → 여의도 20분 시대!」 같은 구호 줄 대신 각 줄에 붙은 사업명 표지를 제목으로 옮겼다. 각 분야 아래 문장, PDF 8쪽 동별 공약, PDF 3–4쪽 확보 예산 목록은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

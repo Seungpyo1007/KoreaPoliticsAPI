@@ -1,0 +1,93 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-seongbukgueul-21",
+  "candidate": {
+    "name": "기동민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gi-dongmin-1966",
+    "nec_huboid": "100136215"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-seongbukgueul-01",
+      "title": "동북선 도시철도 안정적 개통",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-02",
+      "title": "강북횡단선 조기사업화 추진",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-03",
+      "title": "월곡IC 하향램프 완공",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-04",
+      "title": "성북 문화예술회관 건립",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-05",
+      "title": "서울 시민청 건립",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-06",
+      "title": "월곡 복합문화 체육시설 건립",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-07",
+      "title": "클라시아 부지 내 초등학교 건립 추진",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-08",
+      "title": "신월곡1구역(88번지) 도시환경정비 사업 지원",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-09",
+      "title": "석관동 재활용 선별장 현대화 사업 완공",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-10",
+      "title": "월곡동 숭곡시장 철거 및 공영주차장 건립",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-11",
+      "title": "석관동/장위동 일대 공영주차장 적극 추진",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-12",
+      "title": "장위 재정비촉진지구 내 돌곶이로 확장",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-13",
+      "title": "우리동네 키움센터(방과후 돌봄) 유치",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-14",
+      "title": "돌봄SOS센터(어르신 통합돌봄) 유치",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-seongbukgueul-15",
+      "title": "성북 심리지원센터 건립 추진",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1108/003_100136215_20200415_6.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 성북구을 당선인 기동민 (더불어민주당). 책자형 선거공보 PDF 6쪽 「내 삶을 바꾸는 기동민의 15가지 약속」 15개(교통 중심·문화 허브·주거 일류·안전 제일·복지 꼼꼼 순). PDF 7–9쪽 「10대 분야, 30개 세부과제」는 같은 공약을 풀어 쓴 세부 목록이라 넣지 않았고, PDF 5쪽 5대 비전 구호, PDF 3–4쪽 의정 성과, PDF 10쪽 당 공약도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

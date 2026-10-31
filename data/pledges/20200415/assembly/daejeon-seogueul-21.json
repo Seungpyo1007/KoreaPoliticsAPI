@@ -1,0 +1,128 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daejeon-seogueul-21",
+  "candidate": {
+    "name": "박범계",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-beomgye-1963",
+    "nec_huboid": "100137456"
+  },
+  "pledges": [
+    {
+      "id": "21-daejeon-seogueul-01",
+      "title": "대전 센트럴파크 조성(계속사업)",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-02",
+      "title": "대전 혁신도시 지정 및 수도권 공공기관 이전",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-03",
+      "title": "대전 스타트업 파크 구축 및 충청판 실리콘밸리 조성",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-04",
+      "title": "둔산동 ‘대전문화콘텐츠금융센터’ 설치(현재 T/F운영)",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-05",
+      "title": "둔산2동 샘머리공원 물놀이 시설 설치",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-06",
+      "title": "둔산3동 공방예술거리 조성",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-07",
+      "title": "둔산3동, 월평2·3동 가람4거리 조명등 환경개선사업",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-08",
+      "title": "월평동 마사회건물 활용방안 마련(복지센터 및 시설관리공단 이전 등)",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-09",
+      "title": "월평1동 청년창업지원센터 구축",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-10",
+      "title": "월평2동 통계교육원 공영주차장 확충",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-11",
+      "title": "월평2동 선사유적지 문화제 확대",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-12",
+      "title": "월평2·3동 교통안전시설 확충으로 안전한 보행길 사업",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-13",
+      "title": "만년동 둔산대공원 개방 및 접근성 강화",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-14",
+      "title": "만년동 음식문화거리 조성",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-15",
+      "title": "만년동 ‘대전 콘텐츠산업 육성센터’ 구축(100억원 규모)",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-16",
+      "title": "갈마1동 스포츠문화센터/보훈회관 신축",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-17",
+      "title": "갈마1동 갈마문화공원 시설현대화",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-18",
+      "title": "용문동 도로환경 정비사업(자전거도로, 보행로 환경개선 등)",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-19",
+      "title": "탄방동 남선체육관 리모델링 및 남선공원 힐링 숲 조성",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-20",
+      "title": "탄방동 탄방로 일대 전선지중화 사업",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-21",
+      "title": "탄방동 메디컬 스트리트 조성",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-seogueul-22",
+      "title": "탄방동 행정복지센터 신축",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3003/003_100137456_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대전 서구을 당선인 박범계 (더불어민주당). 책자형 선거공보 PDF 6쪽 「새로운 약속」 「공약사업」 ● 항목 22개(맨 위 굵은 제목 1개와 그 아래 목록, 동 이름이 붙은 항목도 같은 목록이라 함께 넣음). 「갈마2동 복합커뮤너티센터(완공)」은 완공 사업이라 넣지 않았다. 센트럴파크 아래 - 세부 항목, PDF 3–5쪽 완공·진행 사업, PDF 7–10쪽 의정 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

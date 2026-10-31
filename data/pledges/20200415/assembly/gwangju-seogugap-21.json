@@ -1,0 +1,113 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gwangju-seogugap-21",
+  "candidate": {
+    "name": "송갑석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "song-gapseok-1966",
+    "nec_huboid": "100137726"
+  },
+  "pledges": [
+    {
+      "id": "21-gwangju-seogugap-01",
+      "title": "규제프리존·규제샌드박스 추진으로 AI(인공지능)산업 촉진",
+      "page": 7
+    },
+    {
+      "id": "21-gwangju-seogugap-02",
+      "title": "청년광주 지원법 (가칭), ‘두뇌광주’ 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gwangju-seogugap-03",
+      "title": "한전 빅데이터센터 광주 이전 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gwangju-seogugap-04",
+      "title": "친환경 공기산업 육성",
+      "page": 7
+    },
+    {
+      "id": "21-gwangju-seogugap-05",
+      "title": "광주 경제자유구역에 스마트 제조·벤처기업 유치",
+      "page": 7
+    },
+    {
+      "id": "21-gwangju-seogugap-06",
+      "title": "민간 주도의 AI스타트업 및 지역특화 벤처창업기업 지원",
+      "page": 8
+    },
+    {
+      "id": "21-gwangju-seogugap-07",
+      "title": "AI 미래 신기술 중심 청년 창업가 육성 후속 지원 강화",
+      "page": 8
+    },
+    {
+      "id": "21-gwangju-seogugap-08",
+      "title": "청년 창업 멘토링·코칭 및 판로지원 확대",
+      "page": 8
+    },
+    {
+      "id": "21-gwangju-seogugap-09",
+      "title": "서구 신사업창업사관학교 시설 개선",
+      "page": 8
+    },
+    {
+      "id": "21-gwangju-seogugap-10",
+      "title": "취업 기회확대를 위해 기업이 원하는 맞춤형 인력 양성",
+      "page": 8
+    },
+    {
+      "id": "21-gwangju-seogugap-11",
+      "title": "감염병 등 대응체계 확립",
+      "page": 9
+    },
+    {
+      "id": "21-gwangju-seogugap-12",
+      "title": "재해·재난없는 안심도시 추진",
+      "page": 9
+    },
+    {
+      "id": "21-gwangju-seogugap-13",
+      "title": "건강 마일리지 도입, 의료인프라 확대",
+      "page": 9
+    },
+    {
+      "id": "21-gwangju-seogugap-14",
+      "title": "독거노인 등 취약계층 안심 AI 서비스",
+      "page": 9
+    },
+    {
+      "id": "21-gwangju-seogugap-15",
+      "title": "군공항 조속한 이전 추진",
+      "page": 10
+    },
+    {
+      "id": "21-gwangju-seogugap-16",
+      "title": "광천터미널 사거리 안전한 교통 환경 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gwangju-seogugap-17",
+      "title": "시민이 주인되는 친환경 광주천 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gwangju-seogugap-18",
+      "title": "알뜰전기 아파트 도입",
+      "page": 10
+    },
+    {
+      "id": "21-gwangju-seogugap-19",
+      "title": "상무 복합문화커뮤니티 타운 조기 건립",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2902/003_100137726_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 광주 서구갑 당선인 송갑석 (더불어민주당). 책자형 선거공보 PDF 7–10쪽 분야별(「4차산업 중심 광주!」「청년창업 중심서구!」「의료는 더 탄탄하게 안전은 더 든든하게」「숙원 사업은 더 빠르게 환경·복지 수준은 더 높게」) 공약 제목 19개(두 줄 제목은 이었다). 분야 표제가 구호라 그 아래 항목 제목을 공약 제목으로 보았다. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 설명 글, PDF 4쪽 지난 공약 이행 내역, PDF 3·5–6쪽 확보 예산과 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

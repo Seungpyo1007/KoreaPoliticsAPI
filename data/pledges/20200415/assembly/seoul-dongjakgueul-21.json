@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-dongjakgueul-21",
+  "candidate": {
+    "name": "이수진",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-sujin-1969-2",
+    "nec_huboid": "100137485"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-dongjakgueul-01",
+      "title": "초중고교와 대학교까지 모두 갖춘 ‘원스톱 교육특구’",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-dongjakgueul-02",
+      "title": "우리 청년들의 꿈을 지원하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-dongjakgueul-03",
+      "title": "막힘없이 시원하게! 서울남부권 교통중심지 동작",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-dongjakgueul-04",
+      "title": "한강특구 동작, 새로운 동작이 시작됩니다",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-dongjakgueul-05",
+      "title": "생활안전망! 더 촘촘하게! 더 따뜻하게",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-dongjakgueul-06",
+      "title": "국가를 위한 헌신, 국민이 보답하겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1120/003_100137485_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 동작구을 당선인 이수진 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 7–8쪽 분야별(교육·창업·교통·문화·복지·보훈) 제목 줄 6개를 넣었다. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 9–10쪽 동별 공약, PDF 11쪽 정치개혁·사법개혁·안전(전국 공약), PDF 3–6쪽 약력은 넣지 않았다. 끝의 !·.만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

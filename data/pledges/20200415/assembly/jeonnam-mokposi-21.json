@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonnam-mokposi-21",
+  "candidate": {
+    "name": "김원이",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-woni-1968",
+    "nec_huboid": "100134665"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonnam-mokposi-01",
+      "title": "100년 역사 목포역을 시민광장으로",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-mokposi-02",
+      "title": "목포를 근대역사문화의 특구로",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-mokposi-03",
+      "title": "목포, 신안을 세계 섬의 수도로",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-mokposi-04",
+      "title": "목포형 일자리 5천개, 전남형 일자리 2만개 창출",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-mokposi-05",
+      "title": "원도심, 중도심, 신도심이 고루 잘사는 균형도시 목포",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-mokposi-06",
+      "title": "4차 산업혁명과 함께하는 목포 선창경제 활성화",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-mokposi-07",
+      "title": "목포 시민민주주의 구현, 공론화의 장 ‘유달정담’ 운영",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-mokposi-08",
+      "title": "명품 교육, 보육도시 육성",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-mokposi-09",
+      "title": "원하면 이루어지는 따뜻한 목포 복지",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-mokposi-10",
+      "title": "김원이가 시작하는 선명한 ‘개혁 3대 입법’",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4601/003_100134665_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전남 목포시 당선인 김원이 (더불어민주당). 책자형 선거공보 PDF 7쪽 「새로운 목포시대 근대와 미래가 공존하는 동아시아 관문도시 목포」 번호 공약 제목 10개. 제목 아래 - 세부 항목, PDF 6쪽 「원팀 공약」, PDF 8쪽 지역별 Vision 1–10, PDF 10쪽 코로나19 대응 글은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

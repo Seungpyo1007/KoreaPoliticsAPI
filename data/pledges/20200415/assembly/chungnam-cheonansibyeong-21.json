@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungnam-cheonansibyeong-21",
+  "candidate": {
+    "name": "이정문",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-jeongmun-1973",
+    "nec_huboid": "100137353"
+  },
+  "pledges": [
+    {
+      "id": "21-chungnam-cheonansibyeong-01",
+      "title": "수도권 규제완화 철폐",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-cheonansibyeong-02",
+      "title": "천안시 강소특구 지정",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-cheonansibyeong-03",
+      "title": "천안 외곽순환도로 완성",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-cheonansibyeong-04",
+      "title": "남부종합터미널 건립 추진",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-cheonansibyeong-05",
+      "title": "온종일 아이돌봄 체계 구축",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-cheonansibyeong-06",
+      "title": "천안형 커뮤니티케어 완성",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-cheonansibyeong-07",
+      "title": "수도권전철 독립기념관 연장 (청수역 신설)",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4418/003_100137353_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충남 천안시병 당선인 이정문 (더불어민주당). 책자형 선거공보 PDF 7쪽 「100만 도시 천안의 꿈」 번호 공약 1–7 제목 7개를 넣었다. OCR 글자가 섞여 있어 쪽 이미지를 보고 옮겼다. 제목 아래 설명 줄, PDF 8쪽 동·면별 공약, PDF 9–10쪽 대상별 약속(당 공약과 같은 내용), PDF 4쪽 국회 개혁 1호 법안은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

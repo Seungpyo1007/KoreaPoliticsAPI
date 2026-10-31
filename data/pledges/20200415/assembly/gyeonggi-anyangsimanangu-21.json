@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-anyangsimanangu-21",
+  "candidate": {
+    "name": "강득구",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gang-deukgu-1963",
+    "nec_huboid": "100134894"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-anyangsimanangu-01",
+      "title": "서안양(박달)스마트밸리, 여당이라 해낼 수 있습니다",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-anyangsimanangu-02",
+      "title": "살리자 안양중심상권! 트라이앵글 상권부활 프로젝트",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-anyangsimanangu-03",
+      "title": "안양시청 이전과 센트럴파크 조성, 만안을 안양의 행정중심지로",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-anyangsimanangu-04",
+      "title": "찾아오는 교육도시 만안, 강득구는 할 수 있습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-anyangsimanangu-05",
+      "title": "교통망이 힘이다: 수도권 일등 교통입지 구축",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-anyangsimanangu-06",
+      "title": "수도권 최고의 문화 환경 도시",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-anyangsimanangu-07",
+      "title": "아이&맘 행복도시 만안",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-anyangsimanangu-08",
+      "title": "청년과 어르신이 꿈꾸는 도시 만안",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-anyangsimanangu-09",
+      "title": "안전안심도시 만안",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4109/003_100134894_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 안양시만안구 당선인 강득구 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「강득구의 만안 비상(飛上)프로젝트 만안, 날개를 달다」 띠 제목 5개와 PDF 9쪽 「강득구, 일로 평가받겠습니다」 번호 1–4 제목 4개, 모두 9개. 제목 아래 체크·• 세부 항목, PDF 7–8쪽 권역별(안양권·박달권·명학권·석수권) 번호 공약, PDF 2–4쪽 경선·경력 소개는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

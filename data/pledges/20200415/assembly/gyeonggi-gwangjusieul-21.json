@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-gwangjusieul-21",
+  "candidate": {
+    "name": "임종성",
+    "party_id": "deobureo-minjudang",
+    "person_id": "im-jongseong-1965",
+    "nec_huboid": "100137425"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-gwangjusieul-01",
+      "title": "오포~분당 도시철도 구축 추진",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-02",
+      "title": "수서~광주 복선전철 사업 원활 추진",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-03",
+      "title": "오포~분당, 죽전~오포 확장 등 정부 ‘제5차 국도·국지도 5개년 계획’ 반영",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-04",
+      "title": "중부고속도로 (가칭)초월중부IC 설치",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-05",
+      "title": "초월~오포 도로 개설",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-06",
+      "title": "경안천 및 곤지암천 제방도로 개설",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-07",
+      "title": "지역마다 특성에 맞는 거점형 문화체육시설을 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-08",
+      "title": "하천 수변구역을 광주시민들이 즐길 수 있는 공원으로 탈바꿈시키겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-09",
+      "title": "우리 아이들이 미세먼지 걱정 없이 맘껏 뛰놀 수 있는 실내놀이터를 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-10",
+      "title": "청소년들이 꿈을 키우고, 가꿀 곳을 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-11",
+      "title": "곤지암 구도심을 살려 지역경제를 활성화시키겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gwangjusieul-12",
+      "title": "고산지구에 또 다른 ‘생활 SOC 복합화 사업’을 추진하겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4140/003_100137425_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 광주시을 당선인 임종성 (더불어민주당). 책자형 선거공보 PDF 5쪽 「임종성의 철도 성과 및 공약」·「임종성의 주요 도로 성과 및 공약」 가운데 공약 항목 6개와 PDF 6쪽 「멀리가지 마세요! 집 앞에서 즐기세요.」 1–6의 제목 6개. PDF 5쪽 (성과)·(경과) 설명과 성과만 적힌 항목, PDF 6쪽 제목 아래 • 세부 항목, PDF 3–4쪽 읍·면별 공약, PDF 7–8쪽 어린이 안전·민주당 전국 공약은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gangnamgueul-21",
+  "candidate": {
+    "name": "박진",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "bak-jin-1956",
+    "nec_huboid": "100137703"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gangnamgueul-01",
+      "title": "사유재산권 보호로 강남의 주거가치를 올리겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gangnamgueul-02",
+      "title": "사통팔달 교통소통으로 지역 성장의 흐름을 열겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gangnamgueul-03",
+      "title": "명품 교육 도시의 위상을 지키겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gangnamgueul-04",
+      "title": "여성, 아동, 어르신, 장애인 모두 행복한 강남을 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gangnamgueul-05",
+      "title": "지역경제에 활력을 불어넣는 성장기반을 조성하겠습니다",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1123/003_100137703_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 강남구을 당선인 박진 (미래통합당). 책자형 선거공보 PDF 7쪽 「강남을 바꾸면 대한민국이 바뀝니다!」 번호 공약 01–05 제목 5개를 넣었다. 제목 아래 설명 글, PDF 8–10쪽 「강남을 위한 박진의 약속」 동 지역별 공약, PDF 3–6쪽 정세 진단·약력은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

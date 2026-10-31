@@ -1,0 +1,93 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-hwaseongsieul-21",
+  "candidate": {
+    "name": "이원욱",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-wonuk-1963",
+    "nec_huboid": "100137545"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-hwaseongsieul-01",
+      "title": "인덕원~동탄선 조기 착공",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-02",
+      "title": "트램 조기 착공",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-03",
+      "title": "GTX(동탄~삼성간) 선개통",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-04",
+      "title": "인동선 1호선 연장, 솔빛나루역 유치",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-05",
+      "title": "바이오폴리스(대학병원 유치, 첨단생명과학단지 조성)",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-06",
+      "title": "미래형 경기도립교육도서관 조기 착공",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-07",
+      "title": "화성시립도서관 유치",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-08",
+      "title": "국공립유치원 및 어린이집 확대",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-09",
+      "title": "시드니오페라하우스격의 1,500석 문화공연장 건립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-10",
+      "title": "국제규격 실내수영장 신설",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-11",
+      "title": "지역사회통합돌봄센터 확충",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-12",
+      "title": "동탄육아종합지원센터 추진",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-13",
+      "title": "남북광장과 여울공원에 유럽형 음식문화거리 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-14",
+      "title": "주민 참여 공동체 지식공간 - 상상력발전소 설치",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsieul-15",
+      "title": "금곡리 난개발 방지 및 개발이익 재투자방식 도입",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4128/003_100137545_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 화성시을 당선인 이원욱 (더불어민주당). 책자형 선거공보 PDF 9쪽 「이원욱의 15대 중점공약!」 01–15 제목 15개. PDF 9쪽 아래 분야별 ▶ 항목, PDF 10쪽 「대한민국 성장거점 동탄을 만들겠습니다」 분야별 항목, PDF 7–8쪽 「이원욱이 해냈습니다」 지난 성과, PDF 5–6쪽 안전 입법 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

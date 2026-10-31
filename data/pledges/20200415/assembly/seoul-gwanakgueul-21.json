@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gwanakgueul-21",
+  "candidate": {
+    "name": "정태호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeong-taeho-1963",
+    "nec_huboid": "100134875"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gwanakgueul-01",
+      "title": "소상공인·자영업자 통째로 살리기",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-gwanakgueul-02",
+      "title": "여성 안심 관악",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-gwanakgueul-03",
+      "title": "주거환경 개선",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-gwanakgueul-04",
+      "title": "통째로 안전한 관악 만들기",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-gwanakgueul-05",
+      "title": "어르신 행복 통째로 만들기",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-gwanakgueul-06",
+      "title": "장애인 삶의 질 통째로 높이기",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-gwanakgueul-07",
+      "title": "교육환경 통째로 혁신하기",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-gwanakgueul-08",
+      "title": "생활여건 통째로 바꾸기",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1121/003_100134875_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 관악구을 당선인 정태호 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「관악을 통째로 바꾸겠습니다」 상자 제목 8개. OCR 텍스트라 쪽 이미지를 보고 옮겼다. 상자 안 설명, PDF 7쪽 「관악의 변화! 이미 만들고 있습니다」(추진 경과), PDF 8쪽 「청년이 행복한 관악」 청년 정책 목록은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

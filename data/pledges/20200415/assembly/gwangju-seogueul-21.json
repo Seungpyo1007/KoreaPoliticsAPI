@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gwangju-seogueul-21",
+  "candidate": {
+    "name": "양향자",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yang-hyangja-1967",
+    "nec_huboid": "100135072"
+  },
+  "pledges": [
+    {
+      "id": "21-gwangju-seogueul-01",
+      "title": "<미래차 One-Stop 클러스터> 건설",
+      "page": 8
+    },
+    {
+      "id": "21-gwangju-seogueul-02",
+      "title": "특별법 제정, 광주 경제자유구역청 지원을 2배로",
+      "page": 10
+    },
+    {
+      "id": "21-gwangju-seogueul-03",
+      "title": "군 공항 및 마륵동 탄약고 이전",
+      "page": 10
+    },
+    {
+      "id": "21-gwangju-seogueul-04",
+      "title": "서구 복합커뮤니티센터, 정상 건립 추진",
+      "page": 10
+    },
+    {
+      "id": "21-gwangju-seogueul-05",
+      "title": "호남 질병관리본부 신설 및 광주 유치",
+      "page": 10
+    },
+    {
+      "id": "21-gwangju-seogueul-06",
+      "title": "두드림복합문화센터 건립 추진",
+      "page": 10
+    },
+    {
+      "id": "21-gwangju-seogueul-07",
+      "title": "서창동 역사·문화·자연 테마 시설 추진",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2902/003_100135072_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 광주 서구을 당선인 양향자 (더불어민주당). 책자형 선거공보 PDF 8쪽 「<미래차 One-Stop 클러스터> 건설!」 표제 1개와 PDF 10쪽 1–6 번호 공약 제목 6개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 설명 글, PDF 8쪽 소제목(광주 경제 생태계를 바꿔라! 등), PDF 6쪽 경력, PDF 2–4쪽 정권 지지 호소는 넣지 않았다. 2번 제목 앞의 「일하는 1번 양향자가 해낸다!」를 덜어냈고 끝의 !도 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

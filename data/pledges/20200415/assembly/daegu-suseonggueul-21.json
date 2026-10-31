@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daegu-suseonggueul-21",
+  "candidate": {
+    "name": "홍준표",
+    "party_id": null,
+    "person_id": "hong-junpyo-1954",
+    "nec_huboid": "100137583"
+  },
+  "pledges": [
+    {
+      "id": "21-daegu-suseonggueul-01",
+      "title": "수성을 전역의 도시 스카이라인을 확 바꿉니다",
+      "page": 7
+    },
+    {
+      "id": "21-daegu-suseonggueul-02",
+      "title": "글로벌 교육문화 특구로 탈바꿈합니다",
+      "page": 7
+    },
+    {
+      "id": "21-daegu-suseonggueul-03",
+      "title": "금융복합지구 조성을 추진하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-daegu-suseonggueul-04",
+      "title": "대구통합신공항을 활용한 해외수출형 첨단산업 유치",
+      "page": 8
+    },
+    {
+      "id": "21-daegu-suseonggueul-05",
+      "title": "플라잉카(flying car) 산업 유치 추진",
+      "page": 8
+    },
+    {
+      "id": "21-daegu-suseonggueul-06",
+      "title": "TK 코로나19 극복 20조 뉴딜 추진",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2706/003_100137583_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대구 수성구을 당선인 홍준표 (무소속). 책자형 선거공보 PDF 7쪽 「수성의 꿈!」과 PDF 8쪽 「대구의 희망!」의 ▶ 제목 6개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 - 세부 항목과 ①–③ 지구별 항목, PDF 5–6쪽과 9–10쪽 정권 비판·출마 호소 글, PDF 2–4쪽 약력은 넣지 않았다. 첫 제목 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

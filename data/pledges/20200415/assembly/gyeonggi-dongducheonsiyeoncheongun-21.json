@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-dongducheonsiyeoncheongun-21",
+  "candidate": {
+    "name": "김성원",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-seongwon-1973",
+    "nec_huboid": "100137142"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-dongducheonsiyeoncheongun-01",
+      "title": "동두천·연천까지 수도권 광역급행철도(GTX-C노선) 연장",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-dongducheonsiyeoncheongun-02",
+      "title": "경원선 복선전철 신탄리까지 연장",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-dongducheonsiyeoncheongun-03",
+      "title": "서울~동두천~연천 남북고속도로 추진",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-dongducheonsiyeoncheongun-04",
+      "title": "생활형 SOC 사업 지역도급 대폭 확대",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-dongducheonsiyeoncheongun-05",
+      "title": "문화 예술의 전당 건립 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-dongducheonsiyeoncheongun-06",
+      "title": "국가산업단지 30만평 확대 조속 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-dongducheonsiyeoncheongun-07",
+      "title": "국립 연천현충원 신속 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-dongducheonsiyeoncheongun-08",
+      "title": "국립 연천청소년수련원 건립 추진",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4117/003_100137142_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 동두천시연천군 당선인 김성원 (미래통합당). 책자형 선거공보 PDF 5–6쪽 「동두천·연천의 꿈! 확실한 미래! 911 공약!」(연천·동두천의 힘찬 도약을 위한 주민과의 약속) 제목 8개(PDF 6쪽은 동두천 2개, 연천 2개). 제목 아래 설명, PDF 7–10쪽 「91개 1(일)하는 공약」 분야별 01–10 목록과 • 세부 항목, PDF 3–4쪽 지난 의정 성과는 넣지 않았다. 끝의 !를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

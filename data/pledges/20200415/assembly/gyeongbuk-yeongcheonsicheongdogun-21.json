@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-yeongcheonsicheongdogun-21",
+  "candidate": {
+    "name": "이만희",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "i-manhui-1963",
+    "nec_huboid": "100136566"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-yeongcheonsicheongdogun-01",
+      "title": "'더 크고' 좋은 '렛츠런파크'를 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-yeongcheonsicheongdogun-02",
+      "title": "'더 큰' 성장 동력을 완성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-yeongcheonsicheongdogun-03",
+      "title": "규제를 완화하고 '더 크게' 발전시키겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-yeongcheonsicheongdogun-04",
+      "title": "'더 큰' 의료·복지 환경을 완성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-yeongcheonsicheongdogun-05",
+      "title": "청도로 통하는 '더 큰' 길을 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-yeongcheonsicheongdogun-06",
+      "title": "청도의 '더 큰' 성장 동력을 만들겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4709/003_100136566_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 영천시청도군 당선인 이만희 (미래통합당). 책자형 선거공보 PDF 8쪽 「대표공약 더 큰 영천! 더 큰 청도!」의 영천 1–3, 청도 1–3 제목 6개. 제목 아래 - 세부 항목, PDF 7쪽 「이만희가 약속드리겠습니다!」 분야 제목(코로나19, 1–4), PDF 9–10쪽 영천시·청도군 1–3 제목과 읍·면·동별 공약, PDF 5쪽 정권 심판 공약, PDF 3–4쪽 지난 의정 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

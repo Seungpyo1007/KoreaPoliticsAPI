@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gwangju-gwangsangueul-21",
+  "candidate": {
+    "name": "민형배",
+    "party_id": "deobureo-minjudang",
+    "person_id": "min-hyeongbae-1961",
+    "nec_huboid": "100134703"
+  },
+  "pledges": [
+    {
+      "id": "21-gwangju-gwangsangueul-01",
+      "title": "광주형일자리의 성공적 안착, 사회적경제 혁신타운 유치, 인공지능 산업 등 미래광주의 좋은 일자리를 창출하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "21-gwangju-gwangsangueul-02",
+      "title": "복지사각지대를 해소하고 공공의료원 설립, 광주 서남부권 대형병원 유치 등을 통해 지역사회 의료체계를 획기적으로 전환하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-gwangju-gwangsangueul-03",
+      "title": "업사이클 클러스터 조성 유치와 함께 광주·전남공동혁신도시와 연계한 신재생에너지산업으로 환경과 경제, 두 마리 토끼를 잡겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-gwangju-gwangsangueul-04",
+      "title": "광주형 통일+센터 유치와 함께 일상문화·역사문화·예술문화가 풍부한, 내 아이의 미래가 달라지는 품격 있는 광산을 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-gwangsangueul-05",
+      "title": "쾌적한 휴식을 즐길 수 있는 녹색도시, 광산",
+      "page": 9
+    },
+    {
+      "id": "21-gwangju-gwangsangueul-06",
+      "title": "우리 아이를 위한 교육문화도시, 광산",
+      "page": 9
+    },
+    {
+      "id": "21-gwangju-gwangsangueul-07",
+      "title": "광주의 미래를 여는 미래산업도시, 광산",
+      "page": 9
+    },
+    {
+      "id": "21-gwangju-gwangsangueul-08",
+      "title": "시민의 건강 증진을 돕는 생활체육도시, 광산",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2905/003_100134703_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 광주 광산구을 당선인 민형배 (더불어민주당). 책자형 선거공보 PDF 3–6쪽 「…씨에게 약속합니다」 쪽마다 굵은 약속 문장 4개와 PDF 9쪽 「광산구의 가치를 높이겠습니다」 분야 제목 4개. 쪽 위 주민 인용 문구, ▲·• 세부 항목, PDF 10쪽 전국 정치 공약(5·18, 국회 개혁, 적폐청산), PDF 7–8쪽 구청장·청와대 시절 성과는 넣지 않았다. 약속 문장 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonbuk-iksansieul-21",
+  "candidate": {
+    "name": "한병도",
+    "party_id": "deobureo-minjudang",
+    "person_id": "han-byeongdo-1967",
+    "nec_huboid": "100135024"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonbuk-iksansieul-01",
+      "title": "도시와 농촌 모두 활력이 넘치는 도시",
+      "page": 7
+    },
+    {
+      "id": "21-jeonbuk-iksansieul-02",
+      "title": "세계문화유산이 숨 쉬는 문화도시",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-iksansieul-03",
+      "title": "깨끗하고 안전한 환경친화도시",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-iksansieul-04",
+      "title": "미래세대의 꿈이 이루어지는 도시",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-iksansieul-05",
+      "title": "따뜻하고 든든한 복지도시",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4505/003_100135024_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전북 익산시을 당선인 한병도 (더불어민주당). 책자형 선거공보 PDF 7–10쪽 「약속 익산의 확실한 변화 1–5」 제목 5개. 그 아래 소제목(「도시의 활력을 UP!」 등)과 - 세부 항목, PDF 2–6쪽 정무수석 경력·활동 소개는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

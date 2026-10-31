@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gangdonggugap-21",
+  "candidate": {
+    "name": "진선미",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jin-seonmi-1967",
+    "nec_huboid": "100136736"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gangdonggugap-01",
+      "title": "지하철 9호선 4단계 조기착공 '청신호'",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-gangdonggugap-02",
+      "title": "지하철 9호선 강일동 추가 연장",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-gangdonggugap-03",
+      "title": "지하철 8호선 연장",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-gangdonggugap-04",
+      "title": "지하철 5호선 연장 및 직결화 사업 추진",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-gangdonggugap-05",
+      "title": "GTX-D 노선 강동 유치 추진",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-gangdonggugap-06",
+      "title": "경제, 진짜 살아납니다",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gangdonggugap-07",
+      "title": "교육, 진짜 잘 키웁니다",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gangdonggugap-08",
+      "title": "체육, 진짜 튼튼해집니다",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gangdonggugap-09",
+      "title": "환경, 진짜 쾌적해집니다",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gangdonggugap-10",
+      "title": "복지, 진짜 촘촘해집니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1125/003_100136736_20200415_11.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 강동구갑 당선인 진선미 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 3–4쪽 「교통, 편해집니다」의 교통 공약 제목 5개와 PDF 5–6쪽 「강동, 발전합니다」의 분야별 제목 5개를 넣었다. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 ·/▶ 세부 항목과 추진 경과, PDF 7–8쪽 동별 공약, PDF 9쪽 「대한민국, 확실한 변화」 당 공약, PDF 10쪽 코로나19 대응 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

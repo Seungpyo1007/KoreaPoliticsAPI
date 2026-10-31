@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-changwonsimasanhappogu-21",
+  "candidate": {
+    "name": "최형두",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "choe-hyeongdu-1962",
+    "nec_huboid": "100134856"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-changwonsimasanhappogu-01",
+      "title": "마산 네버랜드 조성_해양신도시",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhappogu-02",
+      "title": "미래 혁신산업 중심, 합포",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhappogu-03",
+      "title": "스마트 교육 으뜸, 합포",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhappogu-04",
+      "title": "마산 관광 1,000만 시대",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-changwonsimasanhappogu-05",
+      "title": "해피 합포",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4823/003_100134856_20200414_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 창원시마산합포구 당선인 최형두 (미래통합당). 책자형 선거공보 PDF 7쪽 「마산을 살리는 최형두의 약속」 분야 제목 3개와 PDF 8쪽 「해피 합포 행복한 청년에서 편안한 노년까지!」의 [ ] 분야 제목 2개, 모두 5개. PDF 2–4쪽은 글자층이 없어 쪽 이미지로 확인했는데 인사말·경력이다. 제목 아래 ■·- 세부 항목, PDF 9–10쪽 동별 공약, PDF 5–6쪽 정권 비판은 넣지 않았다. [ ] 괄호와 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

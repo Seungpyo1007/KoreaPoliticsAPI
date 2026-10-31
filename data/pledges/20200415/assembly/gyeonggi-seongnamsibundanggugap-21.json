@@ -1,0 +1,73 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-seongnamsibundanggugap-21",
+  "candidate": {
+    "name": "김은혜",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-eunhye-1971",
+    "nec_huboid": "100137484"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-01",
+      "title": "「1기 신도시 재생지원 특별법」 일명 ‘김은혜법’ 제정",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-02",
+      "title": "‘국민기만 세금폭탄’ 공시가격 인상 저지",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-03",
+      "title": "서현동 110번지를 주민의 품으로",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-04",
+      "title": "아직 늦지 않았다. 판교 10년 공공임대 분양전환",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-05",
+      "title": "교통 편한 분당·판교입니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-06",
+      "title": "교육 - 세계속의 분당·판교, Global 교육환경 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-07",
+      "title": "문화·예술·체육 - 여유 넘치는 분당·판교",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-08",
+      "title": "판교테크노밸리 - 대한민국 4차 산업혁명의 성장동력",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-09",
+      "title": "보육 - 분당형 공보육 강화 “Mom 편한 세상”",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-10",
+      "title": "소상공인 - 골목상권이 살아야 경제가 산다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggugap-11",
+      "title": "반려동물 - 반려동물도 행복한 분당·판교",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4107/003_100137484_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 성남시분당구갑 당선인 김은혜 (미래통합당). 책자형 선거공보 PDF 7쪽 「분당·판교의 묵은 현안 김은혜가 바로 해결합니다」 띠 제목 4개, PDF 8쪽 교통 공약 쪽 큰 제목 1개, PDF 9쪽 「엄마의 마음으로 살기편한 분당·판교」 분야 제목 6개를 넣었다. 제목 아래 ● 세부 항목, PDF 10쪽 동별 공약, PDF 5–6쪽 정권 비판 글, PDF 3–4쪽 약력은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

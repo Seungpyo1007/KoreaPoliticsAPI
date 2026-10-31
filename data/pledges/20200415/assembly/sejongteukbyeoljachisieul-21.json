@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/sejongteukbyeoljachisieul-21",
+  "candidate": {
+    "name": "강준현",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gang-junhyeon-1964",
+    "nec_huboid": "100134798"
+  },
+  "pledges": [
+    {
+      "id": "21-sejongteukbyeoljachisieul-01",
+      "title": "행정수도 세종",
+      "page": 3
+    },
+    {
+      "id": "21-sejongteukbyeoljachisieul-02",
+      "title": "시민의 삶이 바뀌는 세종",
+      "page": 3
+    },
+    {
+      "id": "21-sejongteukbyeoljachisieul-03",
+      "title": "사통팔달 세종",
+      "page": 3
+    },
+    {
+      "id": "21-sejongteukbyeoljachisieul-04",
+      "title": "자족도시 세종",
+      "page": 3
+    },
+    {
+      "id": "21-sejongteukbyeoljachisieul-05",
+      "title": "충청권(CDS)과 상생하는 세종",
+      "page": 3
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/5101/003_100134798_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 세종특별자치시을 당선인 강준현 (더불어민주당). 책자형 선거공보 PDF 3쪽 「강준현과 함께라면, 세종이 달라집니다」 굵은 제목 5개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 뒤에 이어지는 설명 문장과 - 세부 항목, PDF 5–8쪽 분야별(특별도시·교통중심도시·만족도시·경제도시) • 세부 공약, PDF 9–10쪽 읍면동별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

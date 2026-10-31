@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-donggumichuholgueul-21",
+  "candidate": {
+    "name": "윤상현",
+    "party_id": null,
+    "person_id": "yun-sanghyeon-1962",
+    "nec_huboid": "100135981"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-donggumichuholgueul-01",
+      "title": "세상에 없던 꿈의 도서관 ‘용정배움누리’",
+      "page": 5
+    },
+    {
+      "id": "21-incheon-donggumichuholgueul-02",
+      "title": "세상에 없던 빛, ‘수봉한빛타워’",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-donggumichuholgueul-03",
+      "title": "집 앞까지 지하철, 우리 동네가 역세권",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-donggumichuholgueul-04",
+      "title": "집 앞에서 고속도로, 논스톱 진입로! + 방음터널",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-donggumichuholgueul-05",
+      "title": "집 가까이 쇼핑 공간, 1Km 대형 중심상권 조성",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-donggumichuholgueul-06",
+      "title": "감염병 걱정 없는 안심 미추홀 구축",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-donggumichuholgueul-07",
+      "title": "교육·문화 인프라 획기적 확대",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-donggumichuholgueul-08",
+      "title": "발걸음 행복한, 안전한 우리 동네",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-donggumichuholgueul-09",
+      "title": "미추홀 교통환경 대혁신",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-donggumichuholgueul-10",
+      "title": "[학익 유수지 매립] 정보통신기술(ICT)-항만물류기업 클러스터 조성",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2803/003_100135981_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 동구미추홀구을 당선인 윤상현 (무소속). 책자형 선거공보 PDF 5–9쪽 공약 제목 10개(5쪽 용정배움누리, 6쪽 수봉한빛타워, 7쪽 「인천을 바꾸는 미추홀의 힘,」 제목 3개, 8쪽 분야 제목 4개, 9쪽 「경제 먼저! 일자리 먼저!」 제목 1개). 머리 번호 목록이 없어 쪽마다 굵은 제목 줄을 썼고, 5·6쪽은 제목 아래 「…만들겠습니다」 부제를 덜어냈다. 제목 아래 - 세부 항목, PDF 9–10쪽 동별 공약, PDF 3–4쪽 지난 성과·의정 평가는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

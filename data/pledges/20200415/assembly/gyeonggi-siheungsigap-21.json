@@ -1,0 +1,73 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-siheungsigap-21",
+  "candidate": {
+    "name": "문정복",
+    "party_id": "deobureo-minjudang",
+    "person_id": "mun-jeongbok-1967",
+    "nec_huboid": "100135209"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-siheungsigap-01",
+      "title": "남북평화 글로벌 복합단지 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-siheungsigap-02",
+      "title": "도약하는 시흥경제",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-siheungsigap-03",
+      "title": "사통팔달 시흥교통",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-siheungsigap-04",
+      "title": "안전한 건강도시",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-siheungsigap-05",
+      "title": "행복한 교육도시",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-siheungsigap-06",
+      "title": "즐거운 문화도시",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-siheungsigap-07",
+      "title": "시민이 주인되기 위한 혁신",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-siheungsigap-08",
+      "title": "미래 세대를 위한 혁신",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-siheungsigap-09",
+      "title": "더불어 사는 포용사회를 위한 혁신",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-siheungsigap-10",
+      "title": "시흥의 힘찬 도약을 위한 혁신",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-siheungsigap-11",
+      "title": "문화의 가치를 높이는 혁신",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4129/003_100135209_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 시흥시갑 당선인 문정복 (더불어민주당). 책자형 선거공보 PDF 6쪽 단독 공약 「남북평화 글로벌 복합단지 추진」 1개, PDF 7쪽 「문정복이 실현하는 행복시흥, 5대비전」 제목 5개, PDF 8쪽 「문정복이 실현하는 힘찬도약, 혁신과제」 제목 5개를 넣었다. 제목 아래 ·/■ 세부 항목, PDF 9쪽 「문정복의 동별 약속」, PDF 3쪽 당 소개, PDF 4쪽 경력은 넣지 않았다. 끝의 !만 덜어냈고, 글자 사이를 띄워 쓴 제목(안 전 한·행 복 한·즐 거 운)은 붙여 적었다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gangseogueul-21",
+  "candidate": {
+    "name": "진성준",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jin-seongjun-1967",
+    "nec_huboid": "100134996"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gangseogueul-01",
+      "title": "경제, 주민친화형 국제공항으로 강서경제 도약의 거점을 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gangseogueul-02",
+      "title": "교육, 과학기술 융합대학원대학교와 청청플라자를 유치하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gangseogueul-03",
+      "title": "문화, 꽃피는 시민청을 중심으로 강서의 문화예술벨트를 구축하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gangseogueul-04",
+      "title": "교통, 서남권 중심 관문도시, 교통부터 바꾸겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1116/003_100134996_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 강서구을 당선인 진성준 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「국제교류·첨단경제·교육문화가 꽃피는 국제적 경제 관문도시 강서를 만들겠습니다」 분야 제목 4개. OCR 텍스트라 쪽 이미지를 보고 옮겼다. 본문, PDF 7–8쪽 동별 공약, PDF 9–10쪽 「더불어민주당과 함께」 대상별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

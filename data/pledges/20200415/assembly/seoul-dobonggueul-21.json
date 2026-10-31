@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-dobonggueul-21",
+  "candidate": {
+    "name": "오기형",
+    "party_id": "deobureo-minjudang",
+    "person_id": "o-gihyeong-1966",
+    "nec_huboid": "100135075"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-dobonggueul-01",
+      "title": "속시원한 교통, 도봉",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-dobonggueul-02",
+      "title": "지역경제가 살아나는 도봉",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-dobonggueul-03",
+      "title": "문화생태거점도시 도봉",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-dobonggueul-04",
+      "title": "안전하고 쾌적한 도봉",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-dobonggueul-05",
+      "title": "활력이 넘치는 도봉",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-dobonggueul-06",
+      "title": "아이와 노인이 행복한 도봉",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1110/003_100135075_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 도봉구을 당선인 오기형 (더불어민주당). 책자형 선거공보 PDF 7쪽 「도봉비전 당당한 도봉!」과 PDF 8쪽 「오기형의 청사진」의 분야 제목 6개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 9–10쪽 동별 공약, PDF 6쪽 더불어민주당 공약, PDF 4쪽 지난 4년 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

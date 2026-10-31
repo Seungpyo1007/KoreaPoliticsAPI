@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-bucheonsieul-21",
+  "candidate": {
+    "name": "설훈",
+    "party_id": "deobureo-minjudang",
+    "person_id": "seol-hun-1953",
+    "nec_huboid": "100136412"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-bucheonsieul-01",
+      "title": "내일이 기다려지는 부천",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsieul-02",
+      "title": "안심보육 교육중심 부천",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsieul-03",
+      "title": "경제 활력 넘치는 부천",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsieul-04",
+      "title": "내 삶이 훈훈해지는 부천",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-bucheonsieul-05",
+      "title": "깨끗한 공기, 안전한 부천",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4145/003_100136412_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 부천시을 당선인 설훈 (더불어민주당). 책자형 선거공보 PDF 7쪽 「힘 있는 설훈이 부천의 가치를 높이겠습니다!」 제목 3개와 PDF 10쪽 「듬직한 설훈이 부천의 내일을 함께 만들어갑니다!」 제목 2개. OCR 텍스트라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 3쪽 지난 4년 성과, PDF 5–6쪽 의정 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

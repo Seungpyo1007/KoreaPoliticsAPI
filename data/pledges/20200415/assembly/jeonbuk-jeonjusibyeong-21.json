@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonbuk-jeonjusibyeong-21",
+  "candidate": {
+    "name": "김성주",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-seongju-1964",
+    "nec_huboid": "100135939"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonbuk-jeonjusibyeong-01",
+      "title": "국제금융도시 전주를 꿈꿉니다",
+      "page": 7
+    },
+    {
+      "id": "21-jeonbuk-jeonjusibyeong-02",
+      "title": "탄소·수소경제로 전주형 일자리를 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-jeonbuk-jeonjusibyeong-03",
+      "title": "모두가 누리는 대한민국, 건강도시 전주 : 김성주 케어",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-jeonjusibyeong-04",
+      "title": "문화, 생태, 체육이 어우러진 관광거점도시 전주를 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-jeonjusibyeong-05",
+      "title": "자가용 없이도 살 수 있는 도시 전주",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4502/003_100135939_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전북 전주시병 당선인 김성주 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「김성주와 함께하는 전북 발전을 위한 5대 비전」 띠 제목 5개. 텍스트가 OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 9–10쪽 동별 공약(01–07), PDF 2·4쪽 지난 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

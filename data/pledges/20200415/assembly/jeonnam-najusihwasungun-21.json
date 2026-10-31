@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonnam-najusihwasungun-21",
+  "candidate": {
+    "name": "신정훈",
+    "party_id": "deobureo-minjudang",
+    "person_id": "sin-jeonghun-1964",
+    "nec_huboid": "100135257"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonnam-najusihwasungun-01",
+      "title": "나주를 에너지밸리로 특화하겠습니다",
+      "page": 11
+    },
+    {
+      "id": "21-jeonnam-najusihwasungun-02",
+      "title": "화순을 바이오메디컬 허브로 만들겠습니다",
+      "page": 11
+    },
+    {
+      "id": "21-jeonnam-najusihwasungun-03",
+      "title": "한전공대, 2022년까지 개교하겠습니다",
+      "page": 11
+    },
+    {
+      "id": "21-jeonnam-najusihwasungun-04",
+      "title": "경전선 전철화 차질없이 추진하겠습니다",
+      "page": 11
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4606/003_100135257_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전남 나주시화순군 당선인 신정훈 (더불어민주당). 책자형 선거공보 PDF 11쪽 「신정훈이 제안하고 문재인대통령이 약속한 나주, 화순 4대 행복 약속」 제목 4개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 같은 쪽 큰 구호(「글로벌 에너지신산업 허브로 조성하겠습니다!」)와 제목 아래 설명, PDF 5–9쪽 민생공약 「新답전보」 나주편·화순편·민생편 분야별 항목, PDF 10쪽 코로나 대응 당 공약, PDF 2–4쪽 경력은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

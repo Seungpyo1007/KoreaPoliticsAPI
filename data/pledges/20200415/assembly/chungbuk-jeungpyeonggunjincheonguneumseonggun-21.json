@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungbuk-jeungpyeonggunjincheonguneumseonggun-21",
+  "candidate": {
+    "name": "임호선",
+    "party_id": "deobureo-minjudang",
+    "person_id": "im-hoseon-1964",
+    "nec_huboid": "100137232"
+  },
+  "pledges": [
+    {
+      "id": "21-chungbuk-jeungpyeonggunjincheonguneumseonggun-01",
+      "title": "4차 산업 육성으로 도농이 상생하는 중부 3군",
+      "page": 7
+    },
+    {
+      "id": "21-chungbuk-jeungpyeonggunjincheonguneumseonggun-02",
+      "title": "중부3군 트라이앵글형 경제·산업 클러스터 구축",
+      "page": 7
+    },
+    {
+      "id": "21-chungbuk-jeungpyeonggunjincheonguneumseonggun-03",
+      "title": "군민이 안전한 중부 3군",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-jeungpyeonggunjincheonguneumseonggun-04",
+      "title": "생활안전 강화로 걱정 없는 중부 3군",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-jeungpyeonggunjincheonguneumseonggun-05",
+      "title": "우리 아이와 함께 행복한 중부 3군",
+      "page": 8
+    },
+    {
+      "id": "21-chungbuk-jeungpyeonggunjincheonguneumseonggun-06",
+      "title": "누구나 차별없는 중부 3군",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4310/003_100137232_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충북 증평군진천군음성군 당선인 임호선 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「기분좋은 변화! 살 맛나는 중부 3군」의 분야(잘사는·안전한·따뜻한 중부 3군)별 굵은 제목 6개. 제목 아래 • 세부 항목, PDF 10쪽 「지역발전, 지역숙원사업 임호선이 하겠습니다」 군별(음성·증평·진천) • 목록, PDF 9쪽 「임호선이 드리는 5가지 약속」(소통·의정 운영 약속), PDF 6쪽 경찰개혁은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-ansansisangrokgugap-21",
+  "candidate": {
+    "name": "전해철",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeon-haecheol-1962",
+    "nec_huboid": "100136987"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-ansansisangrokgugap-01",
+      "title": "본오뜰 농업생태공원 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgugap-02",
+      "title": "GTX-C 안산 유치 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgugap-03",
+      "title": "안산 트램 1호선 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgugap-04",
+      "title": "수영장 등 동별 주민 생활체육문화시설 확충",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgugap-05",
+      "title": "상록구 종합병원 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgugap-06",
+      "title": "신안산선의 원활한 개통 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgugap-07",
+      "title": "89블럭 등 스마트시티 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4118/003_100136987_20200415_10.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 안산시상록구갑 당선인 전해철 (더불어민주당). 책자형 선거공보 PDF 8쪽 「안산 발전을 위한 전해철의 새로운 비전! 핵심공약 | 지킬 약속!」 1–7 제목 7개. OCR 텍스트라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 9–10쪽 「전해철의 약속!」 분야별 공약(전국 정책 포함), PDF 5–7쪽 「지킨 약속」 등 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

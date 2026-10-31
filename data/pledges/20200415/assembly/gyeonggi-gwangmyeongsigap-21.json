@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-gwangmyeongsigap-21",
+  "candidate": {
+    "name": "임오경",
+    "party_id": "deobureo-minjudang",
+    "person_id": "im-ogyeong-1971",
+    "nec_huboid": "100137404"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-gwangmyeongsigap-01",
+      "title": "스포츠문화 국제도시 광명",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-gwangmyeongsigap-02",
+      "title": "환경개선과 도시재생으로 새로운 광명",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-gwangmyeongsigap-03",
+      "title": "일자리 팍팍! 지역경제 활활 광명",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-gwangmyeongsigap-04",
+      "title": "안전하고 재난없는 도시 광명",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-gwangmyeongsigap-05",
+      "title": "차별없는 복지 쾌적한 교육 광명",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4114/003_100137404_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 광명시갑 당선인 임오경 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「광명 5대 공약」 제목 5개. 제목 옆 한 줄 설명과 • 세부 항목, PDF 7–8쪽 「국정 5대 공약」(당 공약)은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

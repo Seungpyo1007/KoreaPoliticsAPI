@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-hwaseongsibyeong-21",
+  "candidate": {
+    "name": "권칠승",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gwon-chilseung-1965",
+    "nec_huboid": "100137257"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-hwaseongsibyeong-01",
+      "title": "홍익대학교 공과대학 유치",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsibyeong-02",
+      "title": "KTL(한국산업기술시험원) 2개 센터 유치",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsibyeong-03",
+      "title": "문재인정부 도시재생뉴딜사업 유치",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsibyeong-04",
+      "title": "중소벤처기업부 소공인복합지원센터 유치",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsibyeong-05",
+      "title": "그린뉴딜정책 추진",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsibyeong-06",
+      "title": "질병관리기관 유치 추진",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsibyeong-07",
+      "title": "노인·청년·신혼부부 지원 임대주택 건립 추진",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsibyeong-08",
+      "title": "농수산대학 이전부지 문화예술타운 유치 추진",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsibyeong-09",
+      "title": "GTX-C노선 및 신분당선 연장 추진",
+      "page": 10
+    },
+    {
+      "id": "21-gyeonggi-hwaseongsibyeong-10",
+      "title": "M버스(광역급행버스) 노선 신설 및 증설 추진",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4128/003_100137257_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 화성시병 당선인 권칠승 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「권칠승의 1하는공약」 상자 제목 10개(9쪽 아래 4개, 10쪽 아래 6개). 상자 위의 교육·경제·안심·복지·문화·교통 화성 분야 꼬리표, 상자 안 · 세부 항목, 같은 쪽 위쪽 분야별(교육·교통·경제·안심·복지·문화 화성) 공약 목록, PDF 8쪽 민주당 총선 정책공약, PDF 5–6쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

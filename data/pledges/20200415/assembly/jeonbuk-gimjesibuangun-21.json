@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonbuk-gimjesibuangun-21",
+  "candidate": {
+    "name": "이원택",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-wontaek-1970",
+    "nec_huboid": "100134606"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonbuk-gimjesibuangun-01",
+      "title": "인구감소·지방소멸 위기지역 지원을 위한 특별법 제정",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-gimjesibuangun-02",
+      "title": "새만금 국가정원 조성",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-gimjesibuangun-03",
+      "title": "국민연금연수원 유치",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-gimjesibuangun-04",
+      "title": "김제·부안, 부안·김제의 가까운 미래, 새만금 신항만과 국제공항을 거점으로 해양수산관광도시, 농생명산업도시로 추진",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-gimjesibuangun-05",
+      "title": "신산업 성장 거점 건설",
+      "page": 10
+    },
+    {
+      "id": "21-jeonbuk-gimjesibuangun-06",
+      "title": "첨단농생명수산업의 메카",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4509/003_100134606_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전북 김제시부안군 당선인 이원택 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「인구감소·지방소멸 대응 김제·부안 부안·김제 동반성장 6대 프로젝트」 01–06 제목 6개. 01의 앞머리 「1호 법안 _」과 02·03·05·06 제목 위 수식 문구(「환경·경제발전의 관광형 상생모델」 등)는 덜어냈다. 제목 아래 설명과 • 세부 항목, PDF 8쪽 분야별 지역현안 • 목록, PDF 4쪽 국정 약속, PDF 5쪽 도·청와대 시절 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

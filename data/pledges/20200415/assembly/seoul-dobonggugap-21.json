@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-dobonggugap-21",
+  "candidate": {
+    "name": "인재근",
+    "party_id": "deobureo-minjudang",
+    "person_id": "in-jaegeun-1953",
+    "nec_huboid": "100137172"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-dobonggugap-01",
+      "title": "청년의 희망을 키우겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-seoul-dobonggugap-02",
+      "title": "교통이 확~ 편리해집니다",
+      "page": 4
+    },
+    {
+      "id": "21-seoul-dobonggugap-03",
+      "title": "도봉의 가치가 상승합니다",
+      "page": 4
+    },
+    {
+      "id": "21-seoul-dobonggugap-04",
+      "title": "더 건강하고 더 행복해집니다",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1110/003_100137172_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 도봉구갑 당선인 인재근 (더불어민주당). 책자형 선거공보 PDF 4쪽 「인재근의 희망공약」 분야 제목 4개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 · 세부 항목, PDF 5–6쪽 확보 예산과 지난 성과, PDF 7쪽 당 공약, PDF 8–10쪽 코로나 대응과 의정 활동은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

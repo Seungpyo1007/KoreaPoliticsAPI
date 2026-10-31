@@ -1,0 +1,103 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-suwonsigap-21",
+  "candidate": {
+    "name": "김승원",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-seungwon-1969",
+    "nec_huboid": "100134971"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-suwonsigap-01",
+      "title": "북수원 4차산업 융합 클러스터 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-02",
+      "title": "신수원선 건설 정상 추진 및 신설역사 복합개발 시행",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-03",
+      "title": "수원의료원을 최첨단 종합병원 수준으로 업그레이드",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-04",
+      "title": "이목지구 에듀타운 조성으로 교육1번지 기반 구축",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-05",
+      "title": "국세공무원교육원 부지에 친환경 신도시 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-06",
+      "title": "영화문화관광지구 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-07",
+      "title": "1번 국도변 종 상향 추진 및 도시재생 촉진",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-08",
+      "title": "청소년 여가-교육-창의시설 확충 및 연계",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-09",
+      "title": "청년힐링창의공간 청춘어울림지대 건립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-10",
+      "title": "어르신 맞춤형 복지서비스 및 인프라 확충",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-11",
+      "title": "다문화가정의 생활, 교육, 일자리 지원센터 건립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-12",
+      "title": "청년, 여성, 어르신 등 1인세대 맞춤형 휴먼주택 공급 확대",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-13",
+      "title": "숲, 공원, 하천 보전 및 이용 편의 강화",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-14",
+      "title": "스마트교통체계 구축 및 수소·전기자동차 이용시설 확충",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-15",
+      "title": "육아, 교육, 주차, 안전 등 단독주택지역 생활SOC 확대",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-16",
+      "title": "찾아가는 음악회, 전시회 등 문화예술 인프라 확충",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-suwonsigap-17",
+      "title": "장안형 풀뿌리자치시스템 구축",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4101/003_100134971_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 수원시갑 당선인 김승원 (더불어민주당). 책자형 선거공보 PDF 9쪽 「장안경제 활력 UP! 활력 충전(Power Up) 7대 사업」 7개와 「살맛나는 장안, 삶의 질 UP! 삶의 질 업그레이드 10대 사업」 10개. 10대 사업은 각 줄 앞의 분야 표지(청소년·청년·어르신·다문화·주거권 등)를 덜고 사업 문구만 옮겼다. PDF 8쪽 「더불어민주당 수원시 국회의원 후보 더 큰 수원의 완성을 위한 7대 공약」(수원 후보 공동 공약)과 사법개혁·사회적 약자 공약, PDF 6쪽 코로나19·미세먼지 정책, PDF 9–10쪽 동별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

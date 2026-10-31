@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-eunpyeonggueul-21",
+  "candidate": {
+    "name": "강병원",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gang-byeongwon-1971",
+    "nec_huboid": "100136909"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-eunpyeonggueul-01",
+      "title": "교육 일번지 은평",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-eunpyeonggueul-02",
+      "title": "자연문화도시 은평",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-eunpyeonggueul-03",
+      "title": "막힘없는 은평",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-eunpyeonggueul-04",
+      "title": "혁신하는 은평",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-eunpyeonggueul-05",
+      "title": "민주주의 은평",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1112/003_100136909_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 은평구을 당선인 강병원 (더불어민주당). 책자형 선거공보 PDF 8쪽 「찾고 싶은 은평, 찾기 쉬운 은평!」 제목 5개(쪽 이미지의 위아래 순). 제목 아래 • 설명, PDF 7쪽 이낙연과의 신분당선 공통공약 안내, PDF 9쪽 민주당 전국 공약, PDF 3–4쪽 확보 예산과 PDF 6쪽 의정 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

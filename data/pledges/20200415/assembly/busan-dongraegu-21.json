@@ -1,0 +1,73 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-dongraegu-21",
+  "candidate": {
+    "name": "김희곤",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-huigon-1964",
+    "nec_huboid": "100137435"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-dongraegu-01",
+      "title": "명륜2 초등학교 신설을 추진하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-busan-dongraegu-02",
+      "title": "사직·온천지역에 학생전용도서관을 건립하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-busan-dongraegu-03",
+      "title": "믿을 수 있는 안전 보육을 위해 ‘다함께 돌봄센터’를 각 동에 설치하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-busan-dongraegu-04",
+      "title": "동네 야외놀이터를 \"키즈카페형 실내놀이터\"로 바꿔가겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-busan-dongraegu-05",
+      "title": "동래 한바퀴 투어 버스를 도입해 제2의 동래관광 전성시대를 열겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-busan-dongraegu-06",
+      "title": "금강공원 재개발 사업을 본 궤도에 올려 관광의 중심지로 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-busan-dongraegu-07",
+      "title": "온천장을 온천과 웰빙, 헬스, 주거가 공존하는 새로운 웰빙 시티로 바꾸어 나가겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-busan-dongraegu-08",
+      "title": "동래기차역을 문화와 휴식이 있는 새로운 상권 중심지로 만들어 나가겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-busan-dongraegu-09",
+      "title": "명장 정수장 주변 도로를 확장하고 명장 정수장 이전 검토를 시작하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-busan-dongraegu-10",
+      "title": "“내 삶 속의 온천천 만들기 프로젝트”를 시작하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-busan-dongraegu-11",
+      "title": "대심도 비상탈출구 현 위치 공사, 반대합니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2606/003_100137435_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 동래구 당선인 김희곤 (미래통합당). 책자형 선거공보 PDF 6쪽과 8쪽 「김희곤 1·2·3 동래구민에게 약속합니다!」 아래 제목 11개. 제목 아래 설명 문단은 넣지 않았다. PDF 9–10쪽 「중단 없는 동래발전!」(진행 중 사업 마무리)과 PDF 2–4쪽 정권 비판 지면도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

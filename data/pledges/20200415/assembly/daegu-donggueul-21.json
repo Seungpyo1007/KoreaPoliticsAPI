@@ -1,0 +1,33 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daegu-donggueul-21",
+  "candidate": {
+    "name": "강대식",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gang-daesik-1959",
+    "nec_huboid": "100137103"
+  },
+  "pledges": [
+    {
+      "id": "21-daegu-donggueul-01",
+      "title": "동구 재도약을 위한 5개 권역별 도시발전 계획",
+      "page": 6
+    },
+    {
+      "id": "21-daegu-donggueul-02",
+      "title": "고품격 도시구현을 위한 교육·문화시설 확충",
+      "page": 7
+    },
+    {
+      "id": "21-daegu-donggueul-03",
+      "title": "모든 구민들이 행복한 복지 동구 구현",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2702/003_100137103_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대구 동구을 당선인 강대식 (미래통합당). 책자형 선거공보 PDF 6–8쪽 「동구비전 3533」(3개 분야, 5개 권역, 33개 약속)의 분야 제목 3개. 쪽마다 큰 제목 아래 교통·도시개발·명품 교육 같은 분야 꼬리표와 • 항목만 있어 쪽 제목을 넣었다. • 항목, PDF 7쪽 「SNS를 통한 주민정책제안」 4개, PDF 9–10쪽 당 10대 공약, PDF 3–4쪽 구청장 시절 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

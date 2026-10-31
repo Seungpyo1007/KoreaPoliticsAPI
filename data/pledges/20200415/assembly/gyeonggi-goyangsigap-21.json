@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-goyangsigap-21",
+  "candidate": {
+    "name": "심상정",
+    "party_id": "jeonguidang",
+    "person_id": "sim-sangjeong-1959",
+    "nec_huboid": "100137089"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-goyangsigap-01",
+      "title": "덕양주민의 교통평등권 실현, 기필코 해내겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-goyangsigap-02",
+      "title": "덕양의 경제지도를 새로 그리겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-goyangsigap-03",
+      "title": "덕양주민의 삶의 질을 한 차원 높이겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-goyangsigap-04",
+      "title": "그린벨트 등 중첩된 규제를 합리적으로 풀어내겠습니다",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4120/003_100137089_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 고양시갑 당선인 심상정 (정의당). 펼침면으로 된 책자형 선거공보 PDF 4쪽 「고양그랜드플랜」 번호 공약 1–4 제목 4개를 넣었다. 제목 아래 설명과 - 세부 항목, 오른쪽 사업 사진 설명, PDF 5쪽 동별 공약과 전국 공약, PDF 3쪽 정치·경제 공약, PDF 2쪽 지난 8년 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

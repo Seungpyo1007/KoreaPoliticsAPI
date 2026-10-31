@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-pyeongtaeksigap-21",
+  "candidate": {
+    "name": "홍기원",
+    "party_id": "deobureo-minjudang",
+    "person_id": "hong-giwon-1964",
+    "nec_huboid": "100134584"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-pyeongtaeksigap-01",
+      "title": "미래 경제혁신 전략을 더 뿌리깊게",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksigap-02",
+      "title": "미래 핵심동력을 더 튼튼하게",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksigap-03",
+      "title": "지역상생 일자리 구축을 더 확실하게",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksigap-04",
+      "title": "육아와 아동 청소년 교육의 강력한 혁신",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksigap-05",
+      "title": "청년.여성.시민 평생학습시스템 구축",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksigap-06",
+      "title": "볼 것 많은 문화예술 특화공간 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksigap-07",
+      "title": "갈 곳 많은 걷고 싶은 도시 평택",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksigap-08",
+      "title": "시민 골고루 따뜻한 복지도시 평택",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pyeongtaeksigap-09",
+      "title": "100세 건강 친환경 안전도시 평택",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4115/003_100134584_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 평택시갑 당선인 홍기원 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 경제·교육·문화·복지 분야의 · 굵은 제목 9개. 제목 아래 - 세부 항목은 넣지 않았다. PDF 6쪽 「더불어민주당이 평택을 발전 강화 시키겠습니다 평택발전강화 특별위원회 7대 약속」은 당 위원회 이름으로 낸 목록이라 넣지 않았고, PDF 9–10쪽 동별 공약, PDF 4–5쪽 코로나19·소상공인 정부 대책도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

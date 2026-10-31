@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-geumcheongu-21",
+  "candidate": {
+    "name": "최기상",
+    "party_id": "deobureo-minjudang",
+    "person_id": "choe-gisang-1969",
+    "nec_huboid": "100137556"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-geumcheongu-01",
+      "title": "신안산선 조기 완공(안산·시흥~여의도 25분 소요)",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-geumcheongu-02",
+      "title": "인천지하철 2호선 독산역·신림역 연장",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-geumcheongu-03",
+      "title": "가산디지털단지역 시설 개선",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-geumcheongu-04",
+      "title": "공군부대 이전 및 부지개발",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-geumcheongu-05",
+      "title": "역세권 복합개발 추진",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-geumcheongu-06",
+      "title": "독산동 우시장 현대화사업",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-geumcheongu-07",
+      "title": "대형종합병원 유치",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-geumcheongu-08",
+      "title": "금천형 돌봄센터 공간 확대 운영",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-geumcheongu-09",
+      "title": "독산동 재활용처리장 이전 추진",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-geumcheongu-10",
+      "title": "지식기반산업집적지구 지정 추진 및 G밸리 활성화",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-geumcheongu-11",
+      "title": "서서울미술관 건립 (금나래공원 내)",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-geumcheongu-12",
+      "title": "호암산성 복원 및 역사공원화 추진",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1118/003_100137556_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 금천구 당선인 최기상 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「속도감 있는 더 큰 금천을 발전으로 만들겠습니다!」의 분야 4개(빨라집니다·세련되어 집니다·편안해 집니다·풍요로워 집니다) 아래 굵은 제목 12개를 넣었다. 제목 아래 설명 줄, PDF 5쪽 사법개혁 공약, PDF 6쪽 당 공약, PDF 4·9쪽 약력·이력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

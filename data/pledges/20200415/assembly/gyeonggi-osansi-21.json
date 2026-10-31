@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-osansi-21",
+  "candidate": {
+    "name": "안민석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "an-minseok-1966",
+    "nec_huboid": "100137506"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-osansi-01",
+      "title": "더 편한 사통팔달 교통도시 오산",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-osansi-02",
+      "title": "더 살고 싶은 교육도시 오산",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-osansi-03",
+      "title": "더 강한 경제도시 오산",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-osansi-04",
+      "title": "더 활기찬 문화·건강 도시 오산",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-osansi-05",
+      "title": "더 든든한 복지·안전도시 오산",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4127/003_100137506_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 오산시 당선인 안민석 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「오산의 가치를 두배 더 키우겠습니다」 분야 제목 5개. 제목 앞 큰 「더」 글자는 글자층에 없어 쪽 이미지를 보고 붙였다. 제목 아래 • 세부 항목, PDF 5–6쪽 지도 그림의 사업 이름표, PDF 9쪽 동별 공약과 어르신 효도공약, PDF 3–4쪽 지난 성과·교통 설명, PDF 10쪽 당 공약과 입법 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

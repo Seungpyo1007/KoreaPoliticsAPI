@@ -1,0 +1,168 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daejeon-yuseonggugap-21",
+  "candidate": {
+    "name": "조승래",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jo-seungrae-1968",
+    "nec_huboid": "100137602"
+  },
+  "pledges": [
+    {
+      "id": "21-daejeon-yuseonggugap-01",
+      "title": "관광특구 활성화를 위한 ‘국제 온천관광 거점지구’ 유치",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-02",
+      "title": "대전교도소 이전 정상 추진 및 도안 3단계 개발 촉진",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-03",
+      "title": "어르신ㆍ여성 맞춤형 일자리 확대 및 은퇴자 지원 강화",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-04",
+      "title": "장대동 ‘첨단센서시티’ 조성 및 죽동지구 상권 상생 방안 추진",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-05",
+      "title": "노은 농수산물시장 현대화 및 시설 개선 추진",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-06",
+      "title": "유성 데이터 정보센터 구축으로 혁신 성장 지원",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-07",
+      "title": "개방형 혁신 창업 거점 ‘스타트업 파크’ 조성",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-08",
+      "title": "바이오메디컬 산ㆍ학ㆍ연 협력 강화 및 지원 시스템 구축",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-09",
+      "title": "중장년 50플러스 인생 이모작 지원을 위한 플랫폼 조성",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-10",
+      "title": "전국 무료 와이파이 시대, 공공 WiFi 확대 설치",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-11",
+      "title": "게임 인식 개선과 산업 진흥을 위한 ‘게임법’ 개정",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-12",
+      "title": "출퇴근 상습 교통정체 해소",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-13",
+      "title": "유성복합터미널 정상 추진 및 명품화",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-14",
+      "title": "도안 갑천 친수구역, 사람중심 생태 호수공원 조성",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-15",
+      "title": "학하ㆍ계산동 일대 행정동 신설 및 복합커뮤니티센터 건립",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-16",
+      "title": "지방대학 육성을 위한 예산 확대 및 ‘국립대법’ 발의",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-17",
+      "title": "초ㆍ중ㆍ고등학교 공간혁신 및 교육환경 업그레이드",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-18",
+      "title": "학교 미세먼지 제로, 체육관 환기장치 설치",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-19",
+      "title": "유아교육ㆍ보육 국가 책임 강화 및 교사 처우 개선",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-20",
+      "title": "교육과 기술의 만남, 에듀테크 활성화",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-21",
+      "title": "수통골 유스호스텔 이전ㆍ신축 및 유성구 복합문화예술회관 건립",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-22",
+      "title": "대전국립숲체원과 연계한 방동ㆍ성북동 주변 관광 명소 개발",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-23",
+      "title": "월드컵경기장을 활용한 복합문화체육공간 마련",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-24",
+      "title": "주민 행복을 위한 생활체육 지원 확대 및 생활체육지도자 처우 개선",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-25",
+      "title": "정보통신기술을 활용한 선진 복지 시스템 구축",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-26",
+      "title": "진잠동 주차타워를 활용한 복합생활문화복지센터 추진",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-27",
+      "title": "어린이ㆍ여성 안전 위한 CCTV, 신호등, LED보안등, 안심벨 확대 설치",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-28",
+      "title": "1인 가구 실태조사 및 맞춤형 대책 마련",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-29",
+      "title": "장애인교육권 강화를 위한 ‘특수교육법’ 발의",
+      "page": 4
+    },
+    {
+      "id": "21-daejeon-yuseonggugap-30",
+      "title": "보훈회관 확대 이전 및 보훈 가족 처우 개선",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3004/003_100137602_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대전 유성구갑 당선인 조승래 (더불어민주당). 책자형 선거공보 PDF 4쪽(펼침면) 「유성과 대한민국의 미래를 위한 33약속! 7 Up!」 번호 공약 ①–㉚ 30개. ⑫ 아래 - 세부 항목과 분야 표제(경제 Up1 등), 국회 Up7의 ㉛–㉝(국회의원 국민소환제·윤리 의무·국회 세종의사당, 전국 정치 공약), PDF 3쪽 지난 성과, PDF 5–6쪽 의정 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

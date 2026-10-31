@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gangseogubyeong-21",
+  "candidate": {
+    "name": "한정애",
+    "party_id": "deobureo-minjudang",
+    "person_id": "han-jeongae-1965",
+    "nec_huboid": "100137251"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gangseogubyeong-01",
+      "title": "강북횡단선 조속 추진",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangseogubyeong-02",
+      "title": "서부광역철도 정상 추진",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangseogubyeong-03",
+      "title": "월드컵대교 올해 개통 예정",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangseogubyeong-04",
+      "title": "아이들이 행복한 강서",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1116/003_100137251_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 강서구병 당선인 한정애 (더불어민주당). 책자형 선거공보 PDF 8쪽 「강서구민과 함께 새로운 강서를」 제목 4개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 - 세부 항목, PDF 9–10쪽 지도 위 동네별 공약(「강서의 기분좋은 변화」 「여러분과 함께 합니다」), PDF 7쪽 전국 공약, PDF 3–6쪽 의정 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

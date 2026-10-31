@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-bucheonsijeong-21",
+  "candidate": {
+    "name": "서영석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "seo-yeongseok-1964",
+    "nec_huboid": "100135345"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-bucheonsijeong-01",
+      "title": "새로운 오정, 지하철시대의 완성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-bucheonsijeong-02",
+      "title": "오정의 확실한 변화를 준비하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsijeong-03",
+      "title": "주차 스트레스 줄여드리겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsijeong-04",
+      "title": "오정에 활기를 불어넣겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4145/003_100135345_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 부천시정 당선인 서영석 (더불어민주당). 책자형 선거공보 PDF 5–8쪽 지역 공약 쪽의 큰 제목 4개(PDF 5쪽 지하철, PDF 7쪽 확실한 변화·주차, PDF 8쪽 활기찬 오정)를 넣었다. OCR 글자가 섞여 있어 쪽 이미지를 보고 옮겼다. PDF 6쪽 노선별 항목과 제목 아래 • 세부 항목, PDF 9–10쪽 「비타민처방전」 계층별 공약(당 공약과 같은 내용), PDF 3쪽 국회 공약, PDF 2·4쪽 인사말은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

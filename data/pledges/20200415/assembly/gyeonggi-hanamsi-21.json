@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-hanamsi-21",
+  "candidate": {
+    "name": "최종윤",
+    "party_id": "deobureo-minjudang",
+    "person_id": "choe-jongyun-1966",
+    "nec_huboid": "100134652"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-hanamsi-01",
+      "title": "GTX-D 반드시 추진",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-hanamsi-02",
+      "title": "하남 “5철 시대”완성 추진",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-hanamsi-03",
+      "title": "서울을 선도하는 국제도시 하남",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-hanamsi-04",
+      "title": "미군공여지 내 대기업 본사 유치를 위한 ‘하남 데이터사이언스 파크’ 조성",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-hanamsi-05",
+      "title": "응급의료센터를 갖춘 종합병원 유치",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4131/003_100134652_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 하남시 당선인 최종윤 (더불어민주당). 책자형 선거공보 PDF 3–4쪽 「GTX-D로 가는 하남특별시, 하남의 가치를 두 배로!」 1–4번의 제목 띠 5개(1번은 띠가 둘이다). 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 설명·기본 구성 항목, PDF 5–6쪽 「행복한 하남, 시민이 제안하고 최종윤이 지키겠습니다」 분야별 공약, PDF 2쪽 더불어민주당 주요 공약, PDF 7쪽 감염병 대응은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,103 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-tongyeongsigoseonggun-21",
+  "candidate": {
+    "name": "정점식",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "jeong-jeomsik-1965",
+    "nec_huboid": "100137465"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-01",
+      "title": "제21대 국회 농림축산식품 해양수산위원 활동",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-02",
+      "title": "진심을 담은 복지 확대",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-03",
+      "title": "역사, 문화, 예술, 관광이 공존하는 도시 육성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-04",
+      "title": "봉평지구(구 신아sb 포함) 도시재생 뉴딜사업 및 해양케이블카 설치를 통한 관광산업 육성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-05",
+      "title": "한산대첩교 건설 및 연륙보도교와 관광섬 개발 등을 통한 섬 지역 관광인프라 구축",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-06",
+      "title": "KTX 통영·고성 역사 유치 및 역세권 개발",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-07",
+      "title": "학생과 여성이 우선되는 사회 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-08",
+      "title": "성동조선 부활을 통한 조선산업 활성화",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-09",
+      "title": "조선산업 사업영역 확대 및 적극 지원",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-10",
+      "title": "어촌뉴딜300사업 및 중화항 방파제 사업 본격화",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-11",
+      "title": "한려해상국립공원 구역 조정 추진",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-12",
+      "title": "스마트양식 클러스터 및 수산 식품 거점단지 조기 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-13",
+      "title": "자란만 해양치유센터 조기 완공",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-14",
+      "title": "가야 역사문화권 지정을 통한 관광산업 육성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-15",
+      "title": "농산물 전문 가공시설 건립 및 친환경 스마트 축산환경 조성",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-16",
+      "title": "무인항공기 종합타운 조기 완공",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongnam-tongyeongsigoseonggun-17",
+      "title": "통영·고성을 스포츠 메카로 육성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4805/003_100137465_20200414_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 통영시고성군 당선인 정점식 (미래통합당). 책자형 선거공보 PDF 9–10쪽 「정점식의 17가지 약속!」 제목 17개(각 줄 왼쪽에서 오른쪽 순). PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 4–8쪽 의정활동·지역 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

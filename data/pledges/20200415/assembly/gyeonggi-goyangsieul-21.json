@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-goyangsieul-21",
+  "candidate": {
+    "name": "한준호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "han-junho-1974",
+    "nec_huboid": "100137385"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-goyangsieul-01",
+      "title": "집 앞에 지하철역이 있는 고양",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-goyangsieul-02",
+      "title": "출퇴근이 편리한 고양",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-goyangsieul-03",
+      "title": "내 아이의 교육이 편리한 고양",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-goyangsieul-04",
+      "title": "건강한 미래를 함께할 수 있는 고양",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-goyangsieul-05",
+      "title": "전통과 현대가 공존하는 건강한 자연의 고양",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-goyangsieul-06",
+      "title": "지역 경제가 살아나는 고양",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4120/003_100137385_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 고양시을 당선인 한준호 (더불어민주당). 책자형 선거공보 PDF 6쪽 「상상한대로」와 PDF 8쪽 「약속한대로」·「계획한대로」 아래 ● 제목 6개. 제목 아래 • 세부 항목, 같은 항목을 지도 위치 번호로 다시 묶은 PDF 9–10쪽 「고양의 목소리를 듣겠습니다」 01–23과 동별 목록은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

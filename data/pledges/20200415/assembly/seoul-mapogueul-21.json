@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-mapogueul-21",
+  "candidate": {
+    "name": "정청래",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeong-cheongrae-1965",
+    "nec_huboid": "100134834"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-mapogueul-01",
+      "title": "서부광역철도 조기착공 및 성산역 추진",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-mapogueul-02",
+      "title": "舊성산자동차학원 부지 명품가족공원화 추진(물길, 문화공연시설, 어린이놀이시설 등)",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-mapogueul-03",
+      "title": "어린이안전사고 예방을 위한 매봉산 안전체험관 추진",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-mapogueul-04",
+      "title": "IoT기반 마포 미세먼지측정망 구축 지원",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-mapogueul-05",
+      "title": "서강대교 강변북로 구리방향 진입로 차질없는 설치",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-mapogueul-06",
+      "title": "서부면허시험장 이전 및 공공편익시설 유치 추진",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-mapogueul-07",
+      "title": "제2김대중대통령 기념관 건립 지원",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-mapogueul-08",
+      "title": "출판산업 활성화 지원 및 출판의거리 조성 추진",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-mapogueul-09",
+      "title": "관내 초·중·고등학교 교육환경 개선사업 추진",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1114/003_100134834_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 마포구을 당선인 정청래 (더불어민주당). 책자형 선거공보 PDF 7쪽 「대표공약」 9개. PDF 7–8쪽 동별 공약, PDF 9쪽 「중앙공약」, PDF 3–6쪽 약력과 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}
