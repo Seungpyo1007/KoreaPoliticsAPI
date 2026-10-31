@@ -1,0 +1,13 @@
+{
+  "id": "44180",
+  "type": "local-head",
+  "name": "보령시",
+  "sido": "충청남도",
+  "source_urls": [
+    "https://www.code.go.kr/stdcode/regCodeL.do",
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제9회 전국동시지방선거(20260603) 기준. id는 법정동코드 앞 5자리"
+}
