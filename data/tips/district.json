@@ -1,0 +1,12 @@
+{
+  "id": "district",
+  "kind": "term",
+  "title": "선거구",
+  "text": "국회의원 지역구 한 곳에서는 국회의원을 1명 뽑습니다. 지역구는 시·도 안에서 인구, 행정구역, 지리적 여건, 교통, 생활문화권을 보고 나눕니다.",
+  "source_urls": [
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%A7%81%EC%84%A0%EA%B1%B0%EB%B2%95/%EC%A0%9C21%EC%A1%B0",
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%A7%81%EC%84%A0%EA%B1%B0%EB%B2%95/%EC%A0%9C25%EC%A1%B0"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

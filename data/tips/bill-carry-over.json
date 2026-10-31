@@ -1,0 +1,11 @@
+{
+  "id": "bill-carry-over",
+  "kind": "loading",
+  "title": "회기와 법률안",
+  "text": "회기 안에 의결되지 못한 법률안도 폐기되지 않고 남습니다. 국회의원 임기가 끝나면 그때 폐기됩니다.",
+  "source_urls": [
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%ED%97%8C%EB%B2%95/%EC%A0%9C51%EC%A1%B0"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

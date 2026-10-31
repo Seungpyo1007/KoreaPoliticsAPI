@@ -1,0 +1,11 @@
+{
+  "id": "by-election",
+  "kind": "term",
+  "title": "보궐선거",
+  "text": "지역구 국회의원, 지역구 지방의원, 지방자치단체장 자리가 비면 보궐선거를 합니다. 비례대표 의원 자리가 비면 선거 없이 같은 정당 명부의 다음 순위가 이어받습니다. 정당이 해산됐거나 임기 만료 120일 안에 빈 자리는 이어받지 않습니다.",
+  "source_urls": [
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%A7%81%EC%84%A0%EA%B1%B0%EB%B2%95/%EC%A0%9C200%EC%A1%B0"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}
