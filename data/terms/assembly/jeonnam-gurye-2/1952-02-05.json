@@ -1,0 +1,18 @@
+{
+  "office": "assembly/jeonnam-gurye-2",
+  "person_id": "i-hanchang-1893",
+  "party_id": "jayudang-1951",
+  "party_name": "자유당",
+  "starts_on": "1952-02-05",
+  "ends_on": "1954-05-31",
+  "how": "by-election",
+  "election_id": null,
+  "source_urls": [
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OD21030011944P19666",
+    "https://ko.wikipedia.org/wiki/1952%EB%85%84_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EC%9E%AC%EB%B3%B4%EA%B6%90%EC%84%A0%EA%B1%B0",
+    "https://rokps.or.kr/profile/profile_view.asp?idx=871"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "국회 자료의 시작일 1950-02-05는 틀린 값임. 이판열 사망(1950-12-09)에 따른 1952-02-05 보궐선거 당선"
+}

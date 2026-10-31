@@ -1,0 +1,12 @@
+{
+  "id": "gyeongbuk-daegusigi-4",
+  "type": "assembly",
+  "name": "경북 대구시기",
+  "source_urls": [
+    "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=19580502&electionCode=2&cityCode=47&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EC%A0%9C4%EB%8C%80_%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%9B%90_%EB%AA%A9%EB%A1%9D"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제4대 국회. 국회 자료에는 이 선거구 의원이 대구을로 적혀 있음. 선관위 당선인 명부 경북 제6선거구, 위키백과 대구시 기"
+}

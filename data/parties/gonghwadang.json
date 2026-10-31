@@ -4,9 +4,12 @@
   "predecessor": null,
   "colors": [],
   "source_urls": [
-    "https://www.data.go.kr/data/15000900/openapi.do"
+    "https://www.data.go.kr/data/15000900/openapi.do",
+    "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fbi%2Fbipp01.jsp&topMenuId=BI&secondMenuId=BIPP01&menuId=BIPP01&statementId=BIPP01&oldElectionType=1&electionType=2&electionName=20160413&electionCode=-1&x=0&y=0",
+    "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fbi%2Fbipp01.jsp&topMenuId=BI&secondMenuId=BIPP01&menuId=BIPP01&statementId=BIPP01&oldElectionType=1&electionType=2&electionName=20200415&electionCode=-1&x=0&y=0",
+    "https://ko.wikipedia.org/wiki/%EA%B3%B5%ED%99%94%EB%8B%B9_%282014%EB%85%84%29"
   ],
   "verified": false,
-  "checked_at": "2026-10-22",
-  "note": "선관위 개표결과에 나오는 선거: 20160413, 20200415. 2016년과 2020년이 같은 정당인지는 확인 못 함"
+  "checked_at": "2026-11-01",
+  "note": "선관위 개표결과에 나오는 선거: 20160413, 20200415. 두 선거가 같은 정당임. 선관위 정당정책 자료의 정당 코드가 두 선거 모두 2010임(같은 이름의 다른 정당인 국민의당은 2016년 2080, 2020년 5040으로 다름). 2014-05-14 창당한 신동욱 총재의 공화당임(위키백과)"
 }
