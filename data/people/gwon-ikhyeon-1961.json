@@ -1,0 +1,43 @@
+{
+  "id": "gwon-ikhyeon-1961",
+  "name": "권익현",
+  "birth_year": 1961,
+  "external_ids": {
+    "nec_huboids": [
+      "100159616"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)부안군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)더불어민주당 당대표 특별보좌역 지방자치특보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전북대학교 대학원 행정학과 박사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

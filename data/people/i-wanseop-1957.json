@@ -1,0 +1,43 @@
+{
+  "id": "i-wanseop-1957",
+  "name": "이완섭",
+  "birth_year": 1957,
+  "external_ids": {
+    "nec_huboids": [
+      "100162794"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)서산시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)서산부시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "숭실대학교 대학원 IT 정책경영학과 졸업 (공학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

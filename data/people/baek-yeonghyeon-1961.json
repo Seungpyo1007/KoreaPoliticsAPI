@@ -1,0 +1,43 @@
+{
+  "id": "baek-yeonghyeon-1961",
+  "name": "백영현",
+  "birth_year": 1961,
+  "external_ids": {
+    "nec_huboids": [
+      "100162868"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)포천시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)소흘읍장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "단국대학교 토목공학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

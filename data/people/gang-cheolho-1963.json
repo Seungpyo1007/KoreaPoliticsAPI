@@ -1,0 +1,43 @@
+{
+  "id": "gang-cheolho-1963",
+  "name": "강철호",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100161624"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)부산광역시의회 운영위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)부산상공회의소 부회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한국해양대학교 해운항만물류학과 항만물류관리전공 졸업(물류학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

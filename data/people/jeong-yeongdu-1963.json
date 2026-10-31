@@ -1,0 +1,43 @@
+{
+  "id": "jeong-yeongdu-1963",
+  "name": "정영두",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100154419"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)노무현대통령비서실 경제정책행정관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)이재명대통령후보 총괄특보단 경제특보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "부산대학교 경제학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

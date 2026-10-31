@@ -1,0 +1,43 @@
+{
+  "id": "i-honggi-1958",
+  "name": "이홍기",
+  "birth_year": 1958,
+  "external_ids": {
+    "nec_huboids": [
+      "100158505"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)전국농어촌군수협의회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)거창군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "창원대학교 대학원 졸업(공학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

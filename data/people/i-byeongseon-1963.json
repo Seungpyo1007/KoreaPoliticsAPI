@@ -1,0 +1,43 @@
+{
+  "id": "i-byeongseon-1963",
+  "name": "이병선",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100162392"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)속초시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)강원도의회 의원(2선)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "동국대학교 교육대학원 교과교육학과 졸업(교육학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

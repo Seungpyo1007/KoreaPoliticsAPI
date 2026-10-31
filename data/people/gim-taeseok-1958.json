@@ -1,0 +1,43 @@
+{
+  "id": "gim-taeseok-1958",
+  "name": "김태석",
+  "birth_year": 1958,
+  "external_ids": {
+    "nec_huboids": [
+      "100154670"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 민선 7기 사하구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 여성가족부 차관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "미국 위스콘신주립대학교 공공정책·행정석사졸업(1990.9~1992.5)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

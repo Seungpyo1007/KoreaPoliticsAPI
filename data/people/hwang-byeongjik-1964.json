@@ -1,0 +1,43 @@
+{
+  "id": "hwang-byeongjik-1964",
+  "name": "황병직",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100153885"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 제5대·6대 영주시의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 경상북도의회 문화환경위원회 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경북대학교 행정대학원 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

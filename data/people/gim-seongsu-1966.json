@@ -1,0 +1,43 @@
+{
+  "id": "gim-seongsu-1966",
+  "name": "김성수",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100161620"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)해운대경찰서장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)국민의힘 부산시당 부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "부산대학교 행정대학원 졸업(행정학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

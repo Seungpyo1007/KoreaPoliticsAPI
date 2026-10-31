@@ -1,0 +1,43 @@
+{
+  "id": "gang-jinwon-1959",
+  "name": "강진원",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100162004"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 강진군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 42대, 43대 강진군수 ",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "미국 시라큐스 대학교 졸업(문학석사) (1999.08.~2001.05.)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

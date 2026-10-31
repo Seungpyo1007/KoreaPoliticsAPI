@@ -1,0 +1,43 @@
+{
+  "id": "bak-gwanyeol-1957",
+  "name": "박관열",
+  "birth_year": 1957,
+  "external_ids": {
+    "nec_huboids": [
+      "100153835"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)대통령직속 지방시대위원회 자문위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제10대 경기도의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 정책대학원 아태지역연구학과 졸업(정치학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

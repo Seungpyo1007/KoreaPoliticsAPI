@@ -1,0 +1,43 @@
+{
+  "id": "choe-yeongil-1971",
+  "name": "최영일",
+  "birth_year": 1971,
+  "external_ids": {
+    "nec_huboids": [
+      "100163638"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)전라북도의회 제10~11대의원(11대 후반기 부의장)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)순창군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전주대학교 경영학부(경영학사)졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

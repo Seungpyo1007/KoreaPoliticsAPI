@@ -1,0 +1,43 @@
+{
+  "id": "jeong-myeonggeun-1964",
+  "name": "정명근",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100160956"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 화성특례시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 더불어민주당 당대표 특별보좌역",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "중국사회과학원 대학원 졸업(국제정치학전공, 2003.09~2005.07 법학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

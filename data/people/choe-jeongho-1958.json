@@ -1,0 +1,43 @@
+{
+  "id": "choe-jeongho-1958",
+  "name": "최정호",
+  "birth_year": 1958,
+  "external_ids": {
+    "nec_huboids": [
+      "100154556"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)국토교통부 차관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)더불어민주당 당대표 특별보좌역 지방자치특보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "광운대학교 대학원 부동산학과 박사 과정 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "gim-jeongsik-1969",
+  "name": "김정식",
+  "birth_year": 1969,
+  "external_ids": {
+    "nec_huboids": [
+      "100156594"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)인천광역시 미추홀구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)더불어민주당 중앙위원회 중앙위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "인하대학교 정책대학원 행정학과 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

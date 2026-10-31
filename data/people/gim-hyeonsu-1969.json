@@ -1,0 +1,43 @@
+{
+  "id": "gim-hyeonsu-1969",
+  "name": "김현수",
+  "birth_year": 1969,
+  "external_ids": {
+    "nec_huboids": [
+      "100160777"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) KBS 창원방송총국 보도국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 경상남도 대외협력특별보좌관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 신문방송학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

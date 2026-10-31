@@ -1,0 +1,43 @@
+{
+  "id": "sin-donghwa-1966",
+  "name": "신동화",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100154423"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)구리시의회 의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)더불어민주당 정책위원회 부의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울시립대학교 도시과학대학원 도시행정학과 졸업 (도시행정학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

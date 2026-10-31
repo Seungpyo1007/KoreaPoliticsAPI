@@ -1,0 +1,43 @@
+{
+  "id": "gim-bora-1969",
+  "name": "김보라",
+  "birth_year": 1969,
+  "external_ids": {
+    "nec_huboids": [
+      "100162796"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 안성시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 전국사회연대경제지방정부협의회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대학교 간호학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

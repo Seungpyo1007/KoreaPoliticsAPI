@@ -1,0 +1,43 @@
+{
+  "id": "gim-jinyeol-1959",
+  "name": "김진열",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100162112"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)제43대 대구광역시 군위군 군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)군위축산협동조합 조합장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "진주산업대학교(현 경상국립대학교) 산업대학원 동물생명과학과 졸업(농학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

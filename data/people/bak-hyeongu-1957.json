@@ -1,0 +1,43 @@
+{
+  "id": "bak-hyeongu-1957",
+  "name": "박형우",
+  "birth_year": 1957,
+  "external_ids": {
+    "nec_huboids": [
+      "100157457"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)계양구청장 민선 5~7기",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)인천광역시의회의원 제2~3대",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "동양공업전문대학(현 동양미래대학교) 건축과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

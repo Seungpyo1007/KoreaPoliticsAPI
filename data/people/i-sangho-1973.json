@@ -1,0 +1,35 @@
+{
+  "id": "i-sangho-1973",
+  "name": "이상호",
+  "birth_year": 1973,
+  "external_ids": {
+    "nec_huboids": [
+      "100162480"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)태백시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한양대학교 행정·자치대학원 지방자치학과 졸업(지방자치학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

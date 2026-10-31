@@ -1,0 +1,43 @@
+{
+  "id": "im-taek-1963",
+  "name": "임택",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100158729"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)광주 동구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)더불어민주당 당대표 특별보좌역 지방자치특보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전남대학교 일반대학원 정치학과 박사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

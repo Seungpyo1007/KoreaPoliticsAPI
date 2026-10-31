@@ -5,7 +5,8 @@
   "external_ids": {
     "assembly_mona_cd": "DAV7257X",
     "nec_huboids": [
-      "100152198"
+      "100152198",
+      "100163170"
     ]
   },
   "career": [
@@ -35,6 +36,14 @@
     },
     {
       "text": "(현)제21대 국회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제21-22대 국회의원",
       "from": null,
       "to": null,
       "source_urls": [

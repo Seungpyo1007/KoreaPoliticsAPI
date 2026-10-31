@@ -1,0 +1,43 @@
+{
+  "id": "bak-hyeongdeok-1959",
+  "name": "박형덕",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100162748"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 경기도의회 제1연정위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 제6대 후반기 동두천시의회 의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "국립한경대학교 국제개발협력대학원 졸업(현 한경국립대학교)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

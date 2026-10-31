@@ -1,0 +1,43 @@
+{
+  "id": "bak-ungi-1967",
+  "name": "박운기",
+  "birth_year": 1967,
+  "external_ids": {
+    "nec_huboids": [
+      "100154445"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 더불어민주당 서대문구청장 후보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 서울시의회 재선의원(8대, 9대)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울시립대학교 도시과학대학원 도시행정학과 석사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

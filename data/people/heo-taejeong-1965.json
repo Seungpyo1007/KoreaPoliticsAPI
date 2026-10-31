@@ -1,0 +1,43 @@
+{
+  "id": "heo-taejeong-1965",
+  "name": "허태정",
+  "birth_year": 1965,
+  "external_ids": {
+    "nec_huboids": [
+      "100153736"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 대전광역시장(민선 7기)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 유성구청장(민선 5·6기)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "충남대학교 철학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

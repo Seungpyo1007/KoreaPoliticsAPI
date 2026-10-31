@@ -1,0 +1,43 @@
+{
+  "id": "min-gyeongseon-1971",
+  "name": "민경선",
+  "birth_year": 1971,
+  "external_ids": {
+    "nec_huboids": [
+      "100155611"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)경기교통공사 사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)더불어민주당 당대표 특별보좌역 정책특보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서강대학교 경제대학원 졸업(경제학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

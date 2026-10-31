@@ -1,0 +1,43 @@
+{
+  "id": "gim-gyeongho-1959",
+  "name": "김경호",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100162595"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)서울시 도시교통본부장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)광진구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "미국 오리건대학교 행정학석사(2001. 09. ~ 2003. 06.)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

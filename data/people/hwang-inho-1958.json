@@ -1,0 +1,43 @@
+{
+  "id": "hwang-inho-1958",
+  "name": "황인호",
+  "birth_year": 1958,
+  "external_ids": {
+    "nec_huboids": [
+      "100154226"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)대전광역시 동구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)이재명대통령후보 선대위 국가혁신특보단 지방자치특보 단장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "배재대학교 대학원 관광축제문화유산경영학과 졸업(관광축제문화유산경영학 박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

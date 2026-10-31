@@ -1,0 +1,43 @@
+{
+  "id": "jin-byeongyeong-1965",
+  "name": "진병영",
+  "birth_year": 1965,
+  "external_ids": {
+    "nec_huboids": [
+      "100163073"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)함양군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)재단법인 함양군장학회 이사장 ",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "진주산업대학교 산업대학원 건축공학과 졸업(공학석사, 현 경상국립대학교)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

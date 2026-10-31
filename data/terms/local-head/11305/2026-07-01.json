@@ -1,0 +1,15 @@
+{
+  "office": "local-head/11305",
+  "person_id": "jeong-changsu-1969",
+  "party_id": "deobureo-minjudang",
+  "starts_on": "2026-07-01",
+  "ends_on": null,
+  "how": "elected",
+  "election_id": "20260603",
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do",
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%A7%81%EC%84%A0%EA%B1%B0%EB%B2%95/%EC%A0%9C14%EC%A1%B0"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

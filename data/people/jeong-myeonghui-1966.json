@@ -1,0 +1,43 @@
+{
+  "id": "jeong-myeonghui-1966",
+  "name": "정명희",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100156818"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 제17대 부산광역시 북구 구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 제7대 부산광역시의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "부산대학교 약학대학 제약학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "gim-cheolhun-1959",
+  "name": "김철훈",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100154799"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)민선7기 영도구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)더불어민주당 당대표 특별보좌역",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한국해양대학교 대학원 해양문화콘텐츠융복합과정 박사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

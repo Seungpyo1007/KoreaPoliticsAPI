@@ -1,0 +1,43 @@
+{
+  "id": "gim-hakhong-1966",
+  "name": "김학홍",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100154216"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)경상북도 행정부지사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)행정안전부 지역혁신정책관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경북대학교 대학원 행정학과 졸업(행정학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

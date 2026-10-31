@@ -1,0 +1,43 @@
+{
+  "id": "an-byeongyun-1964",
+  "name": "안병윤",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100159497"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)부산광역시 행정부시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)청와대 대통령비서실 선임행정관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대학교 대학원 졸업(행정학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

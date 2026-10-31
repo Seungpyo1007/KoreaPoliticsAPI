@@ -1,0 +1,43 @@
+{
+  "id": "i-haksu-1960",
+  "name": "이학수",
+  "birth_year": 1960,
+  "external_ids": {
+    "nec_huboids": [
+      "100163655"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)제8대, 제10대 전라북도의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)정읍시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전주대학교 대학원 졸업(금융보험학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "im-hyeoncheol-1967",
+  "name": "임현철",
+  "birth_year": 1967,
+  "external_ids": {
+    "nec_huboids": [
+      "100154806"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)울산광역시 대변인",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제5대 울산광역시남구의회 후반기 의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "울산대학교 정책대학원 졸업(행정학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

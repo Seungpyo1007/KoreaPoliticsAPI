@@ -1,0 +1,43 @@
+{
+  "id": "an-jaemin-1979",
+  "name": "안재민",
+  "birth_year": 1979,
+  "external_ids": {
+    "nec_huboids": [
+      "100154756"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)국민의힘 중앙당 수석부대변인",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)국민의힘 임이자 국회의원 보좌관(4급 상당)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 대학원 행정학과 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

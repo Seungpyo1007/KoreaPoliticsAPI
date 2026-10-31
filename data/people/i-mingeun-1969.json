@@ -1,0 +1,43 @@
+{
+  "id": "i-mingeun-1969",
+  "name": "이민근",
+  "birth_year": 1969,
+  "external_ids": {
+    "nec_huboids": [
+      "100162786"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)안산시의회의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)안산시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한양대학교 행정ㆍ자치대학원 졸업 (지방자치학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

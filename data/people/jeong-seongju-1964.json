@@ -1,0 +1,43 @@
+{
+  "id": "jeong-seongju-1964",
+  "name": "정성주",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100163513"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)제7대 김제시의회 전반기 의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)김제시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전북대학교 행정대학원 졸업(행정학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

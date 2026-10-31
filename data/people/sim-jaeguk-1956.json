@@ -1,0 +1,43 @@
+{
+  "id": "sim-jaeguk-1956",
+  "name": "심재국",
+  "birth_year": 1956,
+  "external_ids": {
+    "nec_huboids": [
+      "100161176"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)제41대 평창군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제39대 평창군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "관동대학교 무역학과 석사과정 졸업(경영학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "bak-sangjun-1981",
+  "name": "박상준",
+  "birth_year": 1981,
+  "external_ids": {
+    "nec_huboids": [
+      "100156803"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 더불어민주당 강서구의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 더불어민주당 당대표 청년특보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "부산대학교 대학원 법학과 박사과정 재학중",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

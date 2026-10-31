@@ -1,0 +1,43 @@
+{
+  "id": "han-deuksu-1963",
+  "name": "한득수",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100160282"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)임실축협조합장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)더불어민주당 전국농어민위원회 부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "벽성대학 사회복지경영과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

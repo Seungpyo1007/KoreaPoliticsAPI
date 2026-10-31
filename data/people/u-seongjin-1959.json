@@ -1,0 +1,43 @@
+{
+  "id": "u-seongjin-1959",
+  "name": "우성진",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100155802"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)국민의힘 대구광역시당 부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)메가젠 임플란트 부사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "영남대학교 대학원 사회학과 졸업(사회학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

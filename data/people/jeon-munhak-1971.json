@@ -1,0 +1,43 @@
+{
+  "id": "jeon-munhak-1971",
+  "name": "전문학",
+  "birth_year": 1971,
+  "external_ids": {
+    "nec_huboids": [
+      "100154033"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)더불어민주당 당대표특보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)대전광역시의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "충남대학교 평화안보대학원 졸업(국제학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

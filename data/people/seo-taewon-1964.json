@@ -1,0 +1,43 @@
+{
+  "id": "seo-taewon-1964",
+  "name": "서태원",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100163623"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 국민의힘 경기도당 부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 가평군청 미래발전국장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "강원대학교 공과대학 건축공학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

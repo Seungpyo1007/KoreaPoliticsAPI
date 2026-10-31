@@ -1,0 +1,43 @@
+{
+  "id": "gim-chanjin-1967",
+  "name": "김찬진",
+  "birth_year": 1967,
+  "external_ids": {
+    "nec_huboids": [
+      "100162900"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 인천광역시 동구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 제20대 대통령직인수위원회 국민통합위원회 자문위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "조선대학교 대학원 졸업(치의학 박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

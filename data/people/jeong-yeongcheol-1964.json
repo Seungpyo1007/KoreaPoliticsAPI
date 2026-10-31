@@ -1,0 +1,43 @@
+{
+  "id": "jeong-yeongcheol-1964",
+  "name": "정영철",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100161763"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)옥천영동축협 조합장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)영동군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연암축산원예전문대학 축산과 졸업(현 연암대학교)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "na-dongyeon-1955",
+  "name": "나동연",
+  "birth_year": 1955,
+  "external_ids": {
+    "nec_huboids": [
+      "100162067"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 양산시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 6대,7대 양산시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "부산대학교 국제전문대학원 졸업(국제학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

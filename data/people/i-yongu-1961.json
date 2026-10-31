@@ -1,0 +1,43 @@
+{
+  "id": "i-yongu-1961",
+  "name": "이용우",
+  "birth_year": 1961,
+  "external_ids": {
+    "nec_huboids": [
+      "100158308"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)부여군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)한국중부발전(주) 상임감사위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "동국대학교 대학원 정치학과 박사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}
