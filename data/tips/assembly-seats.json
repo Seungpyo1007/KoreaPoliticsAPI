@@ -1,0 +1,11 @@
+{
+  "id": "assembly-seats",
+  "kind": "loading",
+  "title": "국회의원 정수",
+  "text": "국회의원은 지역구 254명과 비례대표 46명, 모두 300명입니다.",
+  "source_urls": [
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%A7%81%EC%84%A0%EA%B1%B0%EB%B2%95/%EC%A0%9C21%EC%A1%B0"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

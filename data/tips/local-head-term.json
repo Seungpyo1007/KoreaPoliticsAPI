@@ -1,0 +1,11 @@
+{
+  "id": "local-head-term",
+  "kind": "loading",
+  "title": "단체장 임기",
+  "text": "지방자치단체장 임기는 4년이고, 연달아서는 세 번까지만 할 수 있습니다.",
+  "source_urls": [
+    "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A7%80%EB%B0%A9%EC%9E%90%EC%B9%98%EB%B2%95/%EC%A0%9C108%EC%A1%B0"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

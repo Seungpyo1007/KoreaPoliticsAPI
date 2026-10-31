@@ -25,6 +25,8 @@ Deno.test("classify maps folders to kinds", () => {
   ]);
   assertEquals(classify("data/assemblies/22.json")?.kind, "assembly");
   assertEquals(classify("data/events/2016-12-09_impeachment.json")?.kind, "event");
+  assertEquals(classify("data/tips/ruling-party.json")?.parts, ["ruling-party"]);
+  assertEquals(classify("data/tips/term/ruling-party.json"), null);
   assertEquals(classify("data/people/a/b.json"), null);
 });
 
@@ -41,6 +43,8 @@ Deno.test("path must agree with the record", () => {
     data: { office: "assembly/nec-2", starts_on: "2024-05-30" },
   };
   assertEquals(checkPath(rec, ["assembly", "nec-1", "2024-05-30"]).length, 1);
+  const tip: Rec = { path: "data/tips/veto.json", kind: "tip", data: { id: "impeachment" } };
+  assertEquals(checkPath(tip, ["veto"]).length, 1);
 });
 
 Deno.test("dates must exist and run forward", () => {
