@@ -1,0 +1,13 @@
+{
+  "id": "12840",
+  "type": "local-head",
+  "name": "장성군",
+  "sido": "전남광주통합특별시",
+  "source_urls": [
+    "https://www.code.go.kr/stdcode/regCodeL.do",
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제9회 전국동시지방선거(20260603) 기준. id는 법정동코드 앞 5자리. 선관위 9회 선거구의 시·도명은 전라남도"
+}

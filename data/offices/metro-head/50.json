@@ -1,0 +1,13 @@
+{
+  "id": "50",
+  "type": "metro-head",
+  "name": "제주특별자치도",
+  "sido": "제주특별자치도",
+  "source_urls": [
+    "https://www.code.go.kr/stdcode/regCodeL.do",
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제9회 전국동시지방선거(20260603) 기준. id는 법정동코드 앞 2자리. 제주시, 서귀포시는 행정시라 시장을 선거로 뽑지 않아 local-head 자리 없음"
+}
