@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-suwonsijeong-20",
+  "candidate": {
+    "name": "박광온",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-gwangon-1957",
+    "nec_huboid": "100120208"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-suwonsijeong-01",
+      "title": "덴마크형 자유학기제 특구 추진",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-suwonsijeong-02",
+      "title": "광교 테크노밸리 내 ‘청년 크리에이티브 랩creative lab’ 설립",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-suwonsijeong-03",
+      "title": "청년 모태펀드(fund of funds) 신설",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-suwonsijeong-04",
+      "title": "대학가(아주대, 경기대) 주변 및 원룸지역, 버스정류장 등 대중교통시설 공공 와이파이 존 구축",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-suwonsijeong-05",
+      "title": "청년을 고용하고, 고용을 유지한 중소기업에 정부 지원 확대",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-suwonsijeong-06",
+      "title": "중소기업에 취업한 영통구 청년들의 소득세 감면 대폭 확대",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4104/003_100120208_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 수원시정 당선인 박광온 (더불어민주당). 머리 공약 목록이 없어 굵은 제목 줄을 넣었다. 책자형 선거공보 PDF 8쪽 「보육. 교육 걱정 덜고 엄마 아빠가 행복한 영통구!」의 중학교 제목 1개와 PDF 9쪽 「박광온의 꿈 걱정말아요, 청년」의 제목 5개. 'creative lab'은 원문에서 위첨자로 붙어 있다. PDF 7쪽 「걱정말아요, 우리 아이」의 임신·출산~초등학교 단계별 항목은 굵은 제목이 아닌 나열이라 넣지 않았다. PDF 9쪽 국민연금기금 청년임대주택, PDF 8쪽 기초연금·정리해고 문구는 당 전국 공약이라 넣지 않았고, PDF 10쪽 광교·매탄·영통·원천 동별 공약, 제목 아래 · 세부 항목, PDF 5–6쪽 지난 성과도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

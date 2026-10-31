@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-seochogueul-20",
+  "candidate": {
+    "name": "박성중",
+    "party_id": "saenuridang",
+    "person_id": "bak-seongjung-1958",
+    "nec_huboid": "100118501"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-seochogueul-01",
+      "title": "경부고속도로 지상공원",
+      "page": 2
+    },
+    {
+      "id": "20-seoul-seochogueul-02",
+      "title": "자연생태하천",
+      "page": 2
+    },
+    {
+      "id": "20-seoul-seochogueul-03",
+      "title": "하늘공원과 IT밸리",
+      "page": 2
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1122/003_100118501_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 서초구을 당선인 박성중 (새누리당). 책자형 선거공보 PDF 2쪽 「이것 만은 꼭! 해내겠습니다」 권역별(서초권·방배권·양재권) 제목 3개. 제목 위 권역 이름과 아래 설명은 넣지 않았다. PDF 3–4쪽 「권역별 맞춤형 사업」의 - 세부 항목, PDF 5–6쪽 국정 다짐, PDF 7쪽 구청장 시절 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

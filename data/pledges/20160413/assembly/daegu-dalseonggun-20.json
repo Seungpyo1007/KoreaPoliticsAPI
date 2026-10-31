@@ -1,0 +1,168 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-dalseonggun-20",
+  "candidate": {
+    "name": "추경호",
+    "party_id": "saenuridang",
+    "person_id": "chu-gyeongho-1960",
+    "nec_huboid": "100119352"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-dalseonggun-01",
+      "title": "국가산업단지내 번듯한 기업과 융복합 신성장 업체 유치 및 세계최초 물산업 클러스트 조성",
+      "page": 6
+    },
+    {
+      "id": "20-daegu-dalseonggun-02",
+      "title": "달성2차 일반산업단지를 국가산업단지로 승격 추진",
+      "page": 6
+    },
+    {
+      "id": "20-daegu-dalseonggun-03",
+      "title": "대구테크노폴리스 교육·연구·첨단산업 집적단지 조성",
+      "page": 6
+    },
+    {
+      "id": "20-daegu-dalseonggun-04",
+      "title": "달성1차산업단지 리모델링을 통한 기업환경 개선과 업종 고도화 및 용호천 수질 개선",
+      "page": 6
+    },
+    {
+      "id": "20-daegu-dalseonggun-05",
+      "title": "대구교도소와 연계한 재활산업단지 조성",
+      "page": 6
+    },
+    {
+      "id": "20-daegu-dalseonggun-06",
+      "title": "서대구 ~ 국가산업단지 간 산업철도 건설",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-dalseonggun-07",
+      "title": "주요도로 교통망 확충",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-dalseonggun-08",
+      "title": "지하철 1호선 서편연장 환승 주차장 및 화물차 공영 차고지 조성",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-dalseonggun-09",
+      "title": "달성군 운행 시내버스 노선 재조정 및 마을 택시 운영으로 교통 불편 해소",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-dalseonggun-10",
+      "title": "구지 고봉리와 국가산업단지 간 접속도로 이설",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-dalseonggun-11",
+      "title": "그린벨트·도시자연공원구역 등 과도한 개발제한 규제 완화",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseonggun-12",
+      "title": "대구취수원 낙동강 상류 지역 이전",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseonggun-13",
+      "title": "문양역세권 종합개발",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseonggun-14",
+      "title": "대구교도소 이전 후적지 개발 및 구라지구 개발",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseonggun-15",
+      "title": "논공(금포, 상·하리), 현풍(부리) 일원 도시개발사업 및 현풍 구도심 재생사업 추진",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseonggun-16",
+      "title": "하천 재해예방 및 생태환경 조성 (용계천, 하빈천, 차천천)",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseonggun-17",
+      "title": "국가산업단지 3구역 편입주민(5개 마을) 이주자 택지 변경",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseonggun-18",
+      "title": "낙동강·금호강 수변 체육·가족 여가시설 확충",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseonggun-19",
+      "title": "달성공원 동물원 달성군 내 이전",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseonggun-20",
+      "title": "사문진, 달성습지, 강정보 생태관광 삼각벨트 구축",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseonggun-21",
+      "title": "송해공원 연계 주변 개발",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseonggun-22",
+      "title": "달성보, 약산온천지구 등 관광 활성화 사업 추진",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseonggun-23",
+      "title": "비슬산 복합 휴양 단지 및 달창저수지 관광자원화 사업 추진",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseonggun-24",
+      "title": "가창 전원 힐링 테마파크 및 최정산 누리길 조성 추진",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseonggun-25",
+      "title": "달성교육지원청 달성군 내 이전, 달성군 공무원 증원, 달성경찰서 확장",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-dalseonggun-26",
+      "title": "노인·장애인 복지시설 확충",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-dalseonggun-27",
+      "title": "가창면민 종합복지관 건립",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-dalseonggun-28",
+      "title": "보육·교육시설 확충",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-dalseonggun-29",
+      "title": "도시근교형 시설하우스 현대화 사업 추진",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-dalseonggun-30",
+      "title": "옥포 신당·논공 삼리지구 배수개선 사업 추진",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2708/003_100119352_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 달성군 당선인 추경호 (새누리당). 책자형 선거공보 PDF 6–10쪽 「달성발전을 위한 30대 공약」 ①–⑤ 분야의 항목 제목 30개. 분야 머리글(\"경제통, 추경호가 지역경제를 튼튼하게 하겠습니다!\" 등)은 구호성 문장이라 넣지 않고, 30대 공약을 이루는 • 항목을 제목으로 옮겼다. • 항목 아래 - 세부 항목(도로 건설 구간, 복지관 건립 등)과 PDF 2–5·11쪽 인사말·약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

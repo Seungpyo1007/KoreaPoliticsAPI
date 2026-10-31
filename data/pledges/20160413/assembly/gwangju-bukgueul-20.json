@@ -1,0 +1,78 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gwangju-bukgueul-20",
+  "candidate": {
+    "name": "최경환",
+    "party_id": "gungminui-dang",
+    "person_id": "choe-gyeonghwan-1959",
+    "nec_huboid": "100118349"
+  },
+  "pledges": [
+    {
+      "id": "20-gwangju-bukgueul-01",
+      "title": "문화·예술 허브 마을 조성",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-bukgueul-02",
+      "title": "운암산 근린공원 생태숲 조성",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-bukgueul-03",
+      "title": "복합 문화·복지 커뮤니티센터 건립",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-bukgueul-04",
+      "title": "‘레저·생활스포츠특구’ 조성",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-bukgueul-05",
+      "title": "경쟁력있는 도농 발전",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-bukgueul-06",
+      "title": "도서관 시범마을, 체험교육 메카 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gwangju-bukgueul-07",
+      "title": "살레시오고·숭일고 진입로 확장",
+      "page": 8
+    },
+    {
+      "id": "20-gwangju-bukgueul-08",
+      "title": "비엔날레 상징 국제타운(중외종합예술공원) 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gwangju-bukgueul-09",
+      "title": "첨단 임대아파트 분양문제 해결",
+      "page": 8
+    },
+    {
+      "id": "20-gwangju-bukgueul-10",
+      "title": "365민원봉사실, 주민생활복합센터 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gwangju-bukgueul-11",
+      "title": "버스 노선 등 대중교통 체계 개편",
+      "page": 8
+    },
+    {
+      "id": "20-gwangju-bukgueul-12",
+      "title": "마을 가꾸기사업 발굴육성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2904/003_100118349_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 광주 북구을 당선인 최경환 (국민의당). 책자형 선거공보 PDF 7–8쪽 「희망의 북구 공동체를 만들겠습니다」 권역별 마을 아래 ▲ 굵은 제목 11개와 「마을 가꾸기사업 발굴육성」 1개. PDF 3–8쪽은 글자층이 거의 없어 쪽 이미지를 보고 옮겼다. PDF 5–6쪽 믿음·희망·사랑·행동 묶음은 분야 이름 아래 • 항목만 있어 넣지 않았고, PDF 9쪽 「국민과의 7대 약속」은 전국 정치 공약이라 넣지 않았다. 권역 이름(「문화·예술 허브 마을(운암·동림동 권역)」 등)과 제목 아래 설명 글도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-bucheonsiwonmigugap-20",
+  "candidate": {
+    "name": "김경협",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-gyeonghyeop-1962",
+    "nec_huboid": "100119381"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigugap-01",
+      "title": "춘의·원미 공업지역 디지털산업단지 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigugap-02",
+      "title": "뉴타운·재개발 후속대책 원도심 재생",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigugap-03",
+      "title": "사통팔달 광역교통망 조기완성 추진",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigugap-04",
+      "title": "종합운동장 역세권 개발",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigugap-05",
+      "title": "안전한 부천",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4111/003_100119381_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 부천시원미구갑 당선인 김경협 (더불어민주당). 책자형 선거공보 PDF 8쪽 「시작도 완성도 시민과 ‘더불어’」 광역공약 약속 1–5 제목 5개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 굵은 소제목과 | 세부 항목, PDF 9쪽 국정공약, PDF 10쪽 동별 공약, PDF 5–6쪽 당 정책대안, PDF 7쪽 초선 4년 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

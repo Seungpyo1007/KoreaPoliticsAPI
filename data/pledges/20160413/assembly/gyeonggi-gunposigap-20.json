@@ -1,0 +1,98 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-gunposigap-20",
+  "candidate": {
+    "name": "김정우",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-jeongu-1968",
+    "nec_huboid": "100120303"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-gunposigap-01",
+      "title": "GTX 군포시대, GTX 경제의 중심 군포",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-02",
+      "title": "당정공업지구, 스마트경제도시화",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-03",
+      "title": "정보-지식산업 산학연 클러스트 조성",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-04",
+      "title": "주거·보육친화 도시",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-05",
+      "title": "거리문화 부활, 사람이 모여드는 명소거리 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-06",
+      "title": "군포식 중소기업·소상공인 지원시스템",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-07",
+      "title": "전통시장의 실질적인 활성화 추진",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-08",
+      "title": "군포식 일자리 창출 시스템",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-09",
+      "title": "시민 배려도시",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-10",
+      "title": "자연 배려도시",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-11",
+      "title": "일자리 배려도시",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-12",
+      "title": "건강 배려도시",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-13",
+      "title": "교육 배려도시",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-14",
+      "title": "여성·청소년·어르신 배려도시",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-15",
+      "title": "문화예술 배려도시",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-gunposigap-16",
+      "title": "복지 배려도시",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4130/003_100120303_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 군포시갑 당선인 김정우 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 7–8쪽 「경제도시, 군포를 살맛나게 만들겠습니다」 제목 8개와 PDF 9–10쪽 「김정우식, 군포 대한민국 1호 배려도시로 탄생합니다」 제목 8개를 넣었다. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 설명과 - 세부 항목, PDF 2–6쪽 인사말·약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

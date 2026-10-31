@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gangbukgugap-20",
+  "candidate": {
+    "name": "정양석",
+    "party_id": "saenuridang",
+    "person_id": "jeong-yangseok-1958",
+    "nec_huboid": "100119090"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gangbukgugap-01",
+      "title": "자녀 키우기 좋은 강북구",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-gangbukgugap-02",
+      "title": "노인 어르신이 살기 편한 강북구",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-gangbukgugap-03",
+      "title": "내 집 고치기 쉬운 강북구",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gangbukgugap-04",
+      "title": "관광객이 찾아오는 강북구",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1109/003_100119090_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 강북구갑 당선인 정양석 (새누리당). 책자형 선거공보 PDF 7–9쪽 「20대 국회 이제는 일하고 싶습니다 정양석의 약속」 첫째–넷째 제목 4개. 다섯째 「정양석 후보에게 바랍니다」는 주민 요청 쪽지 모음이라 넣지 않았다. 제목 아래 현 실태·대책방안·추진 절차, PDF 2–6쪽 18대 의정 활동과 낙선 기간 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daejeon-donggu-20",
+  "candidate": {
+    "name": "이장우",
+    "party_id": "saenuridang",
+    "person_id": "i-jangu-1965",
+    "nec_huboid": "100120236"
+  },
+  "pledges": [
+    {
+      "id": "20-daejeon-donggu-01",
+      "title": "교육이 먼저입니다 : 동구 교육 달라져야 합니다",
+      "page": 7
+    },
+    {
+      "id": "20-daejeon-donggu-02",
+      "title": "철도문화의 중심 : 철도박물관을 유치 하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-daejeon-donggu-03",
+      "title": "공공보건 : 대한민국 최고의 시립의료원 건립 지원",
+      "page": 7
+    },
+    {
+      "id": "20-daejeon-donggu-04",
+      "title": "전통문화 : 전통유교관과 체험마을 조성",
+      "page": 7
+    },
+    {
+      "id": "20-daejeon-donggu-05",
+      "title": "생활체육시설 대폭 확충 : 건전한 여가 선용 활성화",
+      "page": 7
+    },
+    {
+      "id": "20-daejeon-donggu-06",
+      "title": "주거환경개선사업 : 완공까지 꼼꼼하게 마무리합니다",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-donggu-07",
+      "title": "대전역세권개발 : 반드시 성공시키겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-donggu-08",
+      "title": "홍도육교 지하화 : 조기완료로 시민불편 최소화",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-donggu-09",
+      "title": "도시철도2호선 : 조기착공 및 동구구간 지하화 관철",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-donggu-10",
+      "title": "도시철도1호선 연장 : 판암역-옥천역",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/3001/003_100120236_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대전 동구 당선인 이장우 (새누리당). 책자형 선거공보 PDF 7–8쪽 띠 제목 공약 10개(쪽마다 위에서 아래 순). 제목 아래 두 줄 설명, PDF 7–8쪽 아래 「동.별.공.약」, PDF 9쪽 당 공약(새누리와 함께 1–5 등), PDF 3–6쪽 구청장·의정 성과와 확보 예산은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

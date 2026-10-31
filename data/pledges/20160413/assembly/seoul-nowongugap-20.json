@@ -1,0 +1,63 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-nowongugap-20",
+  "candidate": {
+    "name": "고용진",
+    "party_id": "deobureo-minjudang",
+    "person_id": "go-yongjin-1964",
+    "nec_huboid": "100118724"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-nowongugap-01",
+      "title": "광운대역 개발문제! 잘못 끼워진 단추를 바로 끼워야 합니다",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-nowongugap-02",
+      "title": "동북선 경전철 개발사업! 속도를 내겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-nowongugap-03",
+      "title": "경춘선을 청춘선으로! 그 약속을 지키겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-nowongugap-04",
+      "title": "한전연수원 부지에 나노·IT·에너지·바이오·메디컬 밸리를! 노원의 신성장 동력을 만들어내겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-nowongugap-05",
+      "title": "광운대역-의정부 연결 KTX(GTX)사업 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-nowongugap-06",
+      "title": "가계부채 종합상담센터 유치",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-nowongugap-07",
+      "title": "문화·교육·스포츠 인프라 확충",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-nowongugap-08",
+      "title": "국공립 보육시설 확충",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-nowongugap-09",
+      "title": "태릉입구역(구 북부지원) 상권 활성화 추진",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1111/003_100118724_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 노원구갑 당선인 고용진 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「노원이 키운 사람, 노원을 키울 사람, 고용진의 약속」의 공약 제목 4개(파란 제목 줄과 그 아래 검은 줄을 이음)와 PDF 10쪽 아래 ■ 공약 5개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 설명 글, PDF 7–8쪽 「더더더」 정치·복지 다짐은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

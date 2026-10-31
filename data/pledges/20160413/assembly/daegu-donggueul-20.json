@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-donggueul-20",
+  "candidate": {
+    "name": "유승민",
+    "party_id": null,
+    "person_id": "yu-seungmin-1958",
+    "nec_huboid": "100119663"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-donggueul-01",
+      "title": "‘금호강 성장벨트’에서 대구의 미래를 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-daegu-donggueul-02",
+      "title": "대구의 꿈! 유승민의 꿈! K2 이전이 현실이 됩니다",
+      "page": 6
+    },
+    {
+      "id": "20-daegu-donggueul-03",
+      "title": "소음피해 배상금은 더 넓은 지역, 더 많은 주민들에게 공평하게",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-donggueul-04",
+      "title": "안심연료단지 개발! 수십년 묵은 숙원사업을 반드시 해결하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-donggueul-05",
+      "title": "첨단의료복합단지(첨복)의 성공을 강력히 뒷받침하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-donggueul-06",
+      "title": "제3정부전산센터 건립! 대구경제의 효자로 키우겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggueul-07",
+      "title": "매여동 제2항공교통센터(ATC) 건립",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggueul-08",
+      "title": "공산 상수원보호구역의 일부 해제를 반드시 추진하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggueul-09",
+      "title": "안심창조밸리를 동구의 새로운 힐링공간으로 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggueul-10",
+      "title": "조국을 위해 희생하신 분들의 보훈을 위해 더욱 노력하겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2702/003_100119663_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 동구을 당선인 유승민 (무소속). 책자형 선거공보 PDF 5–8쪽 「유승민의 약속」 띠 제목 10개. 글자층에 띄어쓰기가 빠져 있어 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목과 설명 글, PDF 9–10쪽 분야별(교통·지역경제·교육·문화관광·복지·생활환경) • 공약과 - 동별 도로 사업, PDF 5쪽 위쪽 국비 확보 성과와 PDF 6쪽 K2 이전 연혁은 넣지 않았다. 끝의 !·.만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

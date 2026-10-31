@@ -1,0 +1,73 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-yangsansigap-20",
+  "candidate": {
+    "name": "윤영석",
+    "party_id": "saenuridang",
+    "person_id": "yun-yeongseok-1964",
+    "nec_huboid": "100119130"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-yangsansigap-01",
+      "title": "고품격 문화예술 도시건설",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongnam-yangsansigap-02",
+      "title": "원도심 주거환경 개선",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongnam-yangsansigap-03",
+      "title": "지역상권 활성화",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongnam-yangsansigap-04",
+      "title": "특목고 특성화고 유치",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-yangsansigap-05",
+      "title": "사교육비 부담없는 양산",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-yangsansigap-06",
+      "title": "아이 키우기 편한 도시, 양산",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-yangsansigap-07",
+      "title": "건강하고 부담없는 학교 환경 조성",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-yangsansigap-08",
+      "title": "양산 ICD 부울경의 새로운 랜드마크",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-yangsansigap-09",
+      "title": "부산대 양산캠퍼스 조성사업 활성화",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-yangsansigap-10",
+      "title": "범어리~가촌리 지하차도 건설",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-yangsansigap-11",
+      "title": "유산산업단지 리모델링 착수",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4814/003_100119130_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 양산시갑 당선인 윤영석 (새누리당). 책자형 선거공보 PDF 5–6쪽 「생동감 있는 지역경제 윤영석! 만들겠습니다」 「교육도시 양산의 희망 윤영석! 키우겠습니다」 「양산 발전의 밑거름 윤영석! 준비하겠습니다」 아래 색 글씨 제목 11개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 5쪽 첫 묶음 「우리 이웃의 희노애락 윤영석! 함께 하겠습니다」(가계부담 완화, 공정사회 구현, 맞춤형 복지양산)는 노인복지청 신설 등 전국 공약이라 넣지 않았다. 제목 옆 • 세부 항목, PDF 9–10쪽 읍·면·동 공약, PDF 4쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

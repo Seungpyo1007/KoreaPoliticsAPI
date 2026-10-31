@@ -1,0 +1,118 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-namgugap-20",
+  "candidate": {
+    "name": "김정훈",
+    "party_id": "saenuridang",
+    "person_id": "gim-jeonghun-1957",
+    "nec_huboid": "100120287"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-namgugap-01",
+      "title": "‘KAIST 금융전문대학원’을 부산국제금융센터에 설립하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-busan-namgugap-02",
+      "title": "지역 청년 일자리를 더욱 늘리겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-busan-namgugap-03",
+      "title": "남구를 세계 평화의 거리로 만들 ‘유엔참전기념거리’ 조성",
+      "page": 5
+    },
+    {
+      "id": "20-busan-namgugap-04",
+      "title": "세계적인 평화문화관광의 명소로 만들 ‘유엔메모리얼파크’ 조성",
+      "page": 5
+    },
+    {
+      "id": "20-busan-namgugap-05",
+      "title": "남구를 세계적인 수산교육도시로 만들 ‘UN 세계수산대학’ 유치",
+      "page": 5
+    },
+    {
+      "id": "20-busan-namgugap-06",
+      "title": "더 많은 국제적 컨벤션과 세미나를 개최! 부산국제금융센터 경쟁력을 높이겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-busan-namgugap-07",
+      "title": "더 많은 국제기구와 해외 기관을 유치! 문현금융단지를 세계적인 금융단지로 확실히 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-busan-namgugap-08",
+      "title": "국내 최대 증권박물관과 최고의 문화시설을 건립! 남구를 금융과 문화의 중심도시로 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-busan-namgugap-09",
+      "title": "남구 어르신들의 건강하고 편안한 노후 보장",
+      "page": 7
+    },
+    {
+      "id": "20-busan-namgugap-10",
+      "title": "여성과 아이들이 행복한 남구 조성",
+      "page": 7
+    },
+    {
+      "id": "20-busan-namgugap-11",
+      "title": "아동학대 예방과 근절을 위한 시스템 구축",
+      "page": 7
+    },
+    {
+      "id": "20-busan-namgugap-12",
+      "title": "활기 넘치는 문화도시 남구 건설",
+      "page": 7
+    },
+    {
+      "id": "20-busan-namgugap-13",
+      "title": "사회적 약자에게 희망을",
+      "page": 8
+    },
+    {
+      "id": "20-busan-namgugap-14",
+      "title": "남구 주민들의 여가활동 지원 강화",
+      "page": 8
+    },
+    {
+      "id": "20-busan-namgugap-15",
+      "title": "쾌적하고 안전한 남구 교통환경 조성",
+      "page": 8
+    },
+    {
+      "id": "20-busan-namgugap-16",
+      "title": "동천과 대연천을 생태하천으로 복원",
+      "page": 9
+    },
+    {
+      "id": "20-busan-namgugap-17",
+      "title": "대연동·문현동 일원 분류식 하수관로 확충",
+      "page": 9
+    },
+    {
+      "id": "20-busan-namgugap-18",
+      "title": "황령산 ‘생태 숲’ 공원 조성",
+      "page": 10
+    },
+    {
+      "id": "20-busan-namgugap-19",
+      "title": "문현터널(대연동 연포교 주변) 상부공간연결 공원 조성",
+      "page": 10
+    },
+    {
+      "id": "20-busan-namgugap-20",
+      "title": "남구도서관 주변 ‘대연공원’ 조성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2607/003_100120287_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 남구갑 당선인 김정훈 (새누리당). 책자형 선거공보 PDF 4–10쪽 분야별 공약의 소제목(붉은 막대·위치 표시 붙은 굵은 제목) 20개. 머리 공약 목록이 없어 이 소제목을 썼다. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 각 쪽 큰 표제(「행복한 남구를 만들겠습니다」 등)는 구호라 넣지 않았고, PDF 4쪽의 납부 지방세·부가가치 수치 항목과 PDF 6쪽 「복지희망나눔이」 설립은 지난 성과라 넣지 않았다. 제목 아래 • 세부 항목도 넣지 않았다. 두 줄 제목은 이어 적었고 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

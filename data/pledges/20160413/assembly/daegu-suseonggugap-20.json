@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-suseonggugap-20",
+  "candidate": {
+    "name": "김부겸",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-bugyeom-1958",
+    "nec_huboid": "100118465"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-suseonggugap-01",
+      "title": "대구의 중심 수성구를 미래형 도시로",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-suseonggugap-02",
+      "title": "남부권 신공항은 대구경제의 새 심장",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-suseonggugap-03",
+      "title": "범어·만촌권 실버복지센터 건립, 수성시니어클럽 이전",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-suseonggugap-04",
+      "title": "도시가스 보급과 지원 확대, 공용주차장 추가 확보",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-suseonggugap-05",
+      "title": "어린이·노인보호구역의 지정 확대 및 안전시설 확충",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-suseonggugap-06",
+      "title": "방범용 CCTV 설치 확대, 퇴근길 안전 위한 가로등개선(LED교체 2배 더 밝게)",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-suseonggugap-07",
+      "title": "마을마다 문화예술창작공간과 작은 도서관 설치, 황금권 공공도서관 건립",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-suseonggugap-08",
+      "title": "지역 내 개발제한구역 합리적 조정",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-suseonggugap-09",
+      "title": "범안삼거리~황금동 도시계획도로 개통",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-suseonggugap-10",
+      "title": "도시철도 3호선을 대구스타디움~시지~혁신도시까지 연장",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2706/003_100118465_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 수성구갑 당선인 김부겸 (더불어민주당). 책자형 선거공보 PDF 7쪽 「수성구 발전전략」·「대구경제 발전전략」 제목 2개와 PDF 9쪽 「수성발전 공통공약」(김부겸의 약속은 무겁고 실천은 야무집니다) 항목 8개. PDF 7쪽 지도 안의 사업 이름표, PDF 8쪽 청년·교육·문화·여성·어르신·50대 아버지 대상별 문장 공약, PDF 10쪽 「동별 숙원사업」은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

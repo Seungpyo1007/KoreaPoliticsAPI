@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-pyeongtaeksieul-20",
+  "candidate": {
+    "name": "유의동",
+    "party_id": "saenuridang",
+    "person_id": "yu-uidong-1971",
+    "nec_huboid": "100119919"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-pyeongtaeksieul-01",
+      "title": "정치, 회복합니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-pyeongtaeksieul-02",
+      "title": "경제, 키웁니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-pyeongtaeksieul-03",
+      "title": "교통, 완성합니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-pyeongtaeksieul-04",
+      "title": "안전, 든든해집니다",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-pyeongtaeksieul-05",
+      "title": "복지, 높아집니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-pyeongtaeksieul-06",
+      "title": "농업, 육성합니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-pyeongtaeksieul-07",
+      "title": "세계화, 함께합니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4115/003_100119919_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 평택시을 당선인 유의동 (새누리당). 책자형 선거공보 PDF 7–8쪽 「평택의 미래와 희망, 여러분과 함께 하겠습니다!」 분야별 붉은 제목 7개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 검은 부제(예: 평택 경제, 대한민국의 신성장 동력으로 키웁니다)와 • 세부 항목, PDF 9–10쪽 「여러분들의 삶의 무게, 함께 나누겠습니다!」 계층별 정책, PDF 5–6쪽 의정 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,138 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-hwaseongsigap-20",
+  "candidate": {
+    "name": "서청원",
+    "party_id": "saenuridang",
+    "person_id": "seo-cheongwon-1943",
+    "nec_huboid": "100120322"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-hwaseongsigap-01",
+      "title": "화성 교육특구 지정 추진",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-02",
+      "title": "화성서부권(남양·우정·팔탄 등) 교육인프라 지속 확충",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-03",
+      "title": "향남2신도시 공공도서관 신축, 발안도서관 증축",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-04",
+      "title": "화성종합경기타운 “청소년·여성 문화체험센터” 구축",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-05",
+      "title": "우수 중·고등학교, 명품고등학교 육성",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-06",
+      "title": "창의융합형 인재를 위한 교육환경 조성",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-07",
+      "title": "특성화고, 특목고의 기업맞춤형 교과 운영",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-08",
+      "title": "초·중등학교의 교육력 향상",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-09",
+      "title": "“화성교육발전위” 구성운영 등 민-관-학 연계지원체계 구축",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-10",
+      "title": "발안만세시장 환경개선(전선·통신 지중화) 및 문화거리 조성",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-11",
+      "title": "체육회관, 수영장 등 주민체육시설 건립",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-12",
+      "title": "치안사각지대 해소(파출소 건립/리모델링, CCTV 확충)",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-13",
+      "title": "대형 종합병원 유치",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-14",
+      "title": "응급의료체계 구축 의료사각 해소",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-15",
+      "title": "노인복지 강화",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-16",
+      "title": "송산그린시티 국제테마파크(유니버설 스튜디오) 10월 착공 전폭 지원",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-17",
+      "title": "서해안 관광벨트 조성",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-18",
+      "title": "국가산업단지 추진",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-19",
+      "title": "우정·장안 민간연계 도시개발 추진(기아패밀리타운 등)",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-20",
+      "title": "정남·양감·팔탄·마도 도시계획 연계 발전대책 수립",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-21",
+      "title": "농·축·수산 활성화 지원확대",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-22",
+      "title": "신분당선 향남 구간 연장 조기 추진",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-23",
+      "title": "서해선 복선전철 조속완공",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsigap-24",
+      "title": "사통팔달 대중교통망 구축",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4128/003_100120322_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 화성시갑 당선인 서청원 (새누리당). 책자형 선거공보 PDF 4–7쪽 교육·복지·경제·교통 화성 분야별 번호 공약 제목 24개. OCR 결과라 쪽 이미지를 보고 옮겼다. PDF 7쪽 「제3차 국가철도망 구축계획 반영」 아래 1–2번(봉담 연장 확정, 어천역 설치 확정)은 이미 확정된 사항이라 넣지 않았다. 번호 아래 세부 항목, PDF 1·11쪽 요약 표어, PDF 9–10쪽 공약이행 현황은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

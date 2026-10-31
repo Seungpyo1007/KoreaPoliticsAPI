@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-goyangsieul-20",
+  "candidate": {
+    "name": "정재호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeong-jaeho-1965",
+    "nec_huboid": "100118614"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-goyangsieul-01",
+      "title": "행주산성 역사·문화·관광특구 프로젝트",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-goyangsieul-02",
+      "title": "삼송 에듀-디자인 테마마을 프로젝트",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-goyangsieul-03",
+      "title": "행신 아트시티 프로젝트",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-goyangsieul-04",
+      "title": "생태특구 및 생활체육 메카 프로젝트",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-goyangsieul-05",
+      "title": "덕은 미디어밸리 프로젝트",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-goyangsieul-06",
+      "title": "능곡 주주형 굿타운 프로젝트",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4120/003_100118614_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 고양시을 당선인 정재호 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「덕양‘구’를 ‘시(市)’급으로 발전시킬 6대 프로젝트」 번호 1–6 제목 6개. 이 두 쪽은 글자층이 깨져 있어 쪽 이미지를 보고 옮겼다. 제목 아래 · 세부 항목, PDF 7쪽 「정재호의 사람 사는 동네방네 약속」 분야별 ▶ 항목, PDF 8쪽 동별 공약, PDF 9쪽 생활밀착형 4대 공약과 「더불어 함께 하는 공약」, PDF 10쪽 스포츠파크·재원조달 방안은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

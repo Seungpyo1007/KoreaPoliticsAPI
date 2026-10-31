@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-dongraegu-20",
+  "candidate": {
+    "name": "이진복",
+    "party_id": "saenuridang",
+    "person_id": "i-jinbok-1957",
+    "nec_huboid": "100119858"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-dongraegu-01",
+      "title": "1등 국회의원이 만드는 1등 명품교육도시 동래",
+      "page": 9
+    },
+    {
+      "id": "20-busan-dongraegu-02",
+      "title": "동래의 새로운 심장! 동래기차역을 새로운 동래 중심지로",
+      "page": 9
+    },
+    {
+      "id": "20-busan-dongraegu-03",
+      "title": "신(新)온천장 시대의 개막! 사람이 모이는 온천축제의 중심지로",
+      "page": 10
+    },
+    {
+      "id": "20-busan-dongraegu-04",
+      "title": "안전도시 동래구! 안전을 넘어 안심으로",
+      "page": 10
+    },
+    {
+      "id": "20-busan-dongraegu-05",
+      "title": "함께 가는 대한민국! 중소상공인이 행복한 나라",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2606/003_100119858_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 동래구 당선인 이진복 (새누리당). 책자형 선거공보 PDF 9–10쪽 「이진복의 약속1」–「약속5」 제목 5개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 약속1 제목 앞의 '[부산]' 표시와 끝의 !를 덜어냈다. 제목 아래 ● 세부 항목, PDF 9쪽 원동역 신설 홍보, PDF 5–8쪽 「19대 4년간 이진복이 바꾼 동래의 지도」(지난 사업)는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

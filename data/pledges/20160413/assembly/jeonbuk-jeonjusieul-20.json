@@ -1,0 +1,83 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonbuk-jeonjusieul-20",
+  "candidate": {
+    "name": "정운천",
+    "party_id": "saenuridang",
+    "person_id": "jeong-uncheon-1954",
+    "nec_huboid": "100119001"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonbuk-jeonjusieul-01",
+      "title": "대기업유치 통한 5만 좋은 일자리 창출",
+      "page": 7
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-02",
+      "title": "전북 1조원 사회적 기업펀드 설립",
+      "page": 7
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-03",
+      "title": "기금운용본부 안착",
+      "page": 7
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-04",
+      "title": "새만금개발",
+      "page": 7
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-05",
+      "title": "전주완주통합 추진",
+      "page": 7
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-06",
+      "title": "삼천천 생태경관조성 사업",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-07",
+      "title": "‘교육도시 전주’의 명성을 되찾겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-08",
+      "title": "효자동 경노종합복지타운(500억) 건립",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-09",
+      "title": "서신동 복합스포츠센터(150억)",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-10",
+      "title": "의료인프라 확충",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-11",
+      "title": "민생 119 접수 민원",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-12",
+      "title": "용리교 등 교통인프라 확충",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-jeonjusieul-13",
+      "title": "전북혁신도시 정주여건 개선",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4501/003_100119001_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전북 전주시을 당선인 정운천 (새누리당). 책자형 선거공보 PDF 7쪽 「정운천의 전북 5대 비전」 제목 5개와 PDF 9쪽 「정운천의 전주 8대 핵심공약」 제목 8개(왼쪽 단, 오른쪽 단 순). 제목 아래 설명, PDF 6쪽 「현장에서 찾은 보석 같은 공약」 동별 민원 표, PDF 3–5쪽 「7년동안 정운천이 해냈습니다」 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

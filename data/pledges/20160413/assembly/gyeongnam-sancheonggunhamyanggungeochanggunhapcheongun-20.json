@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-20",
+  "candidate": {
+    "name": "강석진",
+    "party_id": "saenuridang",
+    "person_id": "gang-seokjin-1959",
+    "nec_huboid": "100119322"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-01",
+      "title": "전국 제일의 명품교육도시 도약",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-02",
+      "title": "항노화 산업 활성화 방안",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-03",
+      "title": "한방산업과 생명과학의 메카로 개발",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-04",
+      "title": "남부내륙물류 허브단지 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-05",
+      "title": "지리산케이블카 공동유치",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-06",
+      "title": "남부내륙철도 조기착공으로 서부경남 경쟁력 강화",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-07",
+      "title": "대구~광주 내륙철도 합천·거창·함양 역 유치",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-08",
+      "title": "함양~거창~합천~울산 고속도로 조기 완공",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-09",
+      "title": "대장경 기록문화테마파크 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-10",
+      "title": "100만평 삼가 양전 산업단지 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4819/003_100119322_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 산청군함양군거창군합천군 당선인 강석진 (새누리당). 책자형 선거공보 PDF 8쪽 「매니페스토 10대 정책공약」 ● 제목 10개. 제목 아래 설명 줄, PDF 9쪽 군별 공약(거창·합천·산청·함양), PDF 5–6쪽 군별 발전 방향 글은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

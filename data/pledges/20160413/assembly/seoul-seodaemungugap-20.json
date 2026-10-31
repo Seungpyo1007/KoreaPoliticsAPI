@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-seodaemungugap-20",
+  "candidate": {
+    "name": "우상호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "u-sangho-1962",
+    "nec_huboid": "100119514"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-seodaemungugap-01",
+      "title": "새로운 인생을 꿈꾸는 도시, 서대문",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-seodaemungugap-02",
+      "title": "다시 태어나는 도시, 서대문",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-seodaemungugap-03",
+      "title": "걸어 다니는 푸른 도시, 서대문",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-seodaemungugap-04",
+      "title": "아이가 안전한 교육도시, 서대문",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-seodaemungugap-05",
+      "title": "삶을 채워주는 도시, 서대문",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1113/003_100119514_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 서대문구갑 당선인 우상호 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「사람이 행복한 도시, 서대문」 번호 공약(01–05) 제목 5개. 제목 아래 번호 붙은 세부 항목, PDF 9쪽 「꼼꼼하게 챙기겠습니다」 개별 과제, PDF 5–6쪽 당 공약과 「민생을 위한 ‘우상호’의 공약」(전국 과제), PDF 3–4쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

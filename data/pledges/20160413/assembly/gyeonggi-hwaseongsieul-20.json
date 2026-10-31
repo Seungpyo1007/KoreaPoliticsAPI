@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-hwaseongsieul-20",
+  "candidate": {
+    "name": "이원욱",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-wonuk-1963",
+    "nec_huboid": "100120024"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-hwaseongsieul-01",
+      "title": "동탄을 ‘대한민국 최고의 교통허브’로 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsieul-02",
+      "title": "동탄을 ‘숨쉬는 생태환경 도시’로 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsieul-03",
+      "title": "동탄을 ‘보육 1번지, 교육 1번지’ 로 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsieul-04",
+      "title": "동탄을 ‘누구나 누리고 즐기는 문화체육도시’로 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsieul-05",
+      "title": "동탄을 ‘더 안전한 도시, 따뜻한 복지도시’로 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsieul-06",
+      "title": "동탄을 ‘따뜻한 성장의 경제도시’로 만들겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4128/003_100120024_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 화성시을 당선인 이원욱 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「희망을 현실로 만들어 가겠습니다 이원욱이 약속하는 BRAVO 동탄」 첫째–여섯째 제목 6개. 각 제목 오른쪽 상자의 · 세부 항목과 PDF 7–8쪽 지난 의정 활동은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

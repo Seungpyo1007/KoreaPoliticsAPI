@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-nowongueul-20",
+  "candidate": {
+    "name": "우원식",
+    "party_id": "deobureo-minjudang",
+    "person_id": "u-wonsik-1957",
+    "nec_huboid": "100119634"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-nowongueul-01",
+      "title": "만들겠습니다! 8만개 일자리와 KTX-GTX",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-nowongueul-02",
+      "title": "추진하겠습니다! 중단 없는 지하철 동북선",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-nowongueul-03",
+      "title": "시작하겠습니다! KTX-GTX 연장 (의정부-창동-광운대-수서)",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-nowongueul-04",
+      "title": "끝맺겠습니다! 외곽순환고속도로 통행료 인하",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-nowongueul-05",
+      "title": "노원 센트럴파크를 만들겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-nowongueul-06",
+      "title": "불암산성 복원하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-nowongueul-07",
+      "title": "5대 교육특구 사업, 완성하겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1111/003_100119634_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 노원구을 당선인 우원식 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 7–10쪽 지역 공약의 큰 제목 7개를 넣었다. PDF 7쪽은 파란 띠 제목을 넣었고 그 아래 「창동차량기지를 수도권 동북부 신경제중심지로 바꾸겠습니다」 문구와 3단계 사업구상은 넣지 않았다. PDF 10쪽 교육특구 1–5 항목, 제목 아래 세부 문구, PDF 7–10쪽 「부럽다! ○○동 우원식의 약속」 동별 공약은 넣지 않았다. PDF 3–4쪽 당 공약, PDF 5–6쪽 지난 활동, PDF 11쪽 군 관련 약속도 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

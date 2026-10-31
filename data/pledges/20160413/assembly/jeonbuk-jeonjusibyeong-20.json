@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonbuk-jeonjusibyeong-20",
+  "candidate": {
+    "name": "정동영",
+    "party_id": "gungminui-dang",
+    "person_id": "jeong-dongyeong-1953",
+    "nec_huboid": "100120073"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonbuk-jeonjusibyeong-01",
+      "title": "전라도 탄생 1,000년 종합운동장에 밀레니엄파크를 조성하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-jeonbuk-jeonjusibyeong-02",
+      "title": "송천동에 청년파크 조성",
+      "page": 6
+    },
+    {
+      "id": "20-jeonbuk-jeonjusibyeong-03",
+      "title": "도립기술장인학교 건립",
+      "page": 6
+    },
+    {
+      "id": "20-jeonbuk-jeonjusibyeong-04",
+      "title": "디지털도서관 건립",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4502/003_100120073_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전북 전주시병 당선인 정동영 (국민의당). 책자형 선거공보 PDF 4–6쪽 「“관광도시 전주”로 꽃피우겠습니다!」·「“관광도시 전주” 덕진을 통크게 바꾸겠습니다!」의 ☑ 제목 4개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 설명 글, PDF 5–6쪽 지도 위 사업 표시, PDF 7–8쪽 「덕진주민의 삶을 위해 뛰겠습니다!」의 대상별 약속·현장공약 • 목록, PDF 3쪽 한옥마을 보존 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

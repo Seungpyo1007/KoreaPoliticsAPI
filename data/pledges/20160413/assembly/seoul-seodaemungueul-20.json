@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-seodaemungueul-20",
+  "candidate": {
+    "name": "김영호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-yeongho-1967",
+    "nec_huboid": "100119023"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-seodaemungueul-01",
+      "title": "서대문 지하철 8km",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-seodaemungueul-02",
+      "title": "서대문을 어린이 친화도시로 만들겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-seodaemungueul-03",
+      "title": "어르신과 청년을 위한 실속정책 4가지",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-seodaemungueul-04",
+      "title": "〈가좌역〉을 세계적인 관광과 물류의 중심으로",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1113/003_100119023_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 서대문구을 당선인 김영호 (더불어민주당). 책자형 선거공보 PDF 6–10쪽 「3선 의원이 해내지 못한 서대문의 변화, 김영호가 시작합니다」 1–3의 큰 제목과 PDF 10쪽 「김영호의 새로운 비전」 제목 1개. 1번 쪽(PDF 8쪽)의 큰 글씨는 '서대문 변화의 시작입니다'라는 구호라서 PDF 6쪽의 '서대문 지하철 8km!'를 제목으로 썼다. 2·3번 아래 01–07, 01–04 세부 항목은 넣지 않았다. 끝의 !를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

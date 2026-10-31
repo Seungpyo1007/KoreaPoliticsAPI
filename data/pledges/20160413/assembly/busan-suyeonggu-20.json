@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-suyeonggu-20",
+  "candidate": {
+    "name": "유재중",
+    "party_id": "saenuridang",
+    "person_id": "yu-jaejung-1956",
+    "nec_huboid": "100119911"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-suyeonggu-01",
+      "title": "수영구민체육센터와 청소년문화의 집 2018년말 함께 완공하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-busan-suyeonggu-02",
+      "title": "수영육아종합지원센터 건립(광안동)",
+      "page": 9
+    },
+    {
+      "id": "20-busan-suyeonggu-03",
+      "title": "재개발·재건축 끝까지 챙기겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-busan-suyeonggu-04",
+      "title": "좌수영성지~팔도시장, 도시활력증진 사업 마무리하고, 규제도 완화해 나가겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-busan-suyeonggu-05",
+      "title": "제2 노인복지회관, 평생학습원 건립",
+      "page": 10
+    },
+    {
+      "id": "20-busan-suyeonggu-06",
+      "title": "고려제강 공장부지, 문화공간 조성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2615/003_100119911_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 수영구 당선인 유재중 (새누리당). 책자형 선거공보 PDF 9–10쪽 「건강하고 행복한 수영구를 만들겠습니다」 상자 제목 6개. 끝의 .·!를 덜어냈다. PDF 1쪽 표지의 「4년동안 해내겠습니다!!」 요약 목록은 같은 내용을 줄인 것이라 따로 넣지 않았고, 같은 쪽 「8년동안 해냈습니다!!」와 PDF 7–8쪽 지난 성과, PDF 4쪽 노동개혁·창업지원센터와 PDF 6쪽 국가균형발전(동남권신공항 등)도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

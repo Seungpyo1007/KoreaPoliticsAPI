@@ -1,0 +1,63 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-yeojusiyangpyeonggun-20",
+  "candidate": {
+    "name": "정병국",
+    "party_id": "saenuridang",
+    "person_id": "jeong-byeongguk-1958",
+    "nec_huboid": "100120124"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-yeojusiyangpyeonggun-01",
+      "title": "요람에서 무덤까지 평생교육도시 여주",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-yeojusiyangpyeonggun-02",
+      "title": "청년들이 원하는 일을 할 수 있는 명품여주",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-yeojusiyangpyeonggun-03",
+      "title": "전통과 문화, 관광의 명품여주",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-yeojusiyangpyeonggun-04",
+      "title": "살기 좋은 농촌, 명품여주",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-yeojusiyangpyeonggun-05",
+      "title": "사통팔달 교통 중심지 여주",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-yeojusiyangpyeonggun-06",
+      "title": "아이들이 행복하고 안전한 인성교육특구 양평",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yeojusiyangpyeonggun-07",
+      "title": "청년들에겐 창업의 기회, 지역에는 좋은 일자리를 창출",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yeojusiyangpyeonggun-08",
+      "title": "살기 좋은 농촌, 행복한 양평",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yeojusiyangpyeonggun-09",
+      "title": "사통팔달 교통 중심지 양평",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4133/003_100120124_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 여주시양평군 당선인 정병국 (새누리당). 책자형 선거공보 PDF 6쪽 「생활의 변화! 여주에서 누리십시오!」 제목 5개와 PDF 8쪽 「생활의 변화! 양평에서 누리십시오!」 제목 4개. 제목 아래 ■ 세부 항목, PDF 5·7쪽 여주·양평 소개 문단, PDF 4쪽 정치개혁 등 전국 다짐은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

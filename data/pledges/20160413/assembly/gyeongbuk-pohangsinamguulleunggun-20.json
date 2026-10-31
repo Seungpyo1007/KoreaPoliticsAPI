@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongbuk-pohangsinamguulleunggun-20",
+  "candidate": {
+    "name": "박명재",
+    "party_id": "saenuridang",
+    "person_id": "bak-myeongjae-1947",
+    "nec_huboid": "100120277"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongbuk-pohangsinamguulleunggun-01",
+      "title": "미래 먹거리·일거리인 신성장동력을 창출하여 포항을 환동해 글로벌 경제도시로 육성하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-pohangsinamguulleunggun-02",
+      "title": "각종 SOC 국책사업 차질 없는 추진으로 포항을 환동해 국제물류 중심지로 육성하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-pohangsinamguulleunggun-03",
+      "title": "신동해안시대를 위한 J자형 개발 추진·지원으로 포항을 환동해 글로벌 중심도시로 육성하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-pohangsinamguulleunggun-04",
+      "title": "취약계층·소상공인·농어축산인 지원을 강화하여 친서민기반의 따뜻한 공동체를 실현하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-pohangsinamguulleunggun-05",
+      "title": "형산강 프로젝트를 본격적으로 추진하여 포항의 신성장동력으로 개발해나가겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-pohangsinamguulleunggun-06",
+      "title": "호미반도 해양문화관광벨트 조성하여 동해안 해양문화관광1번지로 육성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-pohangsinamguulleunggun-07",
+      "title": "남구를 품격 있는 명품도시로 조성하여 주민의 삶의 질을 향상시켜나가겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-pohangsinamguulleunggun-08",
+      "title": "울릉을 환동해 해양관광 거점섬으로 조성하겠습니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4702/003_100120277_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경북 포항시남구울릉군 당선인 박명재 (새누리당). 책자형 선거공보 PDF 6·8·9쪽 공약 제목 8개(각 쪽 위에서 아래 순). 머리 공약 목록이 없어 펼침면 큰 표제(「신동해안시대를 활짝 열어나가겠습니다!」 「남구를 품격있는 명품도시, 따뜻한 공동체로 조성해 나가겠습니다!」) 아래 굵은 제목을 썼다. 제목 아래 √ 소제목과 ● 세부 항목, PDF 3–5쪽 지난 의정 성과와 수상은 넣지 않았다. 두 줄 제목은 이어 적었고 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

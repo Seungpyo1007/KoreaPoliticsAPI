@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-dalseogugap-20",
+  "candidate": {
+    "name": "곽대훈",
+    "party_id": "saenuridang",
+    "person_id": "gwak-daehun-1955",
+    "nec_huboid": "100118468"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-dalseogugap-01",
+      "title": "르네상스 달구벌 프로젝트로 희망의 도시를 만들겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseogugap-02",
+      "title": "대구경제에 활력이 넘치도록 하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseogugap-03",
+      "title": "활기찬 아침·편안한 저녁을 맞도록 하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-dalseogugap-04",
+      "title": "지방분권 강화를 통한 온전한 지방자치 정착에 앞장서겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2707/003_100118468_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 달서구갑 당선인 곽대훈 (새누리당). 책자형 선거공보 PDF 9–10쪽 「곽대훈 약속」 1–4 제목 4개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 6쪽 구청장 시절 성과, PDF 8쪽 「헌신하는 국회의원」 등 다짐은 넣지 않았다. 두 줄 제목은 이어 적었고 끝의 !·.만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

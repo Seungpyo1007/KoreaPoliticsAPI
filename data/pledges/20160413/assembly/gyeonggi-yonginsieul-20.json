@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-yonginsieul-20",
+  "candidate": {
+    "name": "김민기",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-mingi-1966",
+    "nec_huboid": "100120141"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-yonginsieul-01",
+      "title": "교통이 편리한 용인",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yonginsieul-02",
+      "title": "행복한 교육복지도시 용인",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yonginsieul-03",
+      "title": "활력있는 용인경제",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yonginsieul-04",
+      "title": "문화가 꽃피는 용인",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yonginsieul-05",
+      "title": "범죄와 사고없는 안전한 용인",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4137/003_100120141_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 용인시을 당선인 김민기 (더불어민주당). 머리 공약 목록이 없어 분야별 제목을 넣었다. 책자형 선거공보 PDF 9쪽 「김민기가 하겠습니다」 분야 제목 5개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 각 분야 아래 ● 항목 21개, PDF 7–8쪽 「물 맑은 기흥호수와 생태섬을 만들겠습니다」 홍보(같은 내용이 문화 분야 ● 항목에 있음), PDF 10쪽 「더불어민주당이 하겠습니다」 당 공약, PDF 5–6쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

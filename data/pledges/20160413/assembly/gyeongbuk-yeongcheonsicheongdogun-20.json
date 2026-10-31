@@ -1,0 +1,73 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongbuk-yeongcheonsicheongdogun-20",
+  "candidate": {
+    "name": "이만희",
+    "party_id": "saenuridang",
+    "person_id": "i-manhui-1963",
+    "nec_huboid": "100118391"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-01",
+      "title": "양질의 일자리 창출 - 대기업 및 우량기업 유치",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-02",
+      "title": "광역 교통 인프라 구축 및 시가지 로드 네트워크 완성",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-03",
+      "title": "노인·여성 복지 및 권익 신장을 하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-04",
+      "title": "영천을 관광·체육·문화 행복도시로 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-05",
+      "title": "대단위 산업단지를 조성하여 자족형 위성도시로 발전",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-06",
+      "title": "청도의 미래를 보장하는 완벽한 광역 교통망 구축",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-07",
+      "title": "살기 좋은 문화관광 도시로 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-08",
+      "title": "농업기반 확충 및 농가 소득 안정화에 앞장서겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-09",
+      "title": "안전하고 살기 좋은 도시 조성으로 살 맛나는 영천 · 청도를 만들겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-10",
+      "title": "어르신, 여성, 장애우, 어린이가 “행복하고 따뜻한 사회”",
+      "page": 10
+    },
+    {
+      "id": "20-gyeongbuk-yeongcheonsicheongdogun-11",
+      "title": "창의와 인성이 어우러지는 인재육성과 명품 교육도시 조성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4709/003_100118391_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경북 영천시청도군 당선인 이만희 (새누리당). 책자형 선거공보 PDF 6쪽 영천시 공약 제목 4개, PDF 8쪽 청도군 공약 제목 3개, PDF 10쪽 영천·청도 공통 분야 공약 제목 4개(왼쪽 위, 오른쪽 위, 왼쪽 아래, 오른쪽 아래 순)를 넣었다. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 ▪/- 세부 항목, PDF 10쪽 아래 「임신, 출산, 육아, 보육, 교육, 노인복지(경로당) 예산지원 확대 추진하겠습니다 !!」 문구, PDF 9쪽 「3대 비젼」 구호는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

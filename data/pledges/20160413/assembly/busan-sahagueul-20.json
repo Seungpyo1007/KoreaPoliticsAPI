@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-sahagueul-20",
+  "candidate": {
+    "name": "조경태",
+    "party_id": "saenuridang",
+    "person_id": "jo-gyeongtae-1968",
+    "nec_huboid": "100119506"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-sahagueul-01",
+      "title": "신평-장림-다대간 지하철 차질없는 완공",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagueul-02",
+      "title": "제2부산의료원 유치",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagueul-03",
+      "title": "신평, 장림, 다대 노후산업단지를 혁신산업단지로",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagueul-04",
+      "title": "장림-구평-감천-자갈치간 도시철도 건설",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagueul-05",
+      "title": "장림롯데마트-구평고개간 지하차도 건설",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagueul-06",
+      "title": "사하청년일자리센터 유치",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagueul-07",
+      "title": "다대포 해양관광단지 조성 (동측해수욕장 복원 등)",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagueul-08",
+      "title": "도시재생사업을 통한 주거환경개선",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagueul-09",
+      "title": "감천 경찰정비창 부지 주민복합문화공간 개발",
+      "page": 8
+    },
+    {
+      "id": "20-busan-sahagueul-10",
+      "title": "영유아를 위한 24시간 진료병원 지정",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2611/003_100119506_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 사하구을 당선인 조경태 (새누리당). 책자형 선거공보 PDF 8쪽 「일 잘하는 우리 경태의 '10대 핵심공약'」 제목 10개. 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 9–10쪽 동별 공약, PDF 4쪽 전국 비전, PDF 5쪽 「함께 해낸 사하발전 12년」 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gwangju-gwangsangueul-20",
+  "candidate": {
+    "name": "권은희",
+    "party_id": "gungminui-dang",
+    "person_id": "gwon-eunhui-1974",
+    "nec_huboid": "100120173"
+  },
+  "pledges": [
+    {
+      "id": "20-gwangju-gwangsangueul-01",
+      "title": "광산! 제조업 르네상스 시대 개척",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-gwangsangueul-02",
+      "title": "온 가족이 행복한 문화·관광도시 건설",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-gwangsangueul-03",
+      "title": "0세부터 실버세대까지 인물을 키우는 교육도시 광산 건설",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2905/003_100120173_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 광주 광산구을 당선인 권은희 (국민의당). 책자형 선거공보 PDF 7–8쪽 「권은희의 광산 3대 비전」 1–3의 제목 3개. OCR 결과라 쪽 이미지를 보고 옮겼다. 번호 제목 아래 띠 제목과 · 세부 항목, PDF 9–10쪽 「권은희의 약속」 동별 공약, PDF 3–6쪽 「3대 성과」와 확보 예산은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

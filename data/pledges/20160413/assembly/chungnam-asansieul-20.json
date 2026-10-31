@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungnam-asansieul-20",
+  "candidate": {
+    "name": "강훈식",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gang-hunsik-1973",
+    "nec_huboid": "100119685"
+  },
+  "pledges": [
+    {
+      "id": "20-chungnam-asansieul-01",
+      "title": "일자리가 풍성한 아산",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-asansieul-02",
+      "title": "아이 키우기 좋은 아산",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-asansieul-03",
+      "title": "교통이 편리한 아산",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-asansieul-04",
+      "title": "문화와 예술이 숨 쉬는 아산",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-asansieul-05",
+      "title": "어르신께 효도하는 아산",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-asansieul-06",
+      "title": "농민이 보호받는 아산",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-asansieul-07",
+      "title": "안전하고 건강한 아산",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4404/003_100119685_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충남 아산시을 당선인 강훈식 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 9–10쪽 「아산이 강해집니다! 새로운 삶이 시작됩니다!」 펼침면 오른쪽 분야 제목 7개를 넣었다. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 ● 세부 항목과 PDF 9쪽 지도 위 읍면별 공약, PDF 4·6·8쪽 세대교체·정치 혁신 다짐은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

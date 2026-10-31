@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-yongsangu-20",
+  "candidate": {
+    "name": "진영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jin-yeong-1950",
+    "nec_huboid": "100119890"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-yongsangu-01",
+      "title": "함께 행복한 복지용산을 만들겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-seoul-yongsangu-02",
+      "title": "교육환경을 높이고 일자리를 늘리겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-seoul-yongsangu-03",
+      "title": "쾌적하고 안전한 용산을 만들겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-seoul-yongsangu-04",
+      "title": "발전하는 서울의 중심 용산을 만들겠습니다",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1103/003_100119890_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 용산구 당선인 진영 (더불어민주당). 책자형 선거공보 PDF 4쪽 「진 영의 미래비전」 분야별(복지·교육문화·환경교통·상생발전) 제목 4개. 제목 아래 - 세부 항목, 같은 쪽 「정치개혁 비전과 의정 활동 계획」, PDF 5–6쪽 동별 공약, PDF 7–10쪽 지난 의정 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

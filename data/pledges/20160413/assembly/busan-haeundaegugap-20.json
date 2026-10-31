@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-haeundaegugap-20",
+  "candidate": {
+    "name": "하태경",
+    "party_id": "saenuridang",
+    "person_id": "ha-taegyeong-1968",
+    "nec_huboid": "100119119"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-haeundaegugap-01",
+      "title": "신바람나는 해운대 교통",
+      "page": 7
+    },
+    {
+      "id": "20-busan-haeundaegugap-02",
+      "title": "KTX급 고속열차 해운대 운행 추진",
+      "page": 7
+    },
+    {
+      "id": "20-busan-haeundaegugap-03",
+      "title": "해운대 공항터미널 추진",
+      "page": 7
+    },
+    {
+      "id": "20-busan-haeundaegugap-04",
+      "title": "천만 외국인관광객 유치로 경제도약",
+      "page": 7
+    },
+    {
+      "id": "20-busan-haeundaegugap-05",
+      "title": "국제기구와 국제대회 유치",
+      "page": 8
+    },
+    {
+      "id": "20-busan-haeundaegugap-06",
+      "title": "53사단 이전 추진",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2609/003_100119119_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 해운대구갑 당선인 하태경 (새누리당). 책자형 선거공보 PDF 7–8쪽 「하태경이 꿈꾸는 해운대의 미래」 〈글로벌 해운대 6대 중장기 프로젝트〉 번호 1–6 제목 6개. 제목 아래 - 세부 항목, PDF 9쪽 「우리집 행복 맞춤 프로젝트」 ● 항목과 새누리당 생활밀착형 공약, PDF 10쪽 권역별(동별) 공약, PDF 6쪽 지난 의정 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

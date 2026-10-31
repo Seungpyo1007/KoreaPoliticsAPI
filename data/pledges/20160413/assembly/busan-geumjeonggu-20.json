@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-geumjeonggu-20",
+  "candidate": {
+    "name": "김세연",
+    "party_id": "saenuridang",
+    "person_id": "gim-seyeon-1972",
+    "nec_huboid": "100120219"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-geumjeonggu-01",
+      "title": "주민 실생활에 도움을 주는 생활밀착형 서비스 강화",
+      "page": 10
+    },
+    {
+      "id": "20-busan-geumjeonggu-02",
+      "title": "주민과 가까운 문화·예술·휴식 공간 마련",
+      "page": 10
+    },
+    {
+      "id": "20-busan-geumjeonggu-03",
+      "title": "세계시민교육의 중심 금정! 글로벌 시민의식 배양강화",
+      "page": 10
+    },
+    {
+      "id": "20-busan-geumjeonggu-04",
+      "title": "맞춤형 지원강화로 지역발전 도모",
+      "page": 10
+    },
+    {
+      "id": "20-busan-geumjeonggu-05",
+      "title": "관내 주요사업 국·시비 확보 주력",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2612/003_100120219_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 금정구 당선인 김세연 (새누리당). 책자형 선거공보 PDF 10쪽 「앞서가는 금정을 위한 김세연의 약속 작은 변화, 큰 감동!」(표제는 9쪽) 분야별 큰 제목 5개(왼쪽 단, 오른쪽 단 순). 분야 아래 붉은·굵은 소제목과 - 세부 항목은 넣지 않았다. PDF 3–6쪽 의정활동과 확보 예산, PDF 8쪽 「정책 비전」·「정책 공약」(전국 정책)은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

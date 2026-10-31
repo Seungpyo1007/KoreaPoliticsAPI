@@ -1,0 +1,138 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-yangjusi-20",
+  "candidate": {
+    "name": "정성호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeong-seongho-1962",
+    "nec_huboid": "100120222"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-yangjusi-01",
+      "title": "지하철 7호선 양주 연장 조기 착공/추가역 신설 추진",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-02",
+      "title": "39번 국지도(장흥∼광적/가납∼상수) 조기착공·준공",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-03",
+      "title": "교외선 재개통",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-04",
+      "title": "양주 동서도로(백석∼양주역) 신설 및 시도2호선 확장",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-05",
+      "title": "M버스(광역 급행버스) 노선 신설 추진",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-06",
+      "title": "경원선 전철 추가 증회",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-07",
+      "title": "서울외곽순환고속도로 통행료 인하",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-08",
+      "title": "삼숭~소흘IC, 만송~이동교리 간 도로 신설 추진",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-09",
+      "title": "역세권 개발",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-10",
+      "title": "양주신도시(옥정·회천지구) 활성화",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-11",
+      "title": "백석지구·광석지구 개발사업 재추진",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-12",
+      "title": "은남 종합발전계획(가칭)·‘문화 장흥’ 육성프로젝트(가칭) 수립",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-13",
+      "title": "양질의 기업유치를 통한 지역경제 활성화",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-14",
+      "title": "규제 프리존 도입 및 경기북부 규제완화(수정법 대체입법)",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-15",
+      "title": "섬유·패션 산업 산·학·연 클러스터 구축",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-16",
+      "title": "종합병원 유치 추진",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-17",
+      "title": "양주시 초·중·고등학교의 교육환경 개선 지속 추진",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-18",
+      "title": "장애인종합복지관 건립 및 공립 장애인특수학교 개교",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-19",
+      "title": "고용복지플러스센터 설치",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-20",
+      "title": "여성친화도시 양주 건설",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-21",
+      "title": "시니어(노인) 복합생활체육센터 및 노인종합복지관 건립 추진",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-22",
+      "title": "경로당을 어르신 평생학습장으로! ⇒‘(가칭)어르신 행복 배움터’설치",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-23",
+      "title": "국공립요양시설 확충",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-yangjusi-24",
+      "title": "로컬푸드 활성화",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4116/003_100120222_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 양주시 당선인 정성호 (더불어민주당). 책자형 선거공보 PDF 7–9쪽 「20대 국회('일할사람' 정성호의 약속)」 상자의 굵은 • 제목 24개(교통 중심 8, 일자리 7, 희망 양주 9). 머리 목록이 따로 없어 분야별 굵은 제목을 옮겼다. • 아래 - 세부 항목, 같은 쪽 왼쪽 「19대 국회('일한사람' 정성호의 성과)」, PDF 3–6쪽 지난 성과, PDF 10쪽 전국 공약(민생경제·청년 등)은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

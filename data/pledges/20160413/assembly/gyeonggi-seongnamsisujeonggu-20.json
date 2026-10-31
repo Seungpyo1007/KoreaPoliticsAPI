@@ -1,0 +1,63 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-seongnamsisujeonggu-20",
+  "candidate": {
+    "name": "김태년",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-taenyeon-1965",
+    "nec_huboid": "100119797"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-seongnamsisujeonggu-01",
+      "title": "골목골목 살맛나는 주택가 주거환경 조성 위한 공공지원 확대",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-seongnamsisujeonggu-02",
+      "title": "공공임대주택 공급 확대",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-seongnamsisujeonggu-03",
+      "title": "사통팔달 교통요지, 성남 완성",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-seongnamsisujeonggu-04",
+      "title": "문화, 체육, 복지가 어우러지는 성남 완성",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-seongnamsisujeonggu-05",
+      "title": "일자리 (3대 신성장 동력)",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-seongnamsisujeonggu-06",
+      "title": "여가 (2대 명품 휴양공간)",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-seongnamsisujeonggu-07",
+      "title": "복지 (성남형 복지)",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-seongnamsisujeonggu-08",
+      "title": "교육 (교육이 강한 도시)",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-seongnamsisujeonggu-09",
+      "title": "생활 (활기찬 동네만들기)",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4105/003_100119797_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 성남시수정구 당선인 김태년 (더불어민주당). 책자형 선거공보 PDF 6쪽 「김태년은 합니다! 수정구 만들기!」 ▶ 제목 4개와 PDF 7쪽 「김태년의 수정구 발전 5대 전략」 제목 5개(왼쪽 단부터). 제목 아래 • · 세부 항목과 동네별 특성화 항목, PDF 3–5쪽 「김태년은 했습니다!」 성과, PDF 10쪽 「대한민국을 바로 세우겠습니다!」 전국 정책은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

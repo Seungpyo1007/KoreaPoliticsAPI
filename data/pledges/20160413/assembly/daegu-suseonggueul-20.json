@@ -1,0 +1,83 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-suseonggueul-20",
+  "candidate": {
+    "name": "주호영",
+    "party_id": null,
+    "person_id": "ju-hoyeong-1960",
+    "nec_huboid": "100119925"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-suseonggueul-01",
+      "title": "도시철도 3호선 범물~혁신도시(시지)간 연장 추진",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-02",
+      "title": "수성못 대형주차장 건설 및 종합 스포츠시설 조성",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-03",
+      "title": "삼덕요금소(범안로) 폐지 추진",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-04",
+      "title": "도로 · 교통 · 신호체계 개선(정기간담회 개최)",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-05",
+      "title": "그린벨트 규제 대폭 완화",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-06",
+      "title": "주택 재개발 · 재건축 촉진 지원단 설립",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-07",
+      "title": "‘상동 · 중동 · 두산동’권 노인복지관 건립 추진",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-08",
+      "title": "범물복지관 리모델링",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-09",
+      "title": "파동주민센터 신축 추진",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-10",
+      "title": "지역전통시장 현대화 사업 지원",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-11",
+      "title": "국제교육특구프로그램 도입",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-12",
+      "title": "신천정비 및 시민휴식공간 대폭 확충",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-suseonggueul-13",
+      "title": "팔공산국립공원화 추진",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2706/003_100119925_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 수성구을 당선인 주호영 (무소속). 책자형 선거공보 PDF 10쪽 「매니페스토 실천공약」 중 「지역공약」 제목 13개. 수성못 항목 아래 · 세부 항목은 넣지 않았다. PDF 9쪽 「국가공약」 7개는 지역 공약이 아니라 넣지 않았고, PDF 7–8쪽 「수성구 주요 사업 내역」(지난 사업)도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

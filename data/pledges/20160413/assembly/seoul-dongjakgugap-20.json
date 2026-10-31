@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-dongjakgugap-20",
+  "candidate": {
+    "name": "김병기",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-byeonggi-1961",
+    "nec_huboid": "100120583"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-dongjakgugap-01",
+      "title": "신림선, 서부선, 신안산선의 차질없는 추진",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-dongjakgugap-02",
+      "title": "장승배기 종합행정타운 강력 추진",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-dongjakgugap-03",
+      "title": "동작구 명품문화시설 성공적 추진",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-dongjakgugap-04",
+      "title": "노량진 변신 프로젝트 지속적 추진",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1120/003_100120583_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 동작구갑 당선인 김병기 (더불어민주당). 책자형 선거공보 PDF 9쪽 「김병기의 4대 핵심사업」 제목 4개. 제목 아래 설명 글, PDF 10쪽 「구석구석 빈틈없이 챙기겠습니다」 동별 사업, PDF 8쪽 「더불어민주당이 약속합니다」 당 공약, PDF 5–7쪽 정권 심판·정치 구호는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

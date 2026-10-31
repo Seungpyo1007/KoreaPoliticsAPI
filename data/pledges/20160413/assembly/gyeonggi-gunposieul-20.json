@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-gunposieul-20",
+  "candidate": {
+    "name": "이학영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-hakyeong-1952",
+    "nec_huboid": "100120153"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-gunposieul-01",
+      "title": "군포에 불어넣는 새로운 활력",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gunposieul-02",
+      "title": "사람과 공동체를 살리는 도시재생, 문화와 예술이 흐르는 군포 만들기",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gunposieul-03",
+      "title": "지역 청년 일자리 창출",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gunposieul-04",
+      "title": "편안하고 안전한 주거",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gunposieul-05",
+      "title": "어르신 일자리 창출 -지혜와 경험을 갖춘 어르신의 기여로 만드는 따순 세상",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gunposieul-06",
+      "title": "명품교육도시 군포",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4130/003_100120153_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 군포시을 당선인 이학영 (더불어민주당). 책자형 선거공보 PDF 8쪽 「이학영의 약속」(PDF 7쪽 표제) 분야 제목 6개. 제목 아래 • 세부 항목은 넣지 않았다. PDF 9–10쪽 「이학영의 포부」는 전국 정책 공약이라 넣지 않았고, PDF 4·6쪽 의정·지역활동 성과도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

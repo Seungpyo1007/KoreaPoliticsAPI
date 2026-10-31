@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-jungguseongdonggugap-20",
+  "candidate": {
+    "name": "홍익표",
+    "party_id": "deobureo-minjudang",
+    "person_id": "hong-ikpyo-1967",
+    "nec_huboid": "100119325"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-jungguseongdonggugap-01",
+      "title": "삼표레미콘 부지 복합 문화공간 신축 및 서울숲 인근 지역 활성화",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-jungguseongdonggugap-02",
+      "title": "왕십리 뉴타운 지역내 중학교 유치",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-jungguseongdonggugap-03",
+      "title": "마장동(마장축산물시장)의 도시재생 활성화 지역 지정",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-jungguseongdonggugap-04",
+      "title": "글로벌 패션 멀티쇼룸 구축",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-jungguseongdonggugap-05",
+      "title": "소월아트홀 신축 추진",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1104/003_100119325_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 중구성동구갑 당선인 홍익표 (더불어민주당). 책자형 선거공보 PDF 6쪽 「성동발전을 위한 홍익표의 매니페스토 공약」 제목 5개. 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 5쪽 「성동을 위한 3가지 약속」은 비전 문구라 넣지 않았고, 같은 쪽 「5대 입법과제」(법안), PDF 7쪽 동별 공약, PDF 3–4쪽 지난 성과도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gwangju-donggunamgugap-20",
+  "candidate": {
+    "name": "장병완",
+    "party_id": "gungminui-dang",
+    "person_id": "jang-byeongwan-1952",
+    "nec_huboid": "100120122"
+  },
+  "pledges": [
+    {
+      "id": "20-gwangju-donggunamgugap-01",
+      "title": "그린벨트 추가 해제 · 산업단지 확대 공급 R&D특구 지정",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-donggunamgugap-02",
+      "title": "치매예방노화연구센터 설립",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-donggunamgugap-03",
+      "title": "위험도로 백운고가 철거, 백운광장 활성화",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-donggunamgugap-04",
+      "title": "영화관 등 복합문화컴플렉스 유치",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-donggunamgugap-05",
+      "title": "100개 에너지·문화산업 기업유치, 1만5천개 일자리 창출",
+      "page": 7
+    },
+    {
+      "id": "20-gwangju-donggunamgugap-06",
+      "title": "사립학교 등 교육환경 개선",
+      "page": 8
+    },
+    {
+      "id": "20-gwangju-donggunamgugap-07",
+      "title": "월산동 등 구도심주거환경 현대화",
+      "page": 8
+    },
+    {
+      "id": "20-gwangju-donggunamgugap-08",
+      "title": "순환도로 등 민자사업 이용요금 인하",
+      "page": 8
+    },
+    {
+      "id": "20-gwangju-donggunamgugap-09",
+      "title": "제2순환로 진월IC진출입로 조기완공 추진",
+      "page": 8
+    },
+    {
+      "id": "20-gwangju-donggunamgugap-10",
+      "title": "2017 올해의 관광도시, 남구관광사업 활성화",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2903/003_100120122_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 광주 동구남구갑 당선인 장병완 (국민의당). 책자형 선거공보 PDF 7–8쪽 「장병완, 남구발전을 약속합니다!」 01–10 제목 10개. 제목 아래 설명 문단은 넣지 않았다. PDF 9쪽 「국민의당 정책사령탑 장병완, 민생경제를 책임집니다」는 전국 정책 공약이라 넣지 않았고, PDF 5쪽 경제지도 구상 문구도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

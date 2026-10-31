@@ -1,0 +1,78 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-osansi-20",
+  "candidate": {
+    "name": "안민석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "an-minseok-1966",
+    "nec_huboid": "100120018"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-osansi-01",
+      "title": "운암뜰 테크노밸리 조성",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-osansi-02",
+      "title": "세교2지구 조기완공 및 아모레 2공장 유치",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-osansi-03",
+      "title": "국내 최고의 에듀파크 조성",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-osansi-04",
+      "title": "역사문화관광벨트 5산 만들기",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-osansi-05",
+      "title": "오산역 환승센터 1년내 완공",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-osansi-06",
+      "title": "오산~발안 간 도로 조기완공",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-osansi-07",
+      "title": "서울행 노선 신설 및 M버스(급행)·2층버스 도입",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-osansi-08",
+      "title": "동탄(KTX역)~세교 전철 추진",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-osansi-09",
+      "title": "안전수영 신화에 이은 통기타 신화로 인성교육 메카",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-osansi-10",
+      "title": "특성화고 유치",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-osansi-11",
+      "title": "청소년 교육문화복합시설 건립",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-osansi-12",
+      "title": "부모안심 보육시스템 구축",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4127/003_100120018_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 오산시 당선인 안민석 (더불어민주당). 책자형 선거공보 PDF 7–9쪽 「오산발전 골든타임 2020」의 「4대 핵심 약속」 세 묶음(더 잘 사는 경제도시 오산, 더 편한 사통팔달 오산, 더 행복한 교육도시 오산) 01–04 제목 12개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 설명 글, PDF 5–6쪽 지도의 1–16 사업 목록, PDF 10쪽 「각 동별 생활정치 4대 핵심 약속」 동별 공약과 「안민석이 약속하는 4대 법안」은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

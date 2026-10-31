@@ -1,0 +1,73 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-namgueul-20",
+  "candidate": {
+    "name": "박재호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-jaeho-1959",
+    "nec_huboid": "100118488"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-namgueul-01",
+      "title": "동남권 신공항 유치",
+      "page": 4
+    },
+    {
+      "id": "20-busan-namgueul-02",
+      "title": "부산 경제자유구역청 유치",
+      "page": 4
+    },
+    {
+      "id": "20-busan-namgueul-03",
+      "title": "광안대교~용호동 접속도로 건설",
+      "page": 4
+    },
+    {
+      "id": "20-busan-namgueul-04",
+      "title": "우암동 철도 철거",
+      "page": 4
+    },
+    {
+      "id": "20-busan-namgueul-05",
+      "title": "국립 어린이 도서관 및 문화시설 건립",
+      "page": 5
+    },
+    {
+      "id": "20-busan-namgueul-06",
+      "title": "국공립 어린이집 2배로 확충! 교육비 절반으로",
+      "page": 5
+    },
+    {
+      "id": "20-busan-namgueul-07",
+      "title": "쓰레기봉투 값 절반",
+      "page": 5
+    },
+    {
+      "id": "20-busan-namgueul-08",
+      "title": "소상공인 및 자영업자 긴급지원시스템",
+      "page": 5
+    },
+    {
+      "id": "20-busan-namgueul-09",
+      "title": "백운포 체육공원을 생활체육시설의 메카로",
+      "page": 6
+    },
+    {
+      "id": "20-busan-namgueul-10",
+      "title": "주차장을 두 배로",
+      "page": 6
+    },
+    {
+      "id": "20-busan-namgueul-11",
+      "title": "어르신 문화 공간 조성",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2607/003_100118488_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 남구을 당선인 박재호 (더불어민주당). 책자형 선거공보 PDF 4–6쪽 「듣겠습니다」·「뛰겠습니다」·「보살피겠습니다」 면의 굵은 공약 제목 11개. OCR 글자층이 깨져 있어 쪽 이미지를 보고 옮겼다. 제목 아래 설명과 ■ 세부 항목, 분야 띠(경제가 通한다 등), PDF 3쪽 「진정한 자본주의에 입각한 ‘法’을 만들겠습니다」(구체 공약 없는 주장)는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

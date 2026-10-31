@@ -1,0 +1,73 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonbuk-gunsansi-20",
+  "candidate": {
+    "name": "김관영",
+    "party_id": "gungminui-dang",
+    "person_id": "gim-gwanyeong-1969",
+    "nec_huboid": "100119962"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonbuk-gunsansi-01",
+      "title": "새만금개발청 현장 이전",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-gunsansi-02",
+      "title": "동북아 최고의 새만금 경제 특구 조성",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-gunsansi-03",
+      "title": "새만금 국제공항·신항만·철도 및 도로 인프라 건설",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-gunsansi-04",
+      "title": "새로운 먹거리, 늘어나는 일자리! 미래산업 육성",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-gunsansi-05",
+      "title": "동북아 최고의 관광지로 인프라 구축",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-gunsansi-06",
+      "title": "근대역사문화관광 벨트 조성",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-gunsansi-07",
+      "title": "체류형 고군산 관광 도입",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-gunsansi-08",
+      "title": "해망동 수산시장 현대화",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-gunsansi-09",
+      "title": "도시순환 시티투어버스 도입",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-gunsansi-10",
+      "title": "금란도 개발",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-gunsansi-11",
+      "title": "신시도 국립 자연 휴양림 유치",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4503/003_100119962_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전북 군산시 당선인 김관영 (국민의당). 책자형 선거공보 PDF 9쪽 「미래로 통하는 새만금 5대 공약」 1–5 제목 5개와 PDF 10쪽 「문화·관광 6대 공약」 제목 6개(왼쪽 단, 오른쪽 단 순으로 줄마다). 10쪽 제목 아래 초록 부제(「도시재생과 연계」 등)와 • 세부 항목, PDF 6쪽 교통 공약 문구, PDF 8쪽 일자리·「중소기업·소상공인 지원 7대 공약」·보육 • 항목(제도 개선 위주), PDF 4쪽 2012–2016 실적은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

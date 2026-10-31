@@ -1,0 +1,318 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gangdonggueul-20",
+  "candidate": {
+    "name": "심재권",
+    "party_id": "deobureo-minjudang",
+    "person_id": "sim-jaegwon-1946",
+    "nec_huboid": "100119490"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gangdonggueul-01",
+      "title": "둔촌주공아파트 사업 순조로운 진행 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-02",
+      "title": "엔지니어링복합단지·첨단업무단지·고덕상업업무복합단지 조성 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-03",
+      "title": "전통시장 현대화·공영주차장 건설, 카드 수수료 인하 등 소상공인·중소기업인 보호",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-04",
+      "title": "천호뉴타운, 성내·천호구역 재정비 촉진지구, 천호1·3동 정비구역 등의 차질 없는 이행",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-05",
+      "title": "일자리종합지원센터 활성화 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-06",
+      "title": "사회적경제 활성화 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-07",
+      "title": "마을공동체 사업 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-08",
+      "title": "자원순환센터 건립 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-09",
+      "title": "중앙보훈병원 의과대학 설치",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-10",
+      "title": "공구거리·문구거리·성내 악세사리 상업 활성화 지원 등",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-11",
+      "title": "노인복지 시설 확충, 어르신사랑방 활성화, 어르신 일자리 창출 등 노인복지 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-12",
+      "title": "찾아가는 동 주민센터 확대, 동 복지네트워크 운영 활성화 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-13",
+      "title": "보훈회관 리모델링 등 보훈단체 및 국가유공자 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-14",
+      "title": "건강가정지원센터 운영 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-15",
+      "title": "다문화가족지원센터 운영 및 사회통합 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-16",
+      "title": "한부모 가족 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-17",
+      "title": "지역아동센터, 나홀로 방임 아동·청소년 등 취약계층 복지 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-18",
+      "title": "자살예방센터 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-19",
+      "title": "출산과 양육하기 좋은 환경조성 사업 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-20",
+      "title": "장애인 복지시설 확충, 일자리 사업 지원 등",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-21",
+      "title": "학교 강당 신축 및 노후시설 개선",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-22",
+      "title": "영어도서관·영어체험센터 운영 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-23",
+      "title": "공공도서관·작은도서관 확충 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-24",
+      "title": "자기주도학습·평생학습·진로직업체험센터 운영 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-25",
+      "title": "서울형 혁신교육지구 사업 추진 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-26",
+      "title": "좋은 중학교 만들기 사업 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-27",
+      "title": "명문고 육성 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-28",
+      "title": "청소년 문화 공간 확충 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-29",
+      "title": "함께 만드는 우리 동네 창의놀이터 조성 지원",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-30",
+      "title": "관내 학교 에코스쿨 조성 지원 등",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-gangdonggueul-31",
+      "title": "9호선 강동구 관류, 5호선 연장, 8호선 연장 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-32",
+      "title": "로데오거리~성내구길 연결",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-33",
+      "title": "천호 현대백화점 앞 지하차도 매립 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-34",
+      "title": "암사초록길(선사마루) 조성",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-35",
+      "title": "구천면길 확장, 진황도로 개설 및 확장 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-36",
+      "title": "하니공원 노외주차장 설치 등 공영주차장 확충 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-37",
+      "title": "전 지하철역 에스컬레이터 설치 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-38",
+      "title": "천호대로 확장",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-39",
+      "title": "둔촌동 97-7~101-1간(보훈병원 남측도로), 105~105-3간(둔촌마을) 도로개설 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-40",
+      "title": "9호선 보훈병원역 4번 출구(일자산 잔디광장 입구) 신설 등",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-41",
+      "title": "강동문화체육센터(실내체육관) 건립 등 생활체육활성화 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-42",
+      "title": "여성·청소년 등 복합문화센터 건립",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-43",
+      "title": "성내유수지 체육공원 조성 등 생활체육 시설 확충",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-44",
+      "title": "서울시 시민청(시민을 위한 공간) 유치 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-45",
+      "title": "강동선사문화축제의 국제화(유네스코 세계문화유산 등재) 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-46",
+      "title": "강동아트센터, 강동예술인페스티벌 활성화 등 지역예술인 활동 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-47",
+      "title": "반려동물 문화 조성·유기동물 보호 등 동물복지 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-48",
+      "title": "일자산 테마파크 조성 지원, 생활권 공원녹지 확충, 올림픽대로 가로수길 조성",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-49",
+      "title": "선사유적지 리노베이션 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-50",
+      "title": "공공부문 공유사업 활성화 등 공유도시 강동 추진 지원 등",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-51",
+      "title": "노후하수관 정비 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-52",
+      "title": "어린이 놀이시설 안전관리",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-53",
+      "title": "범죄예방 환경디자인사업 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-54",
+      "title": "범죄피해예방용·학교 주변 CCTV 확충",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-55",
+      "title": "안심귀가 마을버스 활성화 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-56",
+      "title": "취약계층 ‘응급·긴급출동 안전벨’ 운영 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-57",
+      "title": "강동구 자살예방센터 설치 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-58",
+      "title": "성내배수분구 하수관거 종합정비",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-59",
+      "title": "둔촌로 하수암거 신설 지원",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gangdonggueul-60",
+      "title": "산사태 예방사업 지원 등",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1125/003_100119490_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 강동구을 당선인 심재권 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「심재권이 열어가겠습니다 더불어강동·사람특별구 강동을 위한 정치」의 분야별 ❖ 공약 60개(「더불어 균형마을 강동」 등 6개 분야, 각 10개). 분야 표제는 구호라 넣지 않고 그 아래 ❖ 줄을 공약 제목으로 삼았다. PDF 3–4·7–8쪽 의정활동·확보 예산(지난 성과), PDF 5–6쪽 야권통합·한반도 평화 다짐은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

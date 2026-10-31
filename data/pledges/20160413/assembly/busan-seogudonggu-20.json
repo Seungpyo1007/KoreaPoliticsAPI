@@ -1,0 +1,98 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-seogudonggu-20",
+  "candidate": {
+    "name": "유기준",
+    "party_id": "saenuridang",
+    "person_id": "yu-gijun-1959",
+    "nec_huboid": "100119934"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-seogudonggu-01",
+      "title": "차질없는 북항재개발 사업의 완성",
+      "page": 5
+    },
+    {
+      "id": "20-busan-seogudonggu-02",
+      "title": "미래 성장동력 수용을 위한 『새로운 도시, 부산항 시티』 개발",
+      "page": 5
+    },
+    {
+      "id": "20-busan-seogudonggu-03",
+      "title": "부산공동어시장 현대화 사업",
+      "page": 6
+    },
+    {
+      "id": "20-busan-seogudonggu-04",
+      "title": "부산역 일원 철도재배치사업",
+      "page": 6
+    },
+    {
+      "id": "20-busan-seogudonggu-05",
+      "title": "시민친화형 남항 재창조 사업추진",
+      "page": 6
+    },
+    {
+      "id": "20-busan-seogudonggu-06",
+      "title": "구덕운동장 철거 확정…명품 시민공원 조성",
+      "page": 7
+    },
+    {
+      "id": "20-busan-seogudonggu-07",
+      "title": "농림축산검역본부 영남지역본부 검역계류장(혈청소) 이전 부지 개발…복합해양문화시설 건립",
+      "page": 7
+    },
+    {
+      "id": "20-busan-seogudonggu-08",
+      "title": "근대역사문화타운 조성",
+      "page": 7
+    },
+    {
+      "id": "20-busan-seogudonggu-09",
+      "title": "자갈치역~부산공동어시장~송도해수욕장~사하지역을 잇는 문화관광벨트 조성 및 신교통수단 도입",
+      "page": 8
+    },
+    {
+      "id": "20-busan-seogudonggu-10",
+      "title": "크루즈 관광객 유치를 통한 전통시장 상권 활성화",
+      "page": 8
+    },
+    {
+      "id": "20-busan-seogudonggu-11",
+      "title": "산복도로 일원 폐·공가를 활용한 다양한 사업 추진",
+      "page": 9
+    },
+    {
+      "id": "20-busan-seogudonggu-12",
+      "title": "공공실버주택 건립 1, 2층에 복지관 설치해 어르신 원스톱서비스 실현",
+      "page": 9
+    },
+    {
+      "id": "20-busan-seogudonggu-13",
+      "title": "안전 취약지역 CCTV 확대 설치",
+      "page": 10
+    },
+    {
+      "id": "20-busan-seogudonggu-14",
+      "title": "산복도로 일원 에스컬레이터 또는 경사형 엘리베이터 설치",
+      "page": 10
+    },
+    {
+      "id": "20-busan-seogudonggu-15",
+      "title": "가족행복센터 건립",
+      "page": 10
+    },
+    {
+      "id": "20-busan-seogudonggu-16",
+      "title": "선원재활센터 구축",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2602/003_100119934_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 서구동구 당선인 유기준 (새누리당). 책자형 선거공보 PDF 5–10쪽 분야별 번호 공약 제목 16개(「미래의 무한가치 해양수산 중심의 지속발전 가능한 도시로」 1–5, 「역사와 문화가 어우러진 명품관광 도시로」 1–5, 「주민의 행복한 삶을 보장하는 안전한 도시로」 1–6). 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 세부 항목은 넣지 않았다. PDF 4쪽 서구발전의 출발·희망·도약 목록은 지난 활동 정리라 넣지 않았고, PDF 3쪽 의정활동 보고도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

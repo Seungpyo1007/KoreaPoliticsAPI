@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungbuk-cheongjusiheungdeokgu-20",
+  "candidate": {
+    "name": "도종환",
+    "party_id": "deobureo-minjudang",
+    "person_id": "do-jonghwan-1955",
+    "nec_huboid": "100119806"
+  },
+  "pledges": [
+    {
+      "id": "20-chungbuk-cheongjusiheungdeokgu-01",
+      "title": "중부권 거점 문화도시",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-cheongjusiheungdeokgu-02",
+      "title": "충북 100년의 미래 ‘연구개발특구’ 지정 추진",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-cheongjusiheungdeokgu-03",
+      "title": "굴뚝산업에서 첨단산업으로, 도시형 산업단지 전환",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-cheongjusiheungdeokgu-04",
+      "title": "아이 키우기 좋은 청주",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-cheongjusiheungdeokgu-05",
+      "title": "청주 경제의 신거점, 미호천 권역 개발",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-cheongjusiheungdeokgu-06",
+      "title": "다양한 정부 지원 사업으로 즐기는 문화 체험",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-cheongjusiheungdeokgu-07",
+      "title": "대한민국 철도 중심 오송역 위상 강화",
+      "page": 10
+    },
+    {
+      "id": "20-chungbuk-cheongjusiheungdeokgu-08",
+      "title": "듣고 계획하고 실천합니다, 지역현안 해결사 도종환",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4302/003_100119806_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충북 청주시흥덕구 당선인 도종환 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 번호 공약 1–8 제목 8개. 6번은 따로 제목 줄이 없어 도표 가운데 문구를 제목으로 넣었다. 1번 아래 소제목(인구 100만 도시, 스포츠 콤플렉스 조성 / 신성장동력 문화산업 육성)과 각 제목 아래 • 세부 항목은 넣지 않았다. PDF 7쪽 흥덕구 산업·교육·문화도시 구상도는 같은 내용의 요약이라 넣지 않았고, PDF 6쪽 더불어민주당 공약과 PDF 4쪽 의정 성과도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

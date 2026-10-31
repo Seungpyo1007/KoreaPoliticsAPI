@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-dalseogubyeong-20",
+  "candidate": {
+    "name": "조원진",
+    "party_id": "saenuridang",
+    "person_id": "jo-wonjin-1959",
+    "nec_huboid": "100119811"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-dalseogubyeong-01",
+      "title": "문화산업의 중심 - 달서",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-dalseogubyeong-02",
+      "title": "체육 레저의 메카 - 달서",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseogubyeong-03",
+      "title": "아이들이 마음놓고 공부하는 교육중심 - 달서",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseogubyeong-04",
+      "title": "건강한 복지시스템이 구축된 달서",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseogubyeong-05",
+      "title": "서민과 소상공인이 살기 좋은 달서",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseogubyeong-06",
+      "title": "교통 네트워크 확대로 편리한 달서",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-dalseogubyeong-07",
+      "title": "안전한 행정복합 중심 달서",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2707/003_100119811_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 달서구병 당선인 조원진 (새누리당). 책자형 선거공보 PDF 7–9쪽 「조원진의 7대 약속」 제목 7개. 제목 아래 ▶ 세부 항목, PDF 5쪽 지난 성과(지방재정 확보 등), PDF 3·6·10쪽 정부 지원·노동개혁 다짐은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

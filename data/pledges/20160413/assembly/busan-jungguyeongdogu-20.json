@@ -1,0 +1,78 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-jungguyeongdogu-20",
+  "candidate": {
+    "name": "김무성",
+    "party_id": "saenuridang",
+    "person_id": "gim-museong-1951",
+    "nec_huboid": "100120095"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-jungguyeongdogu-01",
+      "title": "원도심 마을재생 프로젝트 적극 추진",
+      "page": 4
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-02",
+      "title": "붕괴·재해 위험지역 정비 및 사회안전망 구축",
+      "page": 4
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-03",
+      "title": "전통시장의 글로벌 명품화",
+      "page": 4
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-04",
+      "title": "지역 도로망 확장",
+      "page": 4
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-05",
+      "title": "신성장산업 육성",
+      "page": 6
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-06",
+      "title": "최초의 영도 섬 순환도로 개통",
+      "page": 6
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-07",
+      "title": "해양 혁신도시 완성",
+      "page": 6
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-08",
+      "title": "교육환경 개선 예산 확충",
+      "page": 6
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-09",
+      "title": "해양 문화 클러스터 완성",
+      "page": 7
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-10",
+      "title": "시민을 위한 해안공원 건립",
+      "page": 7
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-11",
+      "title": "해안 연안정비 사업",
+      "page": 7
+    },
+    {
+      "id": "20-busan-jungguyeongdogu-12",
+      "title": "걷고 싶은 자연 산책로 조성",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2604/003_100120095_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 중구영도구 당선인 김무성 (새누리당). 책자형 선거공보 PDF 4·6·7쪽 「김무성의 희망 만들기」(원도심 복원·지역경제 복원·행복가치 복원) 아래 「약속」 상자의 제목 12개. 묶음 이름 3개와 각 쪽 큰 표어, 제목 아래 설명 문단은 넣지 않았다. PDF 9–10쪽 약력·지난 활동도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

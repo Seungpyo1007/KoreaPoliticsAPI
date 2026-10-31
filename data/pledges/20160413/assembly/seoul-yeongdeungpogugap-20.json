@@ -1,0 +1,123 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-yeongdeungpogugap-20",
+  "candidate": {
+    "name": "김영주",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-yeongju-1955",
+    "nec_huboid": "100119854"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-yeongdeungpogugap-01",
+      "title": "준공업지역 단계별 해제",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-02",
+      "title": "속 시원한 영등포 교통 조성",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-03",
+      "title": "친환경 녹색도시 조성",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-04",
+      "title": "어르신 복지센터 확충",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-05",
+      "title": "어르신에게 차등 없이 기초연금 30만 원 지급",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-06",
+      "title": "어르신 대상포진 예방 무료 접종",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-07",
+      "title": "청년 일자리 70만 개 창출",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-08",
+      "title": "장애인 고용 확대를 위한 제도 개선",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-09",
+      "title": "질 낮은 일자리 비정규직 양산하는 노동법 개악 저지",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-10",
+      "title": "취업활동 지원금으로 청년(장애인 포함) 구직활동 지원 추진",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-11",
+      "title": "여학생 건강을 위한 맞춤형 교실 바닥재 교체",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-12",
+      "title": "아이들 건강 보호를 위한 PVC 없는 학교 만들기",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-13",
+      "title": "교실 형광등 LED 교체로 아이들 시력보호",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-14",
+      "title": "학교 실내 공기 질 개선",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-15",
+      "title": "전통시장 현대화",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-16",
+      "title": "서울 서남권 관광벨트 단지 조성",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-17",
+      "title": "영등포 역세권 개발 추진",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-18",
+      "title": "국민연금 투자 확대로 공공어린이집 공급 확대",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-19",
+      "title": "보육 및 유아교육 국가완전책임제 이행 촉구 추진",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-20",
+      "title": "여성 대상 범죄 처벌강화 (특례법 제정 추진)",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yeongdeungpogugap-21",
+      "title": "엄마 아빠가 함께하는 육아 환경 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1119/003_100119854_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 영등포구갑 당선인 김영주 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「김영주의 희망 6대 비전」 01–06 분야 아래 색 굵은 제목 21개. 분야 표제(「국가가 효도하겠습니다!」 등)는 구호라 넣지 않았고, 제목 아래 설명 줄도 넣지 않았다. PDF 9–10쪽 동별 약속, PDF 6쪽 지난 4년 실천, PDF 4쪽 입법 성과, PDF 11쪽 국군장병 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

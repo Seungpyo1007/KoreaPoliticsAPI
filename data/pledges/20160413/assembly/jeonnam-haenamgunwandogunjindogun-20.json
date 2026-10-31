@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonnam-haenamgunwandogunjindogun-20",
+  "candidate": {
+    "name": "윤영일",
+    "party_id": "gungminui-dang",
+    "person_id": "yun-yeongil-1957",
+    "nec_huboid": "100118550"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonnam-haenamgunwandogunjindogun-01",
+      "title": "남도 1번지를! 일자리 1번지로",
+      "page": 6
+    },
+    {
+      "id": "20-jeonnam-haenamgunwandogunjindogun-02",
+      "title": "남도 1번지를! 살자리 1번지로",
+      "page": 6
+    },
+    {
+      "id": "20-jeonnam-haenamgunwandogunjindogun-03",
+      "title": "남도 1번지를! 올자리 1번지로",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4618/003_100118550_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전남 해남군완도군진도군 당선인 윤영일 (국민의당). 책자형 선거공보 PDF 6쪽 오른쪽 단 「해남, 완도, 진도에 행복한 바람이 붑니다」 공통 공약 제목 3개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 ● 세부 항목, PDF 5–6쪽 군별 공약(「가보고싶은 곳 ‘진도’로 변합니다!」, 「명품도시 ‘해남’이 됩니다!」, 「‘완도’가 풍요롭게 변화 됩니다!」)과 그 ▶ 항목, PDF 7쪽 「윤영일은 약속하면 실천합니다」 표어 3개, PDF 2쪽 당 주장은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

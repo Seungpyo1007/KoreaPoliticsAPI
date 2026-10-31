@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-dongdaemungueul-20",
+  "candidate": {
+    "name": "민병두",
+    "party_id": "deobureo-minjudang",
+    "person_id": "min-byeongdu-1958",
+    "nec_huboid": "100119639"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-dongdaemungueul-01",
+      "title": "‘동북권 교육특구’ 추진으로 동대문구의 가치를 올립니다",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungueul-02",
+      "title": "지역경제가 살아숨쉬는 활기찬 동대문구를 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-dongdaemungueul-03",
+      "title": "동북권 교통의 중심 동대문구, 더 편하고 더 빨라집니다",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungueul-04",
+      "title": "강북의 드림시티 동대문구를 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dongdaemungueul-05",
+      "title": "365일 안전하고 쾌적한 동대문구를 실현하겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1106/003_100119639_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 동대문구을 당선인 민병두 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「민병두의 동대문 희망 프로젝트 5대 전략」 제목 5개. 제목 아래 □ 세부 항목과 6쪽 첫 제목의 부제는 넣지 않았다. PDF 7–8쪽 「민생경제 실천 7대 약속」은 전국 입법 공약이라 넣지 않았고, PDF 3–4쪽 지난 성과와 PDF 9–10쪽 당 정책도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

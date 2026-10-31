@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-gimposigap-20",
+  "candidate": {
+    "name": "김두관",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-dugwan-1959",
+    "nec_huboid": "100119101"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-gimposigap-01",
+      "title": "시·도 5호선(사우동~한강로)",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-gimposigap-02",
+      "title": "장기, 풍무도서관",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-gimposigap-03",
+      "title": "한강시네폴리스",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-gimposigap-04",
+      "title": "북변동 재개발",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gimposigap-05",
+      "title": "풍무 도축장 이전",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gimposigap-06",
+      "title": "수기마을 방음벽",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4139/003_100119101_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 김포시갑 당선인 김두관 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「김포의 밀린숙제, 해 본 사람 김두관이 꼭 해내겠습니다.」 사업 제목 6개(각 쪽 왼쪽부터). 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 옆 「12년 째...」 같은 경과 표시, 아래 다짐 문구와 ▶ 세부 항목은 넣지 않았다. PDF 7–8쪽 「김포 발전이 더 빨라집니다」는 분야 제목이 구호(「더 빠르게! 더 편하게! 앉아가는 출퇴근길!」 등)이고 ✔ 항목은 세부 항목이라 넣지 않았다. PDF 9–10쪽 동별 공약, PDF 2–3쪽 지난 활동도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

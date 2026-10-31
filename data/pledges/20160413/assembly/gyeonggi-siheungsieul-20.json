@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-siheungsieul-20",
+  "candidate": {
+    "name": "조정식",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jo-jeongsik-1963",
+    "nec_huboid": "100119910"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-siheungsieul-01",
+      "title": "‘명품 배곧·MTV 완성 및 토취장(스마트카시티)’ 개발",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-siheungsieul-02",
+      "title": "‘트램 도입 및 전철·배곧대교’ 조기건설",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-siheungsieul-03",
+      "title": "‘교육특구·예술의전당’ 교육문화도시 조성",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-siheungsieul-04",
+      "title": "‘정왕복지타운·가족친화시설’ 행복한 문화도시 육성",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-siheungsieul-05",
+      "title": "‘대기업·강소기업 유치, 상권특화전략’ 시흥 경제 활성화",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4129/003_100119910_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 시흥시을 당선인 조정식 (더불어민주당). 책자형 선거공보 PDF 5쪽 「조정식의 시흥발전 5대 비전」 번호 1–5 제목 5개. 같은 쪽 「핵심공약 01·02」(토취장, 트램)은 1·2번 비전을 풀어 쓴 것이라 따로 넣지 않았다. PDF 6–10쪽 동별(정왕·월곶·배곧·군자·죽율·오이도) 공약과 PDF 10쪽 「국민의 삶을 책임지겠습니다」 전국 공약, PDF 3–4쪽 지난 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

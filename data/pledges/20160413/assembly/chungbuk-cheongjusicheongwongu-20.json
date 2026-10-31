@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungbuk-cheongjusicheongwongu-20",
+  "candidate": {
+    "name": "변재일",
+    "party_id": "deobureo-minjudang",
+    "person_id": "byeon-jaeil-1948",
+    "nec_huboid": "100119092"
+  },
+  "pledges": [
+    {
+      "id": "20-chungbuk-cheongjusicheongwongu-01",
+      "title": "미호천 항공·수상레저 복합공원 조성 추진, 시민의 휴식 공간 확충",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-cheongjusicheongwongu-02",
+      "title": "청주공항 활성화 위한 아시아 5개국 직항노선 신설 및 오송~청주공항 셔틀열차 운행 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-cheongjusicheongwongu-03",
+      "title": "10년 정체된 우암동 재개발지구 국토부 정비형 뉴스테이 사업으로 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-cheongjusicheongwongu-04",
+      "title": "국립철도박물관 청주 유치 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-cheongjusicheongwongu-05",
+      "title": "어린이를 위한 체험형 시설 5개 건립 및 유치 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-cheongjusicheongwongu-06",
+      "title": "충북만 없는 교통방송국(라디오) 오창에 개설 추진",
+      "page": 8
+    },
+    {
+      "id": "20-chungbuk-cheongjusicheongwongu-07",
+      "title": "쌩쌩 청원, 최고의 교통망 건설",
+      "page": 8
+    },
+    {
+      "id": "20-chungbuk-cheongjusicheongwongu-08",
+      "title": "철도 교통의 중심으로 우뚝 서는 청주",
+      "page": 8
+    },
+    {
+      "id": "20-chungbuk-cheongjusicheongwongu-09",
+      "title": "도시재생사업 성공 추진 지원",
+      "page": 8
+    },
+    {
+      "id": "20-chungbuk-cheongjusicheongwongu-10",
+      "title": "산업단지 추가 조성하여 성장동력 마련",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4306/003_100119092_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충북 청주시청원구 당선인 변재일 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「약속을 지키는 변재일의 핵심 10대 공약」 제목 10개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 ▶ 세부 항목, PDF 8쪽 「지역 현안도 꼼꼼히 챙기겠습니다」 읍면동별 공약, PDF 9–10쪽 「더불어」 계층별 정책, PDF 5–6쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

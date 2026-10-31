@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-changwonsimasanhoewongu-20",
+  "candidate": {
+    "name": "윤한홍",
+    "party_id": "saenuridang",
+    "person_id": "yun-hanhong-1962",
+    "nec_huboid": "100118339"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-changwonsimasanhoewongu-01",
+      "title": "M-City 프로젝트로 마산의 새로운 심장, 창원의 랜드마크를 만들겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongnam-changwonsimasanhoewongu-02",
+      "title": "문화•레포츠 시설 확충으로 삶에 건강과 여유를 드리겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-changwonsimasanhoewongu-03",
+      "title": "R&D 및 기업을 유치하여 마산경제를 다시 살리겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-changwonsimasanhoewongu-04",
+      "title": "교통인프라를 획기적으로 확충하여 살기좋은 마산회원구를 만들겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4824/003_100118339_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 창원시마산회원구 당선인 윤한홍 (새누리당). 책자형 선거공보 PDF 4쪽 「M-City 프로젝트」 머리 제목 1개와 PDF 6쪽 「윤한홍이 드리는 약속」 1–3의 제목 3개. 제목 아래 ❶❷ 번호 세부 사업과 • 설명 글, PDF 5쪽 정치 다짐, PDF 2쪽 경남 행정부지사 시절 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

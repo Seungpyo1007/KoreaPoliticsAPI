@@ -1,0 +1,78 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gangwon-donghaesisamcheoksi-20",
+  "candidate": {
+    "name": "이철규",
+    "party_id": null,
+    "person_id": "i-cheolgyu-1957",
+    "nec_huboid": "100118579"
+  },
+  "pledges": [
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-01",
+      "title": "삼척 원전건설! 절대 안 됩니다",
+      "page": 3
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-02",
+      "title": "빼앗긴 고속전철 되찾아 오겠습니다",
+      "page": 4
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-03",
+      "title": "동해항은 기능 조정이 우선입니다",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-04",
+      "title": "묵호항 재개발, 제대로 추진해야 합니다",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-05",
+      "title": "지역경제를 살리겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-06",
+      "title": "폐광대책, 자족능력을 길러줘야 합니다",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-07",
+      "title": "원덕 화력발전 3, 4호기는 조속히 건설되어야 합니다",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-08",
+      "title": "삼척고 이전, 장기적 비전으로 추진하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-09",
+      "title": "사통팔달 교통망 확충",
+      "page": 7
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-10",
+      "title": "다시 찾는 명품관광",
+      "page": 7
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-11",
+      "title": "시민이 행복한 복지도시",
+      "page": 8
+    },
+    {
+      "id": "20-gangwon-donghaesisamcheoksi-12",
+      "title": "경쟁력 있는 농어촌 육성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4204/003_100118579_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 강원 동해시삼척시 당선인 이철규 (무소속). 책자형 선거공보 PDF 3–8쪽 공약 제목 12개. 머리 공약 목록이 없어 PDF 3·4쪽 큰 표제, PDF 5·6쪽 「동해는 동해답게!」 「삼척은 삼척답게!」 아래 굵은 제목, PDF 7–8쪽 「동해·삼척, 구석구석 챙기겠습니다」 아래 분야 제목을 썼다. PDF 3·4쪽 큰 표제 아래 소제목(「삼척시민의 반대의지는 결연합니다」 등)은 근거 설명이라 넣지 않았고, PDF 7–8쪽 화살표·• 세부 항목, PDF 2·10쪽 무소속 출마 사유도 넣지 않았다. 두 줄 제목은 이어 적었고 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

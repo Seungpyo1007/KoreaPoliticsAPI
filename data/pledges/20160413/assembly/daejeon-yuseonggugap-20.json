@@ -1,0 +1,93 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daejeon-yuseonggugap-20",
+  "candidate": {
+    "name": "조승래",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jo-seungrae-1968",
+    "nec_huboid": "100119742"
+  },
+  "pledges": [
+    {
+      "id": "20-daejeon-yuseonggugap-01",
+      "title": "유성온천의 브랜드 가치 제고 및 주변 상권 활성화를 위한 계룡스파텔 재개발",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-02",
+      "title": "대전교도소 부지 이전을 통한 신국가산업 클러스터 조성 및 도안신도시 2·3단계 조기개발 추진",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-03",
+      "title": "차질없는 국제과학비즈니스벨트 추진 및 유성의 성장동력 견인 산업생태계 구축",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-04",
+      "title": "도시철도 2호선 조기착공을 통한 진잠·유성 접근성 제고 및 역세권 개발",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-05",
+      "title": "유성 복합터미널 건립 및 동서대로·도안대로·월드컵대로 미개통 구간 조기 착공",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-06",
+      "title": "노은 농수산물 도매시장 활성화를 위한 축산부류 신설",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-07",
+      "title": "갑천 친수구역의 친주민·친자연적 부지 개발 및 정부지원 확보",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-08",
+      "title": "유성 재래시장 지구의 문화·역사 기반 도시재생사업 추진·주차시설 건축 및 유성 5일장 명소화",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-09",
+      "title": "유성보건소 이전부지 내 주민·상인을 위한 복지편의시설 및 문화공간 개발",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-10",
+      "title": "유성대대부지 유성종합스포츠센터 건립",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-11",
+      "title": "진잠향교의 유교문화개발을 통한 유성의 브랜드 가치 제고",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-12",
+      "title": "지역 내 대학 경쟁력 향상을 위한 「교육균형발전법」 제정",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-13",
+      "title": "공교육 강화를 위한 「교육혁신지구」 제도 마련 및 지정",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-14",
+      "title": "도안도서관 건립 및 정부지원 확보",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggugap-15",
+      "title": "학급 당 인원수 감축 추진, 원신흥동 지역 중학교 신설",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/3004/003_100119742_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대전 유성구갑 당선인 조승래 (더불어민주당). 책자형 선거공보 PDF 8쪽 「유성의 새로운 힘을 만들겠습니다」 번호 1–15 공약 15개(분야 새로운 성장동력 구축·품격있는 도시 개발·활력있는 교육도시 조성 순). 글자층이 없어 쪽 이미지를 보고 옮겼다. 분야 제목 3개는 따로 넣지 않았다. PDF 7쪽 「조승래의 3대 공약 기조」(국가균형발전 등 국정 정책)와 PDF 9쪽 민생·복지 정책은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

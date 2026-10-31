@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungnam-seosansitaeangun-20",
+  "candidate": {
+    "name": "성일종",
+    "party_id": "saenuridang",
+    "person_id": "seong-iljong-1963",
+    "nec_huboid": "100118722"
+  },
+  "pledges": [
+    {
+      "id": "20-chungnam-seosansitaeangun-01",
+      "title": "운산 생명-축산-관광단지 개발",
+      "page": 8
+    },
+    {
+      "id": "20-chungnam-seosansitaeangun-02",
+      "title": "대산공단을 국가산단으로 승격",
+      "page": 8
+    },
+    {
+      "id": "20-chungnam-seosansitaeangun-03",
+      "title": "서산 바이오 웰빙특구와, 태안 관광레저형 기업도시 연계추진",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-seosansitaeangun-04",
+      "title": "해미 서해안권 유통산업기지 조성",
+      "page": 9
+    },
+    {
+      "id": "20-chungnam-seosansitaeangun-05",
+      "title": "서산·태안 도심상권 활성화",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-seosansitaeangun-06",
+      "title": "맞춤형 노인복지 타운 건립",
+      "page": 10
+    },
+    {
+      "id": "20-chungnam-seosansitaeangun-07",
+      "title": "안면도 관광특구 개발 조속 추진",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4405/003_100118722_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충남 서산시태안군 당선인 성일종 (새누리당). 책자형 선거공보 PDF 7–10쪽 「성일종이 지역 주민에게 드리는 실천 약속」 01–07 제목 7개. 제목 아래 설명 문구와 1·2·3 세부 항목은 넣지 않았다. PDF 5–6쪽 「새누리당과 성일종이 함께하는 약속」(연령대별 맞춤 1–7)은 전국 정책 공약이라 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}
