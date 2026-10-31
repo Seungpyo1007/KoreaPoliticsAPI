@@ -1,0 +1,83 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gurogugap-21",
+  "candidate": {
+    "name": "이인영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-inyeong-1964",
+    "nec_huboid": "100137445"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gurogugap-01",
+      "title": "구로구민과 이인영의 꿈인 ‘1호선 지하화’를 현실화 하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-gurogugap-02",
+      "title": "항동~온수~궁동~개봉1동~고척동을 잇는 지하철 항동-고척선(신구로선) 신설을 추진하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gurogugap-03",
+      "title": "미세먼지 집중 관리 구역 지정",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gurogugap-04",
+      "title": "버스정류장 미세먼지 제로존 설치",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gurogugap-05",
+      "title": "미세먼지 신호등 설치",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gurogugap-06",
+      "title": "보건지소 신설",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gurogugap-07",
+      "title": "119안전센터 신설",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gurogugap-08",
+      "title": "키즈헬스케어센터 건립",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gurogugap-09",
+      "title": "돌봄특화도서관 신설",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gurogugap-10",
+      "title": "어린이 보호구역 안전시설 추가 설치 및 정비",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gurogugap-11",
+      "title": "어르신 일자리 확대",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gurogugap-12",
+      "title": "돌봄 SOS센터 설치",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gurogugap-13",
+      "title": "뇌병변장애인 비전센터 설치",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1117/003_100137445_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 구로구갑 당선인 이인영 (더불어민주당). 책자형 선거공보 PDF 3쪽 「구로의 가치가 올라갑니다」와 PDF 5쪽 「구로가 빨라집니다」의 교통 공약 제목 2개, PDF 8쪽 「푸르고 안전한 구로」·「따뜻한 돌봄이 있는 구로」 표의 공약 제목 11개. 표 오른쪽 • 설명, PDF 7쪽 동별 공약(지난 공약 이행 표시 포함), PDF 9–10쪽 원내대표 활동과 코로나19 대응은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

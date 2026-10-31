@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-yangsansigap-21",
+  "candidate": {
+    "name": "윤영석",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "yun-yeongseok-1964",
+    "nec_huboid": "100136516"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-yangsansigap-01",
+      "title": "부울경 최고 첨단경제도시 양산",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-yangsansigap-02",
+      "title": "명품문화·교육도시 양산 실현",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-yangsansigap-03",
+      "title": "양산 부산대부지 개발 완성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-yangsansigap-04",
+      "title": "4차산업·6차산업도시 양산 도약",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-yangsansigap-05",
+      "title": "양산시 연간 예산 2조원시대 개막",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4814/003_100136516_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 양산시갑 당선인 윤영석 (미래통합당). 책자형 선거공보 PDF 5쪽 「부울경 일류도시 양산」의 「5대 목표」 1–5 제목 5개. PDF 5–6쪽 「33대 핵심실천공약」은 분야 표제 아래 ● 문장으로만 되어 있어 넣지 않았고, PDF 7–9쪽 부산대부지·문화·교통 분야 굵은 제목, PDF 4쪽 읍면동별 공약, PDF 3쪽 지난 성과, PDF 10쪽 시민 요청 응답도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

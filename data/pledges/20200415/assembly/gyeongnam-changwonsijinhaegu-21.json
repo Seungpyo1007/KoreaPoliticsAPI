@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-changwonsijinhaegu-21",
+  "candidate": {
+    "name": "이달곤",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "i-dalgon-1953",
+    "nec_huboid": "100134965"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-changwonsijinhaegu-01",
+      "title": "우리 모두에게 힘이 됩니다",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-changwonsijinhaegu-02",
+      "title": "교육하기 좋은 진해",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-changwonsijinhaegu-03",
+      "title": "복지와 문화, 생활환경이 좋아집니다",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-changwonsijinhaegu-04",
+      "title": "우리 삶에 힘이 솟고 살맛납니다",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-changwonsijinhaegu-05",
+      "title": "해양산업, 해양관광이 살아납니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-changwonsijinhaegu-06",
+      "title": "창원권, 부산-김해 30분대 교통이 좋아집니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-changwonsijinhaegu-07",
+      "title": "군과 민이 함께 즐기는 군항제, 멋진 해군",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4825/003_100134965_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 창원시진해구 당선인 이달곤 (미래통합당). 책자형 선거공보 PDF 5–6쪽 「선거보다 더 열심히 하겠습니다」·「진해경제시대 구현」 분야별 분홍 제목 7개. 제목 왼쪽 분야 꼬리표(직선 구청, 교육, 복지 문화, 경제, 해양, 교통, 해군)와 제목 아래 • 세부 항목, PDF 7–8쪽 동별 지도 공약, PDF 10쪽 「국회 보내주시면 바로 하겠습니다」 1–9 전국 정책은 넣지 않았다. 「우리 모두에게 힘이 됩니다」는 진해구청 직선 공약의 제목이다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

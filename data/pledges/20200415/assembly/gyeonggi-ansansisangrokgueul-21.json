@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-ansansisangrokgueul-21",
+  "candidate": {
+    "name": "김철민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-cheolmin-1957",
+    "nec_huboid": "100137430"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-01",
+      "title": "신안산선 2024년 개통",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-02",
+      "title": "GTX-C 노선 안산 유치 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-03",
+      "title": "시민을 위한 장상지구 신도시 개발",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-04",
+      "title": "20대 국회 국비확보 사업, 끝까지 챙기겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-05",
+      "title": "풍부한 일자리 활기찬 경제안산",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-06",
+      "title": "시민이 안심하는 안전안산",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-07",
+      "title": "출산부터 육아까지 아이키우기 좋은 보육안산",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-08",
+      "title": "구석구석 빈틈없는 복지안산",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-09",
+      "title": "쾌적하고 앞서가는 교육안산",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-10",
+      "title": "미세먼지 줄여 숨쉬기 편한 청정안산",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-11",
+      "title": "역사와 문화가 있는 관광안산",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-ansansisangrokgueul-12",
+      "title": "자치분권 강화로 더 크게 성장하는 자치안산",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4118/003_100137430_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 안산시상록구을 당선인 김철민 (더불어민주당). 책자형 선거공보 PDF 6쪽 「김철민이 시작한 안산의 도약 다음 4년에 완성하겠습니다」 굵은 • 항목 4개와 PDF 7–8쪽 「활기차고, 삶이 풍요로운 '명품도시 안산', 김철민이라면 가능합니다」 분야 제목 8개. 그 아래 - 항목과 • 세부 항목, PDF 6쪽 장상지구 지도 설명, PDF 9–10쪽 동별 공약, PDF 3–5쪽 지난 성과(신안산선 착공 경과)는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

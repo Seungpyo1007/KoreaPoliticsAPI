@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-gunposi-21",
+  "candidate": {
+    "name": "이학영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-hakyeong-1952",
+    "nec_huboid": "100137486"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-gunposi-01",
+      "title": "4호선 금정역 급행전철 추진",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-gunposi-02",
+      "title": "위례-과천선 군포 연장 추진",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-gunposi-03",
+      "title": "금정역 입체화 개발로 새로운 성장동력",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-gunposi-04",
+      "title": "아파트 리모델링 규제 합리화",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gunposi-05",
+      "title": "대규모 주차시설 조성으로 주차난 해소",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gunposi-06",
+      "title": "군포 역세권 활성화 프로젝트",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-gunposi-07",
+      "title": "당정동 공업지역 스마트 산업단지 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-gunposi-08",
+      "title": "청년의 경제적 자립을 돕는 원스톱 지원센터 구축",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4130/003_100137486_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 군포시 당선인 이학영 (더불어민주당). 책자형 선거공보 PDF 3–6쪽 「다시 뛰는 군포시!」「시민의 보금자리를 새롭게!」의 공약 제목 8개(두 줄 제목은 이었다). 제목 아래 • 세부 항목과 PDF 4쪽 상자 4개, PDF 3쪽 「1호선 급행전철, 해냈습니다!」(지난 성과), PDF 7–8쪽 더불어민주당과 함께하는 공약 1–9, PDF 9–10쪽 지난 활동은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

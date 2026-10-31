@@ -1,0 +1,198 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-goyangsibyeong-21",
+  "candidate": {
+    "name": "홍정민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "hong-jeongmin-1978",
+    "nec_huboid": "100137188"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-goyangsibyeong-01",
+      "title": "바이오메디클러스터·방송영상콘텐츠·ICT 기업 유치",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-02",
+      "title": "「고양 유니콘 프로젝트」 청년 스타트업, 벤처 육성",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-03",
+      "title": "소상공인지원센터 설립",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-04",
+      "title": "일산-서울 대심도 지하고속도로",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-05",
+      "title": "고양선 식사역 동시착공",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-06",
+      "title": "인천2호선 연장(킨텍스-일산역-중산동-고봉동)",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-07",
+      "title": "고양누리버스 확대·복지택시 바우처 도입",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-08",
+      "title": "방송영상밸리, 일산테크노밸리, CJ라이브시티, 킨텍스 제3전시장 성공적 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-09",
+      "title": "인쇄·출판 등 관내 기존산업 고도화 지원",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-10",
+      "title": "과도한 임대료 인상 없이 장기임대 가능한 상생협력상가 조성",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-11",
+      "title": "100만 대도시 특례시 지정 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-12",
+      "title": "고양지방법원 승격 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-13",
+      "title": "수도권정비계획법 등 수도권 규제법령 개정 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-14",
+      "title": "제2자유로 서울 진입 정체 해소(구룡사거리 입체화도로)",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-15",
+      "title": "서울·문산고속도로~식사동 연결도로 조기개통과 일산동구 추가 진입도로 연결",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-16",
+      "title": "경의선 출퇴근 혼잡시간 증차(4량→6량), 주말·야간 혼잡시간 증편",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-17",
+      "title": "대곡·소사선 일산역 연장(김포공항~대곡역~일산역)",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-18",
+      "title": "킨텍스 도심공항터미널 유치",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-19",
+      "title": "수도권 최초 정부 지원 2기 스마트시티 유치",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-20",
+      "title": "노후도심 스마트시티 연계 도시재생 뉴딜",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-21",
+      "title": "WHO 국제안전도시 인증",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-22",
+      "title": "디지털 성범죄 등 각종 성범죄 처벌강화 및 예방시스템 구축",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-23",
+      "title": "국가지정 문화도시 추진",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-24",
+      "title": "올림픽스포츠센터 경륜·경정 장외발매소 폐쇄",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-25",
+      "title": "미세먼지 관리체계 강화",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-26",
+      "title": "저탄소 교통시스템 구축",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-27",
+      "title": "장항습지 람사르습지 등록 및 한강생태축 조성",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-28",
+      "title": "제2평생교육학습관 일산동구 유치",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-29",
+      "title": "미디어교육지원센터 설립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-30",
+      "title": "지역 특화산업·선도산업 인재양성교육",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-31",
+      "title": "다함께 돌봄센터·초등돌봄교실 확대",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-32",
+      "title": "어린이재활전문병원 설립",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-33",
+      "title": "어르신 주거·일자리·소득 지원 확대",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-34",
+      "title": "장애인연금 수급권 단계적 확대",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-35",
+      "title": "수요맞춤형 장애인활동지원체계 구축",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsibyeong-36",
+      "title": "경력단절여성 고부가가치 맞춤형 직종훈련 확대",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4121/003_100137188_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 고양시병 당선인 홍정민 (더불어민주당). 책자형 선거공보 PDF 7쪽 「일산경제_이렇게 키우겠습니다」「일산교통_이렇게 해결하겠습니다」 항목 7개와 PDF 7·9쪽 분야별(미래를 만들다·키우다·누리다·그리다·즐기다·꿈꾸다) 항목 29개, 모두 36개. 분야 표제가 구호라 그 아래 항목을 공약 제목으로 보았다. 해시태그 줄, PDF 8쪽 「혁신성장플랜 3S」와 대심도 설명, PDF 10쪽 동별 공약, PDF 2–6쪽 인사말·정권 평가·약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,88 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daejeon-daedeokgu-21",
+  "candidate": {
+    "name": "박영순",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-yeongsun-1964",
+    "nec_huboid": "100134775"
+  },
+  "pledges": [
+    {
+      "id": "21-daejeon-daedeokgu-01",
+      "title": "연축·신대지구에 수도권 소재 공공기관 유치",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-02",
+      "title": "연축지구 도시개발 사업 조기착공 (그린벨트 해제)",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-03",
+      "title": "연축지구에 대덕구청 신청사 이전 건립",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-04",
+      "title": "신대동 4차산업혁명 테스트베드단지 조성",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-05",
+      "title": "도시철도 2호선 트램 대덕구 노선연장",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-06",
+      "title": "노후산단을 산업혁신클러스터로 전환",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-07",
+      "title": "근로복지공단대전병원을 공공종합병원으로 재건축",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-08",
+      "title": "대덕구 관할 동대전세무서 신설",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-09",
+      "title": "대화~중리간 조차장 연결 교량 건설",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-10",
+      "title": "대청호 출렁다리 및 계족산 휴양림 조성",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-11",
+      "title": "제2노인복지관 및 종합사회복지관 건립",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-12",
+      "title": "멀티플렉스 영화관 유치 및 청년행복주택 건설",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-13",
+      "title": "권역별 복합문화체육센터 건립",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-daedeokgu-14",
+      "title": "학교다목적강당 조성 및 CCTV 확대",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3005/003_100134775_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대전 대덕구 당선인 박영순 (더불어민주당). 책자형 선거공보 PDF 7쪽 「혁신도시 대덕」 약속 1–4와 같은 쪽 「박영순의 대덕혁신 10대 공약」 1–10, 모두 14개. 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 8쪽 「국민행복 10가지 약속」(당 공약)과 「1등 교육혁신특구 대덕」 ■ 항목, PDF 9–10쪽 생활권역별 공약, PDF 2쪽 국회 개혁 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

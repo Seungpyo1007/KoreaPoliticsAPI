@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gwangju-donggunamgugap-21",
+  "candidate": {
+    "name": "윤영덕",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-yeongdeok-1969",
+    "nec_huboid": "100134590"
+  },
+  "pledges": [
+    {
+      "id": "21-gwangju-donggunamgugap-01",
+      "title": "차세대에너지융복합산업 클러스터 구축(118억)",
+      "page": 4
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-02",
+      "title": "지역인적자원개발 사회혁신센터 조성",
+      "page": 4
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-03",
+      "title": "문화콘텐츠산업 집적단지 조성",
+      "page": 4
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-04",
+      "title": "광주전남바이오헬스케어 광역권 중심도시",
+      "page": 4
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-05",
+      "title": "무료 와이파이 남구 관내 확대",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-06",
+      "title": "중소기업형 청년 복지임금제",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-07",
+      "title": "안심마을 건강생활지원센터 구축",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-08",
+      "title": "무장애통합놀이터 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-09",
+      "title": "스마트 안전워치 플랫폼 시범 구축",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-10",
+      "title": "치매국가책임제에 따른 남구 치매안심타운 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-11",
+      "title": "어린이와 여성이 안전한 남구",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-donggunamgugap-12",
+      "title": "주거환경 개선 및 마을공동체를 위한 도시재생",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2903/003_100134590_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 광주 동구남구갑 당선인 윤영덕 (더불어민주당). 펼침면으로 된 책자형 선거공보 PDF 4쪽 「윤영덕의 행복약속 새로운 도약! 새로운 남구!」 제목 4개와 PDF 6쪽 「살기좋은 남구를 만들겠습니다!」 제목 8개를 넣었다. 제목 아래 • 세부 항목과 PDF 4쪽 두 번째 제목 아래 작은 글씨 괄호 줄, PDF 5쪽 권역별(송암동·백운광장·봉선진월동·대촌효천) 공약, PDF 1–3쪽 인사말·약력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

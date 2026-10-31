@@ -1,0 +1,108 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonbuk-namwonsiimsilgunsunchanggun-21",
+  "candidate": {
+    "name": "이용호",
+    "party_id": null,
+    "person_id": "i-yongho-1960",
+    "nec_huboid": "100136974"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-01",
+      "title": "국립공공의대 설립",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-02",
+      "title": "국악 상설공연장 건립",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-03",
+      "title": "역사문화도시 복원",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-04",
+      "title": "전주~남원~여수'전라선 KTX 관광 프로그램'개발",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-05",
+      "title": "지리산 친환경 전기열차 도입",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-06",
+      "title": "역사문화체험 투어 프로그램 개발",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-07",
+      "title": "남원시,'남원관광지 Re-PLUS 사업(2020~2024)' 지원 및 연계사업 창출",
+      "page": 4
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-08",
+      "title": "옥정호 수변도로 개설",
+      "page": 6
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-09",
+      "title": "임실 치즈테마파크 키즈랜드 건립",
+      "page": 6
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-10",
+      "title": "국가 안전교육원 조성",
+      "page": 6
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-11",
+      "title": "관촌지구 공공임대주택 건립",
+      "page": 6
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-12",
+      "title": "오수 반려동물산업 클러스터 조성",
+      "page": 6
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-13",
+      "title": "섬진강 에코파크&수상레포츠타운 조성",
+      "page": 6
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-14",
+      "title": "귀농귀촌 활성화 및 지원 - 스마트팜교육원 설립",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-15",
+      "title": "건강장수산업과 휴양·힐링을 접목한 복합단지 조성",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-16",
+      "title": "종합문화예술회관 건립",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-17",
+      "title": "강천산 도로! 4차로로 확장",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-namwonsiimsilgunsunchanggun-18",
+      "title": "임순남 사통팔달 교통망",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4508/003_100136974_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전북 남원시임실군순창군 당선인 이용호 (무소속). 책자형 선거공보 PDF 4·6·8쪽 남원·임실·순창 쪽 가운데 그림의 공약 제목(남원 6, 임실 6, 순창 3)과, 그림에 없는 「더 나은 4년으로」 ■ 항목 2개(남원 「국립공공의대 설립!」, 순창 「강천산 도로! 4차로로 확장」), PDF 9쪽 교통 표제 「임순남 사통팔달 교통망」을 넣었다. 쪽마다 머리 공약 목록이 따로 없어 그림 속 제목을 썼다. 「국립공공의대 설립!」의 끝 !와 둘째 줄 「2022년 개교」는 덜어냈다. 그림 제목 아래 - 세부 항목, 「더 나은 4년으로」 중 그림과 겹치는 ■ 항목과 읍·면·동별 항목, 「지난 4년의 성과」, PDF 9쪽 구간별 도로 사업, PDF 10쪽 전국 정책은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

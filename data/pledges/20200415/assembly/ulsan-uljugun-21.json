@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/ulsan-uljugun-21",
+  "candidate": {
+    "name": "서범수",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "seo-beomsu-1963",
+    "nec_huboid": "100135110"
+  },
+  "pledges": [
+    {
+      "id": "21-ulsan-uljugun-01",
+      "title": "울주에 새로운 성장 동력 연결",
+      "page": 5
+    },
+    {
+      "id": "21-ulsan-uljugun-02",
+      "title": "전시컨벤션센터 중심 MICE산업-유니스트-산업체-관광산업 연결",
+      "page": 5
+    },
+    {
+      "id": "21-ulsan-uljugun-03",
+      "title": "울주의 교통을 연결",
+      "page": 6
+    },
+    {
+      "id": "21-ulsan-uljugun-04",
+      "title": "울주의 관광자원과 사람을 연결",
+      "page": 6
+    },
+    {
+      "id": "21-ulsan-uljugun-05",
+      "title": "명품도시, 울주를 속 시원하게",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-uljugun-06",
+      "title": "어르신과 어린이가 속 시원한 울주",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-uljugun-07",
+      "title": "사통팔달 속 시원한 울주",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-uljugun-08",
+      "title": "안전과 건강이 속 시원히 보장된 울주",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-uljugun-09",
+      "title": "속 시원하게 찾는 울주",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3105/003_100135110_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 울산 울주군 당선인 서범수 (미래통합당). 책자형 선거공보 PDF 5–6쪽 「울산의 변방에서 울산의 중심으로」 번호 공약 1–4 제목 4개와 PDF 7–8쪽 「서범수의 5가지 속 시원한 약속」 제목 5개를 넣었다. OCR 글자가 섞여 있어 쪽 이미지를 보고 옮겼다. 제목 아래 ◎ 세부 항목, PDF 9–10쪽 읍면별 공약, PDF 4쪽 정치 개혁 공약, PDF 2·11쪽 정권 비판 글은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

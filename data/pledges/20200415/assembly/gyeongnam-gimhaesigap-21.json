@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-gimhaesigap-21",
+  "candidate": {
+    "name": "민홍철",
+    "party_id": "deobureo-minjudang",
+    "person_id": "min-hongcheol-1961",
+    "nec_huboid": "100137280"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-gimhaesigap-01",
+      "title": "김해 중심의 「동남권 내륙철도」 건설 추진",
+      "page": 4
+    },
+    {
+      "id": "21-gyeongnam-gimhaesigap-02",
+      "title": "「진례~밀양 고속도로」 건설",
+      "page": 4
+    },
+    {
+      "id": "21-gyeongnam-gimhaesigap-03",
+      "title": "가야왕도 새 랜드마크 「김해 컨벤션센터」 건립",
+      "page": 4
+    },
+    {
+      "id": "21-gyeongnam-gimhaesigap-04",
+      "title": "2023년 제104회 전국체전 준비 지원",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-gimhaesigap-05",
+      "title": "가야 역사문화의 연구·복원을 통한 관광거점도시 조성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-gimhaesigap-06",
+      "title": "「가야왕도 올레길」 및 생태수변공원 조성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-gimhaesigap-07",
+      "title": "동남권 국제 물류중심도시 기반 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-gimhaesigap-08",
+      "title": "창원지법 김해지원 설립 및 제2차 공공기관 이전 시 김해 유치 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-gimhaesigap-09",
+      "title": "대학병원급 공공보건의료기관 유치 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-gimhaesigap-10",
+      "title": "개발제한구역(그린벨트)의 합리적인 조정",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4808/003_100137280_20200414_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 김해시갑 당선인 민홍철 (더불어민주당). 책자형 선거공보 PDF 4쪽 「동남권 중심도시, 더 큰 김해 만들기 3대 프로젝트」 제목 3개와 PDF 5–6쪽 「김해시민 행복 만들기 7대 공약」 1–7 제목 7개. 제목 아래 노선 표기와 • 세부 항목, PDF 7–8쪽 읍·면·동별 실천약속과 김해 공통공약, PDF 9–10쪽 더불어민주당과의 분야별 정책공약, PDF 3쪽 지난 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

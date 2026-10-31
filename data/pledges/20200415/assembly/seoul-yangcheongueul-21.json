@@ -1,0 +1,93 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-yangcheongueul-21",
+  "candidate": {
+    "name": "이용선",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-yongseon-1958",
+    "nec_huboid": "100134903"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-yangcheongueul-01",
+      "title": "서부광역철도, 경전철 목동선 착공",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongueul-02",
+      "title": "마을버스 확충",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongueul-03",
+      "title": "어르신과 장애인 등 교통 약자 활동 지원 및 이동권 보장 강화",
+      "page": 3
+    },
+    {
+      "id": "21-seoul-yangcheongueul-04",
+      "title": "서부트럭터미널 부지, 확실한 개발",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-yangcheongueul-05",
+      "title": "서남권 상징, 멀티플렉스 건설",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-yangcheongueul-06",
+      "title": "특별법 제정",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-yangcheongueul-07",
+      "title": "예산은 늘리고",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-yangcheongueul-08",
+      "title": "항공기소음을 줄이고",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-yangcheongueul-09",
+      "title": "소음피해지원금을 더 많은 주민에게",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-yangcheongueul-10",
+      "title": "꿈을 키우는 공간 혁신",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-yangcheongueul-11",
+      "title": "4차 산업 인재 육성",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-yangcheongueul-12",
+      "title": "학부모·학생의 학교운영 참여 확대",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-yangcheongueul-13",
+      "title": "항공우주테마파크",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-yangcheongueul-14",
+      "title": "반려동물파크",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-yangcheongueul-15",
+      "title": "신트럴파크",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1115/003_100134903_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 양천구을 당선인 이용선 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 3·5–8쪽 분야별(「바꿔라 교통」, 「바꾸자 침체된 발전」, 「줄이자 공항소음 피해」, 「바꿔라 교육환경」, 「바꾸자 오고 싶은 양천을」) 굵은 제목 15개를 넣었다. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 설명과 - 세부 항목, PDF 4쪽 노선 설명, PDF 9쪽 「더불어민주당과 이용선이 함께 약속합니다」(청년 공약, 당 공약과 섞임), PDF 10쪽 지난 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

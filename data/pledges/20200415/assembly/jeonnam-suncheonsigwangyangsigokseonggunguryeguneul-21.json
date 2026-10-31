@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonnam-suncheonsigwangyangsigokseonggunguryeguneul-21",
+  "candidate": {
+    "name": "서동용",
+    "party_id": "deobureo-minjudang",
+    "person_id": "seo-dongyong-1964",
+    "nec_huboid": "100135274"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonnam-suncheonsigwangyangsigokseonggunguryeguneul-01",
+      "title": "여순 10.19사건 특별법 제정",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-suncheonsigwangyangsigokseonggunguryeguneul-02",
+      "title": "공공임대주택 임차인 보호법개정",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-suncheonsigwangyangsigokseonggunguryeguneul-03",
+      "title": "전남 동부 의과대학 유치·대학병원 설립",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-suncheonsigwangyangsigokseonggunguryeguneul-04",
+      "title": "광양보건대 공영형 사립대 추진",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4607/003_100135274_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전남 순천시광양시곡성군구례군을 당선인 서동용 (더불어민주당). 책자형 선거공보 PDF 6쪽 「내 삶터를 바꾸는 지역 현안 4대약속, 꼭 지키겠습니다!」 1–4 제목 4개. 각 제목 아래 부제와 설명, PDF 7–10쪽 안전·복지·산업·청년·교육·문화·농촌 분야 정책, PDF 11쪽 순천·광양·곡성·구례 시군별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

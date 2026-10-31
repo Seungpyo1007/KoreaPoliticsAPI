@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-gimhaesieul-21",
+  "candidate": {
+    "name": "김정호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-jeongho-1960",
+    "nec_huboid": "100137468"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-gimhaesieul-01",
+      "title": "동북아 물류 허브 추진",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-gimhaesieul-02",
+      "title": "광역교통망 구축",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-gimhaesieul-03",
+      "title": "대중교통 혁신",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-gimhaesieul-04",
+      "title": "김해 미래산업 육성",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-gimhaesieul-05",
+      "title": "역사·문화·교육도시 조성",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-gimhaesieul-06",
+      "title": "친환경 생태 도시 조성",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-gimhaesieul-07",
+      "title": "안전한 복지 도시 조성",
+      "page": 3
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4808/003_100137468_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 김해시을 당선인 김정호 (더불어민주당). 책자형 선거공보 PDF 3쪽(펼침면) 「김정호의 김해발전 10년의 구상」의 「동남권 메가시티 비전」 원형 제목 2개와 「김해발전 5대 비전」 원형 제목 5개, 모두 7개. 각 칸의 부제(「김해시민 이동권 보장」 등)와 • 세부 항목, PDF 4–5쪽 면·동별 주요공약, PDF 6쪽 이후 전국 단위 공약, PDF 2쪽 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

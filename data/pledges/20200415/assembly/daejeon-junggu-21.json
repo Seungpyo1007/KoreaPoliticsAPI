@@ -1,0 +1,143 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daejeon-junggu-21",
+  "candidate": {
+    "name": "황운하",
+    "party_id": "deobureo-minjudang",
+    "person_id": "hwang-unha-1962",
+    "nec_huboid": "100136669"
+  },
+  "pledges": [
+    {
+      "id": "21-daejeon-junggu-01",
+      "title": "은행동 스카이로드 일대, 지하상가와 전통시장 활성화",
+      "page": 5
+    },
+    {
+      "id": "21-daejeon-junggu-02",
+      "title": "도시철도에서 소외된 지역의 트램 지선 검토",
+      "page": 5
+    },
+    {
+      "id": "21-daejeon-junggu-03",
+      "title": "대전선 철도 폐선을 따라 도시 숲길공원 조성",
+      "page": 5
+    },
+    {
+      "id": "21-daejeon-junggu-04",
+      "title": "원도심에 ‘디지털 성범죄 전문 수사연구소’ 유치",
+      "page": 5
+    },
+    {
+      "id": "21-daejeon-junggu-05",
+      "title": "현 중구청사를 고밀도 복합 공공 청사로 신축",
+      "page": 5
+    },
+    {
+      "id": "21-daejeon-junggu-06",
+      "title": "유천동 서남부터미널을 국내 최고 복합 문화터미널 파크로 조성",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-junggu-07",
+      "title": "대흥동 관사촌 일대를 예술인 전용 문화창작 벨트로 육성",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-junggu-08",
+      "title": "중촌동 옛 대전형무소 일대를 역사 문화관광 자원화",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-junggu-09",
+      "title": "보문산 관광 개발 광역화를 통한 ‘오월드’(동물원+플라워랜드) 연계",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-junggu-10",
+      "title": "제2뿌리공원 ‘효테마파크’를 효문화관광의 메카로 조성",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-junggu-11",
+      "title": "원도심 문화예술 활성화",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-junggu-12",
+      "title": "도시재생뉴딜사업 지속 추진",
+      "page": 6
+    },
+    {
+      "id": "21-daejeon-junggu-13",
+      "title": "선화동 옛 삼성생명 및 중앙로 일원을 ‘첨단복합창업특구’로 지정",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-junggu-14",
+      "title": "중촌동 근린공원 일대를 ‘새활용 타운’으로 조성",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-junggu-15",
+      "title": "혁신도시 관련 공공기관 유치로 지역인재 채용 확대",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-junggu-16",
+      "title": "중구 소방서 신설·중구 보건소 신축",
+      "page": 8
+    },
+    {
+      "id": "21-daejeon-junggu-17",
+      "title": "부사·석교·문창동 등 학교 유휴 공간을 활용한 주민 복지·체육시설 확충",
+      "page": 8
+    },
+    {
+      "id": "21-daejeon-junggu-18",
+      "title": "태평동 고교 신설을 위한 미래형 통합학교 도입",
+      "page": 8
+    },
+    {
+      "id": "21-daejeon-junggu-19",
+      "title": "1인 가구 지원센터·홀로 사는 노인종합지원센터 설치",
+      "page": 8
+    },
+    {
+      "id": "21-daejeon-junggu-20",
+      "title": "빈집 활용 및 범죄예방 환경디자인 확대",
+      "page": 8
+    },
+    {
+      "id": "21-daejeon-junggu-21",
+      "title": "세계보건기구(WH0) ‘어르신 친화도시’에 중구 가입",
+      "page": 9
+    },
+    {
+      "id": "21-daejeon-junggu-22",
+      "title": "중구 노인종합복지관 신설",
+      "page": 9
+    },
+    {
+      "id": "21-daejeon-junggu-23",
+      "title": "사회복지시설이 복합 설치된 공공 복지 임대주택 건설",
+      "page": 9
+    },
+    {
+      "id": "21-daejeon-junggu-24",
+      "title": "어르신 전용 실버영화관, 실버영화제, 청춘다방 개관",
+      "page": 9
+    },
+    {
+      "id": "21-daejeon-junggu-25",
+      "title": "석교동, 오류동, 태평1·2동, 문창동 등 노후 주민센터를 복합커뮤니티 청사로 신축",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3002/003_100136669_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대전 중구 당선인 황운하 (더불어민주당). 책자형 선거공보 PDF 5–9쪽 「황운하의 중구 부흥 공식」 각 쪽 왼쪽 「황운하의 진실한 마음을 담다」 ▶ 공약 25개. 분야 표제(원도심 : 곱하다 등)는 구호라 제목으로 쓰지 않았고 ▶ 줄을 공약 제목으로 썼다. 5쪽 1번, 7쪽 1·2번 뒤의 작은 글씨 괄호 설명은 덜어냈다. 각 쪽 오른쪽 본문, PDF 10쪽 다짐 글, PDF 3–4쪽 정치 비판은 넣지 않았다. 9쪽 WH0은 글자층 표기를 따랐다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

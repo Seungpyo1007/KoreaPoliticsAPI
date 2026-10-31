@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-yeojusiyangpyeonggun-21",
+  "candidate": {
+    "name": "김선교",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-seongyo-1960",
+    "nec_huboid": "100134841"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-yeojusiyangpyeonggun-01",
+      "title": "경제활력 첫번째로 풀어야 할 규제개혁",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-yeojusiyangpyeonggun-02",
+      "title": "농림축산·어업",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-yeojusiyangpyeonggun-03",
+      "title": "보건 안전·진심 복지 약속",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-yeojusiyangpyeonggun-04",
+      "title": "온 국민 문화누리",
+      "page": 3
+    },
+    {
+      "id": "21-gyeonggi-yeojusiyangpyeonggun-05",
+      "title": "여성 안전·일에 전념할 수 있는 안심보육 국가가 끝까지 책임지는 보훈 정책",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-yeojusiyangpyeonggun-06",
+      "title": "청년 공정 희망 약속",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-yeojusiyangpyeonggun-07",
+      "title": "교육환경",
+      "page": 4
+    },
+    {
+      "id": "21-gyeonggi-yeojusiyangpyeonggun-08",
+      "title": "반려동·식물",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4133/003_100134841_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 여주시양평군 당선인 김선교 (미래통합당). 책자형 선거공보 PDF 3–4쪽(펼침면) 「대한민국 최고명품행복도시 완성 여덟개의 핵심공약!」 1–8 제목 8개. 텍스트가 OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 위 작은 머리말(농자천하지대본, 건강 최우선, 백년지대계 등)은 덜어냈다. 제목 아래 • 세부 항목, PDF 5쪽 SOC 마스터플랜과 읍·면·동별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

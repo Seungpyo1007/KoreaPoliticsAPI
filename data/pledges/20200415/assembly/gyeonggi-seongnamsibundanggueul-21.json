@@ -1,0 +1,108 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-seongnamsibundanggueul-21",
+  "candidate": {
+    "name": "김병욱",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-byeonguk-1965",
+    "nec_huboid": "100136741"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-01",
+      "title": "SRT ‘오리동천역(가칭)’ 신설 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-02",
+      "title": "신분당선 ‘분당MICE역(가칭)’ 신설 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-03",
+      "title": "도시철도 ‘분당동역(가칭)’ 신설 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-04",
+      "title": "신분당선 광화문 연장 및 출퇴근 교통혼잡 해소",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-05",
+      "title": "바이오헬스 허브 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-06",
+      "title": "분당 MICE산업단지 유치",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-07",
+      "title": "1기신도시 도시재생 특위 구성 및 특별법 제정",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-08",
+      "title": "공동주택, 소규모주택 등 시설개선지원",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-09",
+      "title": "임대주택 시설개선 지속 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-10",
+      "title": "율동공원 야외체육시설 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-11",
+      "title": "커피박물관 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-12",
+      "title": "서울대 의대 특성화 대학원 유치",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-13",
+      "title": "분당-판교 우수기업 취업연계 지원",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-14",
+      "title": "반려동물 복지문화센터 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-15",
+      "title": "복합문화체육센터(청소년/어르신) 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-16",
+      "title": "여성비전센터 설립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-17",
+      "title": "분당 신중년 활력지원센터 설립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsibundanggueul-18",
+      "title": "경로당 안심카메라 설치 지원",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4107/003_100136741_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 성남시분당구을 당선인 김병욱 (더불어민주당). 책자형 선거공보 PDF 7쪽 「교통은 최고의 복지입니다!」 띠 제목 4개와 PDF 8쪽 「분당의 확실한 변화를 이끌겠습니다!」 분야별(1–5) 제목 14개. 텍스트가 OCR 결과라 쪽 이미지를 보고 옮겼다. PDF 7쪽 아래 ✓ 문장형 항목 3개와 제목 아래 설명, PDF 9–10쪽 동별 공약, PDF 6쪽 국정 정책 공약, PDF 3–4쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

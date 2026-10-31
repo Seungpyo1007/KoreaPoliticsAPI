@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daejeon-yuseonggueul-21",
+  "candidate": {
+    "name": "이상민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-sangmin-1958",
+    "nec_huboid": "100137037"
+  },
+  "pledges": [
+    {
+      "id": "21-daejeon-yuseonggueul-01",
+      "title": "교통 걱정 제로",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-yuseonggueul-02",
+      "title": "아이 걱정 제로",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-yuseonggueul-03",
+      "title": "환경 문제 걱정 제로",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-yuseonggueul-04",
+      "title": "범죄 걱정 제로",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-yuseonggueul-05",
+      "title": "복지 사각지대 걱정 제로",
+      "page": 7
+    },
+    {
+      "id": "21-daejeon-yuseonggueul-06",
+      "title": "4차 산업혁명 전진기지 구축(신동·둔곡동~금탄동·대동·금고동~용산동·탑립동~안산동~전민동·문지동·원촌동 등)",
+      "page": 9
+    },
+    {
+      "id": "21-daejeon-yuseonggueul-07",
+      "title": "과학중심 국정운영과 과학기술인 사기진작",
+      "page": 9
+    },
+    {
+      "id": "21-daejeon-yuseonggueul-08",
+      "title": "삶의 질이 높아지는 갑천 재창조 프로젝트 추진(원촌동~문지동~전민동~관평동~구즉동 등 일원 천변부지 활용)",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3004/003_100137037_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대전 유성구을 당선인 이상민 (더불어민주당). 책자형 선거공보 PDF 7쪽 「이상민, 걱정제로 유성 5대 약속」 제목 5개와 PDF 9쪽 「이상민, 과학중심 국정운영과 유성발전 약속」 2–4번 제목 3개. 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 9쪽 1번 「국정의 중심에서 큰 정치인으로 성장」(개헌·국무총리 도전)은 지역 공약이 아니라 넣지 않았다. 제목 아래 ● 세부 항목, PDF 8쪽 동별 공약, PDF 10쪽 더불어민주당 10대 약속, PDF 3–6쪽 확보 예산·의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

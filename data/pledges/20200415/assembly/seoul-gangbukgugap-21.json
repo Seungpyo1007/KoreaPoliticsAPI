@@ -1,0 +1,33 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gangbukgugap-21",
+  "candidate": {
+    "name": "천준호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "cheon-junho-1971",
+    "nec_huboid": "100135984"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gangbukgugap-01",
+      "title": "북한산 ‘숲’ 프로젝트 추진",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-gangbukgugap-02",
+      "title": "시립 어린이전문병원 조속한 건립 추진",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-gangbukgugap-03",
+      "title": "교육환경 개선사업 지속 추진",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1109/003_100135984_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 강북구갑 당선인 천준호 (더불어민주당). 책자형 선거공보 PDF 5쪽 「강북의 변화와 발전」 머리 공약 1개와 PDF 6쪽 「천준호가 해냅니다!」 #아이 키우기 좋은 강북 아래 두 상자 제목 2개를 넣었다. 글자층이 깨져 있어 쪽 이미지를 보고 옮겼다. PDF 5쪽 11대 실행 과제, PDF 7–8쪽 강북구 공통·동별 공약, PDF 3–4쪽 지난 활동은 넣지 않았다. 앞의 #를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

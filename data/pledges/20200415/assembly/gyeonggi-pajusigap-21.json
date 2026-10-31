@@ -1,0 +1,73 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-pajusigap-21",
+  "candidate": {
+    "name": "윤후덕",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-hudeok-1957",
+    "nec_huboid": "100136645"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-pajusigap-01",
+      "title": "GTX 2023년 개통",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pajusigap-02",
+      "title": "GTX 운정역 복합환승센터 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pajusigap-03",
+      "title": "GTX 운정역 랜드마크 건립 등 역세권 개발",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pajusigap-04",
+      "title": "GTX 차량기지 주변 ICT 산업단지 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pajusigap-05",
+      "title": "종합병원 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pajusigap-06",
+      "title": "대형 문화공연 콤플렉스 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pajusigap-07",
+      "title": "교하 체육공원 조성 및 다목적체육관 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pajusigap-08",
+      "title": "지하철3호선 파주연장",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pajusigap-09",
+      "title": "교하 광역버스 추가확보",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pajusigap-10",
+      "title": "서울~문산 고속도로 개통",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-pajusigap-11",
+      "title": "김포~파주~양주 제2순환고속도로 건설",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4132/003_100136645_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 파주시갑 당선인 윤후덕 (더불어민주당). 책자형 선거공보 PDF 8쪽 「GTX로 실현하는 교통혁신·자족도시 파주!」 항목 4개와 「윤후덕이 꿈꾸는 더 나은 미래, 행복한 상상 명품자족도시 파주!」 항목 7개(왼쪽, 오른쪽 순). PDF 5–6쪽 지하철3호선 파주연장 추진 경과, PDF 9쪽 지역별 지난 성과, PDF 10쪽 지역별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

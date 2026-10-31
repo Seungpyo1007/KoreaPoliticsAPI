@@ -1,0 +1,73 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-sacheonsinamhaegunhadonggun-21",
+  "candidate": {
+    "name": "하영제",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "ha-yeongje-1954",
+    "nec_huboid": "100134659"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-01",
+      "title": "물류, 교통, 관광 인프라 구축",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-02",
+      "title": "복합 관광상품 개발",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-03",
+      "title": "농어업 경쟁력 강화",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-04",
+      "title": "행복한 복지환경 조성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-05",
+      "title": "항공우주산업 혁신",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-06",
+      "title": "각산지구 종합개발사업 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-07",
+      "title": "해양치유산업 육성",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-08",
+      "title": "동서해저터널 완공",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-09",
+      "title": "갈사만산업단지, 두우레저단지 조기착공",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-10",
+      "title": "지역민 보건의료 안전망 구축",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongnam-sacheonsinamhaegunhadonggun-11",
+      "title": "해양치유관광산업 육성",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4807/003_100134659_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 사천시남해군하동군 당선인 하영제 (미래통합당). 책자형 선거공보 PDF 5쪽 「나라와 지역을 살리겠습니다!」 분야 제목 4개, PDF 6–8쪽 시·군별(사천·남해·하동) 큰 제목 5개, PDF 9쪽 「생활정치를 실천하겠습니다!」·「함께 잘사는 지역을 만들겠습니다!」 아래 제목 2개를 넣었다. 끝의 !만 덜어냈다. 제목 아래 ▶/● 세부 항목, PDF 3쪽 정권 비판 글, PDF 4쪽 경력·성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

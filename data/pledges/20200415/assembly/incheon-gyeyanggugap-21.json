@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-gyeyanggugap-21",
+  "candidate": {
+    "name": "유동수",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yu-dongsu-1961",
+    "nec_huboid": "100136951"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-gyeyanggugap-01",
+      "title": "서울지하철 2호선 연결",
+      "page": 1
+    },
+    {
+      "id": "21-incheon-gyeyanggugap-02",
+      "title": "경인고속도로 지하화, 국가 재정 사업 전환",
+      "page": 1
+    },
+    {
+      "id": "21-incheon-gyeyanggugap-03",
+      "title": "서부간선수로 친수공간 조성사업",
+      "page": 1
+    },
+    {
+      "id": "21-incheon-gyeyanggugap-04",
+      "title": "주차공간 확보와 도시재생을 통한 주거환경 개선",
+      "page": 1
+    },
+    {
+      "id": "21-incheon-gyeyanggugap-05",
+      "title": "주민과 함께하는 교육·문화도시 조성",
+      "page": 1
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2807/003_100136951_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 계양구갑 당선인 유동수 (더불어민주당). 책자형 선거공보 PDF 1쪽 표지 「살고 싶은 도시 40만 계양시대」 01–05 제목 5개(같은 제목으로 PDF 3–6쪽에 풀이가 이어진다). OCR 텍스트라 쪽 이미지를 보고 옮겼다. PDF 7–8쪽 지난 성과와 확보 예산, PDF 9쪽 「계양구의 미래를 설계합니다」 설명과 전국 정책, PDF 10쪽 당 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-21",
+  "candidate": {
+    "name": "김태호",
+    "party_id": null,
+    "person_id": "gim-taeho-1962",
+    "nec_huboid": "100134569"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-01",
+      "title": "양파·마늘 농가 지키는 '작목별 농산물 최저가격 보장제'",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-02",
+      "title": "자식 교육 걱정 없도록, 농어촌 자율학교 특례 입학 폐지 방침 철회",
+      "page": 4
+    },
+    {
+      "id": "21-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-03",
+      "title": "농업인 생활 안정, '농민수당'과 '농업인 월급제'",
+      "page": 4
+    },
+    {
+      "id": "21-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-04",
+      "title": "4개 군 공동발전 협력체계를 구축하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-05",
+      "title": "고향의 아름다운 산천을 대한민국과 온 세계에 알리겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-06",
+      "title": "노후 걱정, 안전 염려 없는 농촌 100세 시대를 열겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-07",
+      "title": "문화·체육·관광·교육·산업이 어우러지는 융복합 발전 이끌겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-sancheonggunhamyanggungeochanggunhapcheongun-08",
+      "title": "즐겁고 건강하게 생활할 수 있도록, 체육시설을 크게 늘리겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4819/003_100134569_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 산청군함양군거창군합천군 당선인 김태호 (무소속). 책자형 선거공보 PDF 3–4쪽 「김태호의 고향 살리기 3대 정책!」 1–3호 제목 3개와 PDF 6쪽 「태호의 고향 살리기 5대 약속」 1–5 제목 5개. 3대 정책은 글자층 순서가 섞여 쪽 이미지 기준으로 2호·3호를 정했다. 제목 아래 설명과 ■ 세부 항목, PDF 5쪽 「태호의 큰정치 3대 약속」(지방 균형발전 입법 등 전국 정책), PDF 7–8쪽 권역별·군별 발전 방안 ▒ 목록은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

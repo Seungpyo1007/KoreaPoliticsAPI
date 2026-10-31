@@ -1,0 +1,98 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/ulsan-namgueul-21",
+  "candidate": {
+    "name": "김기현",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-gihyeon-1959",
+    "nec_huboid": "100136597"
+  },
+  "pledges": [
+    {
+      "id": "21-ulsan-namgueul-01",
+      "title": "제조업 르네상스 완성",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-02",
+      "title": "4차 산업혁명 선도도시 구축",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-03",
+      "title": "중소기업, 소상공인 지원 강화",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-04",
+      "title": "동북아오일허브 인프라구축 및 연관산업 육성",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-05",
+      "title": "기업지원종합비즈니스센터 구축",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-06",
+      "title": "일자리가 넘치는 울산",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-07",
+      "title": "태화강역 역세권 개발추진",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-08",
+      "title": "태화강역~신경주역 구간 준고속열차 운행",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-09",
+      "title": "제2명촌교 건설",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-10",
+      "title": "농수산물도매시장 현대화사업 적극 지원",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-11",
+      "title": "간선에서 지선까지 교통망 확충",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-12",
+      "title": "삼산동 상업지역 내 공영주차장 확충",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-13",
+      "title": "전통시장의 특화사업 집중육성",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-14",
+      "title": "울산산업공구월드 판로확대",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-15",
+      "title": "소상공인 전용 공동물류센터 건립",
+      "page": 8
+    },
+    {
+      "id": "21-ulsan-namgueul-16",
+      "title": "가짜복지 STOP! 진심복지구현",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3102/003_100136597_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 울산 남구을 당선인 김기현 (미래통합당). 책자형 선거공보 PDF 8쪽 「김기현의 3가지 공약」 중 「뛰어라! 울산」 6개와 「웃어라! 남구」 10개의 - 항목(각 묶음 왼쪽 단, 오른쪽 단 순). PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 묶음 제목이 구호뿐이라 그 아래 - 항목을 공약 제목으로 넣었다. PDF 7쪽 「솟아라 대한민국」(전국 정치 공약), PDF 9–10쪽 당 공약, PDF 5–6쪽 울산시장 시절 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

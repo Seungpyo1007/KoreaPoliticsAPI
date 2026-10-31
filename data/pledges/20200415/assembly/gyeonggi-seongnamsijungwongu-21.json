@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-seongnamsijungwongu-21",
+  "candidate": {
+    "name": "윤영찬",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-yeongchan-1964",
+    "nec_huboid": "100134597"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-01",
+      "title": "대원천 복원, 성남시의 새로운 산업, 교통의 중심",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-02",
+      "title": "#형 지하철 교통노선 확정으로 어디서나 더 빠른 중원구",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-03",
+      "title": "성남하이테크밸리를 스마트산업단지로",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-04",
+      "title": "공유차량과 스마트주차장으로 주차난 해소",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-05",
+      "title": "성남시민의 자연공원, 7만 1천 평 센트럴파크",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-06",
+      "title": "재래시장 특성화, 활성화를 위한 적극 지원",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-07",
+      "title": "자랑하고 싶은 우리 동네, 중원 만들기",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-08",
+      "title": "월 10만원 대 안심주택 확대 공급",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-09",
+      "title": "효도하는 윤영찬이 어르신들을 잘 모시겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-10",
+      "title": "아이 키우기 좋아서 살고 싶은 중원구를 만들겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-11",
+      "title": "아이들과 여성들이 마음 편한 중원구를 만들겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-seongnamsijungwongu-12",
+      "title": "판교의 IT첨단교육, 중원으로 가져오겠습니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4106/003_100134597_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 성남시중원구 당선인 윤영찬 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「빠르고 확실하게 중원의 삶 확! 바꾸겠습니다」 제목 8개와 PDF 9쪽 「모든 세대가 행복한 중원구」 제목 4개. 6쪽은 글자층 순서가 섞여 이미지 순서를 따랐다. 분야 표제(어디서나 빠른 교통의 중심, 중원 등)와 제목 아래 - 세부 항목, PDF 7–8쪽 동별·공통 공약, PDF 10쪽 코로나19 대응 글은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

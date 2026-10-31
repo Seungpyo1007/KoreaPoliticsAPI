@@ -1,0 +1,133 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/sejongteukbyeoljachisigap-21",
+  "candidate": {
+    "name": "홍성국",
+    "party_id": "deobureo-minjudang",
+    "person_id": "hong-seongguk-1963",
+    "nec_huboid": "100137565"
+  },
+  "pledges": [
+    {
+      "id": "21-sejongteukbyeoljachisigap-01",
+      "title": "한국판 우븐 시티(Woven City) 추진",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-02",
+      "title": "소프트웨어 산업유치",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-03",
+      "title": "도심 상가 활용 청년스타트업 기업 유치 지원",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-04",
+      "title": "세종형 스마트팜으로 도농 상생 기반 구축",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-05",
+      "title": "국회 세종의사당 건립 반드시 추진",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-06",
+      "title": "대통령 세종집무실 설치",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-07",
+      "title": "미이전 중앙행정기관의 조속한 이전 추진",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-08",
+      "title": "행정수도 완성을 위한 개헌 추진",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-09",
+      "title": "세종지방법원 및 행정법원 설치",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-10",
+      "title": "세종시 투기지역 해제 추진",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-11",
+      "title": "대중교통 접근성·편의성 개선",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-12",
+      "title": "KTX, ITX 세종역 설치",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-13",
+      "title": "대전 도시철도 1호선 세종까지 확장",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-14",
+      "title": "대전, 청주 등 세종시 출퇴근 도로 병목현상 해결",
+      "page": 5
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-15",
+      "title": "참여형 진로교육, 미래형 기술교육의 요람",
+      "page": 6
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-16",
+      "title": "육아 걱정없는 나눔돌봄도시",
+      "page": 6
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-17",
+      "title": "세종형 특화대학, 정책전문대학원 유치",
+      "page": 6
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-18",
+      "title": "아이와 학부모가 함께하는 세종미래포럼 개최",
+      "page": 6
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-19",
+      "title": "수준 높은 의료 시설 구축",
+      "page": 6
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-20",
+      "title": "‘미세먼지 제로·탄소제로’ 쾌적한 환경도시 구축",
+      "page": 6
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-21",
+      "title": "문화여가 생활인프라 확충",
+      "page": 6
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-22",
+      "title": "국제 컨벤션 센터 유치",
+      "page": 6
+    },
+    {
+      "id": "21-sejongteukbyeoljachisigap-23",
+      "title": "여성들의 취업, 교육, 상담 등 지원 위한 세종여성플라자 조속 건립",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/5101/003_100137565_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 세종특별자치시갑 당선인 홍성국 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「새로운 미래 세종의 도약 시민 여러분과 함께 만들어 가겠습니다」의 분야별(경제·완성·교통·교육·생활) 번호 제목 23개. 제목 아래 • 세부 항목, PDF 7–8쪽 동·면별 공약, PDF 9–10쪽 더불어민주당 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

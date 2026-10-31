@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-gyeongsansi-21",
+  "candidate": {
+    "name": "윤두현",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "yun-duhyeon-1961",
+    "nec_huboid": "100135773"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-gyeongsansi-01",
+      "title": "‘ICT 융복합산업단지(AI 사이언스 파크)’를 조성하여 기업을 유치하고, 스마트 도시를 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-gyeongsansi-02",
+      "title": "대구도시철도1, 2호선을 연장하여 순환선화 하겠습니다. 대구도시철도 3호선 경산 연장도 추진하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-gyeongsansi-03",
+      "title": "거침없는 경산 발전, 계속됩니다! 최경환 前의원의 뒤를 이어 윤두현이 완성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-gyeongsansi-04",
+      "title": "인구가 늘어나는 도시 경산! 전국에서 가장 살기 좋은 도시로 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-gyeongsansi-05",
+      "title": "수성구를 뛰어넘는 교육도시 경산! 경산에서 최고의 교육을 받을 수 있도록 하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gyeongsansi-06",
+      "title": "다 함께 잘 사는 따뜻한 복지도시 경산! 주민들의 건강과 안전을 책임지겠습니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4713/003_100135773_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 경산시 당선인 윤두현 (미래통합당). 책자형 선거공보 PDF 7–9쪽 「윤두현이 약속 드리는 더 큰 경산!」 1–6 번호 공약 제목 6개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 두 줄 제목은 이어 붙였다. 제목 아래 굵은 부제와 • 세부 항목, PDF 5–6쪽 정권 비판, PDF 10쪽 코로나19 글은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

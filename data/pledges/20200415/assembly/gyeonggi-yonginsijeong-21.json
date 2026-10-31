@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-yonginsijeong-21",
+  "candidate": {
+    "name": "이탄희",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-tanhui-1978",
+    "nec_huboid": "100137192"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-yonginsijeong-01",
+      "title": "GTX 역세권은 용인의 심장으로 확 뚫린 도로는 용인의 혈관으로",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-yonginsijeong-02",
+      "title": "꽉 막혀 답답하던 길, 이제는 집단지성·빅데이터 기반의 지능형 도로로",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-yonginsijeong-03",
+      "title": "용인의 아이는 용인이 키웁니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-yonginsijeong-04",
+      "title": "문화와 여가로 더 풍요롭게",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-yonginsijeong-05",
+      "title": "대한민국 환경 수도, 용인",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-yonginsijeong-06",
+      "title": "4차산업혁명·일자리·드림 밸리",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-yonginsijeong-07",
+      "title": "행정·의료·안전의 IT스마트 시티",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4137/003_100137192_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 용인시정 당선인 이탄희 (더불어민주당). 책자형 선거공보 PDF 6–8쪽 「이탄희가 데려 올 용인의 봄이 옵니다!」 분야별 굵은 제목 7개. 머리 공약 목록이 따로 없어 분야 제목을 넣었다. PDF 6쪽 위 「용인을 4차산업혁명의 수도로!」 표제, 제목 아래 ■ 세부 항목, PDF 7–8쪽 동별 추가 공약, PDF 5쪽 소통 약속, PDF 9–10쪽 당 공약과 「이탄희법」은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

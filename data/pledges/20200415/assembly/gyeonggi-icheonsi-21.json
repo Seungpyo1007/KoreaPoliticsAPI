@@ -1,0 +1,243 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-icheonsi-21",
+  "candidate": {
+    "name": "송석준",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "song-seokjun-1964",
+    "nec_huboid": "100136096"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-icheonsi-01",
+      "title": "노인일자리 지원 강화 및 치매 안심 주치의 도입 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-02",
+      "title": "이천병원 소아·감염기·호흡기 내과신설, 장비보강 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-03",
+      "title": "전동휠체어 등 장애인 보조기기 지원강화 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-04",
+      "title": "노동자 쉼터 조성 및 여가 활동 지원 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-05",
+      "title": "여성·청소년 안전강화 도시 설계 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-06",
+      "title": "통합보훈회관 등 보훈시설 설립추진 및 의료지원 강화 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-07",
+      "title": "상생 웰니스 관광클러스터 조성",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-08",
+      "title": "설봉산 둘레길 등 “핑크로드”조성",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-09",
+      "title": "한국관광대~예스파크 대학로 조성",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-10",
+      "title": "유튜브·페이스북 등 1인 방송 지원",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-11",
+      "title": "문화예술교육지원·생활문화센터 건립",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-12",
+      "title": "4계절 축제도시화",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-13",
+      "title": "워킹우먼 지원센터 건립으로 여성친화 도시 건설 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-14",
+      "title": "생리유급휴가제 국비지원 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-15",
+      "title": "24시간 어린이집 운영·가정양육수당 확대·할보미 수당도입",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-16",
+      "title": "임산부 택시비 지원 및 육아용품 대여서비스 강화 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-17",
+      "title": "신혼부부 전·월세 보증금 대출한도 상향 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-18",
+      "title": "다문화·북한이탈주민 원스톱 지원센터 건립 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-19",
+      "title": "다자녀 국가장학금지급 확대 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-20",
+      "title": "서울소재 4년제 대학 이전 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-21",
+      "title": "무상교복 대안학교까지 확대 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-22",
+      "title": "IT 등 미래교육테마파크 조성 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-23",
+      "title": "각종 국제 청소년체육대회 유치 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-24",
+      "title": "실내 종합 체육관 건립 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-25",
+      "title": "코로나19 피해 중소기업·소상공인·자영업자 지원",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-26",
+      "title": "'차세대 첨단 융복합 산업단지'(바이오·신소재·일루젼 산업 등) 조성을 통한 양질의 일자리 창출",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-27",
+      "title": "청년창업지원센터 설립 및 취업프로그램 강화로 '청년실업률 제로 이천' 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-28",
+      "title": "농민 수당 도입 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-29",
+      "title": "농작물(과수·원예 등) 재해 및 직불금 지원 확대",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-30",
+      "title": "농촌관광자원개발 지원 및 특산품 마을기업 육성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-31",
+      "title": "로컬푸드 등 친환경농산물 가공유통센터 유치",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-32",
+      "title": "임대아파트·행복주택 건설 지속추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-33",
+      "title": "오피스텔 하자보수보증금제도도입 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-34",
+      "title": "도시주변 공원 확충 및 '그린네트워크' 구축",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-35",
+      "title": "도시 숲 조성으로 쾌적한 주거환경",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-36",
+      "title": "자연보전권역 내 공장 신증설 허용 추진 등 수도권규제개선 지속추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-37",
+      "title": "규제비용 관리제 도입 (규제 1개 도입 시 규제 2개 개선)",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-38",
+      "title": "도시재생 뉴딜사업으로 원도심에 활력을",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-39",
+      "title": "골목가 자투리 주차장 조성으로 주차난 해소",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-40",
+      "title": "이천~오산·양평~이천 고속도로, 동이천IC 조기완공, 이천~문경 고속철도 조기완공",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-41",
+      "title": "이천~강남 20분대 전철시대 추진 (수서~광주 복선전철 조기 완공)",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-42",
+      "title": "성남~장호원 자동차 전용도로 6공구 조기완공",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-43",
+      "title": "이천 백사~여주 흥천, 대포~장록 국지도 70호선 확포장",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-44",
+      "title": "여주 점동~이천 장호원 국도 4차로 확포장",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-icheonsi-45",
+      "title": "부발~평택간 철도 건설 및 용인~이천간 도로 확포장 (SK하이닉스 등 산업경쟁력 강화)",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4134/003_100136096_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 이천시 당선인 송석준 (미래통합당). 책자형 선거공보 PDF 7–8쪽 「이천 발전을 위한 송석준의 약속」은 머리 공약 없이 분야 띠(의료·복지·안전·안보 분야 등 9개) 아래 • 항목만 있어서, 그 • 항목 45개를 공약 제목으로 넣었다. 분야 띠 이름, PDF 9–10쪽 읍·면·동 약속, PDF 4–6쪽 지난 4년 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

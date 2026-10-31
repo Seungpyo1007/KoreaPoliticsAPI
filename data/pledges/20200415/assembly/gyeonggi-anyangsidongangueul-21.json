@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-anyangsidongangueul-21",
+  "candidate": {
+    "name": "이재정",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-jaejeong-1974",
+    "nec_huboid": "100136265"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-anyangsidongangueul-01",
+      "title": "지켜지지 못한 약속의 상징, 안양교도소 반드시 이전하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-anyangsidongangueul-02",
+      "title": "1기 신도시 문제, 해결하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-anyangsidongangueul-03",
+      "title": "빠르고 편리한 교통체계 구축하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-anyangsidongangueul-04",
+      "title": "평촌시외버스터미널 부지 문제 해결과 공공개발을 추진하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-anyangsidongangueul-05",
+      "title": "건강하고 안전한 안양을 만들겠습니다",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4110/003_100136265_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 안양시동안구을 당선인 이재정 (더불어민주당). 책자형 선거공보 PDF 7쪽 「이재정의 두근두근 안양 5대 공약」 제목 5개. 제목 아래 - 세부 항목, PDF 8쪽 안양교도소 이전 설명, PDF 9–10쪽 「이재정과 함께! 더불어민주당과 함께!」 분야별 공약, PDF 5–6쪽 확보 예산과 지난 활동은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

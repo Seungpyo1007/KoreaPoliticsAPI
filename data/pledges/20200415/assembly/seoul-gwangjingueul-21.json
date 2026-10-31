@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gwangjingueul-21",
+  "candidate": {
+    "name": "고민정",
+    "party_id": "deobureo-minjudang",
+    "person_id": "go-minjeong-1979",
+    "nec_huboid": "100137348"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gwangjingueul-01",
+      "title": "구의역 일대 ICT 스타트업 허브",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gwangjingueul-02",
+      "title": "청년 1인가구를 위한 생활공유플랫폼 구축",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gwangjingueul-03",
+      "title": "교육·보육 복합 클러스터 조성",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gwangjingueul-04",
+      "title": "동서울터미널 현대화",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-gwangjingueul-05",
+      "title": "지하철 2호선 지하화 및 하부공간 환경개선",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gwangjingueul-06",
+      "title": "전통시장 활성화 및 지역상권 경기부양",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gwangjingueul-07",
+      "title": "생활밀착형 복지로 실질적 주민 편의 제공",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gwangjingueul-08",
+      "title": "안전하고 쾌적한 거리 환경 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1105/003_100137348_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 광진구을 당선인 고민정 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「고민정이 완성하겠습니다」 01–08 공약 제목 8개. 제목 아래 · 세부 항목은 넣지 않았다. PDF 6쪽 「고민정이 시작합니다」(국회·민생경제 등 전국 분야 공약)와 PDF 9쪽 코로나19 추경 안내는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gangnamgugap-21",
+  "candidate": {
+    "name": "태구민",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "tae-yeongho-1962",
+    "nec_huboid": "100137336"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gangnamgugap-01",
+      "title": "과세 기준 합리화! 정의롭고 공정한 세금제도로 바꾸겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangnamgugap-02",
+      "title": "재건축 사업 정상화! 삶의 질과 직결되는 재건축을 앞당기겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangnamgugap-03",
+      "title": "각종 규제의 현실화! 강남답게 자유롭게 재건축 규제를 확 풀겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangnamgugap-04",
+      "title": "투자가 몰리고, 상권이 살아납니다",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-gangnamgugap-05",
+      "title": "아이 키우기 행복한 강남이 됩니다",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-gangnamgugap-06",
+      "title": "강남이 쾌적하고 여유로워 집니다",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-gangnamgugap-07",
+      "title": "모두가 함께 행복한 강남이 됩니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1123/003_100137336_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 강남구갑 당선인 태구민 (미래통합당). 책자형 선거공보 PDF 8쪽 「되찾겠습니다 강남의 권리」 제목 3개와 PDF 10쪽 「FIRST 강남!」「FREE 강남!」 아래 제목 4개. 머리 공약 목록이 따로 없어 굵은 제목 줄을 썼다. 제목 아래 • 세부 항목, PDF 3–4·7쪽 정부 비판과 다짐, PDF 5쪽 약력은 넣지 않았다. PDF 9쪽 글자층에 있는 「FREE 강남!」 번호 항목은 쪽 이미지에 보이지 않아 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

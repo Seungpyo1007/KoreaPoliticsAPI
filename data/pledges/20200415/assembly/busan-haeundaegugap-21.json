@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-haeundaegugap-21",
+  "candidate": {
+    "name": "하태경",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "ha-taegyeong-1968",
+    "nec_huboid": "100137132"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-haeundaegugap-01",
+      "title": "제2 장산터널 건설계획 수립 및 추진",
+      "page": 7
+    },
+    {
+      "id": "21-busan-haeundaegugap-02",
+      "title": "장산역→송정, 기장까지 지하철 2호선 연장 추진",
+      "page": 7
+    },
+    {
+      "id": "21-busan-haeundaegugap-03",
+      "title": "한국어로 된 국제표준교육과정(IB교육) 해운대 도입",
+      "page": 7
+    },
+    {
+      "id": "21-busan-haeundaegugap-04",
+      "title": "주입식 교육 대신 토론식 교육 확대",
+      "page": 7
+    },
+    {
+      "id": "21-busan-haeundaegugap-05",
+      "title": "해운대 글로벌교육특구 추진",
+      "page": 7
+    },
+    {
+      "id": "21-busan-haeundaegugap-06",
+      "title": "롤드컵 유치로 e스포츠산업 활성화",
+      "page": 8
+    },
+    {
+      "id": "21-busan-haeundaegugap-07",
+      "title": "국제대회 유치와 관광산업 활성화로 해운대 경제 UP",
+      "page": 8
+    },
+    {
+      "id": "21-busan-haeundaegugap-08",
+      "title": "대천공원·동백섬·버스정류장 등 와이파이 설치",
+      "page": 8
+    },
+    {
+      "id": "21-busan-haeundaegugap-09",
+      "title": "빌딩풍 예방프로젝트 추진",
+      "page": 8
+    },
+    {
+      "id": "21-busan-haeundaegugap-10",
+      "title": "음주운전 재범방지를 위한 '윤창호법II' 발의",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2609/003_100137132_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 해운대구갑 당선인 하태경 (미래통합당). 책자형 선거공보 PDF 7–8쪽 「해운대의 미래를 위한 하태경의 약속」 분야(시원한 교통, 교육 혁명, 해운대 경제살리기 프로젝트, 스마트 도시 해운대! 따뜻한 도시 해운대!)별 번호 공약 10개. 번호 아래 · 세부 항목, PDF 9–10쪽 「우리 동네 맞춤형 약속」 동별 공약, PDF 5–6쪽 지난 의정 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

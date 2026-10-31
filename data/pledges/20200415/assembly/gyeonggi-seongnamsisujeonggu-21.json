@@ -1,0 +1,108 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-seongnamsisujeonggu-21",
+  "candidate": {
+    "name": "김태년",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-taenyeon-1965",
+    "nec_huboid": "100137372"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-01",
+      "title": "아이들과 지역주민이 행복한 학교공간 조성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-02",
+      "title": "수정구 학교시설개선 지속추진",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-03",
+      "title": "다함께 돌봄센터, 온종일 돌봄센터 확충",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-04",
+      "title": "성남 문화예술센터·몽실학교 건립(구 영성여중 부지)",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-05",
+      "title": "수정청소년수련관 리모델링",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-06",
+      "title": "청소년 교통비 지원(만 13~23세)",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-07",
+      "title": "위례스마트시티·비즈밸리 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-08",
+      "title": "아시아 실리콘밸리 성남 완성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-09",
+      "title": "창업지원센터 3개소 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-10",
+      "title": "복정 택지개발지구 내 지식산업센터 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-11",
+      "title": "복정동 성남하수처리장 이전·지하화",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-12",
+      "title": "8호선 모란-판교 연장",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-13",
+      "title": "위례신사선 위례-삼동 노선 연장",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-14",
+      "title": "8호선 위례 추가역 설치",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-15",
+      "title": "위례선 트램 설치",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-16",
+      "title": "위례신사선 신설",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-17",
+      "title": "3호선 수서-판교 연장",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-seongnamsisujeonggu-18",
+      "title": "산성대로 S-BRT(도로위의 지하철) 건설",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4105/003_100137372_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 성남시수정구 당선인 김태년 (더불어민주당). 책자형 선거공보 PDF 5쪽 「미래세대가 행복한 성남 수정구를 만듭니다!」 01–06, PDF 6쪽 「성남 수정구가 첨단자족도시로 변신합니다.」 공약 01–05, PDF 8쪽 교통 공약 01–07의 제목 18개. 글자층이 대부분 깨져 있어 쪽 이미지를 보고 옮겼다. 제목 아래 – 세부 항목과 지난·향후 4년 설명, PDF 3–4쪽 「내 삶을 책임지는 국가」 분야별 항목(민주당 공약과 섞인 분야 목록), PDF 9–10쪽 동별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

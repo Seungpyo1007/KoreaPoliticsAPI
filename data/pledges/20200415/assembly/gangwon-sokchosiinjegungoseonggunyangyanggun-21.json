@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gangwon-sokchosiinjegungoseonggunyangyanggun-21",
+  "candidate": {
+    "name": "이양수",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "i-yangsu-1967",
+    "nec_huboid": "100137092"
+  },
+  "pledges": [
+    {
+      "id": "21-gangwon-sokchosiinjegungoseonggunyangyanggun-01",
+      "title": "설악권 동반성장 마스터플랜 수립",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-sokchosiinjegungoseonggunyangyanggun-02",
+      "title": "동서고속철도 시대 개막에 대비한 지역발전 인프라 확충",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-sokchosiinjegungoseonggunyangyanggun-03",
+      "title": "세계적인 체류형 명품관광도시 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-sokchosiinjegungoseonggunyangyanggun-04",
+      "title": "아이 낳아 키우기 좋고, 모두가 행복한 설악권 건설",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-sokchosiinjegungoseonggunyangyanggun-05",
+      "title": "농•산•어촌 소득증대",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-sokchosiinjegungoseonggunyangyanggun-06",
+      "title": "접경지역 활성화를 위한 지원 강화",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4208/003_100137092_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 강원 속초시인제군고성군양양군 당선인 이양수 (미래통합당). 책자형 선거공보 PDF 6쪽 「설악권 동반성장 프로젝트 이양수가 해내겠습니다」 1–6의 제목 6개. 제목 아래 ①–⑦ 세부 항목과 – 항목, PDF 4–5쪽 시·군별(고성·인제·속초·양양) 공약, PDF 7–8쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,83 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/ulsan-namgugap-21",
+  "candidate": {
+    "name": "이채익",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "i-chaeik-1955",
+    "nec_huboid": "100137075"
+  },
+  "pledges": [
+    {
+      "id": "21-ulsan-namgugap-01",
+      "title": "울산테크노산단에 3천억 규모 수소특화단지 유치",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-02",
+      "title": "합리적 에너지믹스를 위한 탈원전 정책 폐기에 앞장",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-03",
+      "title": "상권 르네상스 프로젝트 신정동 유치",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-04",
+      "title": "옥동 군부대 행복문화복합타운으로 탈바꿈",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-05",
+      "title": "울산의 랜드마크인 울산타워 건설 기반마련",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-06",
+      "title": "도시재생뉴딜사업을 통해 삶의 질 개선(신정, 옥동, 삼호동)",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-07",
+      "title": "문수실버복지관 증축을 통해 어르신들의 행복을 확장",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-08",
+      "title": "전통시장 및 주요기관 주차장 시설 확충",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-09",
+      "title": "지하철, 트램, 버스, 택시 등 울산시민이 원하는 새로운 교통체계 구축",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-10",
+      "title": "어린이 보호구역 내 교통사고 제로화에 총력",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-11",
+      "title": "어르신들이 안전하고 편안한 교통환경 조성",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-12",
+      "title": "보행자 우선의 정책을 추진",
+      "page": 7
+    },
+    {
+      "id": "21-ulsan-namgugap-13",
+      "title": "교통사고 걱정없이 안심하고 아이를 키울 수 있는 남구",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/3102/003_100137075_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 울산 남구갑 당선인 이채익 (미래통합당). 책자형 선거공보 PDF 7쪽 「산업수도 울산, 이채익의 약속!」 세 묶음(산업수도 울산의 옛 명성을 되찾겠습니다!, 생활환경 개선으로…, 울산시민이 원하는 새로운 교통체계를…)의 번호 공약 13개. OCR 텍스트라 쪽 이미지를 보고 옮겼다. PDF 9–10쪽 동별·분야별 공약(7쪽과 많이 겹친다), PDF 3–6쪽 지난 의정 성과와 확보 예산은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

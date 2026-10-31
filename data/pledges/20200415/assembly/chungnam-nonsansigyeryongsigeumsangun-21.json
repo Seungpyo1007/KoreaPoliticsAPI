@@ -1,0 +1,83 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungnam-nonsansigyeryongsigeumsangun-21",
+  "candidate": {
+    "name": "김종민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-jongmin-1964",
+    "nec_huboid": "100137086"
+  },
+  "pledges": [
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-01",
+      "title": "국방국가산업단지",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-02",
+      "title": "찾아오는 논산",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-03",
+      "title": "KTX 정차도시 논산",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-04",
+      "title": "농업발전",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-05",
+      "title": "이케아 입점",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-06",
+      "title": "공공기관 이전",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-07",
+      "title": "하대실지구",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-08",
+      "title": "향적산 치유의 숲",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-09",
+      "title": "문화·복지·군인",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-10",
+      "title": "인삼약초산업진흥원 설립",
+      "page": 6
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-11",
+      "title": "국립휴양림 유치",
+      "page": 6
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-12",
+      "title": "간선도로",
+      "page": 6
+    },
+    {
+      "id": "21-chungnam-nonsansigyeryongsigeumsangun-13",
+      "title": "대전~진주 간 내륙철도계획 수립",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4409/003_100137086_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충남 논산시계룡시금산군 당선인 김종민 (더불어민주당). 책자형 선거공보 PDF 4–6쪽 논산·계룡·금산 각 쪽 「앞으로 4년, 더 열심히 일하겠습니다」의 밑줄 친 굵은 제목 13개(논산 4, 계룡 5, 금산 4). 제목 뒤에 붙은 따옴표 구호(예: \"첨단산업과 일거리 그리고 인구가 늘어납니다!\")는 넣지 않았다. 제목 아래 - 세부 항목, 각 쪽 「지역별 공약」 읍·면·동별 항목과 「지난 4년, 열심히 일했습니다」 성과, PDF 3쪽 정치개혁 등 전국 정책은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

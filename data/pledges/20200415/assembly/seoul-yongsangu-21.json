@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-yongsangu-21",
+  "candidate": {
+    "name": "권영세",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gwon-yeongse-1959",
+    "nec_huboid": "100134818"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-yongsangu-01",
+      "title": "용산 국제업무지구 사업 재추진",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-yongsangu-02",
+      "title": "용산전자상가 리모델링",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-yongsangu-03",
+      "title": "재건축·재개발을 포함하는 주거환경 개선사업 추진",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-yongsangu-04",
+      "title": "용산을 대한민국 교육 허브로 육성",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-yongsangu-05",
+      "title": "‘용산형’ 보육 시스템 개발 및 추진",
+      "page": 5
+    },
+    {
+      "id": "21-seoul-yongsangu-06",
+      "title": "이태원을 중심으로 문화관광 트라이앵글 조성",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-yongsangu-07",
+      "title": "이태원, 경리단, 해방촌길 상권 재활성화",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-yongsangu-08",
+      "title": "용산을 명품 생태 중심으로",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-yongsangu-09",
+      "title": "노년이 행복한 실버 용산",
+      "page": 6
+    },
+    {
+      "id": "21-seoul-yongsangu-10",
+      "title": "용산을 사통팔달 서울 교통의 중심으로",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1103/003_100134818_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 용산구 당선인 권영세 (미래통합당). 책자형 선거공보 PDF 5–6쪽 「권영세의 비전 & 약속」 1–6 아래 ▲ 제목 10개. 제목 아래 - 세부 항목과 PDF 7–8쪽 동별 공약, PDF 10쪽 「권영세의 약속」 1–3(전국 정치 공약)은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

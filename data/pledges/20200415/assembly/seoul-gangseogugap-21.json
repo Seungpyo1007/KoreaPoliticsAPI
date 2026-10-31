@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gangseogugap-21",
+  "candidate": {
+    "name": "강선우",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gang-seonu-1978",
+    "nec_huboid": "100137226"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gangseogugap-01",
+      "title": "공항 고도제한 완화를 통한 지역발전 동력 확보",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-gangseogugap-02",
+      "title": "서부광역철도(원종~화곡~홍대) 조기 착공 추진",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-gangseogugap-03",
+      "title": "미세먼지 없고 주거비 적게 드는 강서 실현",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-gangseogugap-04",
+      "title": "화곡중앙골목시장 도시재생사업 성공적 추진",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-gangseogugap-05",
+      "title": "주택가 주차불편 해소를 위한 주차장 확보",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-gangseogugap-06",
+      "title": "강서형 지역화폐 도입",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-gangseogugap-07",
+      "title": "공동육아나눔터 확충",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-gangseogugap-08",
+      "title": "마을밥상(마을주방+마을식당) 개설",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-gangseogugap-09",
+      "title": "초등학생이 안전한 통학길 조성",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-gangseogugap-10",
+      "title": "건립 예정인 서울시립 과학·환경 도서관, 주민 친화 공간으로 확장",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1116/003_100137226_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 강서구갑 당선인 강선우 (더불어민주당). 책자형 선거공보 PDF 9쪽 「활기찬 강서, 살고 싶은 강서」와 PDF 10쪽 「더 따뜻하고 더 밝은 강서」 아래 굵은 공약 제목 10개. 제목 아래 설명 문장, PDF 9–10쪽 「우리 동네가 더 좋아집니다」 동별 공약, PDF 5·7–8쪽 국회·감염병·민생 등 당 전국 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

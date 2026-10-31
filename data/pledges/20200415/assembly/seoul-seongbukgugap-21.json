@@ -1,0 +1,33 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-seongbukgugap-21",
+  "candidate": {
+    "name": "김영배",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-yeongbae-1967",
+    "nec_huboid": "100135069"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-seongbukgugap-01",
+      "title": "삶의 질을 높이는 도시인프라 구축 및 지역밀착형 ‘생활 SOC’ 대폭 유치",
+      "page": 9
+    },
+    {
+      "id": "21-seoul-seongbukgugap-02",
+      "title": "최고의 창조인력이 모이는 ‘스마트 창업경제밸리’ 조성",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-seongbukgugap-03",
+      "title": "성북의 브랜드 가치를 높이는 ‘역사·문화·교육도시’ 조성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1108/003_100135069_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 성북구갑 당선인 김영배 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「‘모두의성북’ 3대 비전」 제목 3개. 제목 글자층이 깨져 있어 쪽 이미지를 보고 옮겼다. 제목 아래 ▶ 세부 항목, PDF 9–10쪽 「성북발전! 33개 실천공약!」 동별 공약, PDF 5–7쪽 국민투표법·민생·방역 등 전국 단위 약속, PDF 8쪽 구청장 시절 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

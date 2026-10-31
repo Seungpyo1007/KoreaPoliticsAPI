@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-pohangsinamguulleunggun-21",
+  "candidate": {
+    "name": "김병욱",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-byeonguk-1977",
+    "nec_huboid": "100136815"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-pohangsinamguulleunggun-01",
+      "title": "골든 트라이앵글 (송도, 호미곶, 형산강) ‘영일만·형산강 국가정원’ 추진",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongbuk-pohangsinamguulleunggun-02",
+      "title": "<유강리, 효자/대잠/상도/대도동>의 괴동선 철로 ‘도심 철도 지하화 및 복합 개발’ 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongbuk-pohangsinamguulleunggun-03",
+      "title": "에듀시티 아이 키우고 가르치기 ‘좋은교육도시’",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-pohangsinamguulleunggun-04",
+      "title": "에코시티 자연과 사람이 어우러지는 ‘생태환경도시’",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-pohangsinamguulleunggun-05",
+      "title": "퓨처시티 4차 산업을 선도하는 ‘첨단산업도시’",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-pohangsinamguulleunggun-06",
+      "title": "해피시티 배려하고 공감하는 ‘안전행복도시’",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-pohangsinamguulleunggun-07",
+      "title": "해양생태관광의 섬 울릉도·독도",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4702/003_100136815_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 포항시남구울릉군 당선인 김병욱 (미래통합당). 책자형 선거공보 PDF 5–6쪽 번호 공약 01·02 제목 2개, PDF 7–8쪽 「우리 삶을 바꾸는 ‘생활 혁신 공약’으로 ‘젊고 역동적인 교육·경제도시’ 포항을 만들겠습니다」의 도시 분야 띠 제목 4개, PDF 9쪽 울릉도·독도 쪽 큰 제목 1개를 넣었다. 끝의 !만 덜어냈다. PDF 5–6쪽 위 「단기비전」 상자(코로나·지진 대응), 사진 설명, 제목 아래 • 세부 항목과 PDF 9쪽 울릉 세부 항목 7개, PDF 3–4쪽 정권 비판 글, PDF 10쪽 기사 모음은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

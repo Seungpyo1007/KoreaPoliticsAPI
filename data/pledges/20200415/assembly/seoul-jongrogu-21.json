@@ -1,0 +1,193 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-jongrogu-21",
+  "candidate": {
+    "name": "이낙연",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-nakyeon-1952",
+    "nec_huboid": "100136749"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-jongrogu-01",
+      "title": "코로나19 피해 소상공인, 중소기업, 예술인 등 자금 지원",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-02",
+      "title": "첨단복합창업단지 유치, 창업·R&D·지식산업 집적공간 구축",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-03",
+      "title": "주얼리, 봉제, 공연 등 지역 특화산업 활성화",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-04",
+      "title": "관광명소, 숙박업소, 교통편 등 정보화, 관광스마트시티 구축",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-05",
+      "title": "지역사랑상품권 2배 확대, 자영업자 적극 지원",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-06",
+      "title": "대학·기업·고궁·박물관과 협력, 초중고 창의교육 활성화",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-07",
+      "title": "한국폴리텍대학 서울융합기술원 유치, 4차 산업혁명 신기술 교육",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-08",
+      "title": "한국방송통신대 기반으로 생애주기 맞춤형 평생교육 특화",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-09",
+      "title": "독립문초교 통학로 등 학교 주변 환경 대폭 개선",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-10",
+      "title": "전통있는 학교 존치, 학구제 부분적 완화 등 학습권 보장",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-11",
+      "title": "종로 첫 청소년센터, 세검정에 건립 추진",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-12",
+      "title": "송현동 랜드마크 숲·민속박물관 등 문화공간 조성",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-13",
+      "title": "북촌과 경복궁 일대, 역사문화 도시재생 추진",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-14",
+      "title": "청년 창작·창업 등 지원, 자문밖 창의예술마을 활성화",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-15",
+      "title": "대학로와 연결, 낙산공원을 공연·미술 문화공원으로 탈바꿈",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-16",
+      "title": "한복, 연극, 국악 등 지역축제를 글로벌 축제로 발전",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-17",
+      "title": "낙원상가 일대 K-POP 공연과 퍼포먼스가 있는 젊음의 마당 조성",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-18",
+      "title": "옥인동, 세종대왕탄신기념관 건립 추진",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-19",
+      "title": "청년·신혼부부 맞춤형 행복주택, 역세권 건립 추진",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-20",
+      "title": "창신동 남측, 공동주거·일자리 집적된 복합도시로 개발",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-21",
+      "title": "청년 창업자 무이자 대출 등 창업환경 조성",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-22",
+      "title": "10분 거리 교육·문화·복지시설 지속 확충",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-23",
+      "title": "맞벌이부부 위한 24시간 보육시설 운영 확대",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-24",
+      "title": "창신동 채석장 명소화 사업 추진 정상화",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-25",
+      "title": "광화문광장 일대 경찰버스를 친환경 차량으로 추가 배치",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-26",
+      "title": "재개발 취소 지역에 세대 공감 생활SOC 지속 확충",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-27",
+      "title": "주거지역 내 소음안전지대 지정 운영",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-28",
+      "title": "서부지역 노인복지관 건립 추진",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-29",
+      "title": "자연경관지구 층수 등 규제 완화",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-30",
+      "title": "세검정 경유 지하철 신분당선 연장(용산~고양 삼송) 추진",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-31",
+      "title": "상명대·평창동 경유 강북횡단선 경전철(목동~청량리) 조기 착공",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-32",
+      "title": "교통문제 해결 후 광화문광장 재조성 논의",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-33",
+      "title": "경복궁 일대 관광버스 불편 해소 위한 승하차장·순환버스 운영",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-34",
+      "title": "정독도서관 지하주차장 설치 등 주택가 주차난 완화",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-jongrogu-35",
+      "title": "이화동사거리~종로5가 양방향 정상화 등 교통신호체계 개선",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1101/003_100136749_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 종로구 당선인 이낙연 (더불어민주당). 책자형 선거공보 PDF 8쪽 분야별 공약(경제·교육·역사와 문화·청년·삶의 질·교통)의 • 항목 35개(왼쪽 단, 오른쪽 단 순). 분야 표제가 한 낱말이라 그 아래 항목을 공약 제목으로 보았다. PDF 9–10쪽 동별 공약, PDF 6쪽 민주당 10대 공약, PDF 3–4쪽 지난 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-gumisigap-21",
+  "candidate": {
+    "name": "구자근",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gu-jageun-1967",
+    "nec_huboid": "100135369"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-gumisigap-01",
+      "title": "구미경제 재도약을 위한 7대 프로젝트",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongbuk-gumisigap-02",
+      "title": "노후화된 국가산업단지를 새롭게 변모시키겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-gumisigap-03",
+      "title": "기업하기 좋은 도시 구미를 위해 법과 제도를 정비하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-gyeongbuk-gumisigap-04",
+      "title": "맞춤형도시재생사업 추진으로 도시경쟁력을 높이겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-gumisigap-05",
+      "title": "교통이 편리한 살기 좋은 스마트 도시로 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-gyeongbuk-gumisigap-06",
+      "title": "소상공인이 잘사는 경제도시 구미",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gumisigap-07",
+      "title": "미래인재 키우는 교육도시 구미",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-gumisigap-08",
+      "title": "일과 삶이 커가는 행복도시 구미",
+      "page": 10
+    },
+    {
+      "id": "21-gyeongbuk-gumisigap-09",
+      "title": "명품 문화·관광도시 구미",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4707/003_100135369_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 구미시갑 당선인 구자근 (미래통합당). 책자형 선거공보 PDF 6–8쪽 「구자근의 구미 재창조」 #1–#5 제목과 PDF 9–10쪽 「행복 구미 만들기」 #1–#4 제목, 모두 9개(두 줄 제목은 이었다). 제목 아래 번호·■ 세부 항목, PDF 5쪽 「희망 대한민국, 2020 희망 약속」(당 공약), PDF 3–4쪽 정권 비판은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-yeongdeungpogugap-21",
+  "candidate": {
+    "name": "김영주",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-yeongju-1955",
+    "nec_huboid": "100137236"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-yeongdeungpogugap-01",
+      "title": "제2세종문화회관이 자리한 [ 문화예술도시 ]",
+      "page": 4
+    },
+    {
+      "id": "21-seoul-yeongdeungpogugap-02",
+      "title": "서울 서남권 교통중심지 [ 교통허브 ]",
+      "page": 4
+    },
+    {
+      "id": "21-seoul-yeongdeungpogugap-03",
+      "title": "삶의 여유 ‘바람길 도심숲’ [ 에코시티 영등포 ]",
+      "page": 4
+    },
+    {
+      "id": "21-seoul-yeongdeungpogugap-04",
+      "title": "4차 산업 맞춤형 [ 교육도시 ]",
+      "page": 4
+    },
+    {
+      "id": "21-seoul-yeongdeungpogugap-05",
+      "title": "국제의료관광 중심 [ 메디컬 영등포 ]",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1119/003_100137236_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 영등포구갑 당선인 김영주 (더불어민주당). 책자형 선거공보 PDF 4쪽 「영등포에 [5대 비전]을 더하다」 제목 5개(; 앞부분). ; 뒤 세부 내용, PDF 7–8쪽 동별 맞춤형 약속은 넣지 않았다. PDF 2쪽 「영등포시대를 위한 약속」은 성과 위주라 넣지 않았고, PDF 6쪽 주요 성과와 PDF 9–10쪽 코로나19 활동 기록도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

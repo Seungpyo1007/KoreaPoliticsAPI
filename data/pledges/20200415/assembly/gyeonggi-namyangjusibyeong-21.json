@@ -1,0 +1,208 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-namyangjusibyeong-21",
+  "candidate": {
+    "name": "김용민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-yongmin-1976",
+    "nec_huboid": "100137071"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-01",
+      "title": "글로벌 영상 문화 콘텐츠 융합 산업단지 추진",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-02",
+      "title": "(가칭) 다산예술의 전당 건립 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-03",
+      "title": "국립영화박물관 유치 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-04",
+      "title": "문화예술인 복지지원센터 건립 추진 ( 양정, 왕숙 1,2지구 )",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-05",
+      "title": "생활문화예술 동아리 창작 지원 (공통)",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-06",
+      "title": "구도심지역 체육문화복합시설 추진 ( 금곡, 덕소, 진건, 퇴계원 )",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-07",
+      "title": "다산 문화 콘텐츠밸리 구축 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-08",
+      "title": "육아종합지원센터 추진 (다산동-육아정보교류 및 초보맘커뮤니티)",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-09",
+      "title": "다함께 돌봄센터 및 육아나눔터 설치(다산동)",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-10",
+      "title": "가족 양육지원사업강화",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-11",
+      "title": "찾아가는 장난감 도서관 건리추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-12",
+      "title": "(가칭)아이사랑 실내놀이터 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-13",
+      "title": "어린이교통안전 공원 조성(다산동)",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-14",
+      "title": "공립유치원 증설(다산동, 와부)",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-15",
+      "title": "신도시 과밀학급 해소(다산동)",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-16",
+      "title": "노인복지회관 신설(와부)",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-17",
+      "title": "남양주 여성회관 신설 추진(양정역세권)",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-18",
+      "title": "청소년 문화힐링센터 조성(금곡)",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-19",
+      "title": "대형 종합병원 유치 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-20",
+      "title": "어린이 전문 병원 유치 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-21",
+      "title": "노인복지전문 병원 유치 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-22",
+      "title": "공공병원 유치 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-23",
+      "title": "GTX B노선 : 왕숙 1지구 역사 신설 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-24",
+      "title": "GTX B 덕소지선 운행 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-25",
+      "title": "GTX B, 지하철 9호선 환승체계 구축",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-26",
+      "title": "GTX D노선(신설노선 김포~남양주) 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-27",
+      "title": "지하철 5호선 와부로 연결 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-28",
+      "title": "지하철 6호선 광역 교통 시행계획 반영 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-29",
+      "title": "지하철 8호선(구리 암사~남양주 별내)조기 완공",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-30",
+      "title": "지하철 9호선(고덕(강일)~미사~왕숙)신설 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-31",
+      "title": "KTX덕소역 정차 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-32",
+      "title": "수석대교 신설(1km, 수석동~하남 미사동) 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-33",
+      "title": "서울외곽순환고속도로 지하화,우회 도로 건설 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-34",
+      "title": "갈매 IC신설 추진(다산교-구리-포천)",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-35",
+      "title": "가운사거리, 삼패사거리 입체화 교차로 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-36",
+      "title": "왕숙천변로 신설(별내~진접 3km) 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-37",
+      "title": "국지도 86선 확장(2개 구간, 12.8km) 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-namyangjusibyeong-38",
+      "title": "지방도로 383선 확장 (진건~오남 구간 4.95km) 조기 완공 추진",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4126/003_100137071_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 남양주시병 당선인 김용민 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 「남양주의 성장 ‘김용민’이 이끌겠습니다!」의 머리 공약 1개와 문화/생활체육·보육/교육·의료/복지 번호 항목, PDF 7–8쪽 「꽉 막혔던 4년 ‘김용민’이 확 뚫겠습니다!」의 지하철·철도·도로 번호 항목, 모두 38개. 머리 목록 없이 분야별 번호 항목만 있어 그 항목을 제목으로 보았고 앞 번호는 덜어냈다. 같은 목록의 기초연금 30만원 인상, 장애인 수급권 확대, 온종일 돌봄체계 구축은 민주당 전국 공약이라 넣지 않았다. PDF 5쪽 산업단지 세부 설명, PDF 9–10쪽 읍·동별 공약, PDF 4쪽 검찰·정치개혁은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

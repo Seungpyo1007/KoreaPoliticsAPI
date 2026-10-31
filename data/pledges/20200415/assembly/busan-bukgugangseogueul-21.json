@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-bukgugangseogueul-21",
+  "candidate": {
+    "name": "김도읍",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-doeup-1964",
+    "nec_huboid": "100137828"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-bukgugangseogueul-01",
+      "title": "부산외곽순환고속도로~금곡대로 연결도로 건설(양산갑 윤영석 국회의원 공동공약)",
+      "page": 6
+    },
+    {
+      "id": "21-busan-bukgugangseogueul-02",
+      "title": "롯데카이저~만덕터널 연결도로 개설(덕천 로타리 교통체증 해소)",
+      "page": 6
+    },
+    {
+      "id": "21-busan-bukgugangseogueul-03",
+      "title": "대천천 하류 명품 물놀이시설 조성",
+      "page": 6
+    },
+    {
+      "id": "21-busan-bukgugangseogueul-04",
+      "title": "명지국제신도시 2단계 8만평 규모의 명품 센트럴파크(호수공원) 조성",
+      "page": 8
+    },
+    {
+      "id": "21-busan-bukgugangseogueul-05",
+      "title": "하단~녹산선 도시철도 조기 완공",
+      "page": 8
+    },
+    {
+      "id": "21-busan-bukgugangseogueul-06",
+      "title": "강서 실내아이스링크장 유치(계절별 맞춤형 실내 놀이공간)",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2613/003_100137828_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 북구강서구을 당선인 김도읍 (미래통합당). 책자형 선거공보 PDF 5–6쪽 「북구 대표 3대 공약」의 PDF 6쪽 「북구 주민에게 드리는 약속」 1–3과 PDF 7–8쪽 「강서 대표 3대 공약」의 PDF 8쪽 「강서 주민에게 드리는 약속」 1–3, 제목 6개. OCR 결과라 쪽 이미지를 보고 옮겼다. PDF 5–8쪽의 분야별 제목(낙동강 강변창조도시 북구 등)과 그 아래 • 세부 항목, PDF 3–4쪽 지난 주요성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

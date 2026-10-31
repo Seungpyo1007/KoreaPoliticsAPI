@@ -1,0 +1,108 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gangwon-gangreungsi-21",
+  "candidate": {
+    "name": "권성동",
+    "party_id": null,
+    "person_id": "gwon-seongdong-1960",
+    "nec_huboid": "100137091"
+  },
+  "pledges": [
+    {
+      "id": "21-gangwon-gangreungsi-01",
+      "title": "2기 혁신도시 강릉 유치로 동해안시대 거점도시로 육성",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-gangreungsi-02",
+      "title": "공공기관 이전에 따른 일자리 창출과 인구 증가 도모",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-gangreungsi-03",
+      "title": "동해안권경제자유구역, 강릉과학산업단지와 연계한 상생발전",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-gangreungsi-04",
+      "title": "강릉~제진 동해북부선 건설",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-gangreungsi-05",
+      "title": "수서~강릉 고속철도 조기 개통",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-gangreungsi-06",
+      "title": "동해선(강릉~부산)및 강호축(강릉~목포)철도망 구축",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-gangreungsi-07",
+      "title": "동해안권 물류 허브거점기지 구축",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-gangreungsi-08",
+      "title": "국도 7호선 대체 우회도로 개설",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-gangreungsi-09",
+      "title": "관광거점도시 국비지원 확대",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-gangreungsi-10",
+      "title": "2024 강원 동계청소년 올림픽 개최",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-gangreungsi-11",
+      "title": "주문진 관광형 보도교 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-gangreungsi-12",
+      "title": "해양레저스포츠 인프라 확대",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-gangreungsi-13",
+      "title": "율곡학진흥원 설립, 한국화폐박물관 건립",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-gangreungsi-14",
+      "title": "\"교통올림픽\" 2025 ITS 세계총회 유치",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-gangreungsi-15",
+      "title": "소방수련원 유치",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-gangreungsi-16",
+      "title": "발전설비단지 육성",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-gangreungsi-17",
+      "title": "세라믹소재부품 산업 육성",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-gangreungsi-18",
+      "title": "드론스포츠 스타디움 완공",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4203/003_100137091_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 강원 강릉시 당선인 권성동 (무소속). 책자형 선거공보 PDF 7–8쪽 「강릉의 시민후보 권성동! 힘 있는 큰일꾼이 되겠습니다」와 「한 일도 많지만, 강릉을 위해 해야 할 일이 더 많습니다」의 굵은 공약 제목 18개(분야 표제 제2 혁신도시 유치!!, 신(新)교통·물류 중심도시 건설!!, 대한민국 대표 글로벌 관광도시, 미래의 성장동력 아래). OCR 텍스트라 쪽 이미지를 보고 옮겼다. 분야 표제와 제목 아래 설명 줄, PDF 9쪽 「강릉 구석구석」 지역 맞춤형 약속, PDF 5–6쪽 지난 10년 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

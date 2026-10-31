@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-seogudonggu-21",
+  "candidate": {
+    "name": "안병길",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "an-byeonggil-1962",
+    "nec_huboid": "100134585"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-seogudonggu-01",
+      "title": "구민과 함께 만드는 경제 활성화",
+      "page": 6
+    },
+    {
+      "id": "21-busan-seogudonggu-02",
+      "title": "구민과 함께하는 도시재생",
+      "page": 6
+    },
+    {
+      "id": "21-busan-seogudonggu-03",
+      "title": "재개발 도시재생으로 원도심 대변신",
+      "page": 7
+    },
+    {
+      "id": "21-busan-seogudonggu-04",
+      "title": "자연과 개발이 조화로운 친환경 원도심",
+      "page": 7
+    },
+    {
+      "id": "21-busan-seogudonggu-05",
+      "title": "지역경제 활성화로 새롭게 변모하는 원도심",
+      "page": 7
+    },
+    {
+      "id": "21-busan-seogudonggu-06",
+      "title": "복지서비스 확대를 통한 행복한 서·동구",
+      "page": 8
+    },
+    {
+      "id": "21-busan-seogudonggu-07",
+      "title": "역사, 문화, 교육, 관광이 공존하는 문화도시 서·동구",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2602/003_100134585_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 서구동구 당선인 안병길 (미래통합당). 책자형 선거공보 PDF 6쪽 「활력 넘치는 동구·서구를 만들겠습니다!」 제목 2개, PDF 7쪽 「안병길의 “원도심 대부활” 약속!」 제목 3개, PDF 8쪽 「안병길이 반드시 만들겠습니다.」 제목 2개. 글자층에 가운뎃점이 빠져 있어 PDF 8쪽 제목의 「서·동구」는 쪽 이미지를 보고 옮겼다. 제목 아래 – 세부 항목, PDF 5–6쪽 미래통합당 10대 공약, PDF 9–10쪽 동별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,123 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungnam-cheonansigap-21",
+  "candidate": {
+    "name": "문진석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "mun-jinseok-1962",
+    "nec_huboid": "100136766"
+  },
+  "pledges": [
+    {
+      "id": "21-chungnam-cheonansigap-01",
+      "title": "천안 역세권에 ICT 융복합센터와 스타트업 타운을 조성하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-02",
+      "title": "네이버 D2 스타트업 팩토리를 유치하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-03",
+      "title": "천안의 새로운 랜드마크! 천안시청에 버금가는 문화·건강·휴식의 복합센터를 건립하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-04",
+      "title": "충남혁신도시 공공기관을 유치하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-05",
+      "title": "도시재생 뉴딜사업을 확실하게 지원하고, 대상 지역을 확대하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-06",
+      "title": "청년들의 창업 활동을 위해 금융기관과 지원기관을 유치하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-07",
+      "title": "천안터미널과 역세권에 문화예술공간 ‘아르떼 거리’를 조성하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-08",
+      "title": "주민 중심의 재개발, 재건축이 빠르게 진행되도록 힘쓰겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-09",
+      "title": "반도체, 디스플레이 소재부품장비 산업단지를 조성하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-10",
+      "title": "종자, 종묘 지원을 위한 종묘장 시설이 포함된 원예 특구를 조성하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-11",
+      "title": "역사문화 둘레길을 정비해서 관광 이익을 창출하는 ‘관광역사문화벨트’를 구축하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-12",
+      "title": "관광과 휴식의 허브 지역으로 용연저수지를 개발하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-13",
+      "title": "스포츠, 건강, 문화의 복합센터를 건립하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-14",
+      "title": "한방과 양방을 겸한 ‘헬스케어존’을 설치하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-15",
+      "title": "김시민 장군 유허지의 국가사적지 지정을 추진하겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-chungnam-cheonansigap-16",
+      "title": "수도권 전철의 독립기념관 경유, 병천까지 연결을 추진하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansigap-17",
+      "title": "삼룡동-신계리-목천 구간을 6차선 도로로 확장하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansigap-18",
+      "title": "수신면 백자리-병천면 병천리 구간을 4차선 도로로 확장하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansigap-19",
+      "title": "오룡 지하차도-봉서산 아이파크-서부대로 구간의 4차선 도로 확장이 조기에 착공되도록 힘쓰겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansigap-20",
+      "title": "천안 외곽순환도로를 구축하겠습니다. [신방-목천-성거]",
+      "page": 5
+    },
+    {
+      "id": "21-chungnam-cheonansigap-21",
+      "title": "동면-진천 구간 국도 21호선 신설 공사를 조속히 추진하겠습니다",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4418/003_100136766_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충남 천안시갑 당선인 문진석 (더불어민주당). 책자형 선거공보 PDF 4쪽 원도심 번호 공약 1–8과 「동부 6개 면」 번호 공약 1–7, PDF 5쪽 「천안이 빨라진다! 천안의 가치가 높아진다!」 교통 공약 6개, 모두 21개. OCR 텍스트라 쪽 이미지를 보고 옮겼다. PDF 6쪽 지역화폐·청년·여성·교육 약속(전국 정책과 겹침), PDF 7–8쪽 읍·면·동별 공약, PDF 9–10쪽 1·2호 법안 약속은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

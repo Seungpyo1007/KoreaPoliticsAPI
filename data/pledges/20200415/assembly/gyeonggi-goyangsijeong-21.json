@@ -1,0 +1,88 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-goyangsijeong-21",
+  "candidate": {
+    "name": "이용우",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-yongu-1964",
+    "nec_huboid": "100137309"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-goyangsijeong-01",
+      "title": "규제혁신 우선해야 기업들 온다",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-02",
+      "title": "기반시설 건설 성공적 추진과 특화산업 육성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-03",
+      "title": "1,000개 혁신기업 유치, 2,000개 스타트업 육성, 10만개 일자리를 창출하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-04",
+      "title": "자유로와 강변북로의 교통 개선이 우선",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-05",
+      "title": "3호선과 경의중앙선을 연결해 효율적인 전철운행 가능토록 할 것",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-06",
+      "title": "광역 환승과 쇼핑 및 관광의 복합공간으로 지하공간 혁신",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-07",
+      "title": "원스톱 청년 창업지원시스템 구축",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-08",
+      "title": "청년일자리센터로 취업지원",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-09",
+      "title": "학자금 대출이자 감면",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-10",
+      "title": "탄현역, 일산역, 킨텍스 인근에 공공보육시설 개설",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-11",
+      "title": "문화예술인프라의 공유와 청년문화예술거리 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-12",
+      "title": "국민의 건강한 삶과 어르신 건강 관리 지원",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-13",
+      "title": "주택 리모델링 지원 및 융자",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-goyangsijeong-14",
+      "title": "주차공유시스템 구축 및 운영으로 효율적 공간운영 확보",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4122/003_100137309_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 고양시정 당선인 이용우 (더불어민주당). 책자형 선거공보 PDF 5–9쪽 「일산을 위한 10가지 질문에 답하다」 01–09 질문 아래 굵은 답변 제목 14개(PDF 5쪽 강조 문구 1개 포함). 번호 붙은 줄은 질문이라 제목으로 쓰지 않았다. PDF 6쪽 03번의 「3전시장 완공 후 연간 1,300만 명 방문 예상」은 공약이 아닌 배경 설명이라 넣지 않았다. 제목 아래 본문, PDF 10쪽 10번 동별 공약, PDF 3–4쪽 경력은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

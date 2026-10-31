@@ -1,0 +1,78 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-suwonsibyeong-21",
+  "candidate": {
+    "name": "김영진",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-yeongjin-1967",
+    "nec_huboid": "100137250"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-suwonsibyeong-01",
+      "title": "신분당선 연장선 조속 착공",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-02",
+      "title": "인덕원~수원~동탄 복선전철 조기 착공",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-03",
+      "title": "팔달경찰서 조기 완공",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-04",
+      "title": "경기도청 이전 부지에 경기도 산하기관 입주 및 팔달구민회관 건립",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-05",
+      "title": "수원화성 성역화 사업 가속화 및 관광 사업 활성화",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-06",
+      "title": "행리단길(공방거리), 통닭거리 주변 개발",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-07",
+      "title": "수도권 광역급행철도(GTX-C노선) 조기 착공",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-08",
+      "title": "수원발 KTX 조기 착공",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-09",
+      "title": "수원시 100만 특례시 완성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-10",
+      "title": "수원 전투비행장 이전 및 경기남부 통합 국제공항 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-11",
+      "title": "전통시장 현대화 및 골목상권 활성화 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-suwonsibyeong-12",
+      "title": "경기도의료원 수원병원 • 아주대병원 음압병상 확충",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4103/003_100137250_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 수원시병 당선인 김영진 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「김영진이 … 하겠습니다!」의 「팔달구」 공약 6개와 「전체 공약」 6개, 제목 12개(각 쪽 왼쪽 단, 오른쪽 단 순으로 위에서부터). PDF 7–8쪽 하단 「팔달구 동별 주요공약」, PDF 3–6쪽 신분당선·팔달경찰서 추진 경과와 동별 확보 예산, PDF 9–10쪽 당 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

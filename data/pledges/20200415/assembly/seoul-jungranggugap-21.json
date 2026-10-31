@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-jungranggugap-21",
+  "candidate": {
+    "name": "서영교",
+    "party_id": "deobureo-minjudang",
+    "person_id": "seo-yeonggyo-1964",
+    "nec_huboid": "100135715"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-jungranggugap-01",
+      "title": "중랑구를 대한민국의 \"밀라노\"로",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-jungranggugap-02",
+      "title": "장사 잘되게",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-jungranggugap-03",
+      "title": "깨끗하게",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-jungranggugap-04",
+      "title": "편안하게",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-jungranggugap-05",
+      "title": "즐겁고 건강하게",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-jungranggugap-06",
+      "title": "뻥 뚫리게",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-jungranggugap-07",
+      "title": "어르신 잘 모시겠습니다",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-jungranggugap-08",
+      "title": "우리 동네 더 좋게 더 멋지게",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-jungranggugap-09",
+      "title": "안전 예방되게",
+      "page": 10
+    },
+    {
+      "id": "21-seoul-jungranggugap-10",
+      "title": "공부 잘하게",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1107/003_100135715_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 중랑구갑 당선인 서영교 (더불어민주당). 책자형 선거공보 PDF 10쪽 「일 잘하는 서영교 의원의 중랑공약 10선」 분야 제목 10개(위 묶음, 아래 묶음 순). OCR 텍스트라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 9쪽 당 공약과 입법약속, PDF 5–8쪽 지난 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

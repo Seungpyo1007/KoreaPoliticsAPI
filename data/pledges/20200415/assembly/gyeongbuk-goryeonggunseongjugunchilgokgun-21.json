@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-goryeonggunseongjugunchilgokgun-21",
+  "candidate": {
+    "name": "정희용",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "jeong-huiyong-1976",
+    "nec_huboid": "100134654"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-goryeonggunseongjugunchilgokgun-01",
+      "title": "경제활성화를 위한 공약",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-goryeonggunseongjugunchilgokgun-02",
+      "title": "어르신 행복을 위한 공약",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-goryeonggunseongjugunchilgokgun-03",
+      "title": "국가의 근간인 농축산업을 위한 공약",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-goryeonggunseongjugunchilgokgun-04",
+      "title": "국가가 책임지는 보훈 공약",
+      "page": 9
+    },
+    {
+      "id": "21-gyeongbuk-goryeonggunseongjugunchilgokgun-05",
+      "title": "행복한 생활을 위한 보건·복지·안전 공약",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4717/003_100134654_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 고령군성주군칠곡군 당선인 정희용 (미래통합당). 책자형 선거공보 PDF 9쪽 「고령군·성주군·칠곡군 공통공약」의 분야별 띠 제목 5개. 번호 붙은 머리 공약 목록이 없어 분야 제목을 넣었다. 띠 아래 - 세부 항목, PDF 10쪽 「쉬지않고 달리겠습니다!」 고령군·성주군·칠곡군 군별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

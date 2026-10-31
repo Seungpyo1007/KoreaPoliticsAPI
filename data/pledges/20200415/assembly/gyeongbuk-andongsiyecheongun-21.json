@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongbuk-andongsiyecheongun-21",
+  "candidate": {
+    "name": "김형동",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-hyeongdong-1975",
+    "nec_huboid": "100137455"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongbuk-andongsiyecheongun-01",
+      "title": "예천·안동 원도심을 다시 경제 중심지로",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongbuk-andongsiyecheongun-02",
+      "title": "예천·안동 지역신성장산업 발굴·추진",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongbuk-andongsiyecheongun-03",
+      "title": "분야별-지역별 균형·상생발전",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongbuk-andongsiyecheongun-04",
+      "title": "도청신도시 생활기반 조기 완성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongbuk-andongsiyecheongun-05",
+      "title": "모든 길이 열리는 예천-안동",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4706/003_100137455_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경북 안동시예천군 당선인 김형동 (미래통합당). 책자형 선거공보 PDF 5쪽 「김형동의 5대 목표」 제목 5개. PDF 6–10쪽 「10대 분야 50개 사업」(분야 제목 1–10과 01–50 사업, 예천·안동 구분)은 5대 목표를 풀어 쓴 세부 사업이라 넣지 않았고, PDF 3–4쪽 정권 심판 호소도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

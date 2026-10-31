@@ -1,0 +1,53 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daegu-bukgugap-21",
+  "candidate": {
+    "name": "양금희",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "yang-geumhui-1961",
+    "nec_huboid": "100136490"
+  },
+  "pledges": [
+    {
+      "id": "21-daegu-bukgugap-01",
+      "title": "세계 최초 세포 치료 중심의 정밀의료 플랫폼 구축을 통한 도청후적지 전성시대",
+      "page": 5
+    },
+    {
+      "id": "21-daegu-bukgugap-02",
+      "title": "EXCO선 조기건설",
+      "page": 5
+    },
+    {
+      "id": "21-daegu-bukgugap-03",
+      "title": "로봇산업 중점 육성으로 첨단신도시 북구 조성",
+      "page": 6
+    },
+    {
+      "id": "21-daegu-bukgugap-04",
+      "title": "전통시장 현대화",
+      "page": 6
+    },
+    {
+      "id": "21-daegu-bukgugap-05",
+      "title": "도시재생사업 추진으로 도시 미래 가치 향상",
+      "page": 5
+    },
+    {
+      "id": "21-daegu-bukgugap-06",
+      "title": "산격, 복현동 일대 고도 제한 해제 및 주거지역 종 변경 추진",
+      "page": 5
+    },
+    {
+      "id": "21-daegu-bukgugap-07",
+      "title": "금호강변 종합 개발",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2705/003_100136490_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대구 북구갑 당선인 양금희 (미래통합당). 책자형 선거공보 PDF 5–6쪽 「새로운 북구를 위한 양금희의 약속」 번호 공약 제목 7개(1–7 번호 순). 글자층에 띄어쓰기가 빠져 있어 띄어쓰기는 쪽 이미지를 보고 옮겼다. 제목 아래 - 세부 항목, PDF 2–4쪽 정권 비판은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

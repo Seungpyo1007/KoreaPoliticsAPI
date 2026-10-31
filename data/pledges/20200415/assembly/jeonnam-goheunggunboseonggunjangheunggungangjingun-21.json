@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonnam-goheunggunboseonggunjangheunggungangjingun-21",
+  "candidate": {
+    "name": "김승남",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-seungnam-1965",
+    "nec_huboid": "100135022"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonnam-goheunggunboseonggunjangheunggungangjingun-01",
+      "title": "농어민 기본소득 보장 제도화",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-goheunggunboseonggunjangheunggungangjingun-02",
+      "title": "무역이득공유제 법제화",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-goheunggunboseonggunjangheunggungangjingun-03",
+      "title": "농어업 예산비중 5% 이상 상향",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-goheunggunboseonggunjangheunggungangjingun-04",
+      "title": "농수산물 최저가격 보장 제도화",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-goheunggunboseonggunjangheunggungangjingun-05",
+      "title": "인구소멸지역 지원 특별법 제정",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-goheunggunboseonggunjangheunggungangjingun-06",
+      "title": "농어촌 빈집 활용 방안 제도화",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-goheunggunboseonggunjangheunggungangjingun-07",
+      "title": "농어촌 응급의료체계 구축",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-goheunggunboseonggunjangheunggungangjingun-08",
+      "title": "임업 및 수산 공익형 직불제 도입",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-goheunggunboseonggunjangheunggungangjingun-09",
+      "title": "전남 중남해안 관광허브 조성",
+      "page": 6
+    },
+    {
+      "id": "21-jeonnam-goheunggunboseonggunjangheunggungangjingun-10",
+      "title": "기후변화 대응 농업클러스터 조성",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4615/003_100135022_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전남 고흥군보성군장흥군강진군 당선인 김승남 (더불어민주당). 책자형 선거공보 PDF 6쪽 「10대 정책과제 김승남이 실천하겠습니다」 01–10의 파란 굵은 제목 10개. 각 제목 위의 검은 앞글(예: 농어민의 공익적가치 인정 및 농민의 권리 법적 보장!)은 덜어냈다. PDF 5쪽 「5대 의정목표」(국회·남북 등 전국 정치 목표), PDF 7–8쪽 중남해안 관광허브 지도, PDF 9–10쪽 장흥·보성·강진·고흥 군별 공약, PDF 4쪽 19대 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,73 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonbuk-jeonjusieul-21",
+  "candidate": {
+    "name": "이상직",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-sangjik-1963",
+    "nec_huboid": "100135891"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonbuk-jeonjusieul-01",
+      "title": "전주 황방산 터널 꽉 막힌 경제·교통 확 뚫겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-jeonbuk-jeonjusieul-02",
+      "title": "전주를 청년벤처창업도시 유니콘기업의 요람으로",
+      "page": 7
+    },
+    {
+      "id": "21-jeonbuk-jeonjusieul-03",
+      "title": "연기금 특화 금융중심도시 도약",
+      "page": 7
+    },
+    {
+      "id": "21-jeonbuk-jeonjusieul-04",
+      "title": "대한방직·종합경기장을 지역경제의 성장 플랫폼으로",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-jeonjusieul-05",
+      "title": "중소상공인과 자영업자를 위한 민생공약",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-jeonjusieul-06",
+      "title": "전주형 헐리우드 ‘전라우드’ 조성",
+      "page": 8
+    },
+    {
+      "id": "21-jeonbuk-jeonjusieul-07",
+      "title": "서부권에 주차장 및 복합 문화체육 시설을 확충하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-jeonjusieul-08",
+      "title": "하수관거, 도시가스망, 스마트방범으로 쾌적하고 안전한 도시를 만들겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-jeonjusieul-09",
+      "title": "국립보훈요양원 신속하게 완공하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-jeonjusieul-10",
+      "title": "국립 치매요양병원 시설을 구축하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "21-jeonbuk-jeonjusieul-11",
+      "title": "어르신을 행복하게 모시겠습니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4501/003_100135891_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전북 전주시을 당선인 이상직 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「이상직이 꿈꾸는 전주의 미래!」 제목 6개와 PDF 9쪽 「전라북도 ‘1번지’ 행복한 우리 동네(서신, 효자, 삼천)」 제목 5개를 넣었다. OCR 글자가 섞여 있어 쪽 이미지를 보고 옮겼다. 제목 아래 ·/• 세부 항목, PDF 4쪽 코로나19 경제 처방(안), PDF 5–6쪽 지난 경력·성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

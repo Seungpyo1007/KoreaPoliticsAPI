@@ -1,0 +1,103 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-21",
+  "candidate": {
+    "name": "유상범",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "yu-sangbeom-1966",
+    "nec_huboid": "100136875"
+  },
+  "pledges": [
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-01",
+      "title": "어르신교육법제정",
+      "page": 3
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-02",
+      "title": "강원도 스쿨존(School Zone) 아동 안전망 지정",
+      "page": 3
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-03",
+      "title": "도내 송전선로 건설 피해규모 조사와 보상 추진",
+      "page": 3
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-04",
+      "title": "농산물가격안정, 생산원가 보장",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-05",
+      "title": "외국인근로자 계절별 쿼터제 확대",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-06",
+      "title": "임업직불제(최저가격) 보장",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-07",
+      "title": "가축분뇨처리를 통한 신재생 에너지 사업",
+      "page": 4
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-08",
+      "title": "홍천 ~ 용문간 내륙순환철도",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-09",
+      "title": "춘천~홍천 국도 5호선 확장사업",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-10",
+      "title": "강원도립대캠퍼스 홍천유치",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-11",
+      "title": "상수원 보호 구역해제",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-12",
+      "title": "화훼경관 농업 단지 조성",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-13",
+      "title": "올림픽 특구 지정, 평화테마파크 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-14",
+      "title": "평창을 전지훈련의 메카로",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-15",
+      "title": "동서고속도로(제천~영월) 예비 타당성 통과",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-16",
+      "title": "태백선(제천~영월) 고속화 철도 건립(KTX)",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-hongcheongunhoengseonggunyeongwolgunpyeongchanggun-17",
+      "title": "드론산업",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4214/003_100136875_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 강원 홍천군횡성군영월군평창군 당선인 유상범 (미래통합당). 책자형 선거공보 PDF 3–4쪽 분야별(어르신·교통·환경·농업·임업·축산) 공약 제목 7개와 PDF 5–6쪽 「지역을 발전시키겠습니다!」 홍천·횡성·평창·영월 공약 제목 10개. 머리 번호 목록이 없어 굵은 제목 줄을 썼다. 제목 아래 설명과 • 세부 항목, PDF 2쪽 인사말·약력은 넣지 않았다. 끝의 !!만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,38 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gwangju-gwangsangugap-21",
+  "candidate": {
+    "name": "이용빈",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-yongbin-1964",
+    "nec_huboid": "100134638"
+  },
+  "pledges": [
+    {
+      "id": "21-gwangju-gwangsangugap-01",
+      "title": "좋은 일자리, 지역경제 활력이 넘치는 광산",
+      "page": 7
+    },
+    {
+      "id": "21-gwangju-gwangsangugap-02",
+      "title": "문화와 생활이 숨쉬는 광산",
+      "page": 8
+    },
+    {
+      "id": "21-gwangju-gwangsangugap-03",
+      "title": "건강하고 안전한 광산",
+      "page": 9
+    },
+    {
+      "id": "21-gwangju-gwangsangugap-04",
+      "title": "미래세대 행복·배려 도시 광산",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2905/003_100134638_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 광주 광산구갑 당선인 이용빈 (더불어민주당). 책자형 선거공보 PDF 7–10쪽 공약1–4의 번호 제목 4개. 각 쪽 # 구호 머리말, 번호 제목 아래 파란 소제목과 - 세부 항목, PDF 6쪽 「시민이 말하면 이용빈이 실천합니다」 동별 생활 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

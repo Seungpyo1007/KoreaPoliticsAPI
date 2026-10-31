@@ -1,0 +1,63 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-yonginsieul-21",
+  "candidate": {
+    "name": "김민기",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-mingi-1966",
+    "nec_huboid": "100137311"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-yonginsieul-01",
+      "title": "기흥 전철시대",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-yonginsieul-02",
+      "title": "출·퇴근이 편한 광역교통망",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-yonginsieul-03",
+      "title": "도로는 시원하게",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-yonginsieul-04",
+      "title": "살기 좋은 용인",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yonginsieul-05",
+      "title": "행복한 교육도시",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yonginsieul-06",
+      "title": "예술·문화·체육 시설 확충",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yonginsieul-07",
+      "title": "범죄와 사고 없는 안전한 용인",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yonginsieul-08",
+      "title": "따뜻한 복지도시",
+      "page": 9
+    },
+    {
+      "id": "21-gyeonggi-yonginsieul-09",
+      "title": "활력 넘치는 용인 경제",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4137/003_100137311_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 용인시을 당선인 김민기 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 7–8쪽 「힘있는 여당 3선, 확실하게 추진하겠습니다!」의 교통 분야 제목 3개와 PDF 9쪽 「김민기가 하겠습니다」의 분야 제목 6개를 넣었다. 지도에 붙은 개별 사업명과 • 세부 항목, PDF 3–6쪽 의정활동·확보 예산, PDF 10쪽 「더불어민주당이 하겠습니다」 당 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-changwonsiseongsangu-21",
+  "candidate": {
+    "name": "강기윤",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gang-giyun-1960",
+    "nec_huboid": "100134709"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-changwonsiseongsangu-01",
+      "title": "살리자! 경제도시 창원",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-changwonsiseongsangu-02",
+      "title": "탈원전위기! 창원",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-changwonsiseongsangu-03",
+      "title": "사통팔달 편리한 창원",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-changwonsiseongsangu-04",
+      "title": "발전하는 교육, 안전한 창원",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-changwonsiseongsangu-05",
+      "title": "주민 행복도시 창원",
+      "page": 6
+    },
+    {
+      "id": "21-gyeongnam-changwonsiseongsangu-06",
+      "title": "복지명품도시 창원",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4822/003_100134709_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 창원시성산구 당선인 강기윤 (미래통합당). 책자형 선거공보 PDF 5–6쪽 1–6 번호 분야 제목 6개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 7–9쪽 동별 공약, PDF 4쪽 탈원전·정치·안보 구호, PDF 10쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

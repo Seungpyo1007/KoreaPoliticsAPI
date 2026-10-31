@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-changwonsiuichanggu-21",
+  "candidate": {
+    "name": "박완수",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "bak-wansu-1955",
+    "nec_huboid": "100137054"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-changwonsiuichanggu-01",
+      "title": "탈원전정책 막아내고, 지역경제 살리겠습니다",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-changwonsiuichanggu-02",
+      "title": "교육·보육 환경을 개선하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-changwonsiuichanggu-03",
+      "title": "영세소상공인을 지원하고 보호하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "21-gyeongnam-changwonsiuichanggu-04",
+      "title": "대한민국의 역사, 어르신을 잘 모시겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-gyeongnam-changwonsiuichanggu-05",
+      "title": "여성의 안전과 권익신장에 힘쓰겠습니다",
+      "page": 4
+    },
+    {
+      "id": "21-gyeongnam-changwonsiuichanggu-06",
+      "title": "농업인 지원정책을 확대하겠습니다",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4821/003_100137054_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 창원시의창구 당선인 박완수 (미래통합당). 책자형 선거공보 PDF 3–4쪽 「나라살림, 미래통합당이 잘 챙기겠습니다.」의 분야 제목 6개. 표제에 당명이 들어가 있으나 박완수 이름을 단 면이고 창원·의창 지역 항목이 섞여 있어 본인 공약으로 보았다. 제목 아래 • 세부 항목, PDF 5–6쪽 「의창구를 으뜸으로 만들겠습니다」 동·읍·면별 공약, PDF 7–10쪽 지난 성과와 약력은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

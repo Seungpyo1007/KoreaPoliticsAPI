@@ -1,0 +1,33 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-gangbukgueul-21",
+  "candidate": {
+    "name": "박용진",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-yongjin-1971",
+    "nec_huboid": "100136273"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-gangbukgueul-01",
+      "title": "강북구 지역 발전을 위한 국비 1,000억 원 이상 확보",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangbukgueul-02",
+      "title": "강북과 강남의 격차 해소! 가칭 강북발전특별법 발의",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-gangbukgueul-03",
+      "title": "유아숲체험장과 축구장이 있는 가족종합체육공원 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1109/003_100136273_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 강북구을 당선인 박용진 (더불어민주당). 책자형 선거공보 PDF 8쪽 「강북주민의 삶을 한 단계 더 높이겠습니다!」 제목 3개. PDF 9–10쪽 동별 세부 공약, PDF 2·5–6쪽 지난 성과는 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

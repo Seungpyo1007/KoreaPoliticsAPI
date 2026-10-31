@@ -1,0 +1,73 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-yeonjegu-21",
+  "candidate": {
+    "name": "이주환",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "i-juhwan-1967",
+    "nec_huboid": "100134629"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-yeonjegu-01",
+      "title": "구민체육시설 조성",
+      "page": 9
+    },
+    {
+      "id": "21-busan-yeonjegu-02",
+      "title": "플프마켓 구축 및 활성화",
+      "page": 9
+    },
+    {
+      "id": "21-busan-yeonjegu-03",
+      "title": "【가칭】연제복합문화체육시설",
+      "page": 9
+    },
+    {
+      "id": "21-busan-yeonjegu-04",
+      "title": "걸어서 연제한바퀴",
+      "page": 9
+    },
+    {
+      "id": "21-busan-yeonjegu-05",
+      "title": "온천천 도약 3.0",
+      "page": 10
+    },
+    {
+      "id": "21-busan-yeonjegu-06",
+      "title": "연산로터리 랜드마크",
+      "page": 10
+    },
+    {
+      "id": "21-busan-yeonjegu-07",
+      "title": "도시재생 뉴딜",
+      "page": 10
+    },
+    {
+      "id": "21-busan-yeonjegu-08",
+      "title": "황령 제3터널 추진",
+      "page": 10
+    },
+    {
+      "id": "21-busan-yeonjegu-09",
+      "title": "무너진 경제! 살리자 연제",
+      "page": 9
+    },
+    {
+      "id": "21-busan-yeonjegu-10",
+      "title": "모든 세대, 사각지대 없는 복지도시",
+      "page": 10
+    },
+    {
+      "id": "21-busan-yeonjegu-11",
+      "title": "연제구민의 삶의 질 개선",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2614/003_100134629_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 연제구 당선인 이주환 (미래통합당). 책자형 선거공보 PDF 9–10쪽 「연제의 비전과 변화를 이끌겠습니다!」의 생활권 공약 상자 제목 8개와 아래 분야별 띠 제목 3개. PDF 글자층이 깨져 있어 쪽 이미지를 보고 옮겼다. 상자·띠 아래 - ▪ 세부 항목, PDF 8쪽 「연제를 챙겼습니다!」(시의원 시절 성과)는 넣지 않았다. 띠 제목 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

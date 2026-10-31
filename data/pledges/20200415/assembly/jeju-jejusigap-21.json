@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeju-jejusigap-21",
+  "candidate": {
+    "name": "송재호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "song-jaeho-1960",
+    "nec_huboid": "100137235"
+  },
+  "pledges": [
+    {
+      "id": "21-jeju-jejusigap-01",
+      "title": "‘4·3특별법’ 개정, 제주4·3의 완전한 해결",
+      "page": 6
+    },
+    {
+      "id": "21-jeju-jejusigap-02",
+      "title": "‘제주특별법’ 개정, 내생적 성장체계 구축",
+      "page": 6
+    },
+    {
+      "id": "21-jeju-jejusigap-03",
+      "title": "‘갈등관리기본법’ 제정, 도민공동체 회복",
+      "page": 6
+    },
+    {
+      "id": "21-jeju-jejusigap-04",
+      "title": "‘지역문화진흥법’ 개정, 문화예술 균형발전과 문화자치 토대 마련",
+      "page": 6
+    },
+    {
+      "id": "21-jeju-jejusigap-05",
+      "title": "‘내 삶이 빛나는 제주’를 위한 생활편의 및 복지 강화",
+      "page": 6
+    },
+    {
+      "id": "21-jeju-jejusigap-06",
+      "title": "지속가능한 산업경제 생태계 구축",
+      "page": 8
+    },
+    {
+      "id": "21-jeju-jejusigap-07",
+      "title": "제주만이 가능한 제주형 제조업 육성",
+      "page": 8
+    },
+    {
+      "id": "21-jeju-jejusigap-08",
+      "title": "혁신성장을 위한 미래산업 구축",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4901/003_100137235_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 제주시갑 당선인 송재호 (더불어민주당). 책자형 선거공보 PDF 6쪽 「자치·자존의 아무도 흔들 수 없는 제주」 제목 5개와 PDF 8쪽 「제주도민이 돈 버는, 진짜 제주경제! 도민주도 성장」 제목 3개. 제목 아래 ▶·▷ 세부 항목, PDF 9–10쪽 지역별(농어촌·도심·동별) 공약, PDF 3쪽 코로나19 대응과 민주당 위기극복 대책은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

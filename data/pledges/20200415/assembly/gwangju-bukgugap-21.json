@@ -1,0 +1,88 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gwangju-bukgugap-21",
+  "candidate": {
+    "name": "조오섭",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jo-oseop-1968",
+    "nec_huboid": "100134673"
+  },
+  "pledges": [
+    {
+      "id": "21-gwangju-bukgugap-01",
+      "title": "혁신도시 시즌2 광주에서 시작하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "21-gwangju-bukgugap-02",
+      "title": "북구 발전의 ‘뇌관’ 광주역 개발",
+      "page": 5
+    },
+    {
+      "id": "21-gwangju-bukgugap-03",
+      "title": "달빛내륙철도 건설",
+      "page": 5
+    },
+    {
+      "id": "21-gwangju-bukgugap-04",
+      "title": "CT(문화기술)연구원 유치",
+      "page": 5
+    },
+    {
+      "id": "21-gwangju-bukgugap-05",
+      "title": "일신방직, 전남방직 이전 도시재생",
+      "page": 5
+    },
+    {
+      "id": "21-gwangju-bukgugap-06",
+      "title": "사회적경제 혁신타운 북구 유치",
+      "page": 5
+    },
+    {
+      "id": "21-gwangju-bukgugap-07",
+      "title": "AI인공지능산업 ‘1조원’으로 키우겠습니다",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-bukgugap-08",
+      "title": "4차산업 교육허브 북구",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-bukgugap-09",
+      "title": "동광주 IC 폐도부지 자연생태공원 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-bukgugap-10",
+      "title": "각화농산물도매시장 이전 및 이전부지 공공형 개발",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-bukgugap-11",
+      "title": "옛광주교도소의 변신. 5·18 사적지 역사적 의미 복원",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-bukgugap-12",
+      "title": "말바우시장 시설 현대화 및 주차장 등 현안사업 해결",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-bukgugap-13",
+      "title": "광주호 호수생태원 역사문화생태벨트 조성",
+      "page": 6
+    },
+    {
+      "id": "21-gwangju-bukgugap-14",
+      "title": "무등산 정상 시민환원",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2904/003_100134673_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 광주 북구갑 당선인 조오섭 (더불어민주당). 책자형 선거공보 PDF 5쪽 「매력적인 신성장 도시 북구」와 PDF 6쪽 「조오섭이 추진하겠습니다!!」의 제목 14개(각 쪽 노란 띠 큰 제목 1개와 아이콘 제목들). 제목 아래 ○/- 세부 항목, PDF 7–8쪽 국민건강 국가 책임제·국회 개혁 등 전국 공약, PDF 4쪽 당 지지 호소, PDF 2쪽 지난 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

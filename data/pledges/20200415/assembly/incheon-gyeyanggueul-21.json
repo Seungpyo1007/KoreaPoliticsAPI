@@ -1,0 +1,98 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/incheon-gyeyanggueul-21",
+  "candidate": {
+    "name": "송영길",
+    "party_id": "deobureo-minjudang",
+    "person_id": "song-yeonggil-1963",
+    "nec_huboid": "100137600"
+  },
+  "pledges": [
+    {
+      "id": "21-incheon-gyeyanggueul-01",
+      "title": "판교를 뛰어넘는 대한민국 최고의 첨단도시! 글로벌·첨단기업 유치, IT·BT 산업단지 조성하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-02",
+      "title": "아이 키우기 좋은 도시, 계양",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-03",
+      "title": "좋은 일자리 많은 도시, 계양",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-04",
+      "title": "생활체육복지도시, 계양",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-05",
+      "title": "청년이 행복한 도시, 계양",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-06",
+      "title": "어르신의 당당한 노후생활 보장",
+      "page": 6
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-07",
+      "title": "계양구 보건소 신설",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-08",
+      "title": "계양 종합병원 유치",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-09",
+      "title": "계양산 수목원 유치",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-10",
+      "title": "GM코리아, 연구·생산기지 육성",
+      "page": 7
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-11",
+      "title": "계양-홍대·신도림 서울지하철 2호선 연장",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-12",
+      "title": "계양-여의도-강남-송파 공항철도, 서울지하철 9호선 직결",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-13",
+      "title": "계양역 승강장 2배 확장",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-14",
+      "title": "도시철도 1호선 검단 연장",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-15",
+      "title": "경인고속도로 지하화, 국가 재정사업 전환",
+      "page": 8
+    },
+    {
+      "id": "21-incheon-gyeyanggueul-16",
+      "title": "서울외곽-인천공항 고속도로 연결로 신설(서울방향)",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2807/003_100137600_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 인천 계양구을 당선인 송영길 (더불어민주당). 책자형 선거공보 PDF 3–4쪽에 걸친 계양테크노밸리 큰 제목 1개, PDF 6쪽 「송영길이 하겠습니다」 분야 제목 5개, PDF 7쪽 「안전하고 깨끗한 계양시대, 송영길이 만듭니다」 제목 4개, PDF 8쪽 「사통팔달 계양시대, 송영길이 만듭니다」 제목 6개. 머리 목록이 따로 없어 쪽별 굵은 제목을 넣었다. PDF 6쪽 # 세부 항목, 제목 아래 설명, PDF 5쪽 「송영길이 해냈습니다」(지난 성과), PDF 9–10쪽 북방경제 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

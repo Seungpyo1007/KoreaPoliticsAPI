@@ -1,0 +1,98 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeonggi-bucheonsibyeong-21",
+  "candidate": {
+    "name": "김상희",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-sanghui-1954",
+    "nec_huboid": "100136312"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-01",
+      "title": "심곡본동 도시재생뉴딜사업 4년간 총 1,363억 집중 투입 계획",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-02",
+      "title": "노후 APT 및 주택단지, 재건축 활성화 추진",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-03",
+      "title": "삼양홀딩스 부지 개발, 차질 없이 완수",
+      "page": 5
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-04",
+      "title": "경인전철 지하화",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-05",
+      "title": "제2경인도로 지하 건설 및 Super-BRT(슈퍼-간선급행버스) 타당성 검토 후 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-06",
+      "title": "광역버스노선 확충",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-07",
+      "title": "소사 곳곳에 공영주차장 총 454면 설치 완료 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-08",
+      "title": "진학을 위해 이사오고 싶은 미래형 학교 건립 추진 중",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-09",
+      "title": "계수지구 초등학교 건립 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-10",
+      "title": "소사본동, 소사역 남부 초등학교 건립 타당성 검토 후 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-11",
+      "title": "별빛마루도서관, 총 294억 투입하여 2020년 6월 착공 예정",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-12",
+      "title": "어린이안전체험관 신설",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-13",
+      "title": "거점 국공립 영유아돌봄센터 건립",
+      "page": 7
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-14",
+      "title": "238호 근린공원(구 소사체육공원) 및 소사근린공원 확대 조성",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-15",
+      "title": "옥길문화체육센터 건립 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gyeonggi-bucheonsibyeong-16",
+      "title": "삼양홀딩스 부지 개발계획에 주민편의시설 추가",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4145/003_100136312_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경기 부천시병 당선인 김상희 (더불어민주당). 책자형 선거공보 PDF 5–8쪽 「소사의 도시재생」「소사의 교통혁명」「소사의 교육·보육」「소사의 문화·체육」 쪽의 앞으로 할 일 굵은 제목 16개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 머리 공약 목록이 따로 없고 성과와 계획이 한 쪽에 섞여 있어 완료·개관·확정·이미 투입한 항목(소사-원시 복선전철, 범안로 확장, 범박지구 중학교, 옥길지구 제2유치원, 송내사회체육관 체육센터, 소사청소년수련관 등)과 예타 진행 현황은 넣지 않았다. 6쪽 경인전철 지하화와 제2경인도로 지하 건설은 「더불어민주당 인천, 경기, 서울 공동 핵심공약」이고 III 상부공간 항목은 I의 세부라 넣지 않았다. 제목 아래 □ 세부 항목, PDF 9–10쪽 당 공약은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

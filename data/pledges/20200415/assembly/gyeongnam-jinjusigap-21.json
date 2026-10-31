@@ -1,0 +1,83 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gyeongnam-jinjusigap-21",
+  "candidate": {
+    "name": "박대출",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "bak-daechul-1961",
+    "nec_huboid": "100137237"
+  },
+  "pledges": [
+    {
+      "id": "21-gyeongnam-jinjusigap-01",
+      "title": "국립 경남진주 과학관 설립",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-02",
+      "title": "내동 스포츠 가치센터 완성(유스호스텔 등)",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-03",
+      "title": "성북지구 도시재생 뉴딜사업 완성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-04",
+      "title": "강남지구 도시재생 뉴딜사업 추진",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-05",
+      "title": "신안·이현 복합 스포츠타운 조성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-06",
+      "title": "혁신도시 육성 및 활성화",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-07",
+      "title": "진주항공특례시",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-08",
+      "title": "서부경남KTX",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-09",
+      "title": "구 진주역 일대 문화 콤플렉스",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-10",
+      "title": "'대한민국 국민 보호법' 추진",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-11",
+      "title": "의료진 지원 종합정책 수립",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-12",
+      "title": "항공산업 국가산업단지 완성",
+      "page": 5
+    },
+    {
+      "id": "21-gyeongnam-jinjusigap-13",
+      "title": "저작권 전문 도시 육성",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4803/003_100137237_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 경남 진주시갑 당선인 박대출 (미래통합당). 책자형 선거공보 PDF 5쪽 「진주大도약 CHANCE 3.6」의 6개 도시 분야(문화·행복·발전·일류·청정·경제도시)별 굵은 ● 제목 13개(줄마다 왼쪽, 오른쪽 순). 분야 이름이 「Culture city 문화도시」 같은 꼬리표뿐이라 굵게 강조한 ● 항목을 넣었다. 굵지 않은 ● 항목과 - 세부 항목, PDF 3–4·7쪽 지난 성과와 사업, PDF 8쪽 당 공약, PDF 9–10쪽 정부 비판 기사는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

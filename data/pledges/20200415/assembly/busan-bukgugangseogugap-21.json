@@ -1,0 +1,48 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/busan-bukgugangseogugap-21",
+  "candidate": {
+    "name": "전재수",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeon-jaesu-1971",
+    "nec_huboid": "100134887"
+  },
+  "pledges": [
+    {
+      "id": "21-busan-bukgugangseogugap-01",
+      "title": "미래교육콤플렉스",
+      "page": 9
+    },
+    {
+      "id": "21-busan-bukgugangseogugap-02",
+      "title": "낙동강 생태문화벨리",
+      "page": 9
+    },
+    {
+      "id": "21-busan-bukgugangseogugap-03",
+      "title": "북구 에이스플렉스(A:행정, C:상업·문화. E:교육)",
+      "page": 9
+    },
+    {
+      "id": "21-busan-bukgugangseogugap-04",
+      "title": "어르신 백세건강센터",
+      "page": 9
+    },
+    {
+      "id": "21-busan-bukgugangseogugap-05",
+      "title": "경부선 철도지하화",
+      "page": 9
+    },
+    {
+      "id": "21-busan-bukgugangseogugap-06",
+      "title": "변함없는 지역숙원·민원해결",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2608/003_100134887_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 부산 북구강서구갑 당선인 전재수 (더불어민주당). 책자형 선거공보 PDF 9쪽 「북구의 더 큰 변화」 제목 6개. 제목 아래 따옴표 부제와 세부 항목, PDF 7–8쪽 「추진! 변화의 완성」 분야별 번호 항목, PDF 5–7쪽 완료·진행 중 사업, PDF 10쪽 「더 나은 대한민국」(전국 공약)은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

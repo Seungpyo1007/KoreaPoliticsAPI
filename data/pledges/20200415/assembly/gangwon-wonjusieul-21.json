@@ -1,0 +1,118 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/gangwon-wonjusieul-21",
+  "candidate": {
+    "name": "송기헌",
+    "party_id": "deobureo-minjudang",
+    "person_id": "song-giheon-1963",
+    "nec_huboid": "100137752"
+  },
+  "pledges": [
+    {
+      "id": "21-gangwon-wonjusieul-01",
+      "title": "원주 도약 이끌 ‘청년벤처창업투자회사’ 설립",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-wonjusieul-02",
+      "title": "공공기관, (기초·광역)자치단체, 지역 대학 연계한 연구특구 조성",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-wonjusieul-03",
+      "title": "대학캠퍼스 내 유휴부지에 도시첨단산업단지 유치",
+      "page": 5
+    },
+    {
+      "id": "21-gangwon-wonjusieul-04",
+      "title": "의료·생명·제약 관련 기업 유치",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-wonjusieul-05",
+      "title": "공공기관 지역 인재 채용 확대",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-wonjusieul-06",
+      "title": "항공·우주 부문 원주 신산업으로 육성",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-wonjusieul-07",
+      "title": "향토기업 키우고, 자영업자 살리고, 농가소득 보장하고",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-wonjusieul-08",
+      "title": "영세소상공인에게 ‘착한상가’ 보급",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-wonjusieul-09",
+      "title": "상권밀집지역에 공공주차장 확충",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-wonjusieul-10",
+      "title": "원주 농촌융복합산업지원센터 설립 추진",
+      "page": 6
+    },
+    {
+      "id": "21-gangwon-wonjusieul-11",
+      "title": "아이들의 꿈자람터, (가칭)원주미래교육테마파크 건립",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-wonjusieul-12",
+      "title": "흥업면 3개 대학가에 (가칭)원주문화예술타운 조성",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-wonjusieul-13",
+      "title": "군 가족 주거환경 개선, 통일아파트 재건축 추진",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-wonjusieul-14",
+      "title": "안심하고 살 수 있는 ‘스마트시티’ 조성 확대",
+      "page": 7
+    },
+    {
+      "id": "21-gangwon-wonjusieul-15",
+      "title": "원주~여주 복선전철 조기 착공",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-wonjusieul-16",
+      "title": "하이패스 전용 동원주(혁신) IC 신설",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-wonjusieul-17",
+      "title": "사통팔달의 완성, ‘강호축’ 철도 사업 조기 추진",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-wonjusieul-18",
+      "title": "보훈수당 현실화 및 보훈가족 의료비 부담 완화",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-wonjusieul-19",
+      "title": "경로당 지원 현실화",
+      "page": 8
+    },
+    {
+      "id": "21-gangwon-wonjusieul-20",
+      "title": "농촌지역 교통복지 사각지대 개선",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4202/003_100137752_20200414_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 강원 원주시을 당선인 송기헌 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 5–8쪽 「송기헌이 약속합니다!」의 분야별(창업·연구, 좋은 일자리, 소상공인·자영업자, 교육·생활SOC, 교통, 복지) 굵은 공약 제목 20개를 넣었다. 분야 표제 문구와 제목 아래 - 세부 항목, PDF 9쪽 동별 공약, PDF 3–4쪽 확보 예산·의정 평가는 넣지 않았다. 끝의 !를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

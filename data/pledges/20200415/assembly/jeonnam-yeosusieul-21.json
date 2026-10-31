@@ -1,0 +1,68 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/jeonnam-yeosusieul-21",
+  "candidate": {
+    "name": "김회재",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-hoejae-1962",
+    "nec_huboid": "100134970"
+  },
+  "pledges": [
+    {
+      "id": "21-jeonnam-yeosusieul-01",
+      "title": "수입재정확대를 통해 여수시민의 삶의 질을 향상시키겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-yeosusieul-02",
+      "title": "『여수 첨단산업 국가산업단지』를 조성해 여수시가 혁신산업의 세계적 거점으로 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-yeosusieul-03",
+      "title": "『산단 중심의 지역 일자리 거점 사업』에 여수 선정 적극 지원",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-yeosusieul-04",
+      "title": "해양레저휴양특구 지정 및 품격 있는 문화예술관광 휴양도시로 발전시키겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-yeosusieul-05",
+      "title": "지역거점 종합병원을 유치하여 『아플 때 치료 받기 쉬운 도시』로 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "21-jeonnam-yeosusieul-06",
+      "title": "사랑과 용서를 담은 치유공간으로서 『애양원 힐링 테마파크』를 조성하여 세계적인 평화순례지로 발전시키겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeosusieul-07",
+      "title": "여수를 남해안 중심도시로 성장시켜 남해안권 신성장의 핵심 축으로 발전시키겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeosusieul-08",
+      "title": "남해안 해저터널이 국도건설계획에 반영되도록 적극 추진",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeosusieul-09",
+      "title": "출산과 육아의 부담을 줄여드리고 교육의 질을 높여 출산, 보육, 교육서비스를 강화하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "21-jeonnam-yeosusieul-10",
+      "title": "노후가 편안하고 사회적 약자가 보호받는 여수시를 만들겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4602/003_100134970_20200415_3.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 전남 여수시을 당선인 김회재 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「당신의 삶을 바꾸는 김회재의 10대 공약!」 1–10 제목 10개. 텍스트가 OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 ● 세부 항목, PDF 5–6쪽 분야별 공약 표, PDF 9–10쪽 읍·면·동별 공약과 여수시 현안 지원은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

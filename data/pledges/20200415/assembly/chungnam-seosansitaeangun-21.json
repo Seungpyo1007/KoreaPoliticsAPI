@@ -1,0 +1,73 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/chungnam-seosansitaeangun-21",
+  "candidate": {
+    "name": "성일종",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "seong-iljong-1963",
+    "nec_huboid": "100137547"
+  },
+  "pledges": [
+    {
+      "id": "21-chungnam-seosansitaeangun-01",
+      "title": "가로림만해양프로젝트",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-seosansitaeangun-02",
+      "title": "태안북부권 발전 프로젝트",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-seosansitaeangun-03",
+      "title": "태안서부권 발전 프로젝트",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-seosansitaeangun-04",
+      "title": "태안남부권 발전 프로젝트",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-seosansitaeangun-05",
+      "title": "서산·태안 철도시대 개막",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-seosansitaeangun-06",
+      "title": "서산-태안 고속도로 건설",
+      "page": 7
+    },
+    {
+      "id": "21-chungnam-seosansitaeangun-07",
+      "title": "대산 발전 프로젝트",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-seosansitaeangun-08",
+      "title": "‘서울대병원운영 서산의료원’설립 추진",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-seosansitaeangun-09",
+      "title": "잠홍저수지 수상복합레저파크 건설",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-seosansitaeangun-10",
+      "title": "서산남부권 발전 프로젝트",
+      "page": 8
+    },
+    {
+      "id": "21-chungnam-seosansitaeangun-11",
+      "title": "서산민항 신설",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/4405/003_100137547_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 충남 서산시태안군 당선인 성일종 (미래통합당). 책자형 선거공보 PDF 7–8쪽 「서산·태안 백년대계Ⅰ 권역별 발전 공약」의 상자 제목 11개. PDF 7–8쪽에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 위 권역 표기((원북·이원) 등)와 제목 아래 부제·세부 항목, PDF 9–10쪽 「분야별 행복 공약」, PDF 5–6쪽 지난 4년 실천 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

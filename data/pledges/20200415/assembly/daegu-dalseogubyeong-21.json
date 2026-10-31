@@ -1,0 +1,58 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/daegu-dalseogubyeong-21",
+  "candidate": {
+    "name": "김용판",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-yongpan-1958",
+    "nec_huboid": "100134785"
+  },
+  "pledges": [
+    {
+      "id": "21-daegu-dalseogubyeong-01",
+      "title": "일자리 창출이 복지입니다",
+      "page": 7
+    },
+    {
+      "id": "21-daegu-dalseogubyeong-02",
+      "title": "전통시장 육성",
+      "page": 7
+    },
+    {
+      "id": "21-daegu-dalseogubyeong-03",
+      "title": "노인시설 환경개선",
+      "page": 7
+    },
+    {
+      "id": "21-daegu-dalseogubyeong-04",
+      "title": "공동체형 가족문화 정착",
+      "page": 7
+    },
+    {
+      "id": "21-daegu-dalseogubyeong-05",
+      "title": "엄마와 아이가 행복한 달서",
+      "page": 8
+    },
+    {
+      "id": "21-daegu-dalseogubyeong-06",
+      "title": "어르신께서 미소짓는 달서",
+      "page": 8
+    },
+    {
+      "id": "21-daegu-dalseogubyeong-07",
+      "title": "자연친화 건강도시 조성",
+      "page": 8
+    },
+    {
+      "id": "21-daegu-dalseogubyeong-08",
+      "title": "친환경 녹색 도심재생사업 미루지 않겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/2707/003_100134785_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 대구 달서구병 당선인 김용판 (미래통합당). 책자형 선거공보 PDF 7–8쪽 「이것만은 꼭 해결하겠습니다」·「김용판, 반드시 해내겠습니다」의 번호 붙은 공약 1–8 제목 8개. OCR 결과라 쪽 이미지를 보고 옮겼다. 번호 위 분야 표제(일취월장 민생경제 등)와 제목 아래 ▶ 세부 항목, PDF 5쪽 대구시 신청사 연계 공약과 PDF 6쪽 두류공원 그랜드플랜, PDF 9–10쪽 동별 공약, PDF 3–4쪽 정치 주장·경력은 넣지 않았다. 끝의 !·.를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

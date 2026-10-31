@@ -1,0 +1,43 @@
+{
+  "election_id": "20200415",
+  "office": "assembly/seoul-songpagugap-21",
+  "candidate": {
+    "name": "김웅",
+    "party_id": "mirae-tonghapdang",
+    "person_id": "gim-ung-1970",
+    "nec_huboid": "100137272"
+  },
+  "pledges": [
+    {
+      "id": "21-seoul-songpagugap-01",
+      "title": "아파트 재건축 리모델링 추진",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-songpagugap-02",
+      "title": "풍납토성 복원사업",
+      "page": 7
+    },
+    {
+      "id": "21-seoul-songpagugap-03",
+      "title": "지역경제 활성화",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-songpagugap-04",
+      "title": "교통 및 환경개선",
+      "page": 8
+    },
+    {
+      "id": "21-seoul-songpagugap-05",
+      "title": "잠실 관광특구 활성화",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20200415/PDF/PBINFO_PUB/1124/003_100137272_20200415_2.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제21대 국회의원선거 서울 송파구갑 당선인 김웅 (미래통합당). 책자형 선거공보 PDF 7–8쪽 「Change up 송파! 5대 공약」 상자 제목 5개. 상자 아래 분홍 부제(「주민의 든든한 울타리 송파」 등)와 • 세부 항목, PDF 9–10쪽 동별 공약, PDF 3–6쪽 검찰·부동산·세제 등 전국 단위 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}
