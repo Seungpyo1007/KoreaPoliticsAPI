@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/ulsan-donggu-20",
+  "candidate": {
+    "name": "김종훈",
+    "party_id": null,
+    "person_id": "gim-jonghun-1964",
+    "nec_huboid": "100119018"
+  },
+  "pledges": [
+    {
+      "id": "20-ulsan-donggu-01",
+      "title": "조선산업 경쟁력 향상을 위한 제도적 지원",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-donggu-02",
+      "title": "정규직 정리해고 엄격제한, 일반해고 금지",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-donggu-03",
+      "title": "하청노동자 정규직화, 차별 철폐",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-donggu-04",
+      "title": "역사·문화가 살아숨쉬는 방어진, 그리고 방어진항",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-donggu-05",
+      "title": "대왕암공원-슬도-방어진항-화암추등대 해양관광벨트화",
+      "page": 9
+    },
+    {
+      "id": "20-ulsan-donggu-06",
+      "title": "바다와 숲이 어우러진 가족 체험마을 주전",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-donggu-07",
+      "title": "건강·힐링·가족이 어우러지는 방어진공원 조성",
+      "page": 10
+    },
+    {
+      "id": "20-ulsan-donggu-08",
+      "title": "300만이 찾아오는 명품 해수욕장",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/3103/003_100119018_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 울산 동구 당선인 김종훈 (무소속). 책자형 선거공보 PDF 8쪽 「조선산업 육성과 고용안정으로 지역경제를 살리겠습니다」 아래 띠 제목 3개와 PDF 9–10쪽 「동구의 미래 먹거리 생태해양관광 명품 동구건설」 띠 제목 5개. 제목 아래 · 세부 항목, PDF 9–10쪽 아래 동별 공약([남목1·2·3, 주전] 등), PDF 5–6쪽 노동·복지 전국 공약, PDF 3–4쪽 정부 비판은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

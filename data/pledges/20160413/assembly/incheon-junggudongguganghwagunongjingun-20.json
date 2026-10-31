@@ -1,0 +1,338 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/incheon-junggudongguganghwagunongjingun-20",
+  "candidate": {
+    "name": "안상수",
+    "party_id": null,
+    "person_id": "an-sangsu-1946-2",
+    "nec_huboid": "100120192"
+  },
+  "pledges": [
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-01",
+      "title": "인천 내항 개발 국비지원(부산 북항처럼 육성)",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-02",
+      "title": "인천 내항 외국인 특화거리 조성, 국비지원",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-03",
+      "title": "한국 최초 우편선 「세이리오마루」호 복원과 관광자원화",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-04",
+      "title": "연안·항운 아파트 이전 조기추진",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-05",
+      "title": "연안부두 라이프아파트 주거환경 개선 및 주변지역 주거용지 확대",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-06",
+      "title": "인천항 석탄부두 폐쇄 추진",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-07",
+      "title": "종합어시장 이전 추진",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-08",
+      "title": "답동성당 일원, 송월동 동화마을 등 관광벨트 구축",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-09",
+      "title": "월미도 갑문 매립지 매입 및 시민 휴식공간 조성",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-10",
+      "title": "신흥동 갯골수로 복개 및 주민 여가시설 조성",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-11",
+      "title": "동인천역~자유공원(기상대) 역사문화 거리 조성",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-12",
+      "title": "제3연륙교 조기건설과 무료화 추진",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-13",
+      "title": "영종도 지역 공항철도 요금인하(수도권 통합요금제 확대 적용)",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-14",
+      "title": "공항고속도로 서울방면 금산IC 개설 및 공항신도시간 연결도로 확대",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-15",
+      "title": "영종도 주민들에 한해서, 영종대교·인천대교 통행료 무료화 추진(국비 지원)",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-16",
+      "title": "공항신도시 공영주차장 확대로 신도시의 주차난 해결",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-17",
+      "title": "운서역 주차타워 건축 및 도로면 주차면 확보",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-18",
+      "title": "영종미개발지 도시기반시설조성(도로, 도시가스, 수도)",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-19",
+      "title": "인천역에서 영종까지 수인선 연장 추진",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-20",
+      "title": "미단시티 재추진을 위한 국내외 대기업 유치",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-21",
+      "title": "미개발지역(380여만평) 국제급 특화도시 개발계획 수립",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-22",
+      "title": "수도권 대학 제2캠퍼스 유치, 리조트(카지노) 전문인력 양성 단과대학 설치",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-23",
+      "title": "국제학교 및 종합병원 유치 추진",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-24",
+      "title": "영종·용유지역 기 계획도로 조기 착공",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-25",
+      "title": "용유·무의 수도권 휴양도시 조성",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-26",
+      "title": "공항철도 용유역 연장",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-27",
+      "title": "용유·무의 발전을 위한 공항연계 도로망 조성",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-28",
+      "title": "인천교 유수지 친수공간화",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-29",
+      "title": "원도심재개발을 위한 ‘뉴스테이사업’ 조기추진",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-30",
+      "title": "송림3구역, 송림6구역 재개발 추진 및 대헌지구 재개발 조속 마무리",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-31",
+      "title": "중앙시장 재개발 및 현대화 사업 추진",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-32",
+      "title": "수문통 복원을 통한 친수공간 확보",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-33",
+      "title": "배다리 역사문화관 건립",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-34",
+      "title": "원거리학생을 위한 고등학교 기숙사 건립",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-35",
+      "title": "구민의 삶의 질 향상을 위한 복합문화체육센터 건립",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-36",
+      "title": "동인천북광장 지하주차장 건설 추진",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-37",
+      "title": "인천역 동구 방향 통로 개설 및 노후 고가도로 철거",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-38",
+      "title": "십자굴 주변 환경 개선 및 북성포구 관광단지 조성",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-39",
+      "title": "강화~영종 연륙교 건설",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-40",
+      "title": "강화남단 경제자유구역 지정을 통한 의료휴양관광 도시 조성",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-41",
+      "title": "국도48호선 김포~강화간 고속화도로 건설",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-42",
+      "title": "초지대교~청라간 해안도로 확포장",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-43",
+      "title": "서도면 연도교 건설",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-44",
+      "title": "강화 해안순환도로 조기완공",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-45",
+      "title": "국지도 84호선 (길상~선원) 도로확포장 조기완공",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-46",
+      "title": "도시가스공급 확대",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-47",
+      "title": "삼산면을 포함해 강화 전역에 농업용수 안정적 공급",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-48",
+      "title": "삼산면 온천개발의 촉진을 통한 지역경제 활성화",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-49",
+      "title": "어족자원회복 사업을 통한 어가수익 확대",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-50",
+      "title": "제2외곽순환도로 김포구간에서 IC건설로 강화초지대교까지 자동차전용도로 추진",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-51",
+      "title": "백령·영흥 해안순환도로 건설",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-52",
+      "title": "영흥종합사회복지관 신축",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-53",
+      "title": "영종~신도~강화 연륙교 건설",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-54",
+      "title": "북도면 모도~장봉도 연도교 건설",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-55",
+      "title": "중국어선 불법조업에 따른 피해대책 마련",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-56",
+      "title": "연안여객선 준공영제로 여객운임 절감대책 마련",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-57",
+      "title": "도서지역 식수 및 가뭄 대책 마련 (광역상수도 연결 및 확장, 해수담수화시설, 농업용 소류지 건설)",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-58",
+      "title": "도서지역 팸투어(섬 관광) 사업 활성화 지원",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-59",
+      "title": "어족자원회복 사업을 통한 어가수익 확대",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-60",
+      "title": "백령 등 접경지역 주민재산권 보호방안 강구",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-61",
+      "title": "영흥·덕적·자월도 등 특화된 해양관광단지 육성",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-62",
+      "title": "연평도 신항 조기 건설",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-63",
+      "title": "친환경 에너지 자립섬 건설 지원",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-junggudongguganghwagunongjingun-64",
+      "title": "영흥화력 연료를 청정연료 LNG로 전환 추진",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2801/003_100120192_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 인천 중구동구강화군옹진군 당선인 안상수 (무소속). 책자형 선거공보 PDF 5–9쪽 군·구별(중구, 영종·용유, 동구, 강화, 옹진) • 공약 64개. 각 쪽 붉은 표제 문구는 구호라 넣지 않았다. • 아래 - 세부 항목과 각 쪽 「당선 즉시 해결 약속사항」 상자(위 목록과 상당 부분 겹침)는 넣지 않았다. PDF 2–4쪽 국비 확보 등 지난 성과, PDF 11쪽 보훈·장병 문구도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

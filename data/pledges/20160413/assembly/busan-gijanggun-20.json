@@ -1,0 +1,118 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-gijanggun-20",
+  "candidate": {
+    "name": "윤상직",
+    "party_id": "saenuridang",
+    "person_id": "yun-sangjik-1956",
+    "nec_huboid": "100119320"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-gijanggun-01",
+      "title": "도시철도 기장· 정관선 조기 유치",
+      "page": 6
+    },
+    {
+      "id": "20-busan-gijanggun-02",
+      "title": "노선버스 확충 및 신설(기장· 정관과 도심권 연계)",
+      "page": 6
+    },
+    {
+      "id": "20-busan-gijanggun-03",
+      "title": "일광택지, 장안택지, 뉴스테이 미니신도시, 미니복합타운 등 택지개발",
+      "page": 6
+    },
+    {
+      "id": "20-busan-gijanggun-04",
+      "title": "그린벨트· 농업진흥구역 해제추진 (친환경공영개발 확대)",
+      "page": 6
+    },
+    {
+      "id": "20-busan-gijanggun-05",
+      "title": "원자력 경제특구 조성 및 원전해체연구센터 유치",
+      "page": 6
+    },
+    {
+      "id": "20-busan-gijanggun-06",
+      "title": "도시농업 및 친환경 스마트형 농·수산업 육성",
+      "page": 6
+    },
+    {
+      "id": "20-busan-gijanggun-07",
+      "title": "외국인투자기업 전용단지 조성",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-08",
+      "title": "어르신 일자리 창출을 위한 노인 일자리 전담기관 육성",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-09",
+      "title": "동부산폴리텍대학 내 기업맞춤형 특별교육과정(2년제)설치",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-10",
+      "title": "재경 기숙사 건립",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-11",
+      "title": "특별전형제 유지 등 명품고등학교 육성",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-12",
+      "title": "과밀학급 해소 및 교육특화프로그램 지원",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-13",
+      "title": "어린이 가족 캠핑 · 피크닉 공원조성",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-14",
+      "title": "동부산관광단지 정상 추진(테마파크 유치)",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-15",
+      "title": "영화종합촬영소 추진",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-16",
+      "title": "동부산관광단지 및 동남권원자력의학원과 연계한 의료휴양산업 육성",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-17",
+      "title": "대변항 현대화 사업(접안시설 확충 등)",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-18",
+      "title": "동남권원자력의학원을 기장군 거점 종합병원으로 육성",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-19",
+      "title": "정관신도시 제척지 오폐수관로 설치 및 악취유발업체 대책 마련",
+      "page": 8
+    },
+    {
+      "id": "20-busan-gijanggun-20",
+      "title": "소상공인 지원 및 재래시장활성화",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2610/003_100119320_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 기장군 당선인 윤상직 (새누리당). 책자형 선거공보 PDF 6쪽 「삶이 풍요로운 오감 만족도시 기장!」과 PDF 8쪽 「일하고 배우고 즐기고 누리는 기장!」의 • 공약 20개. 굵은 소제목은 「기장군민도 도시철도를 탈 권리가 있습니다!」 같은 구호라 넣지 않고 그 아래 • 항목을 넣었다. • 아래 - 세부 항목, PDF 10쪽 읍면별 도시 비전과 국회개혁 주장은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

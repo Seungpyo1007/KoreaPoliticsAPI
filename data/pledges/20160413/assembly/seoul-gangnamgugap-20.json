@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gangnamgugap-20",
+  "candidate": {
+    "name": "이종구",
+    "party_id": "saenuridang",
+    "person_id": "i-jonggu-1950",
+    "nec_huboid": "100118548"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gangnamgugap-01",
+      "title": "강남경제에 활기를 불어 넣겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangnamgugap-02",
+      "title": "재건축, 종상향으로 품격있는 주거환경 조성하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangnamgugap-03",
+      "title": "아이들에게 창조적인 기업가 정신을 심겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangnamgugap-04",
+      "title": "아이 낳아 키우기 좋은 강남을 만들겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-gangnamgugap-05",
+      "title": "뉴실버세대, 기는 살리고 부담은 줄이겠습니다",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1123/003_100118548_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 강남구갑 당선인 이종구 (새누리당). 책자형 선거공보 PDF 5쪽 「강남 경제의 재도약 경제 비전을 가진 이종구의 약속」 제목 5개. 제목 아래 • 세부 항목, PDF 4쪽 「대한민국 경제의 구원투수 국가대표 경제통 이종구의 약속」(전국 정책), PDF 2쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

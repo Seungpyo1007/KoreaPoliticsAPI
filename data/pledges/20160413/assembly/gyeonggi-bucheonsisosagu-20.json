@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-bucheonsisosagu-20",
+  "candidate": {
+    "name": "김상희",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-sanghui-1954",
+    "nec_huboid": "100119466"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-bucheonsisosagu-01",
+      "title": "소사 지식정보산업센터 조성, IT 관련 신규 일자리 1만개 창출",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-bucheonsisosagu-02",
+      "title": "경인선 지하화(GTX 연계) 계속 추진",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-bucheonsisosagu-03",
+      "title": "사통팔달 철도망(소사~원시선, 소사~대곡선) 조기개통 추진",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-bucheonsisosagu-04",
+      "title": "소사구 교통혼잡구간 대책 마련(심곡로, 하우고개로, 호현로 부분확장)",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-bucheonsisosagu-05",
+      "title": "주민부담 전혀 없는 도시재생사업 추진",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-bucheonsisosagu-06",
+      "title": "‘기숙형 명문고’ 육성 위한 고교 기숙사 건립 지원",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-bucheonsisosagu-07",
+      "title": "학교주변 CCTV 사각지대 해소",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-bucheonsisosagu-08",
+      "title": "전통시장 활성화 및 주차장 조성 (자유시장, 청과물시장, 조공시장 등)",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-bucheonsisosagu-09",
+      "title": "화성시 공동화장장 조속 완공, 경로당 운영비 지원 확대",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-bucheonsisosagu-10",
+      "title": "주민간 소통 위한 ‘골목마당’ 조성",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4112/003_100119466_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 부천시소사구 당선인 김상희 (더불어민주당). 책자형 선거공보 PDF 7쪽 「소사, 더 바꾸겠습니다!」의 「소사의 혁명적 변화 시작!」 5개와 「살기는 좋아지고, 가치는 높아지고!!」 5개, 모두 10개의 • 공약 줄. 첫 공약 아래 : 설명 글, PDF 8쪽 권역별 공약(송내·심곡·소사·역곡·범박·괴안권역), PDF 10쪽 「99% 국민을 위해 뛰겠습니다!」 당 공약, PDF 3–6쪽 지난 성과는 넣지 않았다. 첫 공약 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

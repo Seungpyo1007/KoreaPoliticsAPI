@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-bucheonsiwonmigueul-20",
+  "candidate": {
+    "name": "설훈",
+    "party_id": "deobureo-minjudang",
+    "person_id": "seol-hun-1953",
+    "nec_huboid": "100120206"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigueul-01",
+      "title": "과학고 유치 및 혁신학교 확대로 부천의 혁신교육을 완성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigueul-02",
+      "title": "방과후 교장제를 도입하여 지역공동체학교를 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigueul-03",
+      "title": "집집마다 깨끗한 수돗물이 공급되는 ‘녹물없는 우리집’을 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigueul-04",
+      "title": "‘어르신 기초연금 하루 1만원’과 ‘백세인생 경로당’으로 어르신이 행복한 부천을 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigueul-05",
+      "title": "어린이 입원비를 국가가 책임지도록 하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigueul-06",
+      "title": "밤낮으로 안심할 수 있는 안전도시 부천을 만들겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigueul-07",
+      "title": "친환경 국가산업단지를 조성하고 지역기업에 대한 지원을 강화하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigueul-08",
+      "title": "외곽순환도로 하부공간에 체육시설을 확충하고 복사골문화센터 수영장을 리모델링하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigueul-09",
+      "title": "출퇴근이 여유롭고 시원한 부천을 만들겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiwonmigueul-10",
+      "title": "주차공간 확보로 이면주차 없는 부천을 만들겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4111/003_100120206_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 부천시원미구을 당선인 설훈 (더불어민주당). 책자형 선거공보 PDF 8쪽과 10쪽 「설훈이 제대로 일하겠습니다」 번호 공약 01–10 제목 10개. 제목 아래 • 세부 항목, PDF 5–6쪽 지난 4년 예산 확보 성과, PDF 3–4쪽 다짐·정권 비판은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

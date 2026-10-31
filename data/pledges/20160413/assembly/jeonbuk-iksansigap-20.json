@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonbuk-iksansigap-20",
+  "candidate": {
+    "name": "이춘석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-chunseok-1963",
+    "nec_huboid": "100119406"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonbuk-iksansigap-01",
+      "title": "시민과 함께하는 도시재생",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-iksansigap-02",
+      "title": "성장동력 유치로 양질의 청년일자리 창조",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-iksansigap-03",
+      "title": "호남 음식문화의 거점도시 추진",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-iksansigap-04",
+      "title": "세계문화유산을 통한 관광문화도시 육성",
+      "page": 9
+    },
+    {
+      "id": "20-jeonbuk-iksansigap-05",
+      "title": "농생명산업 수도 익산",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-iksansigap-06",
+      "title": "어르신 및 여성을 위한 안심도시 익산",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4505/003_100119406_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전북 익산시갑 당선인 이춘석 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「약속 1–6」 제목 6개. 글자층에 띄어쓰기가 빠져 있어 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목과 PDF 9–10쪽 「우리 마을에 꼭 필요한 사업」 동·읍·면별 공약, PDF 5–8쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

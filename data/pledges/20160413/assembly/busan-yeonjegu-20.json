@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-yeonjegu-20",
+  "candidate": {
+    "name": "김해영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-haeyeong-1977",
+    "nec_huboid": "100118376"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-yeonjegu-01",
+      "title": "프리미엄 교육센터 조성",
+      "page": 7
+    },
+    {
+      "id": "20-busan-yeonjegu-02",
+      "title": "동별 사회적 경제 지원센터 기금 조성",
+      "page": 7
+    },
+    {
+      "id": "20-busan-yeonjegu-03",
+      "title": "보육을 개인의 영역에서 국가의 영역으로 확장",
+      "page": 8
+    },
+    {
+      "id": "20-busan-yeonjegu-04",
+      "title": "생활체육 공간 조성",
+      "page": 8
+    },
+    {
+      "id": "20-busan-yeonjegu-05",
+      "title": "도시가스 100% 설치 추진",
+      "page": 8
+    },
+    {
+      "id": "20-busan-yeonjegu-06",
+      "title": "은퇴자 취업학교 설립",
+      "page": 8
+    },
+    {
+      "id": "20-busan-yeonjegu-07",
+      "title": "연제 문화마당 조성",
+      "page": 8
+    },
+    {
+      "id": "20-busan-yeonjegu-08",
+      "title": "인권자치 연제실현",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2614/003_100118376_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 연제구 당선인 김해영 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「연제의 연인, 연제와 사랑에 빠지다」 공약 제목 8개(위에서 아래 순). 제목 아래 ☑ 세부 항목, PDF 10쪽 「연제가 바뀌면, 대한민국이 바뀝니다」 고용·복지·안전 3개(전국 정책), PDF 2–6쪽 인사말·살아온 길은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

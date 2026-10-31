@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/incheon-seogueul-20",
+  "candidate": {
+    "name": "신동근",
+    "party_id": "deobureo-minjudang",
+    "person_id": "sin-donggeun-1961",
+    "nec_huboid": "100118330"
+  },
+  "pledges": [
+    {
+      "id": "20-incheon-seogueul-01",
+      "title": "교육문화 중심 검단신도시 완성",
+      "page": 10
+    },
+    {
+      "id": "20-incheon-seogueul-02",
+      "title": "수도권매립지 종료 시한 확정",
+      "page": 10
+    },
+    {
+      "id": "20-incheon-seogueul-03",
+      "title": "연희경서 서북부종합버스터미널 유치",
+      "page": 10
+    },
+    {
+      "id": "20-incheon-seogueul-04",
+      "title": "검암역세권 종합쇼핑타운 개발",
+      "page": 10
+    },
+    {
+      "id": "20-incheon-seogueul-05",
+      "title": "인천아시아드주경기장 시민중심 사후활용",
+      "page": 10
+    },
+    {
+      "id": "20-incheon-seogueul-06",
+      "title": "범야권정책연대회의 상설운영",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2808/003_100118330_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 인천 서구을 당선인 신동근 (더불어민주당). 책자형 선거공보 PDF 10쪽 「서구의 가치를 높이는 신동근의 약속」 1–6 제목 6개. 각 제목 옆 세부 문구와 「있을 건 다 있는 서구, 빠짐없이 채우겠습니다」 시설 나열, 같은 쪽 「가능성도, 경제성도 지하철은 5호선」 설명, PDF 9쪽 「엄마와 아이가 행복한 서구」 보육·교육 공약은 넣지 않았다. PDF 7–8쪽 더불어민주당 공약도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

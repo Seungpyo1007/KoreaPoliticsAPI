@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gwangjingueul-20",
+  "candidate": {
+    "name": "추미애",
+    "party_id": "deobureo-minjudang",
+    "person_id": "chu-miae-1958",
+    "nec_huboid": "100119374"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gwangjingueul-01",
+      "title": "구의역 일대에 KT 핵심계열사를 유치하고 광진구청을 이전해 통합 청사로 재건립, 행정·지식산업 랜드마크로 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-gwangjingueul-02",
+      "title": "동서울 터미널 현대화",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-gwangjingueul-03",
+      "title": "지하철 2호선 구간 지하화",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-gwangjingueul-04",
+      "title": "이전하는 광진구청사 자리에 광진 엄마들의 육아에서 취업까지 다 해결하는 광진 맘 센터(MOM CENTER)를 만듭니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-gwangjingueul-05",
+      "title": "자양유수지 유휴공간을 활용한 도서관, 실내체육관을 건립합니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1105/003_100119374_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 광진구을 당선인 추미애 (더불어민주당). 책자형 선거공보 PDF 7쪽 「추미애의 진심이 광진을 확 바꿉니다」 제목 3개와 PDF 8쪽 「추미애의 진심공약 광진발전」 제목 2개. 8쪽의 '50+캠퍼스'는 \"유치했습니다\"로 끝나는 성과라 넣지 않았다. 제목 아래 - 세부 항목, PDF 9–10쪽 입법정책(경제민주화·청년 일자리 등 전국 공약), PDF 2–6쪽 인사말과 지난 활동은 넣지 않았다. 8쪽 제목 위의 「광진의 젊은 엄마를 위해」 같은 머리말은 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

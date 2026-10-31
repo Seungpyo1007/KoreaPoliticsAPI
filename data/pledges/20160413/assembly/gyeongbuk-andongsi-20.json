@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongbuk-andongsi-20",
+  "candidate": {
+    "name": "김광림",
+    "party_id": "saenuridang",
+    "person_id": "gim-gwangrim-1948",
+    "nec_huboid": "100119667"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongbuk-andongsi-01",
+      "title": "한강이남 최고 실속 경제도시",
+      "page": 3
+    },
+    {
+      "id": "20-gyeongbuk-andongsi-02",
+      "title": "세계최강 백신산업 중심도시",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongbuk-andongsi-03",
+      "title": "청년중심·스포츠-레저산업 특화도시",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongbuk-andongsi-04",
+      "title": "창조중심 역사·문화·관광·콘텐츠 융합도시",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-andongsi-05",
+      "title": "전국 최고 농업환경 시범도시",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-andongsi-06",
+      "title": "원 도심과 도청신도시 간 상생발전",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongbuk-andongsi-07",
+      "title": "정부 산하기관·도청 유관기관 유치",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongbuk-andongsi-08",
+      "title": "서민·어르신·장애인의 편의·지원시설 확충",
+      "page": 9
+    },
+    {
+      "id": "20-gyeongbuk-andongsi-09",
+      "title": "안동문화의 융합과 산업화·세계화",
+      "page": 9
+    },
+    {
+      "id": "20-gyeongbuk-andongsi-10",
+      "title": "특별추진사업",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4706/003_100119667_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경북 안동시 당선인 김광림 (새누리당). 책자형 선거공보 PDF 3–10쪽 「10대 분야 60개 사업」의 01–10 분야 제목 10개. OCR 결과라 쪽 이미지를 보고 옮겼다. 각 분야 아래 1–60 번호 사업과 • 세부 항목, 분야 설명 글은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

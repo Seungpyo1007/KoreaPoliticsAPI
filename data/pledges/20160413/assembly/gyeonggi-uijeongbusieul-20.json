@@ -1,0 +1,83 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-uijeongbusieul-20",
+  "candidate": {
+    "name": "홍문종",
+    "party_id": "saenuridang",
+    "person_id": "hong-munjong-1955",
+    "nec_huboid": "100119868"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-uijeongbusieul-01",
+      "title": "전철 7호선 연장",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-02",
+      "title": "KTX-GTX 연장 (수서~삼성~의정부)",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-03",
+      "title": "전철 8호선 의정부 연장",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-04",
+      "title": "민락~호원 간선급행버스(BRT)",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-05",
+      "title": "구리~포천 민자고속도로",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-06",
+      "title": "용현산업단지 · 306보충대에 교육연구단지를 조성하고 ICT첨단산업시설을 유치하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-07",
+      "title": "미군반환공여지를 새로운 기회의 땅으로 탈바꿈시키겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-08",
+      "title": "국민체육센터 건립",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-09",
+      "title": "여성·노인·장애인을 위한 직업재활센터 건립",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-10",
+      "title": "IT기술 이용한 종합복지센터, 홀몸 · 치매노인 위한 돌봄센터 구축",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-11",
+      "title": "공공도서관 건립, 노후화된 학교 시설환경 개선",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-12",
+      "title": "부용천 문화예술 생태하천 조성 및 체육시설 건립",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-uijeongbusieul-13",
+      "title": "건설 중장비 및 대형차량 전용주차장 조성",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4108/003_100119868_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 의정부시을 당선인 홍문종 (새누리당). 머리 공약 목록이 따로 없어 분야별 공약 제목 13개를 넣었다. PDF 6쪽 교통 공약 제목 5개(제목 아래 다짐 문구는 뺐다), PDF 8쪽 「100년을 준비합니다.」 제목 2개, PDF 9쪽 「살고 싶은 도시 의정부, 홍문종이라면」 제목 6개다. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목과 설명 문단, PDF 10쪽 동별 공약, PDF 4쪽 지난 예산 확보 성과는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

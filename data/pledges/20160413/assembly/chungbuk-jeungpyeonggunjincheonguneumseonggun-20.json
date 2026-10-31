@@ -1,0 +1,98 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungbuk-jeungpyeonggunjincheonguneumseonggun-20",
+  "candidate": {
+    "name": "경대수",
+    "party_id": "saenuridang",
+    "person_id": "gyeong-daesu-1958",
+    "nec_huboid": "100120231"
+  },
+  "pledges": [
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-01",
+      "title": "중부고속도로 확장 조기 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-02",
+      "title": "충청내륙고속화도로 조기 완공",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-03",
+      "title": "중부내륙철도 계획기간내 완공",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-04",
+      "title": "중부선 철도노선 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-05",
+      "title": "동서5축고속도로 조기 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-06",
+      "title": "산업단지 추진 및 도로, 공업용수, 폐수처리 등 기반시설 지원",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-07",
+      "title": "소규모 공장단지 산업단지화 및 기반시설 지원",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-08",
+      "title": "산업단지 우량기업 유치",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-09",
+      "title": "농촌종합개발사업 중점 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-10",
+      "title": "원예, 과수, 축사에 ICT 기술을 접목하는 스마트 농업 보급 확대",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-11",
+      "title": "연료비 절감형 권역단위 중소형LPG 저장소 및 배관망 확대 추진",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-12",
+      "title": "노인복지회관 등 노인쉼터 확충",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-13",
+      "title": "육아종합지원센터 등 육아지원 시스템 확충",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-14",
+      "title": "종합병원급 의료기관 유치",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-15",
+      "title": "기업체 인력양성 폴리텍 대학 유치",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-jeungpyeonggunjincheonguneumseonggun-16",
+      "title": "명문고 육성을 위한 지원체계 마련",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4310/003_100120231_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충북 증평군진천군음성군 당선인 경대수 (새누리당). 책자형 선거공보 PDF 7쪽 「지역 공통 공약」 다섯 분야 아래 붉은 굵은 제목 16개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 분야 이름(「사통팔달 교통요충지」 등)과 제목 아래 설명 줄, PDF 8쪽 증평·진천·음성 군별 공약, PDF 10쪽 국정공약, PDF 2–6쪽 지난 의정 성과와 예산 확보 실적은 넣지 않았다. 두 줄 제목은 이어 적었다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

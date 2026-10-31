@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonnam-gwangyangsigokseonggunguryegun-20",
+  "candidate": {
+    "name": "정인화",
+    "party_id": "gungminui-dang",
+    "person_id": "jeong-inhwa-1957",
+    "nec_huboid": "100119114"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonnam-gwangyangsigokseonggunguryegun-01",
+      "title": "곡성 문화관광의 중심",
+      "page": 7
+    },
+    {
+      "id": "20-jeonnam-gwangyangsigokseonggunguryegun-02",
+      "title": "구례 힐링관광의 중심",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-gwangyangsigokseonggunguryegun-03",
+      "title": "광양 경제물류중심",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4607/003_100119114_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전남 광양시곡성군구례군 당선인 정인화 (국민의당). 책자형 선거공보 PDF 7–8쪽 「광양 곡성 구례 섬진강 G3벨트 전략」 시군별 제목 3개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 각 제목 아래 · 세부 항목, PDF 5–6쪽 만화 속 같은 공약 요약, PDF 10쪽 「대한민국 서민을 위한 정인화의 약속」(반값통신비 등 전국 입법 공약)은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

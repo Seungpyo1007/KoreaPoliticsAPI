@@ -1,0 +1,233 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongbuk-goryeonggunseongjugunchilgokgun-20",
+  "candidate": {
+    "name": "이완영",
+    "party_id": "saenuridang",
+    "person_id": "i-wanyeong-1957",
+    "nec_huboid": "100119799"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-01",
+      "title": "FTA 농민 보호대책 마련",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-02",
+      "title": "농지로서 이용가능성이 낮은 농업진흥지역 정비",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-03",
+      "title": "개발제한구역(그린벨트)제도 재정비",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-04",
+      "title": "남부내륙철도 건설사업 고령성주 역사건립 추진",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-05",
+      "title": "이장 수당 인상 (농어촌 지역 우선)",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-06",
+      "title": "어르신 응급의료체계 재정비",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-07",
+      "title": "상이군경 직급별 수당 현실화",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-08",
+      "title": "강소농업, 강소축산 육성",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-09",
+      "title": "전통시장, 소상공인 경기활성화 대책 마련",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-10",
+      "title": "장애인(발달장애인 등) 지원 확대",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-11",
+      "title": "어린이집 보육료 지원 현실화",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-12",
+      "title": "북삼율리지구 LH 택지개발사업 지속추진",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-13",
+      "title": "남계지를 활용한 약목면과 가산면 택지조성",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-14",
+      "title": "대구광역철도망 구축 북삼역사 신설",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-15",
+      "title": "왜관2교에서 기산 소재지 직선도로 개설",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-16",
+      "title": "가산 송학로터리 진입로 개선",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-17",
+      "title": "약목 무림지구 배수개선사업",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-18",
+      "title": "상수도 급수구역 확대",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-19",
+      "title": "석적중학교 신설",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-20",
+      "title": "지천 칠곡고등학교 특성화고 2018년 전환 추진",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-21",
+      "title": "칠곡 농산물 품질관리원 지원 신설",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-22",
+      "title": "경북지방 국토관리청 유치",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-23",
+      "title": "통합교육지원센터 설치 (舊석적초 부지)",
+      "page": 5
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-24",
+      "title": "가천면 119소방센터 건립",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-25",
+      "title": "성주호 수변 관광자원 개발",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-26",
+      "title": "낙동강 둔치(가칭 낙동강 드림랜드) 개발",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-27",
+      "title": "성주읍 전선지중화 등 경관정비사업",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-28",
+      "title": "포항~새만금 동서3축 고속도로 성주~대구 구간 조기건설",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-29",
+      "title": "남성주IC~고령 운수 연결도로 확장",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-30",
+      "title": "국도30호선 직선화(대구 다사구간) 및 확장",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-31",
+      "title": "심산 김창숙 문화테마파크 조성",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-32",
+      "title": "세종대왕자태실 세계유산 등재추진",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-33",
+      "title": "참외 맞춤형 액비 · 미생물 개발",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-34",
+      "title": "가야문화권 개발 특별법 추진",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-35",
+      "title": "쌍림 귀원보 관광지 개발",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-36",
+      "title": "곽촌대교 건설",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-37",
+      "title": "고령 운수~성주 용암 간(국지도 67호선) 도로 확장공사 조기완공",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-38",
+      "title": "지방도 905호선 4차선 확장",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-39",
+      "title": "대가야 에코빌리지 조성",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-40",
+      "title": "낙동강 창조물길 살리기 프로젝트(다산, 성산, 개진, 우곡)",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-41",
+      "title": "고령 뿌리산업 경제특구화 추진",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-42",
+      "title": "축산 질병방역센터 고령분원 건립",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongbuk-goryeonggunseongjugunchilgokgun-43",
+      "title": "舊고령교육지원청 공공도서관 활용 추진",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4717/003_100119799_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경북 고령군성주군칠곡군 당선인 이완영 (새누리당). 책자형 선거공보 PDF 5–6쪽 「칠성고의 미래를 여는 이완영 살맛나는 칠성고의 청사진을 제시합니다!」의 ▶ 공약 43개(「3개군 공통 공약사항」 11, 칠곡 12, 성주 10, 고령 10). 따로 묶은 머리 공약이 없고 군별 목록만 있어 이 목록을 그대로 넣었다. 군별 띠 제목(「호국평화의 도시, 기업하기 좋고 일자리가 많은 칠곡」 등)은 구호라 넣지 않았고, PDF 3–4쪽 확보 예산·지난 성과도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

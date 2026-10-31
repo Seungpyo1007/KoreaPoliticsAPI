@@ -1,0 +1,98 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-donggugap-20",
+  "candidate": {
+    "name": "정종섭",
+    "party_id": "saenuridang",
+    "person_id": "jeong-jongseop-1957",
+    "nec_huboid": "100119279"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-donggugap-01",
+      "title": "동대구역-파티마-유통단지 관통 프로젝트",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-donggugap-02",
+      "title": "동대구역세권 확장 프로젝트",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-donggugap-03",
+      "title": "노후동네 주택관리 프로젝트 (동구시범사업)",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-donggugap-04",
+      "title": "동대구 벤처벨리 특화 프로젝트 (시스템 벤처밸리 특화 프로젝트)",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-donggugap-05",
+      "title": "동촌유원지 생생 프로젝트 (동촌유원지 재정비 사업)",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-06",
+      "title": "지저·동촌동과 효목동을 잇는 교량건설 프로젝트",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-07",
+      "title": "금호강 시대의 대장정",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-08",
+      "title": "KTX 대구도심구간 지하화",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-09",
+      "title": "청년일자리 창출",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-10",
+      "title": "스마트 행복도시 대구 건설",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-11",
+      "title": "국내외 대기업 유치",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-12",
+      "title": "남부권 신공항 유치",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-13",
+      "title": "대구시청 청사 이전",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-14",
+      "title": "첨복단지 운영비 전액 국비지원",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-15",
+      "title": "K-2 공군기지 조기 이전",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-donggugap-16",
+      "title": "지방분권강화",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2702/003_100119279_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 동구갑 당선인 정종섭 (새누리당). 책자형 선거공보 PDF 7–8쪽 「동구도약 6대 프로젝트」 제목 6개와 PDF 8쪽 「대구혁신 10대 공약」 제목 10개. 글자층이 OCR이라 쪽 이미지를 보고 옮겼다. 제목 아래 설명글, PDF 9쪽 「동구에 꼭 필요한」 숙원사업 5개, PDF 10쪽 「주민행복 실천약속」 동별 공약, PDF 2–5쪽 인사말·약력은 넣지 않았다. 둘째 줄 괄호 부제는 제목에 이어 붙였다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

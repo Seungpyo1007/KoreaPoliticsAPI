@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gangwon-sokchosigoseonggunyangyanggun-20",
+  "candidate": {
+    "name": "이양수",
+    "party_id": "saenuridang",
+    "person_id": "i-yangsu-1967",
+    "nec_huboid": "100118824"
+  },
+  "pledges": [
+    {
+      "id": "20-gangwon-sokchosigoseonggunyangyanggun-01",
+      "title": "교통 및 관광인프라 구축을 통한 ‘세계적 명품관광도시’를 건설하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-sokchosigoseonggunyangyanggun-02",
+      "title": "항만·물류·가공이 집약된 클러스터 조성으로 ‘수산물가공산업 거점도시’로 육성하겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-sokchosigoseonggunyangyanggun-03",
+      "title": "농어업 하기 좋은 ‘살기 좋은 농어촌마을’을 조성하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-sokchosigoseonggunyangyanggun-04",
+      "title": "청·장년층을 위한 ‘양질의 일자리 창출 도시’, 어르신들과 장애인을 위한 ‘행복건강도시’를 건설하겠습니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4208/003_100118824_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 강원 속초시고성군양양군 당선인 이양수 (새누리당). 책자형 선거공보 PDF 5–6쪽 「4대 전략 실천으로 지역경제 활성화와 양질의 일자리를 만들겠습니다」의 > 제목 4개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 - 세부 항목, PDF 7–9쪽 시군별(속초·고성·양양) 역점 사업, PDF 4쪽 새누리당 공약은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

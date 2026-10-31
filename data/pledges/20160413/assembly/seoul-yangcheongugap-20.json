@@ -1,0 +1,113 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-yangcheongugap-20",
+  "candidate": {
+    "name": "황희",
+    "party_id": "deobureo-minjudang",
+    "person_id": "hwang-hui-1967",
+    "nec_huboid": "100118733"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-yangcheongugap-01",
+      "title": "마을 공동 아이돌보미 센터(마더센터) 거점별 설치",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-yangcheongugap-02",
+      "title": "초등학생 돌봄 기능 확대를 위한 야간 돌봄 교실 운영",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-yangcheongugap-03",
+      "title": "우수한 강사진 유치를 통한 방과후 학교 지원",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-yangcheongugap-04",
+      "title": "학교 환경 개선",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-yangcheongugap-05",
+      "title": "지역 거점별 교육허브센터 설치",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-yangcheongugap-06",
+      "title": "아이와 여성이 안전한 안심 밤길 구축",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-yangcheongugap-07",
+      "title": "1동 1작은도서관 설립",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-yangcheongugap-08",
+      "title": "양천도서관 증축, 목동청소년수련관 확충 및 리모델링",
+      "page": 5
+    },
+    {
+      "id": "20-seoul-yangcheongugap-09",
+      "title": "어르신 취업상담과 교육, 문화체육시설 및 휴식공간을 겸비한 복합실버복지센터 설립 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-yangcheongugap-10",
+      "title": "어르신 일자리 공공부문 5% 고용의무화 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-yangcheongugap-11",
+      "title": "목동운동장과 목동유수지를 활용한 서남권 문화복합스포츠타운 설립 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-yangcheongugap-12",
+      "title": "복지사각지대 해소 위해 민간과 공공이 연계한 복지시스템 구축 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-yangcheongugap-13",
+      "title": "목동 도시형 공장부지(홈플러스옆 구유지)에 IT 벤처타워를 설립해 지역경제 활성화",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-yangcheongugap-14",
+      "title": "N포세대 – 청년 희망 패키지를 추진하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-yangcheongugap-15",
+      "title": "트램(노면전차) 도입",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yangcheongugap-16",
+      "title": "양천구청역 GTX(수도권 광역 급행 철도) 유치 추진 – 서울역까지 8분",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yangcheongugap-17",
+      "title": "당장 시급한 주차난 해소",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-yangcheongugap-18",
+      "title": "‘목동 신재생타운법’ 입법추진",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-yangcheongugap-19",
+      "title": "목2,3,4동 명품주택단지 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1115/003_100118733_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 양천구갑 당선인 황희 (더불어민주당). 책자형 선거공보 PDF 5–8쪽 「시작 하나」–「시작 넷」의 ☑ 제목과 굵은 제목 19개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목, PDF 9쪽 「시작 다섯」(대한민국의 큰 변화, 전국 단위 정책), PDF 4쪽 「경청」 민원 목록, PDF 3쪽 약력은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

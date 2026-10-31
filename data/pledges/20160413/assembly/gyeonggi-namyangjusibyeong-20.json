@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-namyangjusibyeong-20",
+  "candidate": {
+    "name": "주광덕",
+    "party_id": "saenuridang",
+    "person_id": "ju-gwangdeok-1960",
+    "nec_huboid": "100118714"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-namyangjusibyeong-01",
+      "title": "첨단산업의 메카 남양주",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-namyangjusibyeong-02",
+      "title": "최적의 교통도시 남양주",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-namyangjusibyeong-03",
+      "title": "남양주 복합중심권역 조성",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-namyangjusibyeong-04",
+      "title": "문화·예술·교육·관광의 중심 남양주",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4126/003_100118714_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 남양주시병 당선인 주광덕 (새누리당). 책자형 선거공보 PDF 5–8쪽 분야별 면 제목 4개. 머리 공약 목록이 따로 없어 각 면의 큰 제목을 넣었다. 제목 아래 ● 세부 항목과 PDF 8쪽 교육 문구, PDF 9–10쪽 읍·면·동별 공약, PDF 4쪽 「‘모두’가 행복한 대한민국」 전국 정책, PDF 2–3쪽 국회개혁 다짐·지난 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,93 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/incheon-yeonsugugap-20",
+  "candidate": {
+    "name": "박찬대",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-chandae-1967",
+    "nec_huboid": "100118807"
+  },
+  "pledges": [
+    {
+      "id": "20-incheon-yeonsugugap-01",
+      "title": "수인선 ‘청학역’을 신설하고, 4호선 직통 연결, 수인선 덮개공사, GTX 연결까지 해내겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-yeonsugugap-02",
+      "title": "송도역발(인천) KTX 완공 및 도심공항터미널·면세점으로 교통중심지·관광산업기지 구축",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-yeonsugugap-03",
+      "title": "옥련동 불법중고차 단지 조속히 대체 물류단지로 이전",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-yeonsugugap-04",
+      "title": "옛 송도유원지 부지 인근 테마파크와 연계한 드론시티 유치",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-yeonsugugap-05",
+      "title": "연수구 전 지역 주차난 해소를 위한 주차시설 추가 설치",
+      "page": 8
+    },
+    {
+      "id": "20-incheon-yeonsugugap-06",
+      "title": "가계비용을 줄여라",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-yeonsugugap-07",
+      "title": "빌라 – 단독주택도 아파트처럼",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-yeonsugugap-08",
+      "title": "100세 시대! 보람찬 어르신 노후를 위해",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-yeonsugugap-09",
+      "title": "가계 교통비를 줄여라",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-yeonsugugap-10",
+      "title": "어린이와 더불어",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-yeonsugugap-11",
+      "title": "문화와 더불어",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-yeonsugugap-12",
+      "title": "환경과 더불어",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-yeonsugugap-13",
+      "title": "반려동물과 더불어",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-yeonsugugap-14",
+      "title": "장애인과 더불어",
+      "page": 9
+    },
+    {
+      "id": "20-incheon-yeonsugugap-15",
+      "title": "다문화/탈북자와 더불어",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2804/003_100118807_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 인천 연수구갑 당선인 박찬대 (더불어민주당). 책자형 선거공보 PDF 8쪽 「박찬대 ‘두루미 프로젝트’ 대표 5대 공약」 제목 5개, PDF 9쪽 「‘나라살림전문가 박찬대’ 대표 4대 살림공약」 제목 4개와 「‘더불어 프로젝트’ 대표 6대 공약」 제목 6개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 설명 줄과 PDF 10쪽 「동별 대표 공약」은 넣지 않았다. 끝의 !와 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

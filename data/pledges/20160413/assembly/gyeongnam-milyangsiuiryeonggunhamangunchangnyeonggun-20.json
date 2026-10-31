@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-20",
+  "candidate": {
+    "name": "엄용수",
+    "party_id": "saenuridang",
+    "person_id": "eom-yongsu-1965",
+    "nec_huboid": "100118732"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-01",
+      "title": "남부권 신공항 유치",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-02",
+      "title": "나노융합국가산업단지 확장",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-03",
+      "title": "더 살맛나는 우리동네",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-04",
+      "title": "더 커진 우리동네",
+      "page": 7
+    },
+    {
+      "id": "20-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-05",
+      "title": "더 가까운 우리동네",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-06",
+      "title": "더 즐거운 우리동네",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-07",
+      "title": "아이 키우기 좋은 우리동네",
+      "page": 9
+    },
+    {
+      "id": "20-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-08",
+      "title": "청년이 돌아오는 우리동네",
+      "page": 9
+    },
+    {
+      "id": "20-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-09",
+      "title": "어르신이 존경받는 우리동네",
+      "page": 10
+    },
+    {
+      "id": "20-gyeongnam-milyangsiuiryeonggunhamangunchangnyeonggun-10",
+      "title": "다함께 하나되는 우리동네",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4809/003_100118732_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 밀양시의령군함안군창녕군 당선인 엄용수 (새누리당). 책자형 선거공보 PDF 6쪽 「엄용수의 국정 4년, 도약의 발판!」 사진 제목 2개, PDF 7–8쪽 「엄용수의 약속」 제목 4개, PDF 9–10쪽 「엄용수의 꿈」 제목 4개. 제목 아래 세부 문장·◎ 항목, PDF 7–8쪽 지도 위 사업 이름표, PDF 6쪽 「엄용수의 시정 8년」 성과, PDF 3–5쪽 살아온 이야기·상대 비판은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

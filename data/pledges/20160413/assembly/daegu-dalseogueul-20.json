@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-dalseogueul-20",
+  "candidate": {
+    "name": "윤재옥",
+    "party_id": "saenuridang",
+    "person_id": "yun-jaeok-1961",
+    "nec_huboid": "100119592"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-dalseogueul-01",
+      "title": "지역경제 프로젝트",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseogueul-02",
+      "title": "복지확대 프로젝트",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseogueul-03",
+      "title": "문화힐링 프로젝트",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-dalseogueul-04",
+      "title": "명품교육 프로젝트",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-dalseogueul-05",
+      "title": "정주쾌적 프로젝트",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2707/003_100119592_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 달서구을 당선인 윤재옥 (새누리당). 책자형 선거공보 PDF 8쪽과 10쪽 「OK 약속」 1–5 제목 5개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 * 부제와 • 세부 항목, PDF 3–4쪽 지난 의정 성과, PDF 5–6쪽 정치 다짐은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

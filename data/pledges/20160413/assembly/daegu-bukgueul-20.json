@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-bukgueul-20",
+  "candidate": {
+    "name": "홍의락",
+    "party_id": null,
+    "person_id": "hong-uirak-1955",
+    "nec_huboid": "100119510"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-bukgueul-01",
+      "title": "사통팔달 교통의 요충지, 영남권 물류 거점지대로의 도약의 발판 만들겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-bukgueul-02",
+      "title": "역사·문화·교육·환경·생산·일자리가 순환하는 ‘균형발전’ 추진하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-bukgueul-03",
+      "title": "대구문화산업의 심장 ‘문화거점타운’ 조성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-bukgueul-04",
+      "title": "지속가능한 지역발전, 경쟁력 강화를 위해 미래 성장동력 확충하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-daegu-bukgueul-05",
+      "title": "중소기업, 중소상공인, 자영업자 지원제도 마련",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-bukgueul-06",
+      "title": "원하는 일자리, 만족하는 임금, 공정한 세상",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-bukgueul-07",
+      "title": "당연한 복지가 있는 북구을, 모두가 알기 쉬운 복지서비스 실현",
+      "page": 9
+    },
+    {
+      "id": "20-daegu-bukgueul-08",
+      "title": "청년기본권 지키겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-bukgueul-09",
+      "title": "청년이 필요한 교육부터 실제현장까지 든든한 구조 만들겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-daegu-bukgueul-10",
+      "title": "지방분권, 지방자치 강화하겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2705/003_100119510_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 북구을 당선인 홍의락 (무소속). 책자형 선거공보 PDF 7–10쪽 「VISION 1 돈벌이 되는 동네」「VISION 2 취직이 되는 세상」「VISION 3 청년이 꿈꾸는 사회」 아래 번호 붙은 제목 10개(01–04, 01–03, 01–03). 번호 옆 머리말 문장, 굵은 소제목과 · 세부 항목은 넣지 않았다. PDF 3–4쪽 지난 4년 성과, PDF 5쪽 「우리 동네 현안을 진단합니다!」 동별 현안, PDF 6쪽 지도는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

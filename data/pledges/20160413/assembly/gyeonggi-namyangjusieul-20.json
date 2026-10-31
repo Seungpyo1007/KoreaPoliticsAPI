@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-namyangjusieul-20",
+  "candidate": {
+    "name": "김한정",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-hanjeong-1963",
+    "nec_huboid": "100118939"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-namyangjusieul-01",
+      "title": "출퇴근이 편한 남양주",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-namyangjusieul-02",
+      "title": "맘(MOM)이 편한 남양주",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-namyangjusieul-03",
+      "title": "청춘과 어르신이 함께 힘나는 행복 남양주",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-namyangjusieul-04",
+      "title": "사람을 위한 경제, 더 좋은 남양주",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4126/003_100118939_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 남양주시을 당선인 김한정 (더불어민주당). 책자형 선거공보 PDF 5–8쪽 「김한정의 약속」 1–4 제목 4개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 따옴표 부제(「교통은 복지입니다」 등)와 파란 소제목·• 세부 항목, PDF 9–10쪽 읍·면·동 공약, PDF 11쪽 특권 내려놓기 다짐은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,73 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-yeongdeungpogueul-20",
+  "candidate": {
+    "name": "신경민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "sin-gyeongmin-1953",
+    "nec_huboid": "100120103"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-yeongdeungpogueul-01",
+      "title": "‘특별건축구역’ 지정으로 용적률, 건폐율 등 재건축·리모델링 관련 규제 완화",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-yeongdeungpogueul-02",
+      "title": "명실상부한 ‘국제금융중심지’로…금융전문대학원 및 국제금융학교(특성화) 설립",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-yeongdeungpogueul-03",
+      "title": "‘도심을 도심답게’, 여의동 생활환경 및 교통편익 향상",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-yeongdeungpogueul-04",
+      "title": "6개의 역사, 4개의 환승역! 신림선·신안산선·7호선·1호선 ‘역세권별 유기적 개발 사업’ 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-yeongdeungpogueul-05",
+      "title": "뉴타운 해제 지역의 용도지역 재정비 및 대안 사업 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-yeongdeungpogueul-06",
+      "title": "병무청 부지 ‘호국공원’ 조성 및 지하주차장 설립 추진",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-yeongdeungpogueul-07",
+      "title": "‘이사 오고 싶은 신길동’ 교육, 생활환경 조성",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-yeongdeungpogueul-08",
+      "title": "남부도로사업소 부지, ‘서울 7대 광역중심’에 걸맞은 랜드마크 건설",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-yeongdeungpogueul-09",
+      "title": "대림3동 유수지에 문화체육센터 건설",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-yeongdeungpogueul-10",
+      "title": "학생, 학부모, 주민에게 교육 기회 확대",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-yeongdeungpogueul-11",
+      "title": "‘서남권 가치 변화의 중심’, 대림동 생활환경 및 교통편익 향상",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1119/003_100120103_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 영등포구을 당선인 신경민 (더불어민주당). 책자형 선거공보 PDF 9쪽 오른쪽 「여의도의 가치, 신경 쓰면 커집니다」와 PDF 10쪽 「사통팔달 역세권 신길동」·「서남권 新경제·문화 거점 대림동」의 • 굵은 제목 11개. 제목 아래 - 세부 항목, PDF 8쪽 지역별 요약 목록(같은 공약의 줄인 표현)과 보육 항목, PDF 9쪽 왼쪽 더불어민주당 공약 1–5, PDF 2–6쪽 지난 의정 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

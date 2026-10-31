@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-seongnamsibundanggueul-20",
+  "candidate": {
+    "name": "김병욱",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-byeonguk-1965",
+    "nec_huboid": "100119596"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-seongnamsibundanggueul-01",
+      "title": "첨단기업단지와 복지타운 조성",
+      "page": 4
+    },
+    {
+      "id": "20-gyeonggi-seongnamsibundanggueul-02",
+      "title": "서울대의대 분당유치",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-seongnamsibundanggueul-03",
+      "title": "분당 신도시 재건축 리모델링 특별 지원",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-seongnamsibundanggueul-04",
+      "title": "신분당선 광화문 연장",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-seongnamsibundanggueul-05",
+      "title": "분당 발전을 위해 이재명 시장의 성남3대 복지를 입법화하고 지원하겠습니다",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4107/003_100119596_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 성남시분당구을 당선인 김병욱 (더불어민주당). 책자형 선거공보 PDF 4·6–9쪽 쪽마다 하나씩 실린 공약 제목 5개(4쪽은 밑줄 소제목, 6–8쪽은 큰 제목, 9쪽은 밑줄 문구). 제목 아래 • 세부 항목, 각 쪽 귀퉁이 「청년에게 희망을!」 등 더민주 당 공약 상자, PDF 9쪽 지도와 PDF 10쪽 동별 공약은 넣지 않았다. PDF 5쪽 세비 50% 반납·국회의원 국민소환제는 전국 정치 공약이라 넣지 않았고, PDF 3쪽 상대 후보 비판도 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,78 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/ulsan-uljugun-20",
+  "candidate": {
+    "name": "강길부",
+    "party_id": null,
+    "person_id": "gang-gilbu-1942",
+    "nec_huboid": "100120520"
+  },
+  "pledges": [
+    {
+      "id": "20-ulsan-uljugun-01",
+      "title": "대중교통 무가선 트램 건설",
+      "page": 7
+    },
+    {
+      "id": "20-ulsan-uljugun-02",
+      "title": "남부권 10만 정주환경 조성",
+      "page": 7
+    },
+    {
+      "id": "20-ulsan-uljugun-03",
+      "title": "KTX 울산역 교통물류 중심지 개발",
+      "page": 7
+    },
+    {
+      "id": "20-ulsan-uljugun-04",
+      "title": "세계적 수준의 산재모병원 추진",
+      "page": 7
+    },
+    {
+      "id": "20-ulsan-uljugun-05",
+      "title": "범서(UNIST) 인근 연구개발특구 30만평 조성",
+      "page": 7
+    },
+    {
+      "id": "20-ulsan-uljugun-06",
+      "title": "진하~남창간 도로 건설 추진",
+      "page": 7
+    },
+    {
+      "id": "20-ulsan-uljugun-07",
+      "title": "온양읍 동해남부선 횡단 통로 3곳 조속한 건설",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-uljugun-08",
+      "title": "울산외곽순환 고속도로(봉계~북구) 건설",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-uljugun-09",
+      "title": "원전해체기술 종합연구센터 유치 및 에너지융합산단 조성",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-uljugun-10",
+      "title": "영남알프스 관광(캠핑)특구 지정 및 케이블카 추진",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-uljugun-11",
+      "title": "밀양~울산(청량) 고속도로(배내골 IC 포함) 조속한 추진",
+      "page": 8
+    },
+    {
+      "id": "20-ulsan-uljugun-12",
+      "title": "범서지역 수변공원 및 체험학습원 추진",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/3105/003_100120520_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 울산 울주군 당선인 강길부 (무소속). 책자형 선거공보 PDF 7–8쪽 「강길부의 희망약속 12」 번호 1–12 제목 12개. 제목 아래 ● 세부 항목, PDF 9쪽 읍면별 공약, PDF 6쪽 주요 의정성과 12는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

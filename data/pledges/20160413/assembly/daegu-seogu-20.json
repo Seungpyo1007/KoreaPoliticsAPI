@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daegu-seogu-20",
+  "candidate": {
+    "name": "김상훈",
+    "party_id": "saenuridang",
+    "person_id": "gim-sanghun-1963",
+    "nec_huboid": "100119507"
+  },
+  "pledges": [
+    {
+      "id": "20-daegu-seogu-01",
+      "title": "대구를 넘어 전국으로 뻗어나가는 서구의 교통 마스터플랜",
+      "page": 5
+    },
+    {
+      "id": "20-daegu-seogu-02",
+      "title": "지하철 4호선 조기 착공! 1, 2, 3호선 연결하는 트램 설치",
+      "page": 6
+    },
+    {
+      "id": "20-daegu-seogu-03",
+      "title": "낙후된 서구를 변화시킬 재개발·재건축 훈풍",
+      "page": 7
+    },
+    {
+      "id": "20-daegu-seogu-04",
+      "title": "교육 및 생활 환경 개선으로 모든 세대가 행복한 서구",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2703/003_100119507_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대구 서구 당선인 김상훈 (새누리당). 책자형 선거공보 PDF 5–8쪽 「김상훈의 약속 1–4」 제목 4개. 각 약속 아래 빨간 부제, 인용 문구, 세부 소제목과 설명은 넣지 않았다. PDF 3쪽 KTX 서대구역 확정(지난 성과)도 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

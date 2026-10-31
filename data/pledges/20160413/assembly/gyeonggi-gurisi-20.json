@@ -1,0 +1,83 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-gurisi-20",
+  "candidate": {
+    "name": "윤호중",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-hojung-1963",
+    "nec_huboid": "100120110"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-gurisi-01",
+      "title": "구리선(6호선) 조기 착공",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gurisi-02",
+      "title": "구리월드디자인시티(GWDC) 성공",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gurisi-03",
+      "title": "GTX B노선 구리 연장",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gurisi-04",
+      "title": "불량거주지역 정비 도시환경개선 추진",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gurisi-05",
+      "title": "구리교육청 신설",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gurisi-06",
+      "title": "동구릉주변 진입부 정비",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gurisi-07",
+      "title": "조선왕조역사문화공원 조성",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gurisi-08",
+      "title": "고구려 역사 테마공원 조성",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gurisi-09",
+      "title": "아이 키우기 좋은 구리",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gurisi-10",
+      "title": "어르신이 편안한 구리",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gurisi-11",
+      "title": "살아나는 경제, 활력넘치는 구리",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gurisi-12",
+      "title": "안전하고 편안한 구리",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gurisi-13",
+      "title": "장애인과 더불어 행복한 구리",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4125/003_100120110_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 구리시 당선인 윤호중 (더불어민주당). 책자형 선거공보 PDF 6쪽 「구리선도, 디자인시티도 합니다」의 굵은 제목 2개와 아래 줄 사업 6개, PDF 7쪽 「살고 싶은 구리를 만들겠습니다!」 분야 제목 5개. 번호 붙은 머리 목록이 없어 이 둘을 넣었다. PDF 5쪽 별내선 착공 등 지난 성과(말풍선 「조기 개통 1년 앞당기겠습니다」 포함), 제목 아래 ● 세부 항목, PDF 8쪽 동별 공약, PDF 9–10쪽 당 공약은 넣지 않았다. 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

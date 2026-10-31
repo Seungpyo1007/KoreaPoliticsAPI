@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeju-seogwiposi-20",
+  "candidate": {
+    "name": "위성곤",
+    "party_id": "deobureo-minjudang",
+    "person_id": "wi-seonggon-1968",
+    "nec_huboid": "100119000"
+  },
+  "pledges": [
+    {
+      "id": "20-jeju-seogwiposi-01",
+      "title": "21세기, 세계가 찾는 서귀포",
+      "page": 3
+    },
+    {
+      "id": "20-jeju-seogwiposi-02",
+      "title": "자연과 1차산업 살아있는 서귀포",
+      "page": 3
+    },
+    {
+      "id": "20-jeju-seogwiposi-03",
+      "title": "세계 문화관광도시 서귀포",
+      "page": 4
+    },
+    {
+      "id": "20-jeju-seogwiposi-04",
+      "title": "1차산업을 국가안보와 같은 공공재로",
+      "page": 8
+    },
+    {
+      "id": "20-jeju-seogwiposi-05",
+      "title": "지속가능한 제주",
+      "page": 8
+    },
+    {
+      "id": "20-jeju-seogwiposi-06",
+      "title": "집걱정 없는 살맛나는 제주",
+      "page": 8
+    },
+    {
+      "id": "20-jeju-seogwiposi-07",
+      "title": "주민 이익 중심의 특별자치도법 전면 개정",
+      "page": 8
+    },
+    {
+      "id": "20-jeju-seogwiposi-08",
+      "title": "서귀포시민의 공공서비스 접근권 강화",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4902/003_100119000_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 제주 서귀포시 당선인 위성곤 (더불어민주당). 머리 공약 목록이 없어 책자형 선거공보 PDF 3–4쪽 서귀포 공약 제목 3개와 PDF 8쪽 「돌, 물, 바람이 행복이 되는 섬, 제주」 제목 5개를 넣었다. 제목 아래 • 세부 항목과 설명, PDF 5–6쪽 「우리 삶을 바꾸는 일곱 가지 약속」(사회적경제·청년·병원비 등 전국 공약), PDF 7쪽 4·3, 역사, 안전 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

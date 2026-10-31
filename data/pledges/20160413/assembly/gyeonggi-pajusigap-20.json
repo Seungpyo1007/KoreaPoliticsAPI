@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-pajusigap-20",
+  "candidate": {
+    "name": "윤후덕",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-hudeok-1957",
+    "nec_huboid": "100119533"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-pajusigap-01",
+      "title": "GTX·지하철, 조기착공·노선확충",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-pajusigap-02",
+      "title": "버스 준공영제 도입",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-pajusigap-03",
+      "title": "종합병원 유치",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-pajusigap-04",
+      "title": "연와중·하우초 조기 신설",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-pajusigap-05",
+      "title": "운정3지구사업 조기 완성",
+      "page": 5
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4132/003_100119533_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 파주시갑 당선인 윤후덕 (더불어민주당). 책자형 선거공보 PDF 5쪽 「윤후덕의 5대 핵심공약」 ▸ 제목 5개. OCR 결과라 쪽 이미지를 보고 옮겼다. PDF 5–6쪽 지역별(교하·운정·탄현·광탄·조리) 공약, PDF 8쪽 「파주철도의 내일」, PDF 9–10쪽 「윤후덕의 약속」(등굣길 안전, 도서관), PDF 3–4·7쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

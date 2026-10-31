@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-20",
+  "candidate": {
+    "name": "이개호",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-gaeho-1959",
+    "nec_huboid": "100120266"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-01",
+      "title": "농어민 소득안정을 위해 농수산물 최저가격 보장을 제도화 하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-02",
+      "title": "농업 6차산업 활성화와 전통주 육성·지원에 앞장서겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-03",
+      "title": "경로당을 여가와 건강관리·평생교육과 취사·목욕 등 어르신 종합복지서비스센터로 확대개편하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-04",
+      "title": "소득 하위 70% 어르신에게 기초연금 30만원을 삭감없이 균일하게 지급할 수있도록 노력하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-05",
+      "title": "보육예산을 100% 중앙정부가 부담하여 보육에 대한 책임성을 명확히 하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-06",
+      "title": "항공·철도·도로망 확충 등 낙후지역 접근성 개선으로 관광여건 제고에 앞장서겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-07",
+      "title": "잘 보존된 자연환경과 정원·종교·전통문화자원을 연계 활용하여 지역발전을 앞당기겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-08",
+      "title": "담양 광학렌즈집적단지, 함평 골프산업, 영광 비파괴·전기자동차, 장성 나노·레이저 등 지역 특성에 맞는 전략산업을 육성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-09",
+      "title": "향교와 서원·사우의 보전 및 지원하여 역사·문화·인성 교육의 장 등 활용방안을 확대하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-damyanggunhampyeonggunyeonggwanggunjangseonggun-10",
+      "title": "빛그린산단과 담양산단·동함평산단·나노산단·대마산단 등 산업 단지 활성화에 앞장서겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4622/003_100120266_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전남 담양군함평군영광군장성군 당선인 이개호 (더불어민주당). 책자형 선거공보 PDF 8쪽 「10대 정책과제 이개호가 실천하겠습니다」 1–10 문장 10개. 제목이 따로 없이 한 문장으로 된 항목이라 문장 전체를 옮겼다. PDF 9–10쪽 「더 살기 좋은 담양·함평·영광·장성을 위해 이개호가 해결하겠습니다」 군별 공약(▶ 항목)과 PDF 7쪽 「5대 의정목표」는 넣지 않았고, PDF 3–4쪽 의정 성과도 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

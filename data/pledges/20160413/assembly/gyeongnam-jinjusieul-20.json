@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-jinjusieul-20",
+  "candidate": {
+    "name": "김재경",
+    "party_id": "saenuridang",
+    "person_id": "gim-jaegyeong-1961",
+    "nec_huboid": "100119353"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-jinjusieul-01",
+      "title": "우주항공 연구개발 단지 조성과 기업 및 인력육성 계획",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongnam-jinjusieul-02",
+      "title": "진주 시내 부활 프로젝트",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-jinjusieul-03",
+      "title": "좋은 일자리 만들기 경제도시 진주",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-jinjusieul-04",
+      "title": "첨단 도농복합도시 진주",
+      "page": 8
+    },
+    {
+      "id": "20-gyeongnam-jinjusieul-05",
+      "title": "우리아이 행복도시 진주",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4803/003_100119353_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 진주시을 당선인 김재경 (새누리당). 책자형 선거공보 PDF 4·6·8쪽 번호 1–5 공약 제목 5개. 제목 옆 ▪ 세부 항목, PDF 3쪽 우주부품시험센터 등 유치 목록, PDF 9–10쪽 지난 의정활동과 국비 확보 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

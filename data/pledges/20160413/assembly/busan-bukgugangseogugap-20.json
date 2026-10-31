@@ -1,0 +1,173 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/busan-bukgugangseogugap-20",
+  "candidate": {
+    "name": "전재수",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeon-jaesu-1971",
+    "nec_huboid": "100118382"
+  },
+  "pledges": [
+    {
+      "id": "20-busan-bukgugangseogugap-01",
+      "title": "혁신학교 벨트 구축",
+      "page": 4
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-02",
+      "title": "등하굣길 안전 확충",
+      "page": 4
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-03",
+      "title": "어린이집·유치원 지원",
+      "page": 4
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-04",
+      "title": "생태하천 재정비",
+      "page": 4
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-05",
+      "title": "행정문화센터",
+      "page": 4
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-06",
+      "title": "북구에듀빌리지",
+      "page": 4
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-07",
+      "title": "육아지원센터",
+      "page": 4
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-08",
+      "title": "‘진짜’ 주차장 확충",
+      "page": 5
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-09",
+      "title": "만덕-센텀 간 지하고속도로",
+      "page": 5
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-10",
+      "title": "근로자 친화기업 지원",
+      "page": 5
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-11",
+      "title": "건강보험료 공평부과",
+      "page": 5
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-12",
+      "title": "실업급여 확대",
+      "page": 5
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-13",
+      "title": "쉬운 해고 방지",
+      "page": 5
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-14",
+      "title": "저금리 장기대출",
+      "page": 6
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-15",
+      "title": "카드 수수료 인하",
+      "page": 6
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-16",
+      "title": "골목상권·전통시장 지원",
+      "page": 6
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-17",
+      "title": "대리점 하청기업 보호",
+      "page": 6
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-18",
+      "title": "영세자영업자 고용보험료 지원",
+      "page": 6
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-19",
+      "title": "구포역 정차 KTX 증차",
+      "page": 6
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-20",
+      "title": "기초연금 30만 원 균등 지급",
+      "page": 7
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-21",
+      "title": "산책로·등산로 개선 사업",
+      "page": 7
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-22",
+      "title": "세대공감센터",
+      "page": 7
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-23",
+      "title": "보행환경개선",
+      "page": 7
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-24",
+      "title": "징애인 콜택시 개선",
+      "page": 7
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-25",
+      "title": "어르신 일자리",
+      "page": 7
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-26",
+      "title": "쉐어하우스 임대주택 사업",
+      "page": 8
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-27",
+      "title": "대학등록금 안정화",
+      "page": 8
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-28",
+      "title": "취업활동비",
+      "page": 8
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-29",
+      "title": "실버산업스타트업센터",
+      "page": 8
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-30",
+      "title": "‘꿈의 전당’도서관",
+      "page": 8
+    },
+    {
+      "id": "20-busan-bukgugangseogugap-31",
+      "title": "만세길 문화상업 테마거리",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2608/003_100118382_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 부산 북구강서구갑 당선인 전재수 (더불어민주당). 책자형 선거공보 PDF 4–8쪽 「…삶에 힘이 되는 정치」 다섯 묶음(엄마들, 아빠들, 사장님, 어머님 아버님, 청춘들)의 ● 굵은 제목 31개. 제목 옆·아래 설명 글, PDF 10쪽 「북구 이웃들의 삶에 힘이 되는 법안」 등 법안 목록은 넣지 않았다. PDF 7쪽 「징애인 콜택시 개선」은 원문 오자를 그대로 두었다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

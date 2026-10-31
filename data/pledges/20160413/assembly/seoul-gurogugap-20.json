@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gurogugap-20",
+  "candidate": {
+    "name": "이인영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-inyeong-1964",
+    "nec_huboid": "100119904"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gurogugap-01",
+      "title": "일자리 창출하는 산업단지와 살기 좋은 마을이 만나는 융복합",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-gurogugap-02",
+      "title": "전통문화를 살린 테마가 있는 시장개발과 글로벌 숙박단지로 발전",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-gurogugap-03",
+      "title": "생태체험 탐방지가 결합된 서울의 첼시마켓으로 재탄생",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-gurogugap-04",
+      "title": "KBS 송신소 부지 개발과 창의적성 개발 교육거점 구축",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-gurogugap-05",
+      "title": "즐기는 문화, 일자리를 만드는 새로운 랜드마크",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1117/003_100119904_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 구로구갑 당선인 이인영 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 「일자리 중심 구로 W벨트」 거점별 큰 제목 5개(7쪽 왼쪽 위, 오른쪽 위, 왼쪽 아래, 오른쪽 아래, 8쪽 순). 큰 제목 위의 작은 머리줄(예: 온수산단에서 궁동까지 산업단지와 쾌적한 주거지의 결합)과 아래 :: 세부 항목은 넣지 않았다. PDF 6쪽 「우리 동네 구석구석 더 살기 좋게」 동별 공약, PDF 5–6쪽 지난 성과 지도, PDF 9쪽 당 일자리 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

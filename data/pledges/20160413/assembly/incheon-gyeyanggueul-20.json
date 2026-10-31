@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/incheon-gyeyanggueul-20",
+  "candidate": {
+    "name": "송영길",
+    "party_id": "deobureo-minjudang",
+    "person_id": "song-yeonggil-1963",
+    "nec_huboid": "100120152"
+  },
+  "pledges": [
+    {
+      "id": "20-incheon-gyeyanggueul-01",
+      "title": "계양 테크노밸리 100만평",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-gyeyanggueul-02",
+      "title": "계양 자율형사립고 유치",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-gyeyanggueul-03",
+      "title": "경인교대-서울대 통합",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2807/003_100120152_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 인천 계양구을 당선인 송영길 (더불어민주당). 책자형 선거공보 PDF 5·7쪽 「송영길의 계양발전 3대공약」 1–3 제목 3개. 제목 아래 부제와 설명글, PDF 8쪽 「송영길이 약속드립니다」(전국 정책), PDF 9쪽 분야별 지역 현안 목록, PDF 10쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

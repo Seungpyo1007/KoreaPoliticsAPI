@@ -1,0 +1,73 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-gwanakgugap-20",
+  "candidate": {
+    "name": "김성식",
+    "party_id": "gungminui-dang",
+    "person_id": "gim-seongsik-1958",
+    "nec_huboid": "100120020"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-gwanakgugap-01",
+      "title": "제2서울사대부고 재추진으로 관악구 공교육 여건 개선",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgugap-02",
+      "title": "각급학교 학부모 지원상담센터 개설",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgugap-03",
+      "title": "국ㆍ공립 어린이집 확충",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgugap-04",
+      "title": "관악시민대학 프로그램 확충, 다양한 문화ㆍ예술 강좌, 서울대 학생과 지역아동센터 및 지역 초ㆍ중ㆍ고교생과의 맞춤형 멘토링(학습 멘토, 문화ㆍ예술 멘토 등) 등 서울대의 우수한 교육인프라와 연계한 맞춤형 평생학습기회 제공",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgugap-05",
+      "title": "경전철의 정상적인 공사와 완공",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgugap-06",
+      "title": "관내 주차장 실태조사 및 종합계획 수립, 야간 관공서 및 학교 등 주차장 개방 의무제 도입 등으로 생활불편, 화재 등 응급상황 대책 마련",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgugap-07",
+      "title": "CCTV 설치 지원해 관악구청 종합상황실 연계로 안전 문제 해소",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgugap-08",
+      "title": "열악한 생활체육 환경개선",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgugap-09",
+      "title": "노인 / 여성 / 청소년 / 장애인을 위한 생활체육 수업과 시설 확대",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgugap-10",
+      "title": "생활공원 등 주민 커뮤니티 공간 확대",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-gwanakgugap-11",
+      "title": "1인가구 생활불편해소 종합대책 수립",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1121/003_100120020_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 관악구갑 당선인 김성식 (국민의당). 책자형 선거공보 PDF 10쪽 「지역 공약 교육·교통·생활, 김성식은 미루지 않겠습니다」의 • 공약 10개와 교통 칸의 * 공약 1개. 「열악한 생활체육 환경개선」 뒤 - 세부 항목은 넣지 않았다. PDF 9쪽 「김성식의 20대 민생국회를 위한 약속」은 전국 입법·정책 공약이라 넣지 않았고, PDF 10쪽 위쪽 제2사대부고 추진 일지(지난 활동)도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

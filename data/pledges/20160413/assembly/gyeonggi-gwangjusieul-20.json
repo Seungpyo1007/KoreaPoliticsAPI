@@ -1,0 +1,78 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-gwangjusieul-20",
+  "candidate": {
+    "name": "임종성",
+    "party_id": "deobureo-minjudang",
+    "person_id": "im-jongseong-1965",
+    "nec_huboid": "100119230"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-gwangjusieul-01",
+      "title": "신현3리 직동IC 간 도로개설",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-02",
+      "title": "신월리 도평리 간 도로(터널)개설",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-03",
+      "title": "곤지암 시내 일원의 국도 3호선의 지하차도화를 시행",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-04",
+      "title": "진우3리와 유정IC 간 도로를 확충",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-05",
+      "title": "오포 미니 신도시 조성사업",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-06",
+      "title": "곤지암 안거리 복합산업단지 조성사업",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-07",
+      "title": "효도기업인증제로 기업에게 혜택을",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-08",
+      "title": "일사일로(一社一老)사업추진",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-09",
+      "title": "민주주의 역사관 설립",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-10",
+      "title": "곤지암 문화예술 공원 조성",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-11",
+      "title": "오포 초·중·고등학교 신설 / 곤지암 중·고등학교 분리 신설",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gwangjusieul-12",
+      "title": "안심 스쿨존 조성",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4140/003_100119230_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 광주시을 당선인 임종성 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 분야별 공약(사통팔달 광주, 신바람 나는 경제, 문화 복지도시 광주, 행복교육도시 광주)의 굵은 제목 12개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 설명 글, PDF 6쪽 읍면별 공약 지도, PDF 5·9쪽 「입법공약」 01–04(전국 단위 정책)는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

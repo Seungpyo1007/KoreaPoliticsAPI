@@ -1,0 +1,178 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-dobonggugap-20",
+  "candidate": {
+    "name": "인재근",
+    "party_id": "deobureo-minjudang",
+    "person_id": "in-jaegeun-1953",
+    "nec_huboid": "100119671"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-dobonggugap-01",
+      "title": "창동역 민자역사 사업정상화 유도",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-02",
+      "title": "창동·상계 신경제중심지 조성",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-03",
+      "title": "동부간선도로 도봉구간 전면 지하화 완공",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-04",
+      "title": "아레나공연장(2만석 규모) 건립",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-05",
+      "title": "로봇박물관 건립",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-06",
+      "title": "사진박물관 건립",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-07",
+      "title": "창업지원센터 건립",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-08",
+      "title": "50 + 캠퍼스 조성(인생이모작 센터)",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-09",
+      "title": "창동역사 엘리베이터 설치",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-10",
+      "title": "창동역 KTX 노선연장 추진(수서~창동~의정부)",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-11",
+      "title": "초안산 둘레길 조성",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-12",
+      "title": "우이3교 성능강화 및 재설치",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-13",
+      "title": "창2동 청소년이용시설 건립",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-14",
+      "title": "창2동 구립 경로당 신설",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-15",
+      "title": "창3동·창4동 주민센터 신축",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-16",
+      "title": "창5동 공원조성(창동초교 부근)",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-17",
+      "title": "신창시장 활성화 및 창동골목시장 고객지원센터 건립",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-18",
+      "title": "구립 도봉실버카페 조성",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-19",
+      "title": "중랑천 녹색브랜드화 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-20",
+      "title": "쌍문1동 우이천 상류 산책로 연장 조성",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-21",
+      "title": "쌍문1동 구립 쌍우경로당 신축",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-22",
+      "title": "쌍문3동 둘리테마거리 조성",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-23",
+      "title": "쌍문3동 샛별어린이공원 정비",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-24",
+      "title": "쌍문근린공원 대공포이전부지 공원화 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-25",
+      "title": "쌍문근린공원 숲 체험장 조성 및 버스도서관 개관",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-26",
+      "title": "쌍문역~우이제1교 전신주 지중화사업",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-27",
+      "title": "쌍문역 에스컬레이터 설치",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-28",
+      "title": "쌍문역 둘리테마역사 조성",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-29",
+      "title": "쌍문동 주거환경개선을 위한 도시재생사업 추진",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-30",
+      "title": "우이·신설 경전철 조기 준공",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-31",
+      "title": "장애인복지관 건립",
+      "page": 6
+    },
+    {
+      "id": "20-seoul-dobonggugap-32",
+      "title": "노인복지회관 건립 추진",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1110/003_100119671_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 도봉구갑 당선인 인재근 (더불어민주당). 책자형 선거공보 PDF 6쪽 「공약 “도봉에 좋은 일을 더 많이 만들겠습니다!”」의 「창동을 깨워라!」 19개와 「쌍문동을 바꿔라!」 13개, 모두 32개(왼쪽 단, 오른쪽 단 순). 머리 공약 목록 없이 동네별 ▸ 목록만 있어 이것을 넣었다. PDF 3–5쪽 지난 성과·확보 예산, PDF 8–10쪽 의정활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

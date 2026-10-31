@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-bucheonsiojeonggu-20",
+  "candidate": {
+    "name": "원혜영",
+    "party_id": "deobureo-minjudang",
+    "person_id": "won-hyeyeong-1951",
+    "nec_huboid": "100119924"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-bucheonsiojeonggu-01",
+      "title": "경인고속도로 지하화하고 지상부지에 교차로·주차장·공원 조성",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiojeonggu-02",
+      "title": "원종~고강~홍대 지하철도 원혜영이 해내겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-bucheonsiojeonggu-03",
+      "title": "오정동 군부대 이전 → 미니신도시 개발 작동 군부대 이전 → 과학고 및 과학테마파크 조성",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4113/003_100119924_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 부천시오정구 당선인 원혜영 (더불어민주당). 책자형 선거공보 PDF 5–6쪽 굵은 제목 공약 3개. 지하철 제목 앞줄 「7호선 개통·오정구 지하철 착공, 원혜영이 해냈습니다!」(성과)는 덜어냈고, 끝의 !도 덜어냈다. PDF 7–8쪽 「친환경 주차공원 대폭 확충 … 등 동별 생활 맞춤 공약」의 동별 번호 항목, PDF 10쪽 01–03 전국 공약, PDF 2–4쪽 약력·지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

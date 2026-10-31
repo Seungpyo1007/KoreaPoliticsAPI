@@ -1,0 +1,108 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-hwaseongsibyeong-20",
+  "candidate": {
+    "name": "권칠승",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gwon-chilseung-1965",
+    "nec_huboid": "100119415"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-01",
+      "title": "KTX어천역 설치(봉담·기배·화산 권역)",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-02",
+      "title": "신분당선(봉담-호매실) 연장",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-03",
+      "title": "인덕원선(기산반월·능동) 조기 개통",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-04",
+      "title": "[화성-서울] 출퇴근 전용버스 도입",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-05",
+      "title": "고교평준화 / 봉담권 고등학교 신설",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-06",
+      "title": "봉담복합체육시설 건립",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-07",
+      "title": "화성 동부권 노인복지센터 건립",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-08",
+      "title": "봉담 농수산대학부지 문화특구지정",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-09",
+      "title": "봉담 삼보 폐광산 생태공원 조성",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-10",
+      "title": "국도 43호선(봉담-향남) 확장",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-11",
+      "title": "기배동·반월동 체육공원 조성",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-12",
+      "title": "태안3지구 조기개발",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-13",
+      "title": "병점 역세권 및 상권 활성화",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-14",
+      "title": "인덕원선 조기개통",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-15",
+      "title": "진안다람산공원 실내체육관 건립",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-16",
+      "title": "공장 난개발 방지 위한 산업단지 유치",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-17",
+      "title": "공영주차장·대형차고지 확충",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-hwaseongsibyeong-18",
+      "title": "수원비행장 이전",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4128/003_100119415_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 화성시병 당선인 권칠승 (더불어민주당). 책자형 선거공보 PDF 10쪽 「걱정 말아요 화성 먼저!」의 교통 제목 4개(「더 편하고 빠르게」)와 「최선을 다해 추진하겠습니다」 • 목록 14개(왼쪽 단, 오른쪽 단 순). 이 쪽에는 공약 제목 위에 따로 묶인 머리 목록이 없어 • 목록도 각각 공약으로 넣었다. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 9쪽 「걱정 말아요 민생 먼저!」(누리과정 국가책임, 최저임금 등)와 PDF 8쪽 월 30만원 묶음은 전국 공약이라 넣지 않았고, PDF 7쪽 도의회 예산 확보 성과도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

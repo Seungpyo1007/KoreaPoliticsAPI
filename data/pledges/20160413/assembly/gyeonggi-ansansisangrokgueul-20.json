@@ -1,0 +1,33 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-ansansisangrokgueul-20",
+  "candidate": {
+    "name": "김철민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-cheolmin-1957",
+    "nec_huboid": "100119355"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-ansansisangrokgueul-01",
+      "title": "신안산선 조기착공 및 성포역사 주민편의 시설을 만들겠습니다",
+      "page": 2
+    },
+    {
+      "id": "20-gyeonggi-ansansisangrokgueul-02",
+      "title": "신안산선에 월피부곡역과 수암역을 추가하여 차질 없이 추진하고 안산 동북부에 시민친화적인 주거단지를 조성하겠습니다",
+      "page": 2
+    },
+    {
+      "id": "20-gyeonggi-ansansisangrokgueul-03",
+      "title": "반월시화공단을 중소기업 메카로 육성하여 안산시가 재도약하는 발판을 만들겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4118/003_100119355_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 안산시상록구을 당선인 김철민 (더불어민주당). 책자형 선거공보 PDF 2쪽 「김철민이 하겠습니다」 띠 제목 2개와 PDF 8쪽 지역 공약 제목 1개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. PDF 7–8쪽 「김철민이 대한민국을 이렇게 바꿉니다」의 나머지 제목 4개(사법정의, 국회의원 특권 축소, 보육·교육·보건, 근로시간)는 전국 정치 공약이라 넣지 않았다. 제목 아래 • 세부 항목, PDF 9–10쪽 동별 공약, PDF 5–6쪽 안산시장 시절 성과는 넣지 않았다. 두 줄 제목은 이어 적었고 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,58 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungbuk-chungjusi-20",
+  "candidate": {
+    "name": "이종배",
+    "party_id": "saenuridang",
+    "person_id": "i-jongbae-1957",
+    "nec_huboid": "100120183"
+  },
+  "pledges": [
+    {
+      "id": "20-chungbuk-chungjusi-01",
+      "title": "희망의 수도권전철시대 개막으로 충주 100년 새 미래를 열겠습니다",
+      "page": 5
+    },
+    {
+      "id": "20-chungbuk-chungjusi-02",
+      "title": "대형 국책사업의 성공 추진으로 교통물류의 중심도시로 키우겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-chungbuk-chungjusi-03",
+      "title": "일자리 확충, 서민경제·지역경제 활성화로 살맛나는 충주를 만들겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-chungbuk-chungjusi-04",
+      "title": "함께 잘 사는 충주! 함께 꿈 꾸는 충주를 만들어 가겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-chungjusi-05",
+      "title": "국립기후변화대응 농업연구소, 국립산양삼종자관리센터 유치로 농업소득 기반을 확충하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-chungbuk-chungjusi-06",
+      "title": "국제뷰티·의료관광클러스터를 조성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-chungbuk-chungjusi-07",
+      "title": "글로벌 영재가 모이고 인성교육 중심의 품격높은 국제교육도시 충주를 만들겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-chungbuk-chungjusi-08",
+      "title": "국제무예센터 건립, 국립박물관 유치 추진 등으로 국제적 문화·관광 허브도시로 조성하겠습니다",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4303/003_100120183_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충북 충주시 당선인 이종배 (새누리당). 책자형 선거공보 PDF 5쪽 「충주, 수도권전철시대 개막!」 큰 제목 1개와 PDF 6–8쪽 분야(희망충주·서민경제·행복충주·부자농업·국제뷰티·국제교육·국제관광)별 제목 문장 7개. OCR 결과라 쪽 이미지를 보고 옮겼다. 분야 제목 아래 하늘색 상자의 소제목과 세부 항목, PDF 3–4쪽 지난 공약 이행·성과, PDF 9–10쪽 의정활동 소개는 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

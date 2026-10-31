@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-dongducheonsiyeoncheongun-20",
+  "candidate": {
+    "name": "김성원",
+    "party_id": "saenuridang",
+    "person_id": "gim-seongwon-1973",
+    "nec_huboid": "100119417"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-dongducheonsiyeoncheongun-01",
+      "title": "수도권규제 완화 및 군사시설보호구역 규제 완화 추진",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-dongducheonsiyeoncheongun-02",
+      "title": "경원선 전철 조기 완공 및 3번, 37번 국도 조기 확·포장",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-dongducheonsiyeoncheongun-03",
+      "title": "따복첨단산업단지 및 통일경제특별구역 추진",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-dongducheonsiyeoncheongun-04",
+      "title": "수도권규제 완화 및 미군반환공여지 개발",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-dongducheonsiyeoncheongun-05",
+      "title": "국가산업단지 조기착공 및 기업유치와 일자리 창출",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-dongducheonsiyeoncheongun-06",
+      "title": "원도심 경제 활성화 및 악취관리지역 지정 추진",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4117/003_100119417_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 동두천시연천군 당선인 김성원 (새누리당). 책자형 선거공보 PDF 5쪽 「연천의 기다림을 희망으로 바꿉니다!」 3가지 희망과 PDF 6쪽 「동두천의 가능성을 새롭게 발견합니다!」 3가지 발전 기반, 제목 6개. 제목 앞의 순번(하나!·둘!·셋!)을 덜어냈다. PDF 7–8쪽 동두천 분야별 공약(01–07)과 PDF 9–10쪽 연천 분야별 공약(01–07) 및 그 아래 ■ 세부 항목은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

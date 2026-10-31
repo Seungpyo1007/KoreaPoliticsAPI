@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongbuk-yeongjusimungyeongsiyecheongun-20",
+  "candidate": {
+    "name": "최교일",
+    "party_id": "saenuridang",
+    "person_id": "choe-gyoil-1962",
+    "nec_huboid": "100118320"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongbuk-yeongjusimungyeongsiyecheongun-01",
+      "title": "역동적인 경제",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongbuk-yeongjusimungyeongsiyecheongun-02",
+      "title": "하나 되는 관광",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongbuk-yeongjusimungyeongsiyecheongun-03",
+      "title": "새로운 일등농업",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongbuk-yeongjusimungyeongsiyecheongun-04",
+      "title": "신도청 시대 교통중심지",
+      "page": 4
+    },
+    {
+      "id": "20-gyeongbuk-yeongjusimungyeongsiyecheongun-05",
+      "title": "실천하는 복지",
+      "page": 4
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4708/003_100118320_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경북 영주시문경시예천군 당선인 최교일 (새누리당). 책자형 선거공보 PDF 4쪽 「최교일의 비전」 1–5 제목 5개. PDF에 글자층이 없어 쪽 이미지를 보고 옮겼다. 제목 아래 설명 문장과 PDF 5–8쪽에서 분야별로 풀어 쓴 소제목(「국가산업단지 조성 및 기업유치」 등)과 • 세부 항목은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

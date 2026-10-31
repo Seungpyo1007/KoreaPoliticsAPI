@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-gwangjusigap-20",
+  "candidate": {
+    "name": "소병훈",
+    "party_id": "deobureo-minjudang",
+    "person_id": "so-byeonghun-1954",
+    "nec_huboid": "100119286"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-gwangjusigap-01",
+      "title": "광주의 발전을 가로막는 팔당취수원 이전을 추진하겠습니다",
+      "page": 3
+    },
+    {
+      "id": "20-gyeonggi-gwangjusigap-02",
+      "title": "광주발전 가로막는 규제철폐",
+      "page": 5
+    },
+    {
+      "id": "20-gyeonggi-gwangjusigap-03",
+      "title": "대한민국 중심도시 광주",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-gwangjusigap-04",
+      "title": "더불어 잘사는 복지모범도시 광주",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-gwangjusigap-05",
+      "title": "행복한 교육혁신도시 광주",
+      "page": 8
+    },
+    {
+      "id": "20-gyeonggi-gwangjusigap-06",
+      "title": "역동적인 경제도시 광주",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4140/003_100119286_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 광주시갑 당선인 소병훈 (더불어민주당). 책자형 선거공보 PDF 3쪽 팔당취수원 이전 면 제목과 PDF 5–9쪽 분야별 제목 5개, 모두 6개. 머리 공약 목록이 따로 없어 분야 제목을 넣었다. PDF 4쪽 팔당취수원 이전 소제목과 각 분야 아래 세부 항목, PDF 10쪽 「거꾸로 간 10년, 대한민국을 바로 잡겠습니다」 전국 정책은 넣지 않았다. PDF 3쪽 제목은 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

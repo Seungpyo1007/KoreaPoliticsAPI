@@ -1,0 +1,93 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daejeon-daedeokgu-20",
+  "candidate": {
+    "name": "정용기",
+    "party_id": "saenuridang",
+    "person_id": "jeong-yonggi-1962",
+    "nec_huboid": "100119881"
+  },
+  "pledges": [
+    {
+      "id": "20-daejeon-daedeokgu-01",
+      "title": "갑천 도시고속도로 통행료를 폐지 하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-daejeon-daedeokgu-02",
+      "title": "대덕구에 전철 시대를 열겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-daejeon-daedeokgu-03",
+      "title": "회덕IC와 대덕연구단지 동측진입로(가칭 신문교)를 신설하고 연결시키겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-daejeon-daedeokgu-04",
+      "title": "대전산단을 재탄생시키고 둔산과 다리(가칭 한샘대교)로 연결하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-daejeon-daedeokgu-05",
+      "title": "회덕동 그린벨트를 해제하고 대덕의 중앙부를 발전시키겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-daejeon-daedeokgu-06",
+      "title": "와동~대청대교(신탄진)간 도로 개설(국도 17호선 우회도로)",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-daedeokgu-07",
+      "title": "현도교~신구교 간 강변도로 개설 추진(국지도 32호선)",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-daedeokgu-08",
+      "title": "대전↔신탄진(목상동)↔세종↔서울 간 고속버스노선 신설",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-daedeokgu-09",
+      "title": "장동에 구민의 휴식처가 될 생태문화공원 조성",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-daedeokgu-10",
+      "title": "비래동~회덕(와동) 간 동부외곽 순환도로 개설 추진",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-daedeokgu-11",
+      "title": "도시철도 2호선 조기추진, 중리사거리~회덕 구간의 스마트트램 사업 추진",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-daedeokgu-12",
+      "title": "오정동에 환승전철역 신설, 법동 동양레미콘 이전 및 전철역(대화동, 법동) 건설",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-daedeokgu-13",
+      "title": "오정동 공구상가 거리(산업용재 특화거리)에 이면주차장 확충",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-daedeokgu-14",
+      "title": "송촌동 공영주차장 주차빌딩 건립",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-daedeokgu-15",
+      "title": "원촌교 램프 교통체증 해소사업(1개 차로 추가건설)",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/3005/003_100119881_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대전 대덕구 당선인 정용기 (새누리당). 책자형 선거공보 PDF 7쪽 「정용기의 5대 핵심공약」 제목 5개와 PDF 8쪽 「정용기의 10대 주요공약」 제목 10개. 5대 핵심공약 아래 - 세부 항목, PDF 9쪽 「20개 대덕 발전 공약」, PDF 10쪽 새누리당 전국 7대 공약과 4대 보수 비전, PDF 5–6쪽 확보 예산은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

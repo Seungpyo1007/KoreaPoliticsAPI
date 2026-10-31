@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-anyangsidongangueul-20",
+  "candidate": {
+    "name": "심재철",
+    "party_id": "saenuridang",
+    "person_id": "sim-jaecheol-1958",
+    "nec_huboid": "100120138"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-anyangsidongangueul-01",
+      "title": "안양교도소 이전 부지, 국제스마트센터로",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-anyangsidongangueul-02",
+      "title": "인덕원~수원 전철 조속 완공",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-anyangsidongangueul-03",
+      "title": "인덕원역을 종합 환승센터로 개발",
+      "page": 7
+    },
+    {
+      "id": "20-gyeonggi-anyangsidongangueul-04",
+      "title": "안양~강남 전철 추진! 15분 내 강남권 진입",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4110/003_100120138_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 안양시동안구을 당선인 심재철 (새누리당). 책자형 선거공보 PDF 7쪽 「심재철의 약속」 중 「안양 발전 大완성 공약」 제목 4개. 글자층이 없어 쪽 이미지를 보고 옮겼다. 같은 쪽 「선진 대한민국을 위한 공약」 12개는 전국 공약이라 넣지 않았고, PDF 8쪽 「중단 없는 안양 발전! 꼭 완성하겠습니다」 교육·환경·복지·교통 – 항목, PDF 9쪽 국제스마트센터 세부 1–5, PDF 3–6쪽 지난 성과도 넣지 않았다. 첫 제목 끝의 !만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

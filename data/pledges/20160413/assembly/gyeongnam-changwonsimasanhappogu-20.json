@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeongnam-changwonsimasanhappogu-20",
+  "candidate": {
+    "name": "이주영",
+    "party_id": "saenuridang",
+    "person_id": "i-juyeong-1951",
+    "nec_huboid": "100119790"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeongnam-changwonsimasanhappogu-01",
+      "title": "마산로봇산업 육성 및 로봇생태계 구축",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-changwonsimasanhappogu-02",
+      "title": "마산도시재생 사업으로 침체된 도심의 활력도모",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-changwonsimasanhappogu-03",
+      "title": "마산해양공원 조성을 통한 항구도시 마산의 자부심 고취",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-changwonsimasanhappogu-04",
+      "title": "마산문화자산 계승·발전",
+      "page": 6
+    },
+    {
+      "id": "20-gyeongnam-changwonsimasanhappogu-05",
+      "title": "도시인프라 구축으로 살기좋은 마산합포 건설",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4823/003_100119790_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경남 창원시마산합포구 당선인 이주영 (새누리당). 책자형 선거공보 PDF 6쪽 「마산발전을 위한 이주영의 약속」 제목 5개. 제목 아래 세부 사업 문장, 같은 공약을 요약한 PDF 2쪽 구호, PDF 3쪽 국정 관련 다짐은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

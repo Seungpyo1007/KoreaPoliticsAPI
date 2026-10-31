@@ -1,0 +1,68 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonbuk-jeonjusigap-20",
+  "candidate": {
+    "name": "김광수",
+    "party_id": "gungminui-dang",
+    "person_id": "gim-gwangsu-1958",
+    "nec_huboid": "100119400"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonbuk-jeonjusigap-01",
+      "title": "청년, 문화예술인의 거리(광장) 조성, 창작활동 지원",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-jeonjusigap-02",
+      "title": "장애인·노인 취업지원센터 및 주치의 제도 도입",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-jeonjusigap-03",
+      "title": "전북 균형발전 로드맵 ‘육·해·공 종합발전계획’",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-jeonjusigap-04",
+      "title": "지역청년 인재채용 쿼터제 도입",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-jeonjusigap-05",
+      "title": "역사유적 탐방로 조성을 통한 ‘체험형 관광’ 네트워크 구축",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-jeonjusigap-06",
+      "title": "구도심 활성화(관련법 제정) 및 전통시장 활성화",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-jeonjusigap-07",
+      "title": "사회적경제 활성화 육성 지원 구축",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-jeonjusigap-08",
+      "title": "사회공헌형 인재육성센터를 통한 사교육 경감",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-jeonjusigap-09",
+      "title": "영·유아돌봄 공적책임제 도입",
+      "page": 10
+    },
+    {
+      "id": "20-jeonbuk-jeonjusigap-10",
+      "title": "한옥마을 연계 아중호수 친환경 생태공원 조성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4501/003_100119400_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전북 전주시갑 당선인 김광수 (국민의당). 책자형 선거공보 PDF 9–10쪽 「광수의 공약은 좀 과격합니다」 목록 중 PDF 10쪽 굵은 제목 10개. PDF 9쪽의 「노블레스 오블리주법 추진」 「지방의원 주민공천제 도입」 2개는 전국 정치 공약이라 넣지 않았다. 제목 아래 - 세부 항목, PDF 4–6쪽 도의회 활동, PDF 7–8쪽 정권 비판은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

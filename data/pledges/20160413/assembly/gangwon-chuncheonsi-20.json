@@ -1,0 +1,108 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gangwon-chuncheonsi-20",
+  "candidate": {
+    "name": "김진태",
+    "party_id": "saenuridang",
+    "person_id": "gim-jintae-1964",
+    "nec_huboid": "100119717"
+  },
+  "pledges": [
+    {
+      "id": "20-gangwon-chuncheonsi-01",
+      "title": "제2경춘국도 본격 착수",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-02",
+      "title": "5번 국도(홍천~춘천~화천) 확장사업 착공",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-03",
+      "title": "춘천~서울 고속도로 지역주민 할인 확대",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-04",
+      "title": "경춘선 전철 청량리역 연장 확대",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-05",
+      "title": "레고랜드 정상 개장",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-06",
+      "title": "춘천 샹젤리제(구도심 도보관광거리) 조성",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-07",
+      "title": "국립 복합문화관 완공",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-08",
+      "title": "대기업 데이터센터 유치 지원",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-09",
+      "title": "강원디자인센터 완공",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-10",
+      "title": "전통시장·소상공인·중소기업 정책자금 지원",
+      "page": 5
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-11",
+      "title": "춘천시립도서관 완공",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-12",
+      "title": "퇴계·석사동 학교 신설",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-13",
+      "title": "초·중·고·대 학교시설 개선",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-14",
+      "title": "보육료 의무지급 법제화",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-15",
+      "title": "어르신 편의시설(복지관, 게이트볼장) 확충",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-16",
+      "title": "농업기술센터 신축",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-17",
+      "title": "여성친화도시(여성부 주관) 지정",
+      "page": 6
+    },
+    {
+      "id": "20-gangwon-chuncheonsi-18",
+      "title": "장애인 전용 쉼터 조성",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4201/003_100119717_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 강원 춘천시 당선인 김진태 (새누리당). 책자형 선거공보 PDF 5–6쪽 「김진태의 <5대 비전>과 <20대 핵심공약>」 중 핵심공약 1–18 제목 18개. 5대 비전 분야 제목(동서남북 시원하게 뚫린 교통망 완성하겠습니다 등)은 묶음 제목이라 넣지 않았고, 19–20 「핵심 입법과제」(안보형사법 개정, 청년일자리법 개선)는 전국 입법 공약이라 넣지 않았다. PDF 3–4쪽 「김의원 4년간 뭐했소?」 지난 성과도 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

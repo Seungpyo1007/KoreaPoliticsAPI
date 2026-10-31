@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/daejeon-yuseonggueul-20",
+  "candidate": {
+    "name": "이상민",
+    "party_id": "deobureo-minjudang",
+    "person_id": "i-sangmin-1958",
+    "nec_huboid": "100120240"
+  },
+  "pledges": [
+    {
+      "id": "20-daejeon-yuseonggueul-01",
+      "title": "대전, 세계적 특허중심도시 구축",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggueul-02",
+      "title": "유성북부(안산, 대동·금탄·금고·둔곡 등) 첨단국가산업단지 건설(국방·IT·바이오)",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggueul-03",
+      "title": "대전도시철도 지선을 전민동-신성동-구즉동-관평동으로 연결 추진",
+      "page": 8
+    },
+    {
+      "id": "20-daejeon-yuseonggueul-04",
+      "title": "유성복합터미널 조속 착공",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/3004/003_100120240_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 대전 유성구을 당선인 이상민 (더불어민주당). 책자형 선거공보 PDF 8쪽 「지역공약 유성의 구석구석 열과 성을 다하겠습니다」 맨 위 상자의 ■ 항목 4개. 이 쪽은 글자층에 공약 부분이 빠져 있어 쪽 이미지를 보고 옮겼다. 같은 쪽 동별 공약, PDF 7쪽 「국정공약」, PDF 6쪽 과학기술 공약, PDF 3–5쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

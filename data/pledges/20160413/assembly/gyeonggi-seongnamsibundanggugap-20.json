@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-seongnamsibundanggugap-20",
+  "candidate": {
+    "name": "김병관",
+    "party_id": "deobureo-minjudang",
+    "person_id": "gim-byeonggwan-1973",
+    "nec_huboid": "100120311"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-seongnamsibundanggugap-01",
+      "title": "명품 분당·판교의 가치를 2배로",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-seongnamsibundanggugap-02",
+      "title": "창업날개법(가칭) 제정으로 청년의 희망을 2배로",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-seongnamsibundanggugap-03",
+      "title": "맞춤형 복지로 어르신의 내일을 2배로",
+      "page": 9
+    },
+    {
+      "id": "20-gyeonggi-seongnamsibundanggugap-04",
+      "title": "교통인프라 개선으로 분당·판교의 발전 속도를 2배로",
+      "page": 10
+    },
+    {
+      "id": "20-gyeonggi-seongnamsibundanggugap-05",
+      "title": "아이의 안전, 엄마의 안심을 2배로! 행복도 2배로",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4107/003_100120311_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 성남시분당구갑 당선인 김병관 (더불어민주당). 책자형 선거공보 PDF 9–10쪽 「신제품 김병관의 '2UP'약속」 하나–다섯 제목 5개. 제목 아래 두 줄 부제와 ◎ 세부 항목, PDF 8쪽 「대한민국에 희망을 만들겠습니다」 첫째–셋째(전국 정책), PDF 3–7쪽 약력·정부 비판은 넣지 않았다. 번호(하나.–다섯.)와 끝의 !를 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

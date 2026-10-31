@@ -1,0 +1,53 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/incheon-namdonggueul-20",
+  "candidate": {
+    "name": "윤관석",
+    "party_id": "deobureo-minjudang",
+    "person_id": "yun-gwanseok-1960",
+    "nec_huboid": "100119860"
+  },
+  "pledges": [
+    {
+      "id": "20-incheon-namdonggueul-01",
+      "title": "KTX까지 뻥 뚫린 남동 지하철",
+      "page": 5
+    },
+    {
+      "id": "20-incheon-namdonggueul-02",
+      "title": "사통팔달, 남부권 순환선",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-namdonggueul-03",
+      "title": "뻥 뚫린 남동 도로",
+      "page": 6
+    },
+    {
+      "id": "20-incheon-namdonggueul-04",
+      "title": "남동의 아들, 딸을 위해 일하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-namdonggueul-05",
+      "title": "남동구 청년일자리 2만개를 창출하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-namdonggueul-06",
+      "title": "인천대공원에서 소래습지까지 생태탐방로를 연결하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-incheon-namdonggueul-07",
+      "title": "아이키우기 좋은 남동을 만들겠습니다",
+      "page": 7
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/2805/003_100119860_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 인천 남동구을 당선인 윤관석 (더불어민주당). 머리 공약 목록이 없어 분야별 제목을 넣었다. 책자형 선거공보 PDF 5–6쪽 「확실하게 하고 있습니다」 교통 제목 3개와 PDF 7쪽 「확실하게 추진하겠습니다」 지역 제목 4개. PDF 7쪽 아래쪽 기초노령연금·국민연금 공공투자·사병월급 3개는 당 전국 공약이라 넣지 않았고, 제목 아래 번호 세부 항목, PDF 8쪽 동별 공약, PDF 3–4쪽 확보 예산도 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

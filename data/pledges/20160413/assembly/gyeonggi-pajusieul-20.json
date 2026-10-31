@@ -1,0 +1,43 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gyeonggi-pajusieul-20",
+  "candidate": {
+    "name": "박정",
+    "party_id": "deobureo-minjudang",
+    "person_id": "bak-jeong-1962",
+    "nec_huboid": "100118495"
+  },
+  "pledges": [
+    {
+      "id": "20-gyeonggi-pajusieul-01",
+      "title": "더 똑똑한 파주 꼬인 매듭은 풀고 구슬은 꿰겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-pajusieul-02",
+      "title": "더 부러운 파주 교육과 일자리, 주거 환경을 획기적으로 개선하겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-pajusieul-03",
+      "title": "더 튼튼한 파주 성장판을 열어 지역경제를 발전시키겠습니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-pajusieul-04",
+      "title": "더 안전한 파주 가족과 이웃의 안전과 안보가 최우선입니다",
+      "page": 6
+    },
+    {
+      "id": "20-gyeonggi-pajusieul-05",
+      "title": "더 따뜻한 파주 생명존중과 인재양성은 최우선의 가치입니다",
+      "page": 6
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4132/003_100118495_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 경기 파주시을 당선인 박정 (더불어민주당). 책자형 선거공보 PDF 6쪽 「더 5대 정책 아젠다」 1–5 제목 5개(이름과 뒤 문장을 한 줄로 이었다). 제목 아래 설명글, 6쪽 「북파주 주민에게 깨끗하고 안전한 수돗물 공급을!」 상자와 「안심하세요. 제가 꼼꼼히 챙기겠습니다!」 항목, PDF 5쪽 주요 의정활동 계획(입법 목록), PDF 7–8쪽 권역별 공약은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

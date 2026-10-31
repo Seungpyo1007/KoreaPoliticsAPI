@@ -1,0 +1,118 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/chungbuk-boeungunokcheongunyeongdonggungoesangun-20",
+  "candidate": {
+    "name": "박덕흠",
+    "party_id": "saenuridang",
+    "person_id": "bak-deokheum-1953",
+    "nec_huboid": "100119508"
+  },
+  "pledges": [
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-01",
+      "title": "청주공항~보은 속리산 연결 관광철도",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-02",
+      "title": "속리산 복합 휴양·관광단지 조성",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-03",
+      "title": "보은 대추6차 산업",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-04",
+      "title": "‘백두대간 개발 및 관광 진흥에 관한 특별법의 제정안’ 발의",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-05",
+      "title": "국내 최대의 스포츠 전지훈련 지역으로 탈바꿈",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-06",
+      "title": "대전~옥천~영동 구간 광역철도 지정 추진",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-07",
+      "title": "‘복합 컨벤션 문화센터’ 건립",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-08",
+      "title": "‘유교문화 복합단지’ 조성",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-09",
+      "title": "개발제한구역의 효율적 이용",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-10",
+      "title": "옥천군 관광협회 설립 추진",
+      "page": 9
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-11",
+      "title": "대제산업단지 내 유기농산업클러스터 조성",
+      "page": 10
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-12",
+      "title": "상주 문장대 온천 개발 저지를 위한 입법추친",
+      "page": 10
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-13",
+      "title": "세종~괴산~안동 간 동서5축 고속도로 조기 추진",
+      "page": 10
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-14",
+      "title": "주민 이동편익을 위해 국도 확 · 포장사업 조기 완공 추진",
+      "page": 10
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-15",
+      "title": "연풍역 신설로 1시간대 수도권 시대 개막",
+      "page": 10
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-16",
+      "title": "‘대전~옥천~영동 구간 광역철도 지정’ 추진",
+      "page": 10
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-17",
+      "title": "‘명품 곶감 생산특화지구’ 조성",
+      "page": 10
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-18",
+      "title": "‘농촌형 행복주택’ 건립",
+      "page": 10
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-19",
+      "title": "경부선 영동가도교 계산굴다리 확장",
+      "page": 10
+    },
+    {
+      "id": "20-chungbuk-boeungunokcheongunyeongdonggungoesangun-20",
+      "title": "다양한 스포츠 경기장 조성",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4307/003_100119508_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 충북 보은군옥천군영동군괴산군 당선인 박덕흠 (새누리당). 책자형 선거공보 PDF 9–10쪽 「보은군·옥천군·영동군·괴산군의 더 큰 변화 더 큰 발전」 군별 상자의 ✔ 제목 20개(보은 5, 옥천 5, 괴산 5, 영동 5 순). 옥천과 영동 상자에 대전~옥천~영동 광역철도가 각각 있어 둘 다 넣었다. '입법추친'은 원문 표기 그대로다. 제목 아래 ▶ 세부 항목, PDF 8쪽 농민·여성·어르신·청년 분야 공약(전국 공약 성격), PDF 5–7쪽 지난 성과는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

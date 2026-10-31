@@ -1,0 +1,73 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-jungguseongdonggueul-20",
+  "candidate": {
+    "name": "지상욱",
+    "party_id": "saenuridang",
+    "person_id": "ji-sanguk-1965",
+    "nec_huboid": "100118412"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-jungguseongdonggueul-01",
+      "title": "민간·공공부문에서 4년간 56,000개의 일자리를 창출하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-jungguseongdonggueul-02",
+      "title": "세금감면 등 소상공인, 자영업자 지원을 강화하겠습니다",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-jungguseongdonggueul-03",
+      "title": "중구의 중심, 남산의 고도제한 완화를 추진하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-jungguseongdonggueul-04",
+      "title": "누구나 살고 싶어 하는 명품 주거환경을 조성하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-jungguseongdonggueul-05",
+      "title": "지역특성을 반영한 도심 재생을 추진하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-jungguseongdonggueul-06",
+      "title": "백년대계를 위한 교육 인프라를 확충하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-jungguseongdonggueul-07",
+      "title": "지역의 인재들이 다닐 수 있는 명문학교를 육성하겠습니다",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-jungguseongdonggueul-08",
+      "title": "미래형 인재를 양성하는 인성교육지원센터 설립 추진",
+      "page": 9
+    },
+    {
+      "id": "20-seoul-jungguseongdonggueul-09",
+      "title": "어르신들을 위한 맞춤형 일자리를 창출하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-jungguseongdonggueul-10",
+      "title": "어르신들을 위한 권역별 시니어복합문화센터를 건립하겠습니다",
+      "page": 10
+    },
+    {
+      "id": "20-seoul-jungguseongdonggueul-11",
+      "title": "어르신들의 병원 진료비 부담을 덜어드리겠습니다",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1102/003_100118412_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 중구성동구을 당선인 지상욱 (새누리당). 책자형 선거공보 PDF 7–10쪽 분야별 공약에서 | | 로 묶인 제목 줄 11개. 머리 공약 목록이 따로 없어 이 제목 줄을 썼다. 각 쪽의 붉은 큰 표제(「열심히 일한 아빠의 열정을 응원합니다」 등)는 구호라 넣지 않았고, 제목 아래 • 세부 항목도 넣지 않았다. 양옆의 | 표시만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

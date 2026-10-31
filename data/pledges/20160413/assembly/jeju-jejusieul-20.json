@@ -1,0 +1,83 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeju-jejusieul-20",
+  "candidate": {
+    "name": "오영훈",
+    "party_id": "deobureo-minjudang",
+    "person_id": "o-yeonghun-1968",
+    "nec_huboid": "100118984"
+  },
+  "pledges": [
+    {
+      "id": "20-jeju-jejusieul-01",
+      "title": "‘가축질병공제제도’ 조속 도입, 대한민국 청정축산 중심인 제주에서 시범사업",
+      "page": 6
+    },
+    {
+      "id": "20-jeju-jejusieul-02",
+      "title": "‘규제프리존특별법’ 제정 추진 전면 재검토",
+      "page": 6
+    },
+    {
+      "id": "20-jeju-jejusieul-03",
+      "title": "‘사회적 경제 기본법’ 제정",
+      "page": 6
+    },
+    {
+      "id": "20-jeju-jejusieul-04",
+      "title": "농어업재해 등의 단계적 제도개선",
+      "page": 6
+    },
+    {
+      "id": "20-jeju-jejusieul-05",
+      "title": "‘노인복지법’ 개정",
+      "page": 6
+    },
+    {
+      "id": "20-jeju-jejusieul-06",
+      "title": "누리과정예산의 국가책임화",
+      "page": 7
+    },
+    {
+      "id": "20-jeju-jejusieul-07",
+      "title": "자기주도학습센터 확충",
+      "page": 7
+    },
+    {
+      "id": "20-jeju-jejusieul-08",
+      "title": "작은도서관 지원강화",
+      "page": 7
+    },
+    {
+      "id": "20-jeju-jejusieul-09",
+      "title": "학부모지원센터 확대",
+      "page": 7
+    },
+    {
+      "id": "20-jeju-jejusieul-10",
+      "title": "상생의 경제를 위해 제주특별자치도특별법을 개정하겠습니다",
+      "page": 8
+    },
+    {
+      "id": "20-jeju-jejusieul-11",
+      "title": "전기차 생산지원 중심지, 제주",
+      "page": 8
+    },
+    {
+      "id": "20-jeju-jejusieul-12",
+      "title": "공동체주택 확대로 주거복지 강화",
+      "page": 9
+    },
+    {
+      "id": "20-jeju-jejusieul-13",
+      "title": "공공임대주택의 임차인을 보호하기 위하여 민간임대주택법 개정",
+      "page": 9
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4901/003_100118984_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 제주시을 당선인 오영훈 (더불어민주당). 책자형 선거공보 PDF 5–9쪽 「살맛나는 제주시! 시민과 더불어」 부분의 굵은 공약 제목 13개(PDF 6쪽 「시민을 위한 입법」, PDF 7쪽 「미래와 더불어 교육복지 업그레이드」, PDF 8쪽, PDF 9쪽 「공동체와 더불어」). 제목 아래 - 세부 항목과 설명 글, PDF 3–4쪽 「국민과 더불어」 전국 공약(건강보험·국민연금·성평등 등), PDF 10쪽 지난 활동은 넣지 않았다. 끝의 .만 덜어냈다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

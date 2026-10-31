@@ -1,0 +1,48 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/gangwon-taebaeksihoengseonggunyeongwolgunpyeongchanggunjeongseongun-20",
+  "candidate": {
+    "name": "염동열",
+    "party_id": "saenuridang",
+    "person_id": "yeom-dongyeol-1961",
+    "nec_huboid": "100119923"
+  },
+  "pledges": [
+    {
+      "id": "20-gangwon-taebaeksihoengseonggunyeongwolgunpyeongchanggunjeongseongun-01",
+      "title": "폐광지 희망도시 프로젝트",
+      "page": 9
+    },
+    {
+      "id": "20-gangwon-taebaeksihoengseonggunyeongwolgunpyeongchanggunjeongseongun-02",
+      "title": "올림픽 행복도시 프로젝트",
+      "page": 9
+    },
+    {
+      "id": "20-gangwon-taebaeksihoengseonggunyeongwolgunpyeongchanggunjeongseongun-03",
+      "title": "서민안정 및 일자리 창출 프로젝트",
+      "page": 9
+    },
+    {
+      "id": "20-gangwon-taebaeksihoengseonggunyeongwolgunpyeongchanggunjeongseongun-04",
+      "title": "농업경쟁력강화 프로젝트",
+      "page": 9
+    },
+    {
+      "id": "20-gangwon-taebaeksihoengseonggunyeongwolgunpyeongchanggunjeongseongun-05",
+      "title": "5개시군 경제활성화 프로젝트",
+      "page": 10
+    },
+    {
+      "id": "20-gangwon-taebaeksihoengseonggunyeongwolgunpyeongchanggunjeongseongun-06",
+      "title": "사통팔달 SOC 프로젝트",
+      "page": 10
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4214/003_100119923_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 강원 태백시횡성군영월군평창군정선군 당선인 염동열 (새누리당). 책자형 선거공보 PDF 9–10쪽 「염동열의 6대 프로젝트」 제목 6개. OCR 결과라 쪽 이미지를 보고 옮겼다. 제목 아래 • 세부 항목과 PDF 10쪽 시군별(태백·횡성·영월·평창·정선) 항목, PDF 8쪽 「지역발전 굿 아이디어」 관광 구상, PDF 7쪽 지역 현안 설명, PDF 3–6쪽 지난 의정 활동은 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

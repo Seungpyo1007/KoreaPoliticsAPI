@@ -1,0 +1,93 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/seoul-jongrogu-20",
+  "candidate": {
+    "name": "정세균",
+    "party_id": "deobureo-minjudang",
+    "person_id": "jeong-segyun-1950",
+    "nec_huboid": "100119321"
+  },
+  "pledges": [
+    {
+      "id": "20-seoul-jongrogu-01",
+      "title": "종로 경유 신분당선 연장선 내년 착공",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-jongrogu-02",
+      "title": "도시재생사업 완결, 소규모 재개발·재건축 가능",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-jongrogu-03",
+      "title": "북촌·서촌 주민피해 지구단위계획 재정비",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-jongrogu-04",
+      "title": "어르신 기초연금 30만원 지급(소득하위 70%)",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-jongrogu-05",
+      "title": "봉제 ‘패션산업특구’, 주얼리 ‘도제특구’ 지정",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-jongrogu-06",
+      "title": "공기업·대기업 청년 의무고용 확대",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-jongrogu-07",
+      "title": "내집 같은 학교 화장실, 석면 ZERO 학교 실현",
+      "page": 7
+    },
+    {
+      "id": "20-seoul-jongrogu-08",
+      "title": "자연경관지구 건물 층수 규제완화(3층→4층)",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-jongrogu-09",
+      "title": "종로 서부지역 종합복지관, 종로장애인회관 건립",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-jongrogu-10",
+      "title": "창신 기동대·쓰레기장 일대, 대규모 문화체육복합시설",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-jongrogu-11",
+      "title": "평창동 문화예술복합시설, 청소년수련관 조기 완공",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-jongrogu-12",
+      "title": "덜컹덜컹 고비용 광화문광장 도로, 도로답게 개선",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-jongrogu-13",
+      "title": "재동초등학교 지하주차장 추진, 수익금 학교 환원",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-jongrogu-14",
+      "title": "KAL 호텔 계획폐기 문화시설 유치, 공공 대형버스주차장 확보",
+      "page": 8
+    },
+    {
+      "id": "20-seoul-jongrogu-15",
+      "title": "학교 의무급식(무상급식) 중단 없이 맛있게, 건강하게",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/1101/003_100119321_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 서울 종로구 당선인 정세균 (더불어민주당). 책자형 선거공보 PDF 7–8쪽 펼침면 「정세균의 약속」 항목 15개. OCR 결과라 쪽 이미지를 보고 옮겼다. PDF 5–6쪽 「삶의 질 1번지… 정세균의 종로 1056 프로젝트」(분야 표제어 표), PDF 9–10쪽 동별 공약, PDF 2–4쪽 지난 성과·약력은 넣지 않았다. 평창동 항목 아래 작은 글씨 (가스충전소 자리)는 덜었다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}

@@ -1,0 +1,38 @@
+{
+  "election_id": "20160413",
+  "office": "assembly/jeonnam-yeosusieul-20",
+  "candidate": {
+    "name": "주승용",
+    "party_id": "gungminui-dang",
+    "person_id": "ju-seungyong-1952",
+    "nec_huboid": "100120078"
+  },
+  "pledges": [
+    {
+      "id": "20-jeonnam-yeosusieul-01",
+      "title": "율촌산단 조기완공과 여수산단 현대화",
+      "page": 7
+    },
+    {
+      "id": "20-jeonnam-yeosusieul-02",
+      "title": "사통팔달의 교통망 확충",
+      "page": 7
+    },
+    {
+      "id": "20-jeonnam-yeosusieul-03",
+      "title": "해양레저·관광산업 육성",
+      "page": 8
+    },
+    {
+      "id": "20-jeonnam-yeosusieul-04",
+      "title": "복지사업 확대로 삶의 질 향상",
+      "page": 8
+    }
+  ],
+  "source_urls": [
+    "https://policy.nec.go.kr/policy_pdf/20160413/PDF/PBINFO_PUB/4602/003_100120078_20191105_1.pdf"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01",
+  "note": "제20대 국회의원선거 전남 여수시을 당선인 주승용 (국민의당). 책자형 선거공보 PDF 7–8쪽 「일자리와 인구를 늘려서 여수경제를 활성화 시킬 주승용의 약속」 1–4의 제목 4개. 제목 아래 ■ 세부 항목, PDF 3–4·9쪽 지난 성과·확보 예산, PDF 6쪽 의정활동 평가는 넣지 않았다. 제목은 원문 문구를 따랐고 바꾼 것은 위에 적은 구호·수식어 덜어내기뿐이다. 이행 여부는 판정하지 않았다."
+}
