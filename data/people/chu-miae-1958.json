@@ -5,7 +5,8 @@
   "external_ids": {
     "assembly_mona_cd": "URV1689Q",
     "nec_huboids": [
-      "100152997"
+      "100152997",
+      "100163148"
     ]
   },
   "career": [
@@ -99,6 +100,22 @@
     },
     {
       "text": "(전) 제67대 법무부 장관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)더불어민주당 당대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)국회법제사법위원회 위원장",
       "from": null,
       "to": null,
       "source_urls": [

@@ -1,0 +1,43 @@
+{
+  "id": "mun-jeongu-1964",
+  "name": "문정우",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100159379"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)제49대 금산군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)더불어민주당 당대표 특별보좌역",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "건국대학교 일반대학원 동물자원과학과 동물영양자원학전공 졸업(농학 박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

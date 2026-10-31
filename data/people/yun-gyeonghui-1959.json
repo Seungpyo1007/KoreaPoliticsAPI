@@ -1,0 +1,43 @@
+{
+  "id": "yun-gyeonghui-1959",
+  "name": "윤경희",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100159080"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)청송군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)경상북도의회 의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "위덕대학교 경영대학원 석사과정 졸업(국제경영 전공)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

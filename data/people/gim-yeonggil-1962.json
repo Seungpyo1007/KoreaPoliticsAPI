@@ -1,0 +1,43 @@
+{
+  "id": "gim-yeonggil-1962",
+  "name": "김영길",
+  "birth_year": 1962,
+  "external_ids": {
+    "nec_huboids": [
+      "100162960"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 울산광역시 중구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 제6대 전반기 울산광역시 중구의회 의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "울산대학교 산업대학원 건축·도시학전공 졸업(공학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

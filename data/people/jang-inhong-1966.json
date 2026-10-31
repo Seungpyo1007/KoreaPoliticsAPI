@@ -1,0 +1,43 @@
+{
+  "id": "jang-inhong-1966",
+  "name": "장인홍",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100163864"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 구로구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 서울특별시의회 교육위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서강대학교 경영학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

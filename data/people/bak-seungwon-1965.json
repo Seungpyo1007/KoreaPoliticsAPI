@@ -1,0 +1,43 @@
+{
+  "id": "bak-seungwon-1965",
+  "name": "박승원",
+  "birth_year": 1965,
+  "external_ids": {
+    "nec_huboids": [
+      "100161445"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 광명시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 더불어민주당 참좋은지방정부위원회 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한양대학교 국어국문학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

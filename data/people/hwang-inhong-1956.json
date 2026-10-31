@@ -1,0 +1,43 @@
+{
+  "id": "hwang-inhong-1956",
+  "name": "황인홍",
+  "birth_year": 1956,
+  "external_ids": {
+    "nec_huboids": [
+      "100161544"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)구천동농협 조합장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)무주군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전주기전대학 사회복지상담과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "choe-woncheol-1964",
+  "name": "최원철",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100161314"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)국회의원 보좌관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)공주시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "인천대학교 건축공학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

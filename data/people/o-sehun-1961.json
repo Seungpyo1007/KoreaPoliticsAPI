@@ -3,7 +3,10 @@
   "name": "오세훈",
   "birth_year": 1961,
   "external_ids": {
-    "assembly_mona_cd": "LB24097N"
+    "assembly_mona_cd": "LB24097N",
+    "nec_huboids": [
+      "100162984"
+    ]
   },
   "career": [
     {
@@ -21,6 +24,22 @@
       "source_urls": [
         "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=20000413&electionCode=2&cityCode=11&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
       ]
+    },
+    {
+      "text": "(현)제39대 서울특별시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제16대 국회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
     }
   ],
   "education": [
@@ -30,6 +49,14 @@
       "to": null,
       "source_urls": [
         "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0000000000&requestURI=%2Felectioninfo%2F0000000000%2Fep%2Fepei01.jsp&topMenuId=EP&secondMenuId=EPEI01&menuId=EPEI01&statementId=EPEI01_%2391&oldElectionType=0&electionType=2&electionName=20000413&electionCode=2&cityCode=11&proportionalRepresentationCode=-1&townCode=-1&sggCityCode=-1&x=0&y=0"
+      ]
+    },
+    {
+      "text": "고려대학교 대학원 법학과 졸업(법학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
       ]
     }
   ],

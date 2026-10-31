@@ -1,0 +1,43 @@
+{
+  "id": "sa-sunmun-1957",
+  "name": "사순문",
+  "birth_year": 1957,
+  "external_ids": {
+    "nec_huboids": [
+      "100159482"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)전라남도의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)조국혁신당 조국 당대표 특보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경희대학교 평화복지대학원 사회복지학과(행정학석사) 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

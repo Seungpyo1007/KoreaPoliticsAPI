@@ -1,0 +1,43 @@
+{
+  "id": "i-jaejun-1965",
+  "name": "이재준",
+  "birth_year": 1965,
+  "external_ids": {
+    "nec_huboids": [
+      "100163860"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)수원특례시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)국정기획자문위원회 전문위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교대학원 협동과정 조경학과 졸업(공학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

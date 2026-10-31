@@ -1,0 +1,43 @@
+{
+  "id": "bak-gwonhyeon-1957",
+  "name": "박권현",
+  "birth_year": 1957,
+  "external_ids": {
+    "nec_huboids": [
+      "100159842"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)국민의힘 제11대 경상북도의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)자유한국당 제10대 경상북도의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "영남대학교 행정대학원 사회복지학과 졸업(사회복지학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

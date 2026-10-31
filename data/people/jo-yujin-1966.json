@@ -1,0 +1,43 @@
+{
+  "id": "jo-yujin-1966",
+  "name": "조유진",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100155777"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 청와대 행정관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 국회정책연구위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 법과대학 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

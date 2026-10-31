@@ -1,0 +1,43 @@
+{
+  "id": "i-jaeyeong-1964",
+  "name": "이재영",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100162033"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)충청북도 재난안전실장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)증평군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "충북대학교 세종 국가정책대학원 정책학과 졸업(정책학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

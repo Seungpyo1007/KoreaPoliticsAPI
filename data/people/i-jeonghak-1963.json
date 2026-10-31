@@ -1,0 +1,43 @@
+{
+  "id": "i-jeonghak-1963",
+  "name": "이정학",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100155866"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 7, 8대 동해시의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 더불어민주당 중앙당 정책위원회 부의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "연세대학교 정경대학원 정치학전공 석사 과정 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

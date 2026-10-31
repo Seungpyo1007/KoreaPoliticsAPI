@@ -1,0 +1,43 @@
+{
+  "id": "gim-deokhyeon-1956",
+  "name": "김덕현",
+  "birth_year": 1956,
+  "external_ids": {
+    "nec_huboids": [
+      "100161733"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 연천군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 연천통일미래포럼 상임대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "신한대학교 대학원 남북협력복지행정학과 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

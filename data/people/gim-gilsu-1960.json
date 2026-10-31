@@ -1,0 +1,43 @@
+{
+  "id": "gim-gilsu-1960",
+  "name": "김길수",
+  "birth_year": 1960,
+  "external_ids": {
+    "nec_huboids": [
+      "100159127"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 강원도개발공사 사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 강원특별자치도의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "강원대학교 경영행정대학원 졸업 (행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

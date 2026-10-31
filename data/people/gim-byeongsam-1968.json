@@ -1,0 +1,43 @@
+{
+  "id": "gim-byeongsam-1968",
+  "name": "김병삼",
+  "birth_year": 1968,
+  "external_ids": {
+    "nec_huboids": [
+      "100154245"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)영천시 부시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)대구경북경제자유구역청 청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경북대학교 행정대학원 지방자치전공 졸업(행정학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "jo-yongik-1966",
+  "name": "조용익",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100161476"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 부천시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 청와대 대통령비서실 정무수석실 행정관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "성균관대학교 법학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "yu-myeonghyeon-1967",
+  "name": "유명현",
+  "birth_year": 1967,
+  "external_ids": {
+    "nec_huboids": [
+      "100158967"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)경상남도 균형발전본부장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)경상남도 합천군 부군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "미국 하와이퍼시픽대학교 경영학석사(2006.01.~2006.12.)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

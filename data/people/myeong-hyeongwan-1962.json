@@ -1,0 +1,43 @@
+{
+  "id": "myeong-hyeongwan-1962",
+  "name": "명현관",
+  "birth_year": 1962,
+  "external_ids": {
+    "nec_huboids": [
+      "100161349"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)전라남도 의회 10대 전반기 의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)해남군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "호남대학교 대학원 체육학과 졸업(체육학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

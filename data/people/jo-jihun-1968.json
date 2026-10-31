@@ -1,0 +1,43 @@
+{
+  "id": "jo-jihun-1968",
+  "name": "조지훈",
+  "birth_year": 1968,
+  "external_ids": {
+    "nec_huboids": [
+      "100154441"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)더불어민주당 원내대표 특보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)11대, 12대 전북특별자치도 경제통상진흥원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "전북대학교 대학원 행정학과 박사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

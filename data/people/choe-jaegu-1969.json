@@ -1,0 +1,43 @@
+{
+  "id": "choe-jaegu-1969",
+  "name": "최재구",
+  "birth_year": 1969,
+  "external_ids": {
+    "nec_huboids": [
+      "100162827"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)예산군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)충청남도시장군수협의회 사무총장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "공주대학교 산업과학대학원 농학석사(축산학전공) 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

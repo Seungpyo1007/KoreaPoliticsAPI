@@ -1,0 +1,43 @@
+{
+  "id": "i-jaeho-1959",
+  "name": "이재호",
+  "birth_year": 1959,
+  "external_ids": {
+    "nec_huboids": [
+      "100163000"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 민선8기 인천광역시 연수구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 민선6기 인천광역시 연수구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "인천대학교 건설환경관리공학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

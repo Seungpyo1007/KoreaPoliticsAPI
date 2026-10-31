@@ -1,0 +1,43 @@
+{
+  "id": "choe-seungjun-1956",
+  "name": "최승준",
+  "birth_year": 1956,
+  "external_ids": {
+    "nec_huboids": [
+      "100162887"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)전국농어촌지역군수협의회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)정선군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "대원과학대학 (현 대원대학교) 사회복지과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

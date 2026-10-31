@@ -1,0 +1,43 @@
+{
+  "id": "gang-seongtae-1960",
+  "name": "강성태",
+  "birth_year": 1960,
+  "external_ids": {
+    "nec_huboids": [
+      "100160995"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)부산시 구청장군수협의회 회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)수영구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한양대학교 행정대학원 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

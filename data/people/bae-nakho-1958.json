@@ -1,0 +1,43 @@
+{
+  "id": "bae-nakho-1958",
+  "name": "배낙호",
+  "birth_year": 1958,
+  "external_ids": {
+    "nec_huboids": [
+      "100161954"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)김천시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)김천시의회 의장(6·7대)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "영남대학교 행정대학원 계획학과 계획전공 졸업(행정학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

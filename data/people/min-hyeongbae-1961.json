@@ -5,7 +5,8 @@
   "external_ids": {
     "assembly_mona_cd": "VRY5522V",
     "nec_huboids": [
-      "100151839"
+      "100151839",
+      "100163198"
     ]
   },
   "career": [
@@ -35,6 +36,14 @@
     },
     {
       "text": "(전) 광주 광산구청장 (민선 5,6기)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 제21·22대 국회의원",
       "from": null,
       "to": null,
       "source_urls": [

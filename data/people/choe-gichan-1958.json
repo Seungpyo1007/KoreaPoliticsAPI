@@ -1,0 +1,43 @@
+{
+  "id": "choe-gichan-1958",
+  "name": "최기찬",
+  "birth_year": 1958,
+  "external_ids": {
+    "nec_huboids": [
+      "100160192"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)서울특별시의회 10대 교육위원회 위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)서울특별시의회의원(제10대, 11대)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울시립대학교 일반대학원 행정학과 행정학 전공 재학(박사과정)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

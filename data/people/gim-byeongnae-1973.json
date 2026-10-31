@@ -1,0 +1,43 @@
+{
+  "id": "gim-byeongnae-1973",
+  "name": "김병내",
+  "birth_year": 1973,
+  "external_ids": {
+    "nec_huboids": [
+      "100158111"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 남구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 대통령비서실 정무수석비서관 자치분권비서관 행정관(3급상당)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "고려대학교 대학원 북한학과 박사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "choe-yucheol-1954",
+  "name": "최유철",
+  "birth_year": 1954,
+  "external_ids": {
+    "nec_huboids": [
+      "100159421"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)의성군의회 의장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)국민의힘 경북도당 부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "대구대학교 산업행정대학원 졸업(부동산학 석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

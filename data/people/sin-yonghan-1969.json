@@ -1,0 +1,43 @@
+{
+  "id": "sin-yonghan-1969",
+  "name": "신용한",
+  "birth_year": 1969,
+  "external_ids": {
+    "nec_huboids": [
+      "100153742"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)대통령직속 지방시대위원회 부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)더불어민주당 영입인재(제22대 국회의원 선거)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "성균관대학교 국정전문대학원 졸업(행정학박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

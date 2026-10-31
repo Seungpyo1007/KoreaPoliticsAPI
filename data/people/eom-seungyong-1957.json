@@ -1,0 +1,43 @@
+{
+  "id": "eom-seungyong-1957",
+  "name": "엄승용",
+  "birth_year": 1957,
+  "external_ids": {
+    "nec_huboids": [
+      "100156967"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)청와대 비서관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)국제연합(UN) 한국대표부 외교관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "영국 뉴캐슬대학교 정치학 박사(2000.01. - 2010.08.)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

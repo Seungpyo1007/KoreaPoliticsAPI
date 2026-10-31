@@ -1,0 +1,43 @@
+{
+  "id": "ham-myeongjun-1960",
+  "name": "함명준",
+  "birth_year": 1960,
+  "external_ids": {
+    "nec_huboids": [
+      "100160161"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 고성군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 제21대 접경지역 시장.군수협의회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "울산전문대학교 조선과 졸업 (현 울산과학대학교)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

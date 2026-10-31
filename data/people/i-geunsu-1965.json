@@ -1,0 +1,43 @@
+{
+  "id": "i-geunsu-1965",
+  "name": "이근수",
+  "birth_year": 1965,
+  "external_ids": {
+    "nec_huboids": [
+      "100154405"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)대구광역시 북구 부구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)국민의힘 국책자문위원회 기획전략위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "영남대학교 정치행정대학 행정학과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "i-chungu-1960",
+  "name": "이충우",
+  "birth_year": 1960,
+  "external_ids": {
+    "nec_huboids": [
+      "100162573"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)여주시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)여주군청 건설과장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한경대학교 토목공학과 졸업(현 한경국립대학교)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

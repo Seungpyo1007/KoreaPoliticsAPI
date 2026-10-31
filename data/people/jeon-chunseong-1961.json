@@ -1,0 +1,43 @@
+{
+  "id": "jeon-chunseong-1961",
+  "name": "전춘성",
+  "birth_year": 1961,
+  "external_ids": {
+    "nec_huboids": [
+      "100159517"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)진안군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)사단법인 기본사회 진안본부 상임대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "군산실업전문대학 관광과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

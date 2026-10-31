@@ -1,0 +1,43 @@
+{
+  "id": "o-taewan-1966",
+  "name": "오태완",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100164784"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)경남도청 정책단장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)경남도청 정무조정실장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "경남대학교 대학원 경영학 박사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

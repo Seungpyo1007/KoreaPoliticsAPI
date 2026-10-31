@@ -1,0 +1,43 @@
+{
+  "id": "gim-seongje-1960",
+  "name": "김성제",
+  "birth_year": 1960,
+  "external_ids": {
+    "nec_huboids": [
+      "100162723"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 의왕시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 제8·9대 의왕시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 대학원 졸업 (행정학 박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

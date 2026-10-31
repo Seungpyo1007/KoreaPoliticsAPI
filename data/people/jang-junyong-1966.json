@@ -1,0 +1,43 @@
+{
+  "id": "jang-junyong-1966",
+  "name": "장준용",
+  "birth_year": 1966,
+  "external_ids": {
+    "nec_huboids": [
+      "100161689"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현) 동래구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전) 국제라이온스협회 355-A(부산)지구 총재",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한국해양대학교 대학원 졸업(경제학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

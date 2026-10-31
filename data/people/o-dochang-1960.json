@@ -1,0 +1,43 @@
+{
+  "id": "o-dochang-1960",
+  "name": "오도창",
+  "birth_year": 1960,
+  "external_ids": {
+    "nec_huboids": [
+      "100161607"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)영양군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)영양군 부군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "학점인정 등에 관한 법률에 의한 행정학사 학위 취득",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

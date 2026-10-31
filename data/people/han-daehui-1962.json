@@ -1,0 +1,43 @@
+{
+  "id": "han-daehui-1962",
+  "name": "한대희",
+  "birth_year": 1962,
+  "external_ids": {
+    "nec_huboids": [
+      "100154482"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전) 군포시장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현) 사람사는세상 노무현재단 기획위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한국외국어대학교 독일어과 3년 중퇴(1981.3.~1991.4.)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

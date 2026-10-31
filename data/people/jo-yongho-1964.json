@@ -1,0 +1,43 @@
+{
+  "id": "jo-yongho-1964",
+  "name": "조용호",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100158921"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)더불어민주당 당대표 특별보좌역 지방자치특보",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)오산시시설관리공단 이사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "단국대학교 행정법무대학원 행정학과 석사과정 재학 중",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

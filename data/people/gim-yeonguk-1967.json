@@ -1,0 +1,43 @@
+{
+  "id": "gim-yeonguk-1967",
+  "name": "김영욱",
+  "birth_year": 1967,
+  "external_ids": {
+    "nec_huboids": [
+      "100162205"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)부산진구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)부산광역시의회 제5·6·7대 의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한국해양대학교 대학원 통상행정학과 박사과정 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

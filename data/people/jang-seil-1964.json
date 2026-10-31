@@ -1,0 +1,43 @@
+{
+  "id": "jang-seil-1964",
+  "name": "장세일",
+  "birth_year": 1964,
+  "external_ids": {
+    "nec_huboids": [
+      "100160676"
+    ]
+  },
+  "career": [
+    {
+      "text": "(현)제52대 영광군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)제11대 전라남도의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "동강대학(현 동강대학교) 사회복지행정과 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

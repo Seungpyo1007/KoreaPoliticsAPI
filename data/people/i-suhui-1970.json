@@ -1,0 +1,43 @@
+{
+  "id": "i-suhui-1970",
+  "name": "이수희",
+  "birth_year": 1970,
+  "external_ids": {
+    "nec_huboids": [
+      "100163194"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)변호사 이수희 법률사무소 대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)강동구청장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "이화여자대학교 정책과학대학원 졸업(정책학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

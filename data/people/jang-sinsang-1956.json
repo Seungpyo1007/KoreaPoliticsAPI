@@ -1,0 +1,43 @@
+{
+  "id": "jang-sinsang-1956",
+  "name": "장신상",
+  "birth_year": 1956,
+  "external_ids": {
+    "nec_huboids": [
+      "100159399"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)횡성군의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(전)횡성군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "한림대학교 글로벌협력대학원 글로벌협력학과 졸업(국제학석사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}

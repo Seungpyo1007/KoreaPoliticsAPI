@@ -1,0 +1,43 @@
+{
+  "id": "sim-deokseop-1963",
+  "name": "심덕섭",
+  "birth_year": 1963,
+  "external_ids": {
+    "nec_huboids": [
+      "100159182"
+    ]
+  },
+  "career": [
+    {
+      "text": "(전)국가보훈처 차장(차관급)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    },
+    {
+      "text": "(현)고창군수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "서울대학교 사범대학 외국어교육학과(영어전공)졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://www.data.go.kr/data/15000864/openapi.do"
+      ]
+    }
+  ],
+  "source_urls": [
+    "https://www.data.go.kr/data/15000864/openapi.do"
+  ],
+  "verified": false,
+  "checked_at": "2026-11-01"
+}
