@@ -5,11 +5,86 @@
   "external_ids": {
     "assembly_mona_cd": "UTF2042O"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "수산업및무역업개업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1248"
+      ]
+    },
+    {
+      "text": "포항사립영흥학교설립교장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1248"
+      ]
+    },
+    {
+      "text": "대한해운공사사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1248",
+        "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%9A%A9%EC%A3%BC_%281905%EB%85%84%29"
+      ]
+    },
+    {
+      "text": "주일공사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1248"
+      ]
+    },
+    {
+      "text": "전남방직(주)회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1248"
+      ]
+    },
+    {
+      "text": "신한제분(주)회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1248"
+      ]
+    },
+    {
+      "text": "신한해운(주)회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1248"
+      ]
+    },
+    {
+      "text": "경제심의회의원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1248"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "부산공립상공학교졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1248"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02"
 }

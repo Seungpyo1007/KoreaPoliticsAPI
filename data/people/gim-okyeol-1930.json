@@ -23,10 +23,44 @@
       ]
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "text": "경기여고 졸",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=332"
+      ]
+    },
+    {
+      "text": "컬럼비아대학교 바아나드대학 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=332"
+      ]
+    },
+    {
+      "text": "부라운대학교 대학원 수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=332"
+      ]
+    },
+    {
+      "text": "부린마워대학 대학원 졸업(정치학 박사)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=332"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02",
+  "note": "헌정회 표기는 김옥렬(金玉烈)"
 }

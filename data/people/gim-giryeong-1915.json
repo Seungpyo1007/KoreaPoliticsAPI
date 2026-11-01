@@ -5,11 +5,62 @@
   "external_ids": {
     "assembly_mona_cd": "70Y7025W"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "치안유지회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1295"
+      ]
+    },
+    {
+      "text": "상주군청년회회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1295"
+      ]
+    },
+    {
+      "text": "사립화령중학교설립",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1295"
+      ]
+    },
+    {
+      "text": "상주교육위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1295"
+      ]
+    },
+    {
+      "text": "경북도교육위원",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1295"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "상주농잠학교중퇴",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1295"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02",
+  "note": "헌정회 표기는 김기영(金基玲)"
 }

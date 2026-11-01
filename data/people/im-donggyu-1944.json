@@ -23,10 +23,35 @@
       ]
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "text": "경기대학교 경영학 학사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://ko.wikipedia.org/wiki/%EC%9E%84%EB%8F%99%EA%B7%9C_%281944%EB%85%84%29"
+      ]
+    },
+    {
+      "text": "연세대학교 행정대학원 행정학 석사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://ko.wikipedia.org/wiki/%EC%9E%84%EB%8F%99%EA%B7%9C_%281944%EB%85%84%29"
+      ]
+    },
+    {
+      "text": "경기대학교 정치전문대학원 행정학 박사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://ko.wikipedia.org/wiki/%EC%9E%84%EB%8F%99%EA%B7%9C_%281944%EB%85%84%29"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02"
 }

@@ -5,11 +5,74 @@
   "external_ids": {
     "assembly_mona_cd": "E0I6813A"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "흥남중학교교장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1246"
+      ]
+    },
+    {
+      "text": "정치평론가",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1246",
+        "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%8F%99%EB%AA%85_%28%EC%8B%9C%EC%9D%B8%29"
+      ]
+    },
+    {
+      "text": "조선민주당정치부장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1246",
+        "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%8F%99%EB%AA%85_%28%EC%8B%9C%EC%9D%B8%29"
+      ]
+    },
+    {
+      "text": "민주국민당문화부장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1246",
+        "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%8F%99%EB%AA%85_%28%EC%8B%9C%EC%9D%B8%29"
+      ]
+    },
+    {
+      "text": "이화여자대학교교수",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1246",
+        "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%8F%99%EB%AA%85_%28%EC%8B%9C%EC%9D%B8%29"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "일본대학철학과수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1246"
+      ]
+    },
+    {
+      "text": "일본청산학원신학과졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1246"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02",
+  "note": "헌정회 표기는 김동오(金東嗚). 위키백과에는 시인 김동명(金東鳴)으로 올라 있고 본명이 김동오임"
 }

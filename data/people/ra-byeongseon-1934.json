@@ -5,11 +5,102 @@
   "external_ids": {
     "assembly_mona_cd": "W4K7007O"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "보병 제11사단 사단장(육군소장)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=175",
+        "https://ko.wikipedia.org/wiki/%EB%82%98%EB%B3%91%EC%84%A0"
+      ]
+    },
+    {
+      "text": "국방부 합참 작전본부장(육군소장)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=175",
+        "https://ko.wikipedia.org/wiki/%EB%82%98%EB%B3%91%EC%84%A0"
+      ]
+    },
+    {
+      "text": "보병 제6군단 군단장(육군중장)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=175",
+        "https://ko.wikipedia.org/wiki/%EB%82%98%EB%B3%91%EC%84%A0"
+      ]
+    },
+    {
+      "text": "국방대학원 원장(육군중장)",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=175",
+        "https://ko.wikipedia.org/wiki/%EB%82%98%EB%B3%91%EC%84%A0"
+      ]
+    },
+    {
+      "text": "한국석유공사 사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=175",
+        "https://ko.wikipedia.org/wiki/%EB%82%98%EB%B3%91%EC%84%A0"
+      ]
+    },
+    {
+      "text": "방산진흥협회 상근부회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=175",
+        "https://ko.wikipedia.org/wiki/%EB%82%98%EB%B3%91%EC%84%A0"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "육군사관학교 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=175",
+        "https://ko.wikipedia.org/wiki/%EB%82%98%EB%B3%91%EC%84%A0"
+      ]
+    },
+    {
+      "text": "육군대학 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=175"
+      ]
+    },
+    {
+      "text": "국방대학원 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=175",
+        "https://ko.wikipedia.org/wiki/%EB%82%98%EB%B3%91%EC%84%A0"
+      ]
+    },
+    {
+      "text": "한양대 행정대학원 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=175"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02",
+  "note": "헌정회와 위키백과 표기는 나병선(羅柄扇)"
 }

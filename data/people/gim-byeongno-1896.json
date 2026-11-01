@@ -5,11 +5,77 @@
   "external_ids": {
     "assembly_mona_cd": "RXG5285Q"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "춘천고등보통학교교사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1247"
+      ]
+    },
+    {
+      "text": "함흥고등보통학교교사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1247"
+      ]
+    },
+    {
+      "text": "함흥삼공합자회사대표",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1247"
+      ]
+    },
+    {
+      "text": "춘천사범학교장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1247"
+      ]
+    },
+    {
+      "text": "춘천여자중고등학교장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1247"
+      ]
+    },
+    {
+      "text": "춘천고등학교장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1247"
+      ]
+    },
+    {
+      "text": "강원도교육회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1247"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "평양고등보통학교사범과졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1247"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02"
 }
