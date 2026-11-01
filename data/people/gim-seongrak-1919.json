@@ -23,10 +23,20 @@
       ]
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "text": "일본명치대학전문부졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1600"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02",
+  "note": "헌정회 표기는 김성낙(金成洛)"
 }

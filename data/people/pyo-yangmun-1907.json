@@ -15,10 +15,19 @@
       ]
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "text": "경성 세브란스 의학전문학교 의학사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://ko.wikipedia.org/wiki/%ED%91%9C%EC%96%91%EB%AC%B8"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02"
 }

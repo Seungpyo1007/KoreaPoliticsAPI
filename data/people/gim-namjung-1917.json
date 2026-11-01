@@ -23,10 +23,27 @@
       ]
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "text": "전남광주서석국민학교졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1242"
+      ]
+    },
+    {
+      "text": "일본동경전수대학전문부중퇴",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1242"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02"
 }
