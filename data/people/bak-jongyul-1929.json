@@ -5,11 +5,62 @@
   "external_ids": {
     "assembly_mona_cd": "JGT1723Y"
   },
-  "career": [],
+  "career": [
+    {
+      "text": "장면부통령 비서관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=319"
+      ]
+    },
+    {
+      "text": "장면총리 비서관",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=319"
+      ]
+    },
+    {
+      "text": "민주화추진협의회 초대 간사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=319"
+      ]
+    },
+    {
+      "text": "통일민주당 사무총장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=319",
+        "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%A2%85%EC%9C%A8"
+      ]
+    },
+    {
+      "text": "한일친선협의회 부회장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=319"
+      ]
+    },
+    {
+      "text": "한국지도자 장학재단 이사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=319"
+      ]
+    }
+  ],
   "education": [],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02",
+  "note": "헌정회 표기는 박종률(朴鍾律)"
 }

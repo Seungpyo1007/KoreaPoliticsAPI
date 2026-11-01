@@ -5,11 +5,86 @@
   "external_ids": {
     "assembly_mona_cd": "MFB7723Q"
   },
-  "career": [],
-  "education": [],
+  "career": [
+    {
+      "text": "봉명흑연광업소경영",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1195"
+      ]
+    },
+    {
+      "text": "동창실업주식회사사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1195"
+      ]
+    },
+    {
+      "text": "문경여자중학교설립재단이사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1195"
+      ]
+    },
+    {
+      "text": "한국무역협회이사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1195"
+      ]
+    },
+    {
+      "text": "한국생산성본부이사",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1195"
+      ]
+    },
+    {
+      "text": "민주공화당경북제18지구당위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1195"
+      ]
+    },
+    {
+      "text": "민주공화당경북도지부위원장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1195"
+      ]
+    },
+    {
+      "text": "영남대학교재단이사장",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1195"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "text": "문경공립보통학교졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "https://rokps.or.kr/profile/profile_view.asp?idx=1195"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-02",
+  "note": "헌정회와 위키백과 표기는 이동영(李東寧)"
 }
