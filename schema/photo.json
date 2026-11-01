@@ -7,7 +7,7 @@
   "properties": {
     "person_id": { "$ref": "person.json#/properties/id" },
     "source_url": { "$ref": "common.json#/$defs/url" },
-    "license": { "enum": ["unconfirmed", "kogl-1", "permitted"] },
+    "license": { "enum": ["unconfirmed", "kogl-1", "permitted", "cc-by", "cc-by-sa"] },
     "attribution": { "$ref": "common.json#/$defs/text" },
     "decision": { "type": "string" },
     "source_urls": { "$ref": "common.json#/$defs/source_urls" },
