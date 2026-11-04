@@ -23,10 +23,20 @@
       ]
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "text": "영동여중 졸업",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/search/searchCandidate.xhtml?searchKeyword=%EC%B5%9C%EC%88%9C%EC%98%81"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-04",
+  "note": "학력은 1998 제2회 지방선거 부천 중1동 후보 등록 때 문구. 생년월일 1953-09-15와 부천시의원 경력이 같음"
 }

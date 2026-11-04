@@ -15,10 +15,20 @@
       ]
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "text": "연세대학교경영대학원수료",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/search/searchCandidate.xhtml?searchKeyword=%EA%B9%80%EC%9A%B0%EC%98%81"
+      ]
+    }
+  ],
   "source_urls": [
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-04",
+  "note": "학력은 1981 제11대 동해·삼척 후보 등록 때 문구. 이 후보 경력에 제 7대 국회의원이 있음"
 }
