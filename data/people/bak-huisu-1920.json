@@ -1,7 +1,7 @@
 {
   "id": "bak-huisu-1920",
   "name": "박희수",
-  "birth_year": 1920,
+  "birth_year": 1921,
   "external_ids": {
     "assembly_mona_cd": "4CX64333"
   },
@@ -23,10 +23,22 @@
       ]
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "text": "소졸",
+      "from": null,
+      "to": null,
+      "source_urls": [
+        "http://info.nec.go.kr/search/searchCandidate.xhtml?searchKeyword=%EB%B0%95%ED%9D%AC%EC%88%98"
+      ]
+    }
+  ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076",
+    "http://info.nec.go.kr/search/searchCandidate.xhtml?searchKeyword=%EB%B0%95%ED%9D%AC%EC%88%98"
   ],
   "verified": false,
-  "checked_at": "2026-10-22"
+  "checked_at": "2026-11-04",
+  "note": "국회 의원현황 자료는 1920-12-28인데 국회 의원 이력 자료와 헌정회는 1921-12-28, 선관위 3·5대 후보자 자료도 1921년이라 1921로 고침. id는 그대로 둠. 학력은 1954 제3대 진도(전남 제30선거구) 후보 등록 때 문구"
 }

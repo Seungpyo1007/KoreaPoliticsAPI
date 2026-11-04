@@ -42,9 +42,11 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076",
+    "http://info.nec.go.kr/search/searchCandidate.xhtml?searchKeyword=%EB%B0%B1%EC%83%81%EA%B7%9C"
   ],
   "verified": false,
-  "checked_at": "2026-11-01",
-  "note": "국회 자료의 생년월일 1981-00-00은 틀린 값이라 출생연도를 비워 둠. 다른 출처끼리도 달라서 못 정함: 헌정회 1881년, 위키백과 1880년, 한국민족문화대백과 1883년"
+  "checked_at": "2026-11-04",
+  "note": "국회 의원현황 자료의 생년월일 1981-00-00은 틀린 값이라 출생연도를 비워 둠. 국회 의원 이력 자료, 선관위 2대 후보자 자료(장단), 헌정회는 1881년인데 위키백과는 1880년, 한국민족문화대백과는 1883년이라 못 정함"
 }

@@ -53,5 +53,6 @@
     "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
   ],
   "verified": false,
-  "checked_at": "2026-11-01"
+  "checked_at": "2026-11-04",
+  "note": "출생연도는 국회 의원현황 자료 1893-05-23을 씀. 국회 의원 이력 자료와 헌정회는 1883-05-24, 선관위 후보자 자료는 1950년 1888, 1954년 1894라 출처끼리 달라서 고치지 않음"
 }
