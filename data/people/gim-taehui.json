@@ -1,7 +1,7 @@
 {
   "id": "gim-taehui",
   "name": "김태희",
-  "birth_year": null,
+  "birth_year": 1899,
   "external_ids": {
     "assembly_mona_cd": "UM981293"
   },
@@ -34,9 +34,12 @@
     }
   ],
   "source_urls": [
-    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439"
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OOWY4R001216HX11439",
+    "https://open.assembly.go.kr/portal/data/service/selectServicePage.do/OBL7NF0011935G18076",
+    "http://info.nec.go.kr/search/searchCandidate.xhtml?searchKeyword=%EA%B9%80%ED%83%9C%ED%9D%AC",
+    "https://rokps.or.kr/profile/profile_view.asp?idx=808"
   ],
   "verified": false,
-  "checked_at": "2026-11-01",
-  "note": "국회 자료의 생년월일 1999-00-00은 틀린 값이라 출생연도를 비워 둠. 헌정회 프로필은 1899년인데 위키백과 문서가 헌정회 문구를 그대로 옮긴 것이라 따로 확인한 출처로 안 봄"
+  "checked_at": "2026-11-04",
+  "note": "국회 의원현황 자료의 생년월일 1999-00-00은 틀린 값임. 국회 의원 이력 자료, 선관위 1·2대 후보자 자료(연백을), 헌정회가 모두 1899년. id는 그대로 둠"
 }
