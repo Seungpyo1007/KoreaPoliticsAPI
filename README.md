@@ -53,6 +53,30 @@ scripts/     검증기
 
 날짜 태그(`vYYYY.MM.DD`, 같은 날 두 번째부터는 `vYYYY.MM.DD.2`) 릴리스마다 타입별 JSON 배열과 `manifest.json`(파일별 sha256)을 붙임. manifest의 `schema_version`은 필드 이름을 바꾸거나 뺄 때만 올라감. Releases에서 받으면 됨. 개발 중인 최신 상태는 `develop`의 `data/`에 있음.
 
+## 정적 API
+
+`main`에 들어간 데이터를 https://koreapoliticsapi.vercel.app 에서 JSON으로 바로 받을 수 있음. 릴리스 덤프와 같은 레코드이고 철회(`withdrawn`)된 레코드는 빠짐. `data/_verify` 같은 내부 파일은 안 나감.
+
+| 경로 | 내용 |
+|---|---|
+| `/v1/index.json` | `schema_version`, 라이선스, 타입별 개수와 목록 주소 |
+| `/v1/<type>/index.json` | 타입 전체 목록 `{ "count": N, "results": [...] }` |
+| `/v1/<type>/<id>/index.json` | 레코드 하나 |
+
+`<type>`은 `people`, `photos`, `parties`, `ruling_periods`, `offices`, `terms`, `pledges`, `tips`, `assemblies`, `events`. `ruling_periods`는 목록만 있음.
+
+`<id>`는 `data/<type>/` 아래 파일 경로에서 `.json`을 뗀 것. 그래서 자리·임기·공약은 id에 `/`가 들어감.
+
+- 사람 `/v1/people/gwak-sangeon-1971`
+- 사진 `/v1/photos/gwak-sangeon-1971` (사람 id와 같음)
+- 자리 `/v1/offices/assembly/nec-0bd970c0`. 임기의 `office` 값을 그대로 붙이면 됨
+- 임기 `/v1/terms/assembly/nec-0bd970c0/2024-05-30`
+- 공약 `/v1/pledges/20240410/assembly/nec-0bd970c0`
+
+끝의 `index.json`은 생략해도 됨. 모든 응답에 `Access-Control-Allow-Origin: *`가 붙어서 브라우저에서 바로 불러도 됨. 정해진 시점의 데이터를 고정해서 써야 하면 릴리스 덤프를 받는 게 맞음.
+
+로컬에서는 `deno task api`로 `dist/api/`에 만들어 봄.
+
 ## 라이선스
 
 - 코드(`schema/`, `scripts/`): MIT. [LICENSE](LICENSE)
